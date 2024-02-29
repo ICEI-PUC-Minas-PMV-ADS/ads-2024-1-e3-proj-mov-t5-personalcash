@@ -1,23 +1,25 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+`CURSO`: Análise e Desenvolvimento de Sistemas
 
-`DISCIPLINA`
+`DISCIPLINA`: Eixo 3 - Projeto: Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio
 
 `SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O objetivo por trás da concepção do aplicativo Personal Ca$h é proporcionar suporte no controle financeiro de profissionais que atuam como Personal Trainers, com foco especial em recém-formados em Educação Física e em impulsionar o empreendedorismo.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Daniel Dutra De Aguiar
+* Diogo Amâncio Da Silva
+* Caê Moreira Euphrásio
+* Luiz Felipe Sena Costa
+* Kayki Jeronimo Letieri dos Santos
+* Rafael dos Santos Rodigues
 
 ## Orientador
 
-* Nome completo do professor 1
+* Cristiano de Macêdo Neto
 
 ## Instruções de utilização
 
