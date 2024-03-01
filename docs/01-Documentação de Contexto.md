@@ -25,17 +25,17 @@
 
  Portanto, os aplicativos fitness, orientados sob a perspectiva da administração financeira, são capazes de simplificar o controle e o planejamento monetário para o Personal Trainer. Uma vez que, em sua formação, essa área administrativa é deficiente em algumas situações durante o processo de aprendizagem acadêmica. Assim, novos apps fitness podem, de fato, proporcionar ao educador físico empreendedor uma maior autonomia nas atividades principais de sua função que consiste no estudo e na elaboração de planos de treinamentos para os seus clientes. Dessa forma, então surge uma grande oportunidade para os profissionais de Educação Física que desejam atuar como Personal Trainers tenham um vantajoso suporte nessa finalidade empreendedora, pois terão uma ferramenta que auxiliará nesse aspecto administrativo das finanças de suas carreiras.
 
-## Problema
+# Problema
 
 
 
-## Proposta de Solução / Objetivos
+# Proposta de Solução / Objetivos
 
 
-## Justificativa
+# Justificativa
 
 
-## Público-Alvo
+# Público-Alvo
 
 
 
