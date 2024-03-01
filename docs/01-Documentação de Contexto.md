@@ -31,6 +31,80 @@
 
 # Proposta de Solução / Objetivos
 
+# Objetivo Principal
+
+
+# Objetivo Específico
+
+# Trabalhos relacionados (soluções que já existem): 
+
+MyFitnessPal
+
+Características Principais:
+Registro de alimentos e contagem de calorias.
+Monitoramento de macronutrientes (proteínas, carboidratos, gorduras).
+Registro de atividades físicas e exercícios.
+Comunidade online para suporte e motivação.
+Diferenças:
+Interface intuitiva e fácil de usar.
+Enorme banco de dados de alimentos para ajudar na contagem de calorias.
+Integração com dispositivos de rastreamento de fitness.
+Versão gratuita e versão premium com recursos adicionais.
+
+
+Strava
+
+Características Principais:
+Rastreamento de atividades físicas, como corrida, ciclismo e natação.
+Análise detalhada de desempenho, incluindo ritmo, distância e elevação.
+Comunidade de atletas para compartilhar atividades e competir em desafios.
+Segmentos populares para comparar o desempenho com outros usuários.
+Diferenças:
+Foco em esportes específicos e atividades ao ar livre.
+Ênfase na competição e interação social.
+Recursos avançados de análise de desempenho para atletas sérios.
+Integração com dispositivos de GPS e monitores de frequência cardíaca.
+
+Nike Training Club
+
+Características Principais:
+Treinos guiados por instrutores de renome.
+Programas de treinamento personalizados com base nos objetivos do usuário.
+Variedade de exercícios e intensidades para todos os níveis de condicionamento físico.
+Acompanhamento de progresso e conquistas.
+Diferenças:
+Ênfase em treinos de alta qualidade e instruções visuais.
+Variedade de treinos para diferentes objetivos, incluindo perda de peso, tonificação muscular e condicionamento cardiovascular.
+Opções para treinos em casa ou na academia.
+Disponibilidade gratuita de todos os recursos, sem necessidade de assinatura premium.
+
+Fitbit
+
+Características Principais:
+Rastreamento contínuo de atividades diárias, sono e frequência cardíaca.
+Definição de metas de saúde e fitness e acompanhamento do progresso.
+Notificações e lembretes para manter o usuário ativo ao longo do dia.
+Integração com o aplicativo de monitoramento da alimentação.
+Diferenças:
+Ênfase na integração com dispositivos de rastreamento de fitness, como os próprios dispositivos Fitbit.
+Análise detalhada do sono e qualidade do sono.
+Recursos de acompanhamento de saúde, como monitoramento de frequência cardíaca em repouso e estresse.
+Compatibilidade com uma ampla gama de dispositivos móveis e smartwatches.
+
+Strong
+
+Características Principais:
+Registro de treinos de musculação e levantamento de peso.
+Planejamento e programação de rotinas de treinamento.
+Acompanhamento do progresso, incluindo pesos e repetições.
+Temporizador integrado para intervalos de descanso entre séries.
+Diferenças:
+Especializado em treinamento de força e musculação.
+Interface simples e intuitiva, focada em registrar e monitorar exercícios de forma eficiente.
+Personalização de rotinas de treinamento com base nos objetivos do usuário.
+Opções avançadas para usuários mais experientes, como superconjuntos e drop sets.
+
+
 
 # Justificativa
 
