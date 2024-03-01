@@ -8,11 +8,9 @@
 
   Além disso, o período pós-pandemia destacou ainda mais a necessidade das atividades físicas para todas as pessoas. Segundo as diretrizes do Ministério da Saúde do Brasil e da Organização Mundial da Saúde, a prática de atividades esportivas é fundamental não apenas para a recuperação de pacientes de coronavírus, mas também para a melhoria geral da saúde, especialmente em casos onde existam condições prévias, como diabete e hipertensão (MINISTÉRIO DA SAÚDE DO BRASIL, ORGANIZAÇÃO MUNDIAL DA SAÚDE, 2022).
  
-  Portanto, é fundamental valorizar as atividades físicas não apenas como um ativo importante no mercado, mas também como um elemento crucial para melhorar a qualidade de vida e contribuir para a saúde pública. A prática regular de exercícios previne doenças, melhora o bem-estar diário e é beneficial tanto para o corpo quanto para a mente.
-
-   Neste contexto, observamos um crescimento no mercado de supervisão e orientação de atividade física para os profissionais de Educação Física. De acordo com dados do GetNinjas, o maior aplicativo para contratação de profissionais do ramo no Brasil, a demanda por Personal Trainers aumentou, registrando um crescimento anual de 34% em 2021 (GETNINJAS, 2023). 
-   
-   Outros dados da Tecnofit, principal plataforma de gestão fitness do Brasil, confirmam essa tendência. Os números do aplicativo Tecnofit Personal revelam um aumento de 10% na procura por Personal Trainers exclusivos a cada mês em 2022. O estudo, realizado e divulgado com dados coletados de agosto de 2022 a maio de 2023, destaca setembro como o mês com o maior número de pesquisas por profissionais na área, totalizando mais de 9.300 buscas na plataforma. Desde agosto de 2022, mais de 41 mil pessoas se cadastraram em busca de um treinador exclusivo (TECNOFIT, 2023).
+  Portanto, é fundamental valorizar as atividades físicas não apenas como um ativo importante no mercado, mas também como um elemento crucial para melhorar a qualidade de vida e contribuir para a saúde pública. A prática regular de exercícios previne doenças, melhora o bem-estar diário e é beneficial tanto para o corpo quanto para a mente. Neste contexto, observamos um crescimento no mercado de supervisão e orientação de atividade física para os profissionais de Educação Física. 
+  
+  De acordo com dados do GetNinjas, o maior aplicativo para contratação de profissionais do ramo no Brasil, a demanda por Personal Trainers aumentou, registrando um crescimento anual de 34% em 2021 (GETNINJAS, 2023). Outros dados da Tecnofit, principal plataforma de gestão fitness do Brasil, confirmam essa tendência. Os números do aplicativo Tecnofit Personal revelam um aumento de 10% na procura por Personal Trainers exclusivos a cada mês em 2022. O estudo, realizado e divulgado com dados coletados de agosto de 2022 a maio de 2023, destaca setembro como o mês com o maior número de pesquisas por profissionais na área, totalizando mais de 9.300 buscas na plataforma. Desde agosto de 2022, mais de 41 mil pessoas se cadastraram em busca de um treinador exclusivo (TECNOFIT, 2023).
 
    Com esse aquecimento no setor de saúde, especialmente com foco na educação física, vários Personal Trainers estão ingressando no mercado de trabalho, competindo por uma parcela significativa do mercado fitness. Eles buscam aumentar sua rede de alunos e, principalmente, fidelizar os seus clientes, incorporando o desenvolvimento de vendas, acompanhamentos personalizados e, essencialmente, uma gestão financeira eficaz em seus próprios negócios.
    
@@ -28,44 +26,15 @@
  Portanto, os aplicativos fitness, orientados sob a perspectiva da administração financeira, são capazes de simplificar o controle e o planejamento monetário para o Personal Trainer. Uma vez que, em sua formação, essa área administrativa é deficiente em algumas situações durante o processo de aprendizagem acadêmica. Assim, novos apps fitness podem, de fato, proporcionar ao educador físico empreendedor uma maior autonomia nas atividades principais de sua função que consiste no estudo e na elaboração de planos de treinamentos para os seus clientes. Dessa forma, então surge uma grande oportunidade para os profissionais de Educação Física que desejam atuar como Personal Trainers tenham um vantajoso suporte nessa finalidade empreendedora, pois terão uma ferramenta que auxiliará nesse aspecto administrativo das finanças de suas carreiras.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+
