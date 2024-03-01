@@ -11,3 +11,5 @@ PROCURA por personal trainer teve aumento de 34% em 2021. **Estadão**, 2022. Di
 ATIVIDADE fisica supervisionada busca por personal trainers cresce no brasil. **Jornal Tribuna**, 2024. Disponível em: https://jornaltribuna.com.br/2023/07/atividade-fisica-supervisionada-busca-por-personal-trainers-cresce-no-brasil/#:~:text=O%20estudo%20foi%20realizado%20com,em%20busca%20de%20um%20treinador. Acesso em: 29 fev. 2024.
 
 COMO montar um serviço de personal trainer. **Sebrae**, 2023. Disponível em: https://sebrae.com.br/sites/PortalSebrae/ideias/como-montar-um-servico-de-personal-trainer,7d787a51b9105410VgnVCM1000003b74010aRCRD#capital-de-giro. Acesso em: 29 fev. 2024.
+
+DOMINGUES FILHO, Luiz Antônio. **Manual do Personal Trainer Brasileiro.** São Paulo: Ícone, 2006. Disponível em: https://lume.ufrgs.br/handle/10183/174697. Acesso em: 29 fev. 2024.
