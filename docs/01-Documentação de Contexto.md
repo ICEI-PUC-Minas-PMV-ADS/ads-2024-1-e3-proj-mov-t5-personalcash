@@ -1,4 +1,4 @@
-# Definição do Problema/Introdução
+# Definição do Problema / Introdução
 
   Com o avanço da Internet e o crescimento dos serviços digitais, como sites e aplicativos, vários setores de mercado passaram por uma transformação significativa na forma de como entregam os seus serviços, refletindo em um enorme progresso digital instaurado em toda a sociedade. Um dos setores mais impactados por esse cenário é, sem dúvida, o do mercado fitness. Conforme a Allied Market Research, globalmente, o mercado de aplicativos voltados para as atividades físicas vai alcançar um valor de mercado de R$ 590 bilhões até em 2030. Essa projeção já está em um processo de crescimento, com as atuais pesquisas apontando um avanço orçamentário de 24,3% desde 2021 (ALLIED MARKET RESEARCH, 2023). 
 
@@ -27,7 +27,9 @@
 
 ## Problema
 
-## Objetivos
+
+
+## Proposta de Solução / Objetivos
 
 
 ## Justificativa
