@@ -180,11 +180,11 @@ Usar o seguinte modelo:
 ![Indicadores de Desempenho](img/02-indic-desemp.png)
 Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori. 
 
-## Requisitos
+# Requisitos
 
 As tabelas seguintes apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto:
 
-### Requisitos Funcionais
+# Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
@@ -194,7 +194,7 @@ As tabelas seguintes apresentam os requisitos funcionais e não funcionais que d
 |RF-004| Permitir a visualização de uma lista dos clientes do personal para ser preenchido via checklist conforme a data do treinamento e o turno (manhã, tarde e noite).| Alta |
 |RF-005| Permitir a visualização de um histórico de um dia exato, demonstrando o valor de cada cliente para ser recebido e a somatória de todos os valores. Exemplo: Data 06/01/24, Total: R$500,00. Clientes: Ana: R$200,00 e Mari: R$150,00.| ALTA |
 
-### Requisitos não Funcionais
+# Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
@@ -207,7 +207,7 @@ As tabelas seguintes apresentam os requisitos funcionais e não funcionais que d
 |RNF-007| Escalabilidade: A aplicação deve ser capaz de lidar com um grande número de usuários, sem comprometer sua performance ou segurança. |  ALTA  | 
 |RNF-008| Manutenibilidade: A aplicação deve ser facilmente mantida e atualizada, com código organizado e documentação clara. |  MÉDIA | 
 
-## Restrições
+# Restrições
 
 O projeto está restrito pelos itens apresentados na tabela a seguir:
 
