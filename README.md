@@ -14,8 +14,6 @@ O objetivo por trás da concepção do aplicativo Personal Ca$h é proporcionar 
 * Diogo Amâncio Da Silva
 * Caê Moreira Euphrásio
 * Luiz Felipe Sena Costa
-* Kayki Jeronimo Letieri dos Santos
-* Rafael dos Santos Rodigues
 
 ## Orientador
 
