@@ -138,16 +138,20 @@ https://images.unsplash.com/photo-1518644961665-ed172691aaa1?q=80&w=2070&auto=fo
 
 # Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários::
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-
+| Eu como (Persona) | Quero/Desejo (O QUE) | Para que (POR QUE) |
+| ----------------- | ----------------- | ---------------- |
+| Lucas Silva | Organizar melhor os pagamentos dos clientes. | Focar em aumentar a base de clientes. |
+| Lucas Silva | Conseguir monitorar os pagamentos em aberto dos clientes (Dívidas). | Controlar a ansiedade e ser mais eficiente. |
+| Lívia Santos   | Ter mais segurança na administração financeira do meu próprio negócio. | Afim de fidelizar e aumentar a minha carteira de clientes.|
+| Lívia Santos   | Obter mais controle sobre as cobranças dos meus futuros clientes . | Evitar de cometer erros que possam prejudicar a minha carreira como Personal Trainer.|
+| Vitor Andrade   | Diminuir as dificuldades em acompanhar a parte financeira do meu próprio negócio. | Diminuir a minha carga horária de serviço. | 
+| Vitor Andrade   | Poder gerenciar a minha carteira de clientes sem muito esforço.  | Para ter mais tempo livre e praticar hobbies. | 
+| Hugo Oliveira | Ter uma gestão sólida do meu negócio. | Conseguir ter uma carreira consolidade como Personal Trainer. |               
+| Hugo Oliveira | Não ter mais receio na mstemática e gestão financeira. | Entender como alavancar o meu negócio com as ferramentas da gestão financeira. | 
+| Bianca Colombo  | Ter uma ferramenta que ajuda na gestão financeira do meu negócio. | Conseguir mais tempo no meu desenvolvimento profissional. |
+| Bianca Colombo | Poder ter um gestão financeira do meu negócio de uma forma simples e eficaz. | Para não ficar limitade em entender plataformas complexas ou ineficazes. |  
 
 ## Modelagem do Processo de Negócio 
 
