@@ -13,6 +13,35 @@ Portanto, ao definir uma persona, o objetivo é compreender os problemas ou os d
   
 As personas identificadas neste projeto incluem aos seguintes atributos demonstrados logo abaixo:
 
+# 1. Lucas Silva
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/5a2ad5f8-c2d0-456a-a00e-97e42872e425)
+
+**Fonte imagem:**
+https://plus.unsplash.com/premium_photo-1663099468022-681169766e0e?q=80&w=1784&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%
+
+
+
+
+
+# 2.
+
+
+
+
+
+# 3.
+
+
+
+
+# 4.
+
+
+
+
+# 5.
+
 
 
 
