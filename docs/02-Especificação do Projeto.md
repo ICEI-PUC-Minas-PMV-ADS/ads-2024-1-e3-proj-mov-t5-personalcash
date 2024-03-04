@@ -1,5 +1,8 @@
 # Especificações do Projeto
 
+Na especificação do projeto, foram utilizadas técnicas como a definição do diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais, além das restrições do projeto, que foram montados mediante imersão da equipe em estudos e por meio de entrevistas com potenciais usuários.
+
+O projeto será desenvolvido com a ajuda de frameworks e linguagens de programação, além de testes de qualidade e segurança para garantir que a plataforma seja funcional, segura e atenda aos requisitos estabelecidos.
 
 
 # Personas
