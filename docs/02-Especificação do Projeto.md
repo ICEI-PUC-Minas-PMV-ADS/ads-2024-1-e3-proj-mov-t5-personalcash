@@ -218,8 +218,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir:
 |03| A segunda etapa do projeto referente a continuidade da elaboração do projeto da solução e início do desenvolvimento da solução deverá ser entregue no dia 31/03/2024.       |
 |04| A terceira etapa do projeto referente a continuidade do desenvolvimento da solução: desenvolvimento da aplicação móvel (parte 1) deverá ser entregue no dia 21/04/2024.       |
 |05| A quarta etapa do projeto referente a continuidade do desenvolvimento da solução: desenvolvimento da aplicação móvel (parte 2) deverá ser entregue no dia 26/05/2024.        |
-|06| A quinta etapa do projeto referente ao diagnóstico, entrega da solução e apresentação deverá ser no dia 23/06/2024.
-        |
+|06| A quinta etapa do projeto referente ao diagnóstico, entrega da solução e apresentação deverá ser no dia 23/06/2024. |
+       
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
