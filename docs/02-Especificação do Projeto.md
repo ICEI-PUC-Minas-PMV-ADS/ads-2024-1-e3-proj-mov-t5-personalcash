@@ -225,7 +225,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir:
 |06| A quinta etapa do projeto referente ao diagnóstico, entrega da solução e apresentação deverá ser no dia 23/06/2024. |
        
 
-## Diagrama de Casos de Uso
+# Diagrama de Casos de Uso
 
 Um caso de uso delineia as interações entre os atores e o sistema mediante um diálogo que se estabelece entre eles. Dessa forma, logo abaixo segue o Diagrama de caso de uso da aplicação Personal Cash:. 
 
