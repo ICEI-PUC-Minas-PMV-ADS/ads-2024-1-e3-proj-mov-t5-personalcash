@@ -7,6 +7,13 @@ O projeto será desenvolvido com a ajuda de frameworks e linguagens de programa�
 
 # Personas
 
+ A persona representa o cliente ideal, sendo um perfil que incorpora todas as características do mesmo. Essa representação é construída com base em dados e os traços observados em clientes reais, como, por exemplo, o comportamento, as informações demográficas, os desafios e as metas de cada pessoa. 
+ 
+Portanto, ao definir uma persona, o objetivo é compreender os problemas ou os desafios enfrentados pelo cliente, para então determinar como o sistema projetado poderá ajudá-lo a solucioná-los da melhor forma possível.
+  
+As personas identificadas neste projeto incluem aos seguintes atributos demonstrados logo abaixo:
+
+
 
 
 # Histórias de Usuários
