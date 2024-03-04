@@ -51,6 +51,9 @@ Isso permite que o Personal Trainer consiga adicionar mais pessoas em sua cartei
 # Trabalhos relacionados (soluções que já existem): 
 
 # MyFitnessPal[^1]:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/7f694ae2-faab-4d00-91ce-a8d239d053a0)
+
  É um aplicativo e site para smartphone de monitoramento de saúde e condicionamento físico.
 
 **Características Principais:**
