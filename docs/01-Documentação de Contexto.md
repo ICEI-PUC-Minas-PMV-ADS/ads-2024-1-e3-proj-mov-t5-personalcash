@@ -42,16 +42,22 @@ Isso permite que o Personal Trainer consiga adicionar mais pessoas em sua cartei
 
 # Objetivo Específico
 
+- Oferecer um controle na frequência e das datas para cada cliente.
+- Oferecer o registro (fluxo de caixa) e a contabilidade de treinamentos pagos, ou, com pendências financeiras.
+- Criar um registro individual de pagamentos de cada cliente.
+- Criar um registro diário de pagamentos e débitos financeiros.
+- Adicionar novos clientes na plataforma.
+- 
 # Trabalhos relacionados (soluções que já existem): 
 
-MyFitnessPal
+ -	**MyFitnessPal:**[^1]:
+ É um aplicativo e site para smartphone de monitoramento de saúde e condicionamento físico.
 
-Características Principais:
+**Características Principais:**
 Registro de alimentos e contagem de calorias.
 Monitoramento de macronutrientes (proteínas, carboidratos, gorduras).
 Registro de atividades físicas e exercícios.
 Comunidade online para suporte e motivação.
-Diferenças:
 Interface intuitiva e fácil de usar.
 Enorme banco de dados de alimentos para ajudar na contagem de calorias.
 Integração com dispositivos de rastreamento de fitness.
@@ -109,6 +115,13 @@ Especializado em treinamento de força e musculação.
 Interface simples e intuitiva, focada em registrar e monitorar exercícios de forma eficiente.
 Personalização de rotinas de treinamento com base nos objetivos do usuário.
 Opções avançadas para usuários mais experientes, como superconjuntos e drop sets.
+
+[^1]: https://www.myfitnesspal.com/pt
+[^2]:
+[^3]:
+[^4]:
+[^5]:
+
 
 
 
