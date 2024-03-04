@@ -69,6 +69,8 @@ Isso permite que o Personal Trainer consiga adicionar mais pessoas em sua cartei
 # Strava[^2]:
 Strava é um serviço de internet americano para rastreamento de exercícios físicos que incorpora recursos de redes sociais.
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/ba6a647c-92bd-46aa-9f3f-486337c52d24)
+
 **Características Principais:**
 
 - Rastreamento de atividades físicas, como corrida, ciclismo e natação.
@@ -82,6 +84,8 @@ Strava é um serviço de internet americano para rastreamento de exercícios fí
 
 # Nike Training Club[^3]:
 O Nike Run Club funciona com o Apple Health para sincronizar treinos e registrar dados de frequência cardíaca. 
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/64971977-de76-4860-9735-99fecf096c3d)
 
 **Características Principais:**
 
@@ -98,6 +102,8 @@ O Nike Run Club funciona com o Apple Health para sincronizar treinos e registrar
 O Fitbit é um aplicativo fitness que funciona tanto para monitorar dados de seus exercícios básicos, sem precisar de outro aparelho, como também para fazer sincronização com a pulseira Fitbit. 
 Tem vários recursos, como o rastreamento de passos, calorias, sono e peso.
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/48b22bb6-6605-471d-868d-ab0fa3860733)
+
 **Características Principais:**
 - Rastreamento contínuo de atividades diárias, sono e frequência cardíaca.
 - Definição de metas de saúde e fitness e acompanhamento do progresso.
@@ -110,6 +116,8 @@ Tem vários recursos, como o rastreamento de passos, calorias, sono e peso.
 
 # Strong[^5]:
 O Strong é o aplicativo de acompanhamento de treinos mais simples e intuitivo, projetado para ajudar as pessoas a alcançar resultados melhores com a evolução dos seus treinos. 
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/ff9065cd-72c1-419c-bac8-478ee254b9c6)
 
 **Características Principais:**
 
