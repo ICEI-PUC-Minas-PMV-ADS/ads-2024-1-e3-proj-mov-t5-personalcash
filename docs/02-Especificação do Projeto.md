@@ -61,7 +61,7 @@ https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?q=80&w=2070&auto=fo
   
 # Persona 3: Vitor Andrade
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/331bff86-605f-43da-a97e-3f945a70e435)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/ffd07fb6-2e85-4ed9-a4b0-7366081e9a94)
 
 **Fonte imagem**:
 https://images.unsplash.com/photo-1616279969722-d81a5a3944ef?q=80&w=1927&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
