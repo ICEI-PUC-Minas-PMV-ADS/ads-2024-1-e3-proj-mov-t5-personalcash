@@ -36,6 +36,9 @@ Dessa forma, a proposta do aplicativo Personal Cash é incentivar e auxiliar no 
 
 # Objetivo Principal
 
+O principal objetivo deste projeto é desenvolver um mecanismo que simplifique o controle da frequência e das datas dos treinos dos clientes. Além disso, visa registrar e controlar os pagamentos dos treinos realizados (ou não) pelos clientes.
+
+Isso permite que o Personal Trainer consiga adicionar mais pessoas em sua carteira de clientes, mantendo um histórico financeiro detalhado de cada indivíduo e um monitoramento objetivo das suas finanças.
 
 # Objetivo Específico
 
