@@ -85,9 +85,29 @@ https://images.unsplash.com/photo-1616279969722-d81a5a3944ef?q=80&w=1927&auto=fo
 -  X, Instagram, TikTok e Facebook.
 
 
-# Persona 4:
+# Persona 4: Hugo Oliveira
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/b6ab10df-9c27-49d0-acee-821884fb1cf5)
+
+**Fonte imagem**:
+https://images.unsplash.com/photo-1529516548873-9ce57c8f155e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+
+**Motivações:**
+
+- O Hugo é motivado pela visão de construir uma carreira bem-sucedida como Personal Trainer e alcançar o reconhecimento em seu campo de atuação. Ele tem grandes ambições e está determinado a transformar os seus sonhos em realidade, pois, a sua paixão é ser um Personal voltado para atletas de alto rendimento.
 
 
+**Frustrações:**
+
+ - No entanto, a sua maior frustração está relacionada à falta de uma gestão financeira sólida para o seu negócio. Ele reconhece que essa é uma peça fundamental para o sucesso de sua carreira, mas ainda não encontrou a solução certa para ajudá-lo nesse aspecto, pois, a matemática financeira é um campo que o assusta.
+
+**Hobbies:**
+
+- Pedro gosta de praticar CrossFit, explorar novas trilhas de mountain bike e participar de eventos e workshops relacionados ao mundo fitness e ao empreendedorismo.
+
+**Aplicativos:**
+
+- LinkedIn, Instagram, TikTok e Facebook.
 
 
 # Persona 5:
