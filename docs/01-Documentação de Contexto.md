@@ -47,21 +47,22 @@ Isso permite que o Personal Trainer consiga adicionar mais pessoas em sua cartei
 - Criar um registro individual de pagamentos de cada cliente.
 - Criar um registro diário de pagamentos e débitos financeiros.
 - Adicionar novos clientes na plataforma.
-- 
+
 # Trabalhos relacionados (soluções que já existem): 
 
  -	**MyFitnessPal:**[^1]:
  É um aplicativo e site para smartphone de monitoramento de saúde e condicionamento físico.
 
 **Características Principais:**
-Registro de alimentos e contagem de calorias.
-Monitoramento de macronutrientes (proteínas, carboidratos, gorduras).
-Registro de atividades físicas e exercícios.
-Comunidade online para suporte e motivação.
-Interface intuitiva e fácil de usar.
-Enorme banco de dados de alimentos para ajudar na contagem de calorias.
-Integração com dispositivos de rastreamento de fitness.
-Versão gratuita e versão premium com recursos adicionais.
+
+- Registro de alimentos e contagem de calorias.
+- Monitoramento de macronutrientes (proteínas, carboidratos, gorduras).
+- Registro de atividades físicas e exercícios.
+- Comunidade online para suporte e motivação.
+- Interface intuitiva e fácil de usar.
+- Enorme banco de dados de alimentos para ajudar na contagem de calorias.
+- Integração com dispositivos de rastreamento de fitness.
+- Versão gratuita e versão premium com recursos adicionais.
 
 
 Strava
