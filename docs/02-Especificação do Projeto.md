@@ -26,7 +26,7 @@ https://plus.unsplash.com/premium_photo-1663099468022-681169766e0e?q=80&w=1784&a
 
   **Frustrações:**
 
-  - Sua principal frustração está relacionada à gestão financeira de seu negócio como Personal. Ele se preocupa de forma excessiva em organizar os pagamentos dos clientes e de monitorar as suas dívidas, essa ansiedade afeta diretamente sua capacidade de expandir a sua base de clientes.
+ - Sua principal frustração está relacionada à gestão financeira de seu negócio como Personal. Ele se preocupa de forma excessiva em organizar os pagamentos dos clientes e de monitorar as suas dívidas, essa ansiedade afeta diretamente sua capacidade de expandir a sua base de clientes.
  
  **Hobbies:**
 
