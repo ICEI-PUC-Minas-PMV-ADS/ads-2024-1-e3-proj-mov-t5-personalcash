@@ -63,67 +63,68 @@ Isso permite que o Personal Trainer consiga adicionar mais pessoas em sua cartei
 - Enorme banco de dados de alimentos para ajudar na contagem de calorias.
 - Integração com dispositivos de rastreamento de fitness.
 - Versão gratuita e versão premium com recursos adicionais.
+  
+# Strava[^2]:
+Strava é um serviço de internet americano para rastreamento de exercícios físicos que incorpora recursos de redes sociais.
 
+**Características Principais:**
 
-Strava
+- Rastreamento de atividades físicas, como corrida, ciclismo e natação.
+- Análise detalhada de desempenho, incluindo ritmo, distância e elevação.
+- Comunidade de atletas para compartilhar atividades e competir em desafios.
+- Segmentos populares para comparar o desempenho com outros usuários.
+- Foco em esportes específicos e atividades ao ar livre.
+- Ênfase na competição e interação social.
+- Recursos avançados de análise de desempenho para atletas sérios.
+- Integração com dispositivos de GPS e monitores de frequência cardíaca.
 
-Características Principais:
-Rastreamento de atividades físicas, como corrida, ciclismo e natação.
-Análise detalhada de desempenho, incluindo ritmo, distância e elevação.
-Comunidade de atletas para compartilhar atividades e competir em desafios.
-Segmentos populares para comparar o desempenho com outros usuários.
-Diferenças:
-Foco em esportes específicos e atividades ao ar livre.
-Ênfase na competição e interação social.
-Recursos avançados de análise de desempenho para atletas sérios.
-Integração com dispositivos de GPS e monitores de frequência cardíaca.
+# Nike Training Cluba[^3]:
+O Nike Run Club funciona com o Apple Health para sincronizar treinos e registrar dados de frequência cardíaca. 
 
-Nike Training Club
+**Características Principais:**
 
-Características Principais:
-Treinos guiados por instrutores de renome.
-Programas de treinamento personalizados com base nos objetivos do usuário.
-Variedade de exercícios e intensidades para todos os níveis de condicionamento físico.
-Acompanhamento de progresso e conquistas.
-Diferenças:
-Ênfase em treinos de alta qualidade e instruções visuais.
-Variedade de treinos para diferentes objetivos, incluindo perda de peso, tonificação muscular e condicionamento cardiovascular.
-Opções para treinos em casa ou na academia.
-Disponibilidade gratuita de todos os recursos, sem necessidade de assinatura premium.
+- Treinos guiados por instrutores de renome.
+- Programas de treinamento personalizados com base nos objetivos do usuário.
+- Variedade de exercícios e intensidades para todos os níveis de condicionamento físico.
+- Acompanhamento de progresso e conquistas.
+- Ênfase em treinos de alta qualidade e instruções visuais.
+- Variedade de treinos para diferentes objetivos, incluindo perda de peso, tonificação muscular e condicionamento cardiovascular.
+- Opções para treinos em casa ou na academia.
+- Disponibilidade gratuita de todos os recursos, sem necessidade de assinatura premium.
 
-Fitbit
+# Fitbit[^4]:
+O Fitbit é um aplicativo fitness que funciona tanto para monitorar dados de seus exercícios básicos, sem precisar de outro aparelho, como também para fazer sincronização com a pulseira Fitbit. 
+Tem vários recursos, como o rastreamento de passos, calorias, sono e peso.
 
-Características Principais:
-Rastreamento contínuo de atividades diárias, sono e frequência cardíaca.
-Definição de metas de saúde e fitness e acompanhamento do progresso.
-Notificações e lembretes para manter o usuário ativo ao longo do dia.
-Integração com o aplicativo de monitoramento da alimentação.
-Diferenças:
-Ênfase na integração com dispositivos de rastreamento de fitness, como os próprios dispositivos Fitbit.
-Análise detalhada do sono e qualidade do sono.
-Recursos de acompanhamento de saúde, como monitoramento de frequência cardíaca em repouso e estresse.
-Compatibilidade com uma ampla gama de dispositivos móveis e smartwatches.
+**Características Principais:**
+- Rastreamento contínuo de atividades diárias, sono e frequência cardíaca.
+- Definição de metas de saúde e fitness e acompanhamento do progresso.
+- Notificações e lembretes para manter o usuário ativo ao longo do dia.
+- Integração com o aplicativo de monitoramento da alimentação.
+- Ênfase na integração com dispositivos de rastreamento de fitness, como os próprios dispositivos Fitbit.
+- Análise detalhada do sono e qualidade do sono.
+- Recursos de acompanhamento de saúde, como monitoramento de frequência cardíaca em repouso e estresse.
+- Compatibilidade com uma ampla gama de dispositivos móveis e smartwatches.
 
-Strong
+# Strong[^5]:
+O Strong é o aplicativo de acompanhamento de treinos mais simples e intuitivo, projetado para ajudar as pessoas a alcançar resultados melhores com a evolução dos seus treinos. 
 
-Características Principais:
-Registro de treinos de musculação e levantamento de peso.
-Planejamento e programação de rotinas de treinamento.
-Acompanhamento do progresso, incluindo pesos e repetições.
-Temporizador integrado para intervalos de descanso entre séries.
-Diferenças:
-Especializado em treinamento de força e musculação.
-Interface simples e intuitiva, focada em registrar e monitorar exercícios de forma eficiente.
-Personalização de rotinas de treinamento com base nos objetivos do usuário.
-Opções avançadas para usuários mais experientes, como superconjuntos e drop sets.
+**Características Principais:**
+
+- Registro de treinos de musculação e levantamento de peso.
+- Planejamento e programação de rotinas de treinamento.
+- Acompanhamento do progresso, incluindo pesos e repetições.
+- Temporizador integrado para intervalos de descanso entre séries.
+- Especializado em treinamento de força e musculação.
+- Interface simples e intuitiva, focada em registrar e monitorar exercícios de forma eficiente.
+- Personalização de rotinas de treinamento com base nos objetivos do usuário.
+- Opções avançadas para usuários mais experientes, como superconjuntos e drop sets.
 
 [^1]: https://www.myfitnesspal.com/pt
-[^2]:
-[^3]:
-[^4]:
-[^5]:
-
-
+[^2]: https://www.strava.com/?hl=pt-BR
+[^3]: https://www.nike.com.br/sc/treino-app-nike-training-club
+[^4]: https://www.fitbit.com/global/us/home
+[^5]: https://www.strong.app/
 
 
 # Justificativa
