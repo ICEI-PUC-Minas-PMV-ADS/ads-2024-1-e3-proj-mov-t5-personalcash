@@ -36,25 +36,46 @@ https://plus.unsplash.com/premium_photo-1663099468022-681169766e0e?q=80&w=1784&a
 
 - TikTok, YouTube e Spotify.
 
+# Persona Lívia Santos 2: 
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/bab64e51-ce67-4cee-b1bf-bff77f39a8b3)
+
+**Fonte imagem:**
+https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+
+**Motivações:**
+
+- A Lívia é motivada pelo desejo de começar sua jornada como Personal Trainer e ajudar as pessoas a alcançarem seus objetivos. Ela valoriza a oportunidade de fazer a diferença na vida de seus clientes, por isso, a prestatividade é a sua maior qualidade.
+
+**Frustrações:**
+
+- Sua maior frustração está relacionada a uma possível administração financeira de um futuro próprio negócio. Ela se sente insegura em relação à cobrança de seus futuros clientes e teme cometer erros que possam prejudicar a sua reputação profissional. Esse medo, é o motivo por ela ainda não ter nenhum cliente individual.
+
+**Hobbies:**
+
+- A Lívia gosta de praticar ioga, ler livros de autoajuda e passar tempo com sua família e amigos nos fins de semana.
+
+**Aplicativos:**
+
+- Instagram e Facebook.
 
 
-# 2.
 
 
 
 
 
-# 3.
+# Persona 3:
 
 
 
 
-# 4.
+# Persona 4:
 
 
 
 
-# 5.
+# Persona 5:
 
 
 
