@@ -27,6 +27,9 @@
 
 # Problema
 
+Em muitas Faculdades de Educação Física, a grade curricular para a formação desses profissionais carece de uma área voltada para a prática e o desenvolvimento empreendedor.
+
+Dessa forma, a proposta do aplicativo Personal Cash é incentivar e auxiliar no desenvolvimento daqueles profissionais de Educação Física interessados em seguir uma carreira autônoma como Personal Trainer.
 
 
 # Proposta de Solução / Objetivos
