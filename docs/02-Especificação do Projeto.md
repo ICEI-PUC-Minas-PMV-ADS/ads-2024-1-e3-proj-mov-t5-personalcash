@@ -20,7 +20,21 @@ As personas identificadas neste projeto incluem aos seguintes atributos demonstr
 **Fonte imagem:**
 https://plus.unsplash.com/premium_photo-1663099468022-681169766e0e?q=80&w=1784&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%
 
+**Motivações:**
 
+- Lucas é motivado pela perspectiva de ser seu próprio chefe e pela paixão que tem pelo fitness, ele quer construir um negócio próspero e alcançar o sucesso como um Personal Trainer voltado para o atendimento aos clientes de mais idade.
+
+  **Frustrações:**
+
+  - Sua principal frustração está relacionada à gestão financeira de seu negócio como Personal. Ele se preocupa de forma excessiva em organizar os pagamentos dos clientes e de monitorar as suas dívidas, essa ansiedade afeta diretamente sua capacidade de expandir a sua base de clientes.
+ 
+ **Hobbies:**
+
+ - Nas horas vagas, o Lucas gosta de praticar musculação, correr ao ar livre e experimentar novas receitas saudáveis na cozinha.
+
+**Aplicativos:**
+
+- TikTok, YouTube e Spotify.
 
 
 
