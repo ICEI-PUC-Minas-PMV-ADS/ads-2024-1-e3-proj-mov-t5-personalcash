@@ -36,7 +36,7 @@ https://plus.unsplash.com/premium_photo-1663099468022-681169766e0e?q=80&w=1784&a
 
 - TikTok, YouTube e Spotify.
 
-# Persona Lívia Santos 2: 
+# Persona 2: Lívia Santos 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/bab64e51-ce67-4cee-b1bf-bff77f39a8b3)
 
