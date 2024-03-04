@@ -78,7 +78,7 @@ Strava é um serviço de internet americano para rastreamento de exercícios fí
 - Recursos avançados de análise de desempenho para atletas sérios.
 - Integração com dispositivos de GPS e monitores de frequência cardíaca.
 
-# Nike Training Cluba[^3]:
+# Nike Training Club[^3]:
 O Nike Run Club funciona com o Apple Health para sincronizar treinos e registrar dados de frequência cardíaca. 
 
 **Características Principais:**
