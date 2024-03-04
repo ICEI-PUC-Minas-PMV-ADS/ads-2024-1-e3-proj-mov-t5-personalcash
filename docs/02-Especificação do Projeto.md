@@ -110,9 +110,30 @@ https://images.unsplash.com/photo-1529516548873-9ce57c8f155e?q=80&w=2070&auto=fo
 - LinkedIn, Instagram, TikTok e Facebook.
 
 
-# Persona 5:
+# Persona 5: Bianca Colombo
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/94cd40b9-f417-4d69-9102-73a83b7fb0ca)
+
+**Fonte imagem**:
+https://images.unsplash.com/photo-1518644961665-ed172691aaa1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+
+**Motivações:**
+
+- A Bianca é motivada pelo desejo de oferecer um serviço de alta qualidade aos seus clientes e pela satisfação de ver seu negócio prosperar. Ela valoriza a eficiência e a organização em seu trabalho.
+
+**Frustrações:**
+
+- Sua maior frustração está relacionada à falta de uma ferramenta eficaz para ajudá-la na gestão financeira de seu negócio. Ela reconhece a importância desse aspecto, mas se sente limitada pela falta de recursos adequados, até o momento as aplicações utilizadas não ofereceram uma gestão simples e eficaz ao seu empreendimento. 
 
 
+**Hobbies:**
+
+- Gosta de praticar pilates, fazer trilhas em meio à natureza e participar de workshops e palestras sobre empreendedorismo e desenvolvimento pessoal.
+
+
+**Aplicativos:**
+
+-  Instagram, LinkedIn, X e YouTube.
 
 
 # Histórias de Usuários
