@@ -50,7 +50,7 @@ Isso permite que o Personal Trainer consiga adicionar mais pessoas em sua cartei
 
 # Trabalhos relacionados (soluções que já existem): 
 
-# MyFitnessPal:[^1]:
+# MyFitnessPal[^1]:
  É um aplicativo e site para smartphone de monitoramento de saúde e condicionamento físico.
 
 **Características Principais:**
