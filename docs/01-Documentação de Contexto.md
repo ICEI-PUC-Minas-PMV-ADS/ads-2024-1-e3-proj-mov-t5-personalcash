@@ -137,11 +137,12 @@ O Strong é o aplicativo de acompanhamento de treinos mais simples e intuitivo, 
 [^5]: https://www.strong.app/
 
 
-# Justificativa
+# Justificativa  ( EM CONTRUÇÃO)
 
 
 # Público-Alvo
 
+ O público-alvo visa Personal Trainers, em especial, nos recém-graduados em Educação Física, com o intuito de empreender na área, independentemente de idade ou gênero.
 
 
 
