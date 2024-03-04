@@ -225,18 +225,12 @@ O projeto está restrito pelos itens apresentados na tabela a seguir:
 |06| A quinta etapa do projeto referente ao diagnóstico, entrega da solução e apresentação deverá ser no dia 23/06/2024. |
        
 
-## Diagrama de Casos de Uso  ( EM CONTRUÇÃO)
+## Diagrama de Casos de Uso
 
 Um caso de uso delineia as interações entre os atores e o sistema mediante um diálogo que se estabelece entre eles. Dessa forma, logo abaixo segue o Diagrama de caso de uso da aplicação Personal Cash:. 
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/66cd3034-7823-421c-8b93-cd1a7bba9300)
 
-> **Links Úteis**:
-> - [Criando Casos de Uso](https://www.ibm.com/docs/pt-br/elm/6.0?topic=requirements-creating-use-cases)
-> - [Como Criar Diagrama de Caso de Uso: Tutorial Passo a Passo](https://gitmind.com/pt/fazer-diagrama-de-caso-uso.html/)
-> - [Lucidchart](https://www.lucidchart.com/)
-> - [Astah](https://astah.net/)
-> - [Diagrams](https://app.diagrams.net/)
 
 # Matriz de Rastreabilidade  ( EM CONTRUÇÃO)
 
