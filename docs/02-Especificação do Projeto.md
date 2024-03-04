@@ -58,16 +58,31 @@ https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?q=80&w=2070&auto=fo
 **Aplicativos:**
 
 - Instagram e Facebook.
+  
+# Persona 3: Vitor Andrade
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/331bff86-605f-43da-a97e-3f945a70e435)
+
+**Fonte imagem**:
+https://images.unsplash.com/photo-1616279969722-d81a5a3944ef?q=80&w=1927&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+
+**Motivações:**
+
+- O Vitor é muito motivado pela oportunidade de ajudar seus clientes a alcançarem seus objetivos de condicionamento físico e melhorarem sua qualidade de vida, por isso, ele atua em duas academias para aprender a conviver com a maior quantidade de pessoas que conseguir. Ele aprecia o desafio de seu trabalho e a gratificação de ver seus clientes progredindo.
+
+**Frustrações:**
+
+- Sua maior frustração está relacionada à sobrecarga de trabalho e à dificuldade em acompanhar os aspectos financeiros de seu negócio. O Vitor tem mais de 10 clientes particulares, com isso, ele se sente estressado com uma falta de tempo para gerenciar adequadamente as suas finanças como Personal Trainner.
 
 
+**Hobbies:**
+
+- Nas horas de folga, Vitor gosta de praticar esportes ao ar livre, como futebol e vôlei de praia, e relaxar assistindo filmes e séries em casa com sua esposa.
 
 
+**Aplicativos:**
 
-
-
-# Persona 3:
-
-
+-  X, Instagram, TikTok e Facebook.
 
 
 # Persona 4:
