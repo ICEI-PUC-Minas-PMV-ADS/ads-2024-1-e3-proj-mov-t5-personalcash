@@ -1,14 +1,22 @@
 
 # Metodologia
 
-Contextualizamos todo o processo relacionado ao desenvolvimento do sistema de Scout, ou seja, a metodologia utilizada para o organizar e gerenciar as atribuições do nosso time.
+Contextualizamos todo o processo relacionado ao desenvolvimento do sistema de Personal Cash, ou seja, a metodologia utilizada para o organizar e gerenciar as atribuições do nosso time.
 
 Apresentamos todas as ferramentas, os ambientes e as partes estruturais descritas do trabalho, bem como a aplicação da linguagem adotada por nossa equipe de desenvolvimento para a execução do projeto.
 
-## Relação de Ambientes de Trabalho
+# Gerenciamento de Projeto
 
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito deverá ser apresentada em uma tabela que especifica que detalha Ambiente, Plataforma e Link de Acesso. 
-Nota: Vide documento modelo do estudo de caso "Portal de Notícias" e defina também os ambientes e frameworks que serão utilizados no desenvolvimento de aplicações móveis.
+O Scrum é a metodologia ágil escolhida pela equipe, ela é a base fundamental para todo o processo de desenvolvimento.
+
+### Equipe de Trabalho
+
+A equipa está organizada da seguinte maneira:
+
+- `Scrum Master`: Diogo Amancio
+- `Product Owner`: Luiz Felipe Sena Costa
+- `Equipe de Desenvolvimento`: Caê Moreira Euphrásio
+- `Equipe de Design`: Daniel Dutra De Aguiar
 
 ## Controle de Versão
 
