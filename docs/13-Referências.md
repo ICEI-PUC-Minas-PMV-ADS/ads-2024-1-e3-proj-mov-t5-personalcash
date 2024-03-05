@@ -14,6 +14,6 @@ COMO montar um serviço de personal trainer. **Sebrae**, 2023. Disponível em: h
 
 DOMINGUES FILHO, Luiz Antônio. **Manual do Personal Trainer Brasileiro.** São Paulo: Ícone, 2006. Disponível em: https://lume.ufrgs.br/handle/10183/174697. Acesso em: 29 fev. 2024.
 
-OMS inatividade física sera causa de doenças. **CNN Brasil**, 2022.Disponível em: https://www.cnnbrasil.com.br/saude/oms-inatividade-fisica-sera-causa-de-doencas-em-500-milhoes-de-pessoas-ate-2030/. Acesso em: 05 mar. 2024.
+OMS inatividade física sera causa de doenças. **CNN Brasil**, 2022. Disponível em: https://www.cnnbrasil.com.br/saude/oms-inatividade-fisica-sera-causa-de-doencas-em-500-milhoes-de-pessoas-ate-2030/. Acesso em: 05 mar. 2024.
 
 
