@@ -137,7 +137,17 @@ O Strong é o aplicativo de acompanhamento de treinos mais simples e intuitivo, 
 [^5]: https://www.strong.app/
 
 
-# Justificativa  ( EM CONTRUÇÃO)
+# Justificativa 
+
+O personal trainer é um profissional licenciado em educação física, qualificado para desenvolver e prescrever programas de treinamento físico individualizados, segundo a definição do Sebrae, esse profissional enfrenta desafios que vão além dos simples treinos, ele precisa ter o dinamismo necessário para fidelizar o cliente, estimulando o treinamento de forma eficaz para que este alcance os seus objetivos (SEBRAE, 2023).
+
+A Organização Mundial da Saúde (OMS), em um novo relatório divulgado em 2022, alertou que quase 500 milhões de pessoas desenvolverão doenças cardíacas, obesidade ou outras condições relacionadas à inatividade física entre 2020 e 2030. Além disso, é sabido que a falta de atividade física é um fator de risco para doenças crônicas não transmissíveis (DCNT), como doenças cardiovasculares (infarto, AVC), câncer e diabetes (ORGANIZAÇÃO MUNDIAL DA SAÚDE, 2022).
+
+Dessa forma, o personal trainer pode ampliar o seu campo de atuação e atender diversas pessoas, ajustando-se aos objetivos de saúde individuais de cada cliente, por exemplo, é possível focar em clientes da terceira idade, onde a preocupação principal muitas vezes é a prevenção de doenças crônicas. Outra área de atuação que pode ser uma interessante oportunidade é o emagrecimento, atendendo às necessidades de pessoas que buscam essa realização por motivos estéticos ou de saúde.
+
+Além disso, conforme o Sebrae, as oportunidades de mercado para o personal trainer incluem o crescimento contínuo da demanda por atendimento personalizado, o envelhecimento da população, a possibilidade de atendimento em pequenos grupos e parcerias corporativas, entre outras. Com o aumento do número de alunos individuais, os profissionais autônomos podem considerar a contratação de mais profissionais para expandir seus empreendimentos, desenvolvendo modelos de negócio que vão além da simples venda de horas de treinamento (SEBRAE, 2023).
+
+Esses fatores demonstram como os profissionais de educação física, especialmente os personal trainers, têm uma grande oportunidade para desenvolver suas atividades profissionais de forma mais eficaz e ampliar sua área de atuação, buscando atender um número cada vez maior de clientes.
 
 
 # Público-Alvo
