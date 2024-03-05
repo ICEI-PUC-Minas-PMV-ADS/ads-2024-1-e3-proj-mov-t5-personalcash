@@ -151,7 +151,7 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 | Hugo Oliveira | Ter uma gestão sólida do meu negócio. | Conseguir ter uma carreira consolidade como Personal Trainer. |               
 | Hugo Oliveira | Não ter mais receio na mstemática e gestão financeira. | Entender como alavancar o meu negócio com as ferramentas da gestão financeira. | 
 | Bianca Colombo  | Ter uma ferramenta que ajuda na gestão financeira do meu negócio. | Conseguir mais tempo no meu desenvolvimento profissional. |
-| Bianca Colombo | Poder ter um gestão financeira do meu negócio de uma forma simples e eficaz. | Para não ficar limitade em entender plataformas complexas ou ineficazes. |  
+| Bianca Colombo | Poder ter um gestão financeira do meu negócio de uma forma simples e eficaz. | Para não ficar limitada em entender plataformas complexas ou ineficazes. |  
 
 ## Modelagem do Processo de Negócio  ( EM CONTRUÇÃO)
 
