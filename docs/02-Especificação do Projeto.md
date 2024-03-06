@@ -273,7 +273,7 @@ Logo abaixo segue o diagrama de atividades do Projeto Personal Cash:
 O diagrama de Gantt, conhecido também como gráfico de Gantt, é uma ferramenta visual essencial no controle e gestão de cronogramas de projetos. 
 Este recurso permite listar todas as tarefas necessárias para a implementação do projeto, segmentá-las em atividades e estimar o tempo requerido para sua conclusão.
 
-Abaixo segue o diagrama de Gantt aplicado ao Projeto Personal Cash.
+Abaixo segue o diagrama de Gantt aplicado ao Projeto Personal Cash:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/ef2d9f18-231e-4396-8218-692439e64d97)
 
@@ -284,13 +284,17 @@ Assegurar um gerenciamento eficaz de tarefas é essencial para impulsionar a pro
 
 Portanto, é crucial realizar uma gestão adequada tanto das tarefas quanto das equipes envolvidas, garantindo assim uma administração fluida dos times durante todo o processo.
 
-Abaixo segue o diagrama de gerenciamento da equipe aplicado ao Projeto Personal Cash.
+Abaixo segue o diagrama de gerenciamento da equipe aplicado ao Projeto Personal Cash:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/290b345d-eab0-430d-90f0-e9b412601727)
 
 
 ## Gestão de Orçamento  ( EM CONTRUÇÃO)
 
-O processo de determinar o orçamento do projeto é uma tarefa que depende, além dos produtos (saídas) dos processos anteriores do gerenciamento de custos, também de produtos oferecidos por outros processos de gerenciamento, como o escopo e o tempo.
+Determinar o orçamento do projeto é uma etapa que não apenas se baseia nos resultados dos processos anteriores de gerenciamento de custos, mas também nas saídas fornecidas por outros processos de gerenciamento, como o escopo e o cronograma.
+
+Cada elemento do orçamento foi ajustado para garantir uma alocação eficaz dos recursos, garantindo assim o êxito do projeto dentro das restrições financeiras definidas.
+
+Segue abaixo a tabela que detalha o gerenciamento do orçamento do Projeto Personal Cash:
 
 ![Orçamento](img/02-orcamento.png)
