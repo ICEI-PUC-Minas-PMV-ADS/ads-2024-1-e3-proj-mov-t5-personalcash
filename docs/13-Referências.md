@@ -16,4 +16,6 @@ DOMINGUES FILHO, Luiz Antônio. **Manual do Personal Trainer Brasileiro.** São 
 
 OMS inatividade física sera causa de doenças. **CNN Brasil**, 2022. Disponível em: https://www.cnnbrasil.com.br/saude/oms-inatividade-fisica-sera-causa-de-doencas-em-500-milhoes-de-pessoas-ate-2030/. Acesso em: 05 mar. 2024.
 
+PMI resource, pm podcasts, pm point of view. **Project Managament Institute**, (2024).Disponível em: https://www.pmi.org/chapters/wdc/pmi-resources/pm-podcasts/pm-point-of-view-44. Acesso em: 05 mar. 2024.
+
 
