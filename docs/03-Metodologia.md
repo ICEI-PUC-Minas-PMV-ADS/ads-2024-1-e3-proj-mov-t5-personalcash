@@ -7,7 +7,7 @@ Apresentamos todas as ferramentas, os ambientes e as partes estruturais descrita
 
 ## Relação de Ambientes de Trabalho
 
-Os artefatos do projeto são desenvolvidos por toda a equope a partir de diversas plataformas. A relação dos ambientes de trabalho com seu respectivo propósito está detalhadamente apresentado na seguinte tabela:
+Os artefatos do projeto Personal Cash são desenvolvidos por toda a equipe a partir de diversas plataformas. A relação dos ambientes de trabalho com o seu respectivo propósito está detalhadamente apresentado na seguinte tabela:
 
 | AMBIENTE                          | PLATAFORMA      | LINK DE ACESSO                                                                                                                  |
 | --------------------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------- |
