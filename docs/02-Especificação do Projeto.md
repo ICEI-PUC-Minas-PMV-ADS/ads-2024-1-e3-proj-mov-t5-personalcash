@@ -238,6 +238,14 @@ A matriz de rastreabilidade do App Personal Cash pode ser empregada para assegur
 
 Esta matriz será continuamente atualizada conforme o sistema se desenvolve, evolui e com as novas relações identificadas.
 
+# Matriz de Rastreabilidade: Modelo Vertical
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/39127e13-11e7-4fdf-b77c-c1358cbee66f)
+
+**Link:**
+https://docs.google.com/spreadsheets/d/1-kKQMHTeRbOehFhyHbTiJz2erh6QLYyG6C_tNWQHack/edit?usp=sharing
+
+
 ![Exemplo de matriz de rastreabilidade](img/02-matriz-rastreabilidade.png)
 
 > **Links Úteis**:
