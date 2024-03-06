@@ -297,4 +297,5 @@ Cada elemento do orçamento foi ajustado para garantir uma alocação eficaz dos
 
 Segue abaixo a tabela que detalha o gerenciamento do orçamento do Projeto Personal Cash:
 
-![Orçamento](img/02-orcamento.png)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/7ca08c3f-1bf0-4e05-8540-4e8bff2c8021)
+
