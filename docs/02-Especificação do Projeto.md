@@ -192,7 +192,7 @@ As tabelas seguintes apresentam os requisitos funcionais e não funcionais que d
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001|  Permitir o cadastro do Personal Trainner. | ALTA |
+|RF-001| Permitir o cadastro do usuário: Personal Trainner. | ALTA |
 |RF-002| Permitir o cadastro de clientes e os dados pessoais: nome, sobrenome, apelido, telefone, endereço e valor pago por treino. | ALTA |
 |RF-003| Permitir a visualização dos valores pagos por data e se há alguma pendência remanescente dos treinamentos já realizados, exemplo: Data do treinamento, divida total e valor pago. | ALTA |
 |RF-004| Permitir a visualização de uma lista dos clientes do personal para ser preenchido via checklist conforme a data do treinamento e o turno (manhã, tarde e noite).| Alta |
@@ -241,6 +241,14 @@ Esta matriz será continuamente atualizada conforme o sistema se desenvolve, evo
 # Matriz de Rastreabilidade: Modelo Vertical
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/4b487979-b870-46a0-a486-730b63035069)
+
+Na tabela acima realizada via Google Sheets do App Personal Cash, cada linha representa um "Requisito Não Funcional ou um Caso de Teste do projeto, enquanto cada coluna representa um "Requisito Funcional" ou um Caso de Teste.
+
+Dessa forma, quando uma linha se encontra com uma coluna, é assinalada com um "X" se o Requisito Não Funcional associado à linha descrita afeta o Requisito Funcional associado à coluna designada.
+
+Assim, se houver um "X" na interseção entre a linha "RNF-001" e a coluna "RF-001", isso indica que o Requisito Não Funcional "RNF-001" (Permitir o cadastro do usuário: Personal Trainner.) impacta o Requisito Funcional "RF-001" (Usabilidade: A aplicação deve ser de fácil de usar e intuitiva, com interface amigável e boa experiência do usuário).
+
+Para os Casos de Teste implementados nesta matriz, o sistema opera da mesma forma, com a presença de "X" marcando a interseção entre um Requisito Não Funcional ou Funcional.
 
 **Link:**
 https://docs.google.com/spreadsheets/d/1-kKQMHTeRbOehFhyHbTiJz2erh6QLYyG6C_tNWQHack/edit?usp=sharing
