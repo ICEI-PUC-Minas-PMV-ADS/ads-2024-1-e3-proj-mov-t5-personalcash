@@ -242,9 +242,6 @@ Esta matriz será continuamente atualizada conforme o sistema se desenvolve, evo
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/4b487979-b870-46a0-a486-730b63035069)
 
-**Link:**
-https://docs.google.com/spreadsheets/d/1-kKQMHTeRbOehFhyHbTiJz2erh6QLYyG6C_tNWQHack/edit?usp=sharing
-
 Na tabela acima realizada via Google Sheets do App Personal Cash, cada linha representa um "Requisito Não Funcional ou um Caso de Teste do projeto, enquanto cada coluna representa um "Requisito Funcional" ou um Caso de Teste.
 
 Dessa forma, quando uma linha se encontra com uma coluna, é assinalada com um "X" se o Requisito Não Funcional associado à linha descrita afeta o Requisito Funcional associado à coluna designada.
@@ -272,13 +269,13 @@ Logo abaixo segue o diagrama de atividades do Projeto Personal Cash:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/2257801a-2593-4021-914f-71d752be2269)
 
-(EM CONSTRUÇÃO) 
 
-O gráfico de Gantt ou diagrama de Gantt também é uma ferramenta visual utilizada para controlar e gerenciar o cronograma de atividades de um projeto. Com ele, é possível listar tudo que precisa ser feito para colocar o projeto em prática, dividir em atividades e estimar o tempo necessário para executá-las.
+O diagrama de Gantt, conhecido também como gráfico de Gantt, é uma ferramenta visual essencial no controle e gestão de cronogramas de projetos. 
+Este recurso permite listar todas as tarefas necessárias para a implementação do projeto, segmentá-las em atividades e estimar o tempo requerido para sua conclusão.
 
+Abaixo segue o diagrama de Gantt aplicado ao Projeto Personal Cash.
 
-
-![Gráfico de Gantt](img/02-grafico-gantt.png)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/80e0cd12-05bd-4874-9b1d-e09f19f1a3ee)
 
 ## Gerenciamento de Equipe  ( EM CONTRUÇÃO)
 
