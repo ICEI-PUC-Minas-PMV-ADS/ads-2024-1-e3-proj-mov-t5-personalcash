@@ -289,7 +289,7 @@ Abaixo segue o diagrama de gerenciamento da equipe aplicado ao Projeto Personal 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/290b345d-eab0-430d-90f0-e9b412601727)
 
 
-## Gestão de Orçamento  ( EM CONTRUÇÃO)
+## Gestão de Orçamento 
 
 Determinar o orçamento do projeto é uma etapa que não apenas se baseia nos resultados dos processos anteriores de gerenciamento de custos, mas também nas saídas fornecidas por outros processos de gerenciamento, como o escopo e o cronograma.
 
