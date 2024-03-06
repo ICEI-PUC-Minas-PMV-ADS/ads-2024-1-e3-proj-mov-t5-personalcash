@@ -278,11 +278,16 @@ Abaixo segue o diagrama de Gantt aplicado ao Projeto Personal Cash.
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/ef2d9f18-231e-4396-8218-692439e64d97)
 
 
-## Gerenciamento de Equipe  ( EM CONTRUÇÃO)
+## Gerenciamento de Equipe  
 
-O gerenciamento adequado de tarefas contribuirá para que o projeto alcance altos níveis de produtividade. Por isso, é fundamental que ocorra a gestão de tarefas e de pessoas, de modo que os times envolvidos no projeto possam ser facilmente gerenciados. 
+Assegurar um gerenciamento eficaz de tarefas é essencial para impulsionar a produtividade do projeto. 
 
-![Simple Project Timeline](img/02-project-timeline.png)
+Portanto, é crucial realizar uma gestão adequada tanto das tarefas quanto das equipes envolvidas, garantindo assim uma administração fluida dos times durante todo o processo.
+
+Abaixo segue o diagrama de gerenciamento da equipe aplicado ao Projeto Personal Cash.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/290b345d-eab0-430d-90f0-e9b412601727)
+
 
 ## Gestão de Orçamento  ( EM CONTRUÇÃO)
 
