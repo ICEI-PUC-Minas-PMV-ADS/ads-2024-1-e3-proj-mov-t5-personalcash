@@ -272,6 +272,8 @@ Logo abaixo segue o diagrama de atividades do Projeto Personal Cash:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/2257801a-2593-4021-914f-71d752be2269)
 
+(EM CONSTRUÇÃO) 
+
 O gráfico de Gantt ou diagrama de Gantt também é uma ferramenta visual utilizada para controlar e gerenciar o cronograma de atividades de um projeto. Com ele, é possível listar tudo que precisa ser feito para colocar o projeto em prática, dividir em atividades e estimar o tempo necessário para executá-las.
 
 
