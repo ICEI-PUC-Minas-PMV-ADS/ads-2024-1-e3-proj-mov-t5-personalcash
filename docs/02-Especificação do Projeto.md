@@ -240,7 +240,7 @@ Esta matriz será continuamente atualizada conforme o sistema se desenvolve, evo
 
 # Matriz de Rastreabilidade: Modelo Vertical
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/39127e13-11e7-4fdf-b77c-c1358cbee66f)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/4b487979-b870-46a0-a486-730b63035069)
 
 **Link:**
 https://docs.google.com/spreadsheets/d/1-kKQMHTeRbOehFhyHbTiJz2erh6QLYyG6C_tNWQHack/edit?usp=sharing
