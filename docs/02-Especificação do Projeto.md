@@ -242,6 +242,9 @@ Esta matriz será continuamente atualizada conforme o sistema se desenvolve, evo
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/4b487979-b870-46a0-a486-730b63035069)
 
+**Link:**
+https://docs.google.com/spreadsheets/d/1-kKQMHTeRbOehFhyHbTiJz2erh6QLYyG6C_tNWQHack/edit?usp=sharing
+
 Na tabela acima realizada via Google Sheets do App Personal Cash, cada linha representa um "Requisito Não Funcional ou um Caso de Teste do projeto, enquanto cada coluna representa um "Requisito Funcional" ou um Caso de Teste.
 
 Dessa forma, quando uma linha se encontra com uma coluna, é assinalada com um "X" se o Requisito Não Funcional associado à linha descrita afeta o Requisito Funcional associado à coluna designada.
@@ -249,9 +252,6 @@ Dessa forma, quando uma linha se encontra com uma coluna, é assinalada com um "
 Assim, se houver um "X" na interseção entre a linha "RNF-001" e a coluna "RF-001", isso indica que o Requisito Não Funcional "RNF-001" (Permitir o cadastro do usuário: Personal Trainner.) impacta o Requisito Funcional "RF-001" (Usabilidade: A aplicação deve ser de fácil de usar e intuitiva, com interface amigável e boa experiência do usuário).
 
 Para os Casos de Teste implementados nesta matriz, o sistema opera da mesma forma, com a presença de "X" marcando a interseção entre um Requisito Não Funcional ou Funcional.
-
-**Link:**
-https://docs.google.com/spreadsheets/d/1-kKQMHTeRbOehFhyHbTiJz2erh6QLYyG6C_tNWQHack/edit?usp=sharing
 
 
 # Gerenciamento de Projeto  ( EM CONTRUÇÃO)
