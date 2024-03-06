@@ -232,9 +232,9 @@ Um caso de uso delineia as interações entre os atores e o sistema mediante um 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/602c7441-243d-4710-995d-65dcfeaf19b8)
 
 
-# Matriz de Rastreabilidade  ( EM CONTRUÇÃO)
+# Matriz de Rastreabilidade 
 
-A matriz de rastreabilidade pode ser empregada para assegurar que todos os requisitos estejam sendo devidamente cumpridos e testados, além de facilitar a identificação das partes do sistema que podem ser impactadas por modificações em um requisito específico. 
+A matriz de rastreabilidade do App Personal Cash pode ser empregada para assegurar que todos os requisitos estejam sendo devidamente cumpridos e testados, além de facilitar a identificação das partes do sistema que podem ser impactadas por modificações em um requisito específico. 
 
 Esta matriz será continuamente atualizada conforme o sistema se desenvolve, evolui e com as novas relações identificadas.
 
