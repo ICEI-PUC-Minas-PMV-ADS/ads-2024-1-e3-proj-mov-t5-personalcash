@@ -254,9 +254,15 @@ Assim, se houver um "X" na interseção entre a linha "RNF-001" e a coluna "RF-0
 Para os Casos de Teste implementados nesta matriz, o sistema opera da mesma forma, com a presença de "X" marcando a interseção entre um Requisito Não Funcional ou Funcional.
 
 
-# Gerenciamento de Projeto  ( EM CONTRUÇÃO)
+# Gerenciamento de Projeto  
 
-De acordo com o PMBoK v6 as dez áreas que constituem os pilares para gerenciar projetos, e que caracterizam a multidisciplinaridade envolvida, são: Integração, Escopo, Cronograma (Tempo), Custos, Qualidade, Recursos, Comunicações, Riscos, Aquisições, Partes Interessadas. Para desenvolver projetos um profissional deve se preocupar em gerenciar todas essas dez áreas. Elas se complementam e se relacionam, de tal forma que não se deve apenas examinar uma área de forma estanque. É preciso considerar, por exemplo, que as áreas de Escopo, Cronograma e Custos estão muito relacionadas. Assim, se eu amplio o escopo de um projeto eu posso afetar seu cronograma e seus custos.
+Conforme o PMBoK v6, as dez áreas que constituem os pilares para gerenciar projetos, e que caracterizam a multidisciplinaridade envolvida, são: Integração, Escopo, Cronograma (Tempo), Custos, Qualidade, Recursos, Comunicações, Riscos, Aquisições, Partes Interessadas (PROJECT MANAGEMENT INSTITUTE, (2024).
+
+Para desenvolver projetos, um profissional deve se preocupar em gerenciar todas essas dez áreas. Elas se complementam e se relacionam, de tal forma que não se deve apenas examinar uma área de forma estanque.
+
+ É preciso considerar, por exemplo, que as áreas de Escopo, Cronograma e Custos estão muito relacionadas. Assim, se eu amplio o escopo de um projeto eu posso afetar seu cronograma e seus custos.
+
+Para o Gerenciamento do projeto App Personal Cash, optamos pela utilização do Kanban e do Scrum para registros e criações das demandas, visto que se torna mais prático e ágil para a visibilidade de todos os integrantes do grupo.
 
 ## Gerenciamento de Tempo  ( EM CONTRUÇÃO)
 
