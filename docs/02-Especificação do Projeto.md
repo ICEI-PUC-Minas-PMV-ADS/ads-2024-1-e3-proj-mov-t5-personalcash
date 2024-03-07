@@ -208,16 +208,9 @@ Apresente aqui os principais indicadores de desempenho e algumas metas para o pr
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/45903960-0c3f-4450-906e-aff6e37c940d)
 
-# 5º Indicador:
+# 5º Indicador: Avaliações positivas dos usuários sobre o aplicativo.
 
-
-
-
-
-Usar o seguinte modelo: 
-
-![Indicadores de Desempenho](img/02-indic-desemp.png)
-Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori. 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/67dda8cc-c3e9-4e56-a6e9-97260c9f65e3)
 
 # Requisitos
 
