@@ -169,7 +169,11 @@ Desde Agosto de 2022, mais de 41 mil pessoas se cadastraram em busca de um trein
 
 ### Descrição Geral da Proposta  ( EM CONTRUÇÃO)
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
+O projeto tem como meta desenvolver um mecanismo simplificado para monitorar a frequência e as datas dos treinos dos clientes, além de registrar e controlar os pagamentos dos treinos realizados (ou não) por eles.
+
+Isso proporcionará ao Personal Trainer a capacidade de expandir sua base de clientes, ao mesmo tempo, em que mantém um registro financeiro detalhado de cada indivíduo e monitora suas finanças de forma objetiva.
+
+Assim, o objetivo subjacente ao conceber o aplicativo Personal Cash é fornecer suporte no gerenciamento financeiro para profissionais que atuam como Personal Trainers, especialmente os recém-formados em Educação Física. Isso incentiva esses profissionais a desenvolverem suas carreiras empreendedoras na área fitness, aproveitando as funcionalidades de gestão financeira e da carteira de clientes oferecidas pelo aplicativo.
 
 ### Processo 1 – NOME DO PROCESSO  ( EM CONTRUÇÃO)
 
