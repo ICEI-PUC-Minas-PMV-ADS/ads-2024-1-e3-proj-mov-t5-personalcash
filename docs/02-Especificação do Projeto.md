@@ -157,9 +157,9 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 | Bianca Colombo  | Ter uma ferramenta que ajuda na gestão financeira do meu negócio. | Conseguir mais tempo no meu desenvolvimento profissional. |
 | Bianca Colombo | Poder ter um gestão financeira do meu negócio de uma forma simples e eficaz. | Para não ficar limitada em entender plataformas complexas ou ineficazes. |  
 
-## Modelagem do Processo de Negócio 
+# Modelagem do Processo de Negócio 
 
-### Análise da Situação Atual 
+# Análise da Situação Atual 
 
 Segundo informações do GetNinjas, o maior aplicativo brasileiro para contratação de profissionais via anúncios online, a demanda por Personal Trainers teve um aumento significativo, com um crescimento anual de 34% em 2021 (GETNINJAS, 2023). Outros dados fornecidos pela Tecnofit, a principal plataforma de gestão para academias e profissionais de fitness no Brasil, corroboram essa tendência. 
 
@@ -167,7 +167,7 @@ Os dados do aplicativo Tecnofit Personal indicam um aumento mensal de 10% na bus
 
 Desde Agosto de 2022, mais de 41 mil pessoas se cadastraram em busca de um treinador exclusivo (TECNOFIT, 2023). Esses números demonstram como existe uma demanda significativa das pessoas visando a contratação de Personal Trainers.
 
-### Descrição Geral da Proposta  ( EM CONTRUÇÃO)
+# Descrição Geral da Proposta  ( EM CONTRUÇÃO)
 
 O projeto tem como meta desenvolver um mecanismo simplificado para monitorar a frequência e as datas dos treinos dos clientes, além de registrar e controlar os pagamentos dos treinos realizados (ou não) por eles.
 
@@ -175,18 +175,18 @@ Isso proporcionará ao Personal Trainer a capacidade de expandir sua base de cli
 
 Assim, o objetivo subjacente ao conceber o aplicativo Personal Cash é fornecer suporte no gerenciamento financeiro para profissionais que atuam como Personal Trainers, especialmente os recém-formados em Educação Física. Isso incentiva esses profissionais a desenvolverem suas carreiras empreendedoras na área fitness, aproveitando as funcionalidades de gestão financeira e da carteira de clientes oferecidas pelo aplicativo.
 
-### Processo 1 – Login do Usuário 
+# Processo 1 – Login do Usuário 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/2f20442c-d27f-4275-ae75-912bff51abcf)
 
  
-### Processo 2 – NOME DO PROCESSO  ( EM CONTRUÇÃO)
+# Processo 2 – NOME DO PROCESSO  ( EM CONTRUÇÃO)
 
 Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
 
 ![Processo 2](img/02-bpmn-proc2.png)
 
-## Indicadores de Desempenho  ( EM CONTRUÇÃO)
+# Indicadores de Desempenho  ( EM CONTRUÇÃO)
 
 Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
 
