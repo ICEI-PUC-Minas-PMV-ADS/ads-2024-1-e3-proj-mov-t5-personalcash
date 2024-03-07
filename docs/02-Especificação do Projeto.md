@@ -281,6 +281,7 @@ Este recurso permite listar todas as tarefas necessárias para a implementação
 
 Abaixo segue o diagrama de Gantt aplicado ao Projeto Personal Cash:
 
+
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/ef2d9f18-231e-4396-8218-692439e64d97)
 
 
