@@ -188,7 +188,7 @@ Assim, o objetivo subjacente ao conceber o aplicativo Personal Cash é fornecer 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/5a107d95-85f2-44fd-be6f-bf4efd228141)
 
 
-# Indicadores de Desempenho  ( EM CONTRUÇÃO)
+# Indicadores de Desempenho 
 
 Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
 
@@ -200,11 +200,13 @@ Apresente aqui os principais indicadores de desempenho e algumas metas para o pr
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/366bc3a2-9e7c-4823-b57e-816c157656fd)
 
-# 3º Indicador
+# 3º Indicador: Percentual de Reclamações.
 
-# 4º Indicador
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/7ce73cc0-d700-461a-8ee3-d23a86d4461c)
 
-# 5º Indicador
+# 4º Indicador:
+
+# 5º Indicador:
 
 
 
