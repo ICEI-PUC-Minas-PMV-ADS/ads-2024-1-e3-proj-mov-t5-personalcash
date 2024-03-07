@@ -194,15 +194,15 @@ Apresente aqui os principais indicadores de desempenho e algumas metas para o pr
 
 # 1º Indicador: Número de downloads do aplicativo.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/5a79ba7f-84bf-4fa8-87e8-3a84ca31377c)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/f1531df0-cabe-46d2-9c63-d8e626c9951e)
 
 # 2º Indicador: Número de Personal Trainers cadastrados no aplicativo.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/366bc3a2-9e7c-4823-b57e-816c157656fd)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/6b5eb472-ece2-4034-a5b8-c1d200053de5)
 
 # 3º Indicador: Percentual de Reclamações.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/3fc0a453-6e1d-414a-9c3f-dcb2db626dc9)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/c3e95230-271a-4a12-a15f-0c0ff2cecf0e)
 
 # 4º Indicador: Avaliações do Aplicativo.
 
