@@ -210,7 +210,7 @@ Apresente aqui os principais indicadores de desempenho e algumas metas para o pr
 
 # 5º Indicador: Avaliações positivas dos usuários sobre o aplicativo.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/67dda8cc-c3e9-4e56-a6e9-97260c9f65e3)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/d97966aa-0bec-4628-b370-f2671b568b06)
 
 # Requisitos
 
