@@ -88,10 +88,11 @@ https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?q=80&w=2070&auto=fo
 
 # Persona 4: Hugo Oliveira
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/b6ab10df-9c27-49d0-acee-821884fb1cf5)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/cc0cb65d-9933-45f1-b735-8ff88633941b)
 
 **Fonte imagem**:
-https://images.unsplash.com/photo-1529516548873-9ce57c8f155e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+[https://images.unsplash.com/photo-1529516548873-9ce57c8f155e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+](https://upload.wikimedia.org/wikipedia/commons/3/36/Trener_personalny_przeprowadza_konsultacj%C4%99_z_klientk%C4%85.jpg)
 
 **Motivações:**
 
