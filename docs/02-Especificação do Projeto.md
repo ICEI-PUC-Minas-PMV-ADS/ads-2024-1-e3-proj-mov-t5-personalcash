@@ -62,10 +62,10 @@ https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?q=80&w=2070&auto=fo
   
 # Persona 3: Vitor Andrade
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/ffd07fb6-2e85-4ed9-a4b0-7366081e9a94)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/4efe911b-12fa-4b59-8a65-6c0527f5c6df)
 
 **Fonte imagem**:
-https://images.unsplash.com/photo-1616279969722-d81a5a3944ef?q=80&w=1927&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+[https://images.unsplash.com/photo-1616279969722-d81a5a3944ef?q=80&w=1927&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D](https://cdn2.picryl.com/photo/2014/09/17/brad-willis-personal-training-manager-on-fort-bragg-c3195e-1024.jpg)
 
 **Motivações:**
 
