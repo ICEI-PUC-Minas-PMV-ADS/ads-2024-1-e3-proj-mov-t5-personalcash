@@ -6,7 +6,7 @@
 
 `SEMESTRE`: 3º Semestre
 
-O objetivo por trás da concepção do aplicativo Personal Cash é proporcionar suporte no controle financeiro de profissionais que atuam como Personal Trainers, com foco especial em recém-formados em Educação Física e em impulsionar o empreendedorismo.
+O objetivo por trás da concepção do aplicativo Personal Cash é proporcionar suporte no controle financeiro de profissionais que atuam como Personal Trainers, com o foco especial em recém-formados em Educação Física. Incentivando aqueles profissionais que buscam desenvolver a sua carreira empreendedora na área fitness.
 
 ## Integrantes
 
