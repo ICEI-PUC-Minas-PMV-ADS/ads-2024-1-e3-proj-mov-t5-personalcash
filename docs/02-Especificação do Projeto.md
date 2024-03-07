@@ -232,7 +232,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir:
 
 Um caso de uso delineia as interações entre os atores e o sistema mediante um diálogo que se estabelece entre eles. Dessa forma, logo abaixo segue o Diagrama de caso de uso da aplicação Personal Cash:. 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/602c7441-243d-4710-995d-65dcfeaf19b8)
+![image](https:![e3-DiagramaCasosUso](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/1ce29ec4-dc88-4ae1-868b-1d70f8dade1f)
+//github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/602c7441-243d-4710-995d-65dcfeaf19b8)
 
 
 # Matriz de Rastreabilidade 
