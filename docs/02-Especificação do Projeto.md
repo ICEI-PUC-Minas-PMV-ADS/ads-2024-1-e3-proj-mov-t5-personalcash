@@ -167,7 +167,7 @@ Os dados do aplicativo Tecnofit Personal indicam um aumento mensal de 10% na bus
 
 Desde Agosto de 2022, mais de 41 mil pessoas se cadastraram em busca de um treinador exclusivo (TECNOFIT, 2023). Esses números demonstram como existe uma demanda significativa das pessoas visando a contratação de Personal Trainers.
 
-# Descrição Geral da Proposta  ( EM CONTRUÇÃO)
+# Descrição Geral da Proposta 
 
 O projeto tem como meta desenvolver um mecanismo simplificado para monitorar a frequência e as datas dos treinos dos clientes, além de registrar e controlar os pagamentos dos treinos realizados (ou não) por eles.
 
