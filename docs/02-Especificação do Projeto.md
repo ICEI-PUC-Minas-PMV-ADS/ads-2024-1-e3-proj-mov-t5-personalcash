@@ -202,9 +202,9 @@ Apresente aqui os principais indicadores de desempenho e algumas metas para o pr
 
 # 3º Indicador: Percentual de Reclamações.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/7ce73cc0-d700-461a-8ee3-d23a86d4461c)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/3fc0a453-6e1d-414a-9c3f-dcb2db626dc9)
 
-# 4º Indicador:
+# 4º Indicador: Avaliações do Aplicativo.
 
 # 5º Indicador:
 
