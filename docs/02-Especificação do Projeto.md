@@ -192,9 +192,19 @@ Assim, o objetivo subjacente ao conceber o aplicativo Personal Cash é fornecer 
 
 Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/b72c0aac-97b6-4919-904a-8878a7661058)
+# 1º Indicador: Número de downloads do aplicativo.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/417de865-9fca-483f-af61-fc4d894b0142)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/5a79ba7f-84bf-4fa8-87e8-3a84ca31377c)
+
+# 2º Indicador: Número de Personal Trainers cadastrados no aplicativo.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/366bc3a2-9e7c-4823-b57e-816c157656fd)
+
+# 3º Indicador
+
+# 4º Indicador
+
+# 5º Indicador
 
 
 
