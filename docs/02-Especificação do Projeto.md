@@ -195,6 +195,7 @@ As tabelas seguintes apresentam os requisitos funcionais e não funcionais que d
 |------|-----------------------------------------|----|
 |RF-001| Permitir o cadastro do usuário: Personal Trainner. | ALTA |
 |RF-002| Permitir o cadastro de clientes e os dados pessoais: nome, sobrenome, apelido, telefone, endereço e valor pago por treino. | ALTA |
+|RF-00|                                                                                                                         | ALTA |
 |RF-003| Permitir a visualização dos valores pagos por data e se há alguma pendência remanescente dos treinamentos já realizados, exemplo: Data do treinamento, divida total e valor pago. | ALTA |
 |RF-004| Permitir a visualização de uma lista dos clientes do personal para ser preenchido via checklist conforme a data do treinamento e o turno (manhã, tarde e noite).| Alta |
 |RF-005| Permitir a visualização de um histórico de um dia exato, demonstrando o valor de cada cliente para ser recebido e a somatória de todos os valores. Exemplo: Data 06/01/24, Total: R$500,00. Clientes: Ana: R$200,00 e Mari: R$150,00.| ALTA |
@@ -205,7 +206,6 @@ As tabelas seguintes apresentam os requisitos funcionais e não funcionais que d
 |-------|-------------------------|----|
 |RNF-001| Usabilidade: A aplicação deve ser de fácil de usar e intuitiva, com interface amigável e boa experiência do usuário. | ALTA | 
 |RNF-002| Segurança: A aplicação deve garantir a segurança das informações do usuário, utilizando protocolos de segurança, criptografia e autenticação adequados. |  ALTA  | 
-|RNF-00| . |  ALTA  | 
 |RNF-003| Segurança: A senha do usuário deve conter no mínimo 6 caracteres, sendo uma letra maiúscula, letra minúscula e um dígito. |  ALTA  | 
 |RNF-004| Confiabilidade: A aplicação deve ser confiável, com baixa probabilidade de erros ou falhas.  |  ALTA  | 
 |RNF-005| Performance: A aplicação deve ser rápida e com boa performance mesmo em situações de alta carga de uso. |  ALTA  | 
