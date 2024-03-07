@@ -175,7 +175,7 @@ Isso proporcionará ao Personal Trainer a capacidade de expandir sua base de cli
 
 Assim, o objetivo subjacente ao conceber o aplicativo Personal Cash é fornecer suporte no gerenciamento financeiro para profissionais que atuam como Personal Trainers, especialmente os recém-formados em Educação Física. Isso incentiva esses profissionais a desenvolverem suas carreiras empreendedoras na área fitness, aproveitando as funcionalidades de gestão financeira e da carteira de clientes oferecidas pelo aplicativo.
 
-### Processo 1 – NOME DO PROCESSO  ( EM CONTRUÇÃO)
+### Processo 1 – Login do Usuário
 
 Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
 
