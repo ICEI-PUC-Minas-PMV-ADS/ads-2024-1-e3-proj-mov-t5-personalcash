@@ -195,10 +195,11 @@ As tabelas seguintes apresentam os requisitos funcionais e não funcionais que d
 |------|-----------------------------------------|----|
 |RF-001| Permitir o cadastro do usuário: Personal Trainner. | ALTA |
 |RF-002| Permitir o cadastro de clientes e os dados pessoais: nome, sobrenome, apelido, telefone, endereço, valor pago por treino e turno do treino. | ALTA |
-|RF-00|                                                                                                                         | ALTA |
-|RF-003| Permitir a visualização dos valores pagos por data e se há alguma pendência remanescente dos treinamentos já realizados, exemplo: Data do treinamento, divida total e valor pago. | ALTA |
-|RF-004| Permitir a visualização de uma lista dos clientes do personal para ser preenchido via checklist conforme a data do treinamento e o turno (manhã, tarde e noite).| Alta |
-|RF-005| Permitir a visualização de um histórico de um dia exato, demonstrando o valor de cada cliente para ser recebido e a somatória de todos os valores. Exemplo: Data 06/01/24, Total: R$500,00. Clientes: Ana: R$200,00 e Mari: R$150,00.| ALTA |
+|RF-003| Permitir o cadastro da data do treino. | ALTA |
+|RF-004| Permitir o cadastro do histórico de pagamentos do cliente com a data e se o cliente pagou ou não pelo treino. | ALTA |
+|RF-005| Permitir a visualização dos valores pagos por data e se há alguma pendência remanescente dos treinamentos já realizados, exemplo: Data do treinamento, divida total e valor pago. | ALTA |
+|RF-006| Permitir a visualização de uma lista dos clientes do personal para ser preenchido via checklist conforme a data do treinamento e o turno (manhã, tarde e noite).| Alta |
+|RF-007| Permitir a visualização de um histórico de um dia exato, demonstrando o valor de cada cliente para ser recebido e a somatória de todos os valores. Exemplo: Data 06/01/24, Total: R$500,00. Clientes: Ana: R$200,00 e Mari: R$150,00.| ALTA |
 
 # Requisitos não Funcionais
 
