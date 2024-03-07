@@ -192,7 +192,8 @@ Assim, o objetivo subjacente ao conceber o aplicativo Personal Cash é fornecer 
 
 Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/bd0ac064-e3e4-4444-ba41-f7f547691d17)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/6e9a7cee-75b4-482f-8c01-8d81669ebe71)
+
 
 
 Usar o seguinte modelo: 
