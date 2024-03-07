@@ -204,14 +204,14 @@ As tabelas seguintes apresentam os requisitos funcionais e não funcionais que d
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| Usabilidade: A aplicação deve ser utilizada sem a necessidade de curso ou manual, nas atividades complexas o máximo de erros aceitáveis por parte do usuário são 2 erros. | ALTA | 
+|RNF-001| Usabilidade: A aplicação deve ser utilizada sem a necessidade de curso ou manual, nas atividades complexas o máximo de erros aceitáveis por parte do usuário são 2 erros. |  ALTA  | 
 |RNF-002| Segurança: A aplicação deve garantir a segurança das informações do usuário, utilizando protocolos de segurança https para criptografia e Bearer Token para autenticação. |  ALTA  | 
 |RNF-003| Segurança: A senha do usuário deve conter no mínimo 6 caracteres, sendo uma letra maiúscula, letra minúscula e um dígito. |  ALTA  | 
-|RNF-004| Confiabilidade: A aplicação deve ser confiável, com no máximo 2 erros ou falhas por parte do aplicativo.  |  ALTA  | 
-|RNF-005| Performance: A aplicação deve ser rápida e com boa performance mesmo em situações de alta carga de uso. |  ALTA  | 
+|RNF-004| Confiabilidade: A aplicação deve ser confiável, com no máximo 2 erros ou falhas por parte do aplicativo. |  ALTA  | 
+|RNF-005| Performance: A aplicação deve ser rápida e com boa performance mesmo em situações com mais de 10 usuários conectados simultaneamente. |  ALTA  | 
 |RNF-006| Performance: A aplicação deve carregar todas as telas em no máximo 5 segundos. |  ALTA  | 
-|RNF-007| Escalabilidade: A aplicação deve ser capaz de lidar com um grande número de usuários, sem comprometer sua performance ou segurança. |  ALTA  | 
-|RNF-008| Manutenibilidade: A aplicação deve ser facilmente mantida e atualizada, com código organizado e documentação clara no GitHub. |  MÉDIA | 
+|RNF-007| Escalabilidade: A aplicação deve ser capaz de lidar com mais de 10 usuários novos a cada ano, sem comprometer seu desempenho ou segurança. |  ALTA  | 
+|RNF-008| Manutenibilidade: A aplicação deve ser facilmente mantida e atualizada, com código organizado e documentação clara no GitHub. |  MÉDIA  | 
 
 # Restrições
 
