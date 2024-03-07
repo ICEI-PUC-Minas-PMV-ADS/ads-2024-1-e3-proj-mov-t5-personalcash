@@ -153,7 +153,7 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 | Vitor Andrade   | Diminuir as dificuldades em acompanhar a parte financeira do meu próprio negócio. | Diminuir a minha carga horária de serviço. | 
 | Vitor Andrade   | Poder gerenciar a minha carteira de clientes sem muito esforço.  | Para ter mais tempo livre e praticar hobbies. | 
 | Hugo Oliveira | Ter uma gestão sólida do meu negócio. | Conseguir ter uma carreira consolidade como Personal Trainer. |               
-| Hugo Oliveira | Não ter mais receio na mstemática e gestão financeira. | Entender como alavancar o meu negócio com as ferramentas da gestão financeira. | 
+| Hugo Oliveira | Não ter mais receio na matemática e na gestão financeira. | Entender como alavancar o meu negócio com as ferramentas da gestão financeira. | 
 | Bianca Colombo  | Ter uma ferramenta que ajuda na gestão financeira do meu negócio. | Conseguir mais tempo no meu desenvolvimento profissional. |
 | Bianca Colombo | Poder ter um gestão financeira do meu negócio de uma forma simples e eficaz. | Para não ficar limitada em entender plataformas complexas ou ineficazes. |  
 
@@ -201,7 +201,7 @@ As tabelas seguintes apresentam os requisitos funcionais e não funcionais que d
 |RF-003| Permitir o cadastro da data do treino. | ALTA |
 |RF-004| Permitir o cadastro do histórico de pagamentos do cliente com a data e se o cliente pagou ou não pelo treino. | ALTA |
 |RF-005| Permitir a visualização dos valores pagos por data e se há alguma pendência remanescente dos treinamentos já realizados, exemplo: Data do treinamento, divida total e valor pago. | ALTA |
-|RF-006| Permitir a visualização de uma lista dos clientes do personal para ser preenchido via checklist conforme a data do treinamento e o turno (manhã, tarde e noite).| Alta |
+|RF-006| Permitir a visualização de uma lista dos clientes do personal para ser preenchido via checklist conforme a data do treinamento e o turno (manhã, tarde e noite).| ALTA |
 |RF-007| Permitir a visualização de um histórico de um dia exato, demonstrando o valor de cada cliente para ser recebido e a somatória de todos os valores. Exemplo: Data 06/01/24, Total: R$500,00. Clientes: Ana: R$200,00 e Mari: R$150,00.| ALTA |
 
 # Requisitos não Funcionais
