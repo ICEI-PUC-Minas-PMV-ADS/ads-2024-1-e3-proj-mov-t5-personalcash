@@ -179,12 +179,9 @@ Assim, o objetivo subjacente ao conceber o aplicativo Personal Cash é fornecer 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/2f20442c-d27f-4275-ae75-912bff51abcf)
 
- 
-# Processo 2 – NOME DO PROCESSO  ( EM CONTRUÇÃO)
+ # Processo 2 – Editar Perfil do Usuário 
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
-
-![Processo 2](img/02-bpmn-proc2.png)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/da21c7df-7b92-487d-86a9-b3e0f2933b80)
 
 # Indicadores de Desempenho  ( EM CONTRUÇÃO)
 
