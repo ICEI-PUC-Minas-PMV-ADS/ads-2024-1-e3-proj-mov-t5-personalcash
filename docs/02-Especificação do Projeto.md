@@ -15,11 +15,11 @@ As personas identificadas neste projeto incluem aos seguintes atributos demonstr
 
 # Persona 1: Lucas Silva
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/f1cfa3f6-709a-4f17-b5cf-d799715603f1)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/f08d192f-df59-4e8e-9611-aa5fb5aab856)
 
 
 **Fonte imagem:**
-https://conteudo.imguol.com.br/c/entretenimento/16/2021/08/12/idoso-malhando-academia-1628799879668_v2_4x3.jpg
+[https://conteudo.imguol.com.br/c/entretenimento/16/2021/08/12/idoso-malhando-academia-1628799879668_v2_4x3.jpg](https://www.polar.com/br/img/cms/5a70bb13572b4b57e197bbf3ac6701493c1223c3-1740x980-756.jpg)
 
 **Motivações:**
 
