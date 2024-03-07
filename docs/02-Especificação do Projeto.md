@@ -206,6 +206,8 @@ Apresente aqui os principais indicadores de desempenho e algumas metas para o pr
 
 # 4º Indicador: Número de clientes (Do Personal Trainer) cadastrados no app.
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/45903960-0c3f-4450-906e-aff6e37c940d)
+
 # 5º Indicador:
 
 
