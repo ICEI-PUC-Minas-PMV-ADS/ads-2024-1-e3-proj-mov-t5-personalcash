@@ -39,10 +39,11 @@ As personas identificadas neste projeto incluem aos seguintes atributos demonstr
 
 # Persona 2: Lívia Santos 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/bab64e51-ce67-4cee-b1bf-bff77f39a8b3)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/634615c2-50e3-4520-9de3-1d0e14b80a02)
+
 
 **Fonte imagem:**
-https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+[https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D](https://img.freepik.com/premium-photo/sportswoman-is-doing-exercises-gym-while-her-female-personal-trainer-is-kneeling-her_232070-14429.jpg)
 
 **Motivações:**
 
