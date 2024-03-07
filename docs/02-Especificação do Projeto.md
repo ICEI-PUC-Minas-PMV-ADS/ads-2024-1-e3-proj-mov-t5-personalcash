@@ -194,6 +194,9 @@ Apresente aqui os principais indicadores de desempenho e algumas metas para o pr
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/b72c0aac-97b6-4919-904a-8878a7661058)
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/417de865-9fca-483f-af61-fc4d894b0142)
+
+
 
 
 
