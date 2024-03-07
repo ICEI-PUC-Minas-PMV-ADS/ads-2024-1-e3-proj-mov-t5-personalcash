@@ -205,6 +205,7 @@ As tabelas seguintes apresentam os requisitos funcionais e não funcionais que d
 |-------|-------------------------|----|
 |RNF-001| Usabilidade: A aplicação deve ser de fácil de usar e intuitiva, com interface amigável e boa experiência do usuário. | ALTA | 
 |RNF-002| Segurança: A aplicação deve garantir a segurança das informações do usuário, utilizando protocolos de segurança, criptografia e autenticação adequados. |  ALTA  | 
+|RNF-00| . |  ALTA  | 
 |RNF-003| Segurança: A senha do usuário deve conter no mínimo 6 caracteres, sendo uma letra maiúscula, letra minúscula e um dígito. |  ALTA  | 
 |RNF-004| Confiabilidade: A aplicação deve ser confiável, com baixa probabilidade de erros ou falhas.  |  ALTA  | 
 |RNF-005| Performance: A aplicação deve ser rápida e com boa performance mesmo em situações de alta carga de uso. |  ALTA  | 
