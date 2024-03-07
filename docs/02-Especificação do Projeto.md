@@ -157,11 +157,15 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 | Bianca Colombo  | Ter uma ferramenta que ajuda na gestão financeira do meu negócio. | Conseguir mais tempo no meu desenvolvimento profissional. |
 | Bianca Colombo | Poder ter um gestão financeira do meu negócio de uma forma simples e eficaz. | Para não ficar limitada em entender plataformas complexas ou ineficazes. |  
 
-## Modelagem do Processo de Negócio  ( EM CONTRUÇÃO)
+## Modelagem do Processo de Negócio 
 
-### Análise da Situação Atual  ( EM CONTRUÇÃO)
+### Análise da Situação Atual 
 
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
+Segundo informações do GetNinjas, o maior aplicativo brasileiro para contratação de profissionais via anúncios online, a demanda por Personal Trainers teve um aumento significativo, com um crescimento anual de 34% em 2021 (GETNINJAS, 2023). Outros dados fornecidos pela Tecnofit, a principal plataforma de gestão para academias e profissionais de fitness no Brasil, corroboram essa tendência. 
+
+Os dados do aplicativo Tecnofit Personal indicam um aumento mensal de 10% na busca por Personal Trainers exclusivos ao longo de 2022. Um estudo realizado com base em informações coletadas entre Agosto de 2022 e Maio de 2023 revelou que Setembro foi o mês com o maior número de pesquisas por profissionais da área, totalizando mais de 9.300 buscas na plataforma. 
+
+Desde Agosto de 2022, mais de 41 mil pessoas se cadastraram em busca de um treinador exclusivo (TECNOFIT, 2023). Esses números demonstram como existe uma demanda significativa das pessoas visando a contratação de Personal Trainers.
 
 ### Descrição Geral da Proposta  ( EM CONTRUÇÃO)
 
