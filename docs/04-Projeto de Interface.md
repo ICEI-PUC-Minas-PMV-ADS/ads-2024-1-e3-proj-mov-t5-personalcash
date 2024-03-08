@@ -17,6 +17,8 @@ Logo abaixo, o diagrama apresentado na sequência mostra o fluxo de interação 
 
 **ANEXAR FOTO DO DIAGRAMA**
 
+EXEMPLO DE DIAGRAMA:
+
 ![Exemplo de Diagrama de Fluxo](img/diagramafluxo2.jpg)
 
 
