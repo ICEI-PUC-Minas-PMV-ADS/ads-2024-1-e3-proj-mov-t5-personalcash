@@ -70,7 +70,7 @@ https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/867/views/1
 
 -	**Planejamento**:
 
-- `Planejamento`:
+- **`Planejamento`**:
 
 -	**Execução**:
 
