@@ -70,6 +70,10 @@ https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/867/views/1
 
 - **`Planejamento`**:
 
+Nesta etapa está planejada a elaboração do Documento de Contexto e Especificação do Problema.
+
+Seguindo também a composição dos referentes tópicos: Definição do Problema / Introdução, Problema, Proposta de Solução / Objetivos, Objetivo Principal, Objetivo Específico, Trabalhos relacionados (soluções que já existem), Justificativa, Público-Alvo, Especificações do Projeto, Personas, Histórias de Usuários, Modelagem do Processo de Negócio, Indicadores de Desempenho, Requisitos, Requisitos Funcionais, Requisitos não Funcionais, Restrições, Diagrama de Casos de Uso, Matriz de Rastreabilidade, Gerenciamento de Projeto, Gerenciamento de Tempo , Gerenciamento de Equipe e  Gestão de Orçamento .
+
 - **`Execução`**:
 
 - **`Evidências`**:
