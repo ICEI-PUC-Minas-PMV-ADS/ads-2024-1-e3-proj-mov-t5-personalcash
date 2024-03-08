@@ -5,7 +5,7 @@ Contextualizamos todo o processo relacionado ao desenvolvimento do sistema de Pe
 
 Apresentamos todas as ferramentas, os ambientes e as partes estruturais descritas do trabalho, bem como a aplicação da linguagem adotada por nossa equipe de desenvolvimento para a execução do projeto.
 
-## Relação de Ambientes de Trabalho
+# Relação de Ambientes de Trabalho
 
 Os artefatos do projeto Personal Cash são desenvolvidos por toda a equipe a partir de diversas plataformas. A relação dos ambientes de trabalho com o seu respectivo propósito está detalhadamente apresentado na seguinte tabela:
 
@@ -17,7 +17,7 @@ Os artefatos do projeto Personal Cash são desenvolvidos por toda a equipe a par
 | Projeto de Interface e Wireframes | Figma           | [Projeto de Interface e Wireframes](https://www.figma.com/file/PVMDd8ZYhduvIBc5eUkktw/Grupo-02---Le.io-App?type=design&node-id=0%3A1&mode=design&t=2Ob3Hm0gWIMeTHxV-1)                      |
 | Gerenciamento do Projeto (Board)          | GitHub Projects | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/867
 
-## Controle de Versão
+# Controle de Versão
 
 A ferramenta de controle de versão adotada no projeto foi o [Git](https://git-scm.com/), sendo que o [Github](https://github.com) 
 foi utilizado para hospedagem do repositório.
@@ -66,20 +66,12 @@ Para a organização e distribuição das tarefas do projeto, o grupo esta utili
 **Foto ilustrativa do board do nosso Projeto, link:**
 https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/867/views/1
 
+# Ferramentas 
 
+| Ferramenta | Descrição | 
+| --- | --- | 
+| Editor de código | Visual Studio Code | 
+| Linguagem utilizada | Framework do React |
+| Ferramentas de comunicação | Microsoft Teams, Whatsapp | 
+| Ferramentas de desenho de tela | Figma |
 
-### Ferramentas (EM CONSTRUÇÃO)
-
-As ferramentas empregadas no projeto são:
-
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
-
-O editor de código foi escolhido porque ele possui uma integração com o sistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.
-
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
