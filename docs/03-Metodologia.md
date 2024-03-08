@@ -66,6 +66,22 @@ Para a organização e distribuição das tarefas do projeto, o grupo esta utili
 **Foto ilustrativa do board do nosso Projeto, link:**
 https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/867/views/1
 
+# Etapa 1
+
+-	**Planejamento**:
+
+-	**Execução**:
+
+-	**Evidências**:
+
+# Etapa 2
+
+# Etapa 3
+
+# Etapa 4
+
+# Etapa 5
+
 # Ferramentas 
 
 | Ferramenta | Descrição | 
