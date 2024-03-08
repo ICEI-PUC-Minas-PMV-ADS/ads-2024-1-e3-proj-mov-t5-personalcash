@@ -68,8 +68,6 @@ https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/867/views/1
 
 # Etapa 1
 
--	**Planejamento**:
-
 - **`Planejamento`**:
 
 - **`Execução`**:
@@ -79,11 +77,35 @@ https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/867/views/1
 
 # Etapa 2
 
+- **`Planejamento`**:
+
+- **`Execução`**:
+
+- **`Evidências`**:
+
 # Etapa 3
+
+- **`Planejamento`**:
+
+- **`Execução`**:
+
+- **`Evidências`**:
 
 # Etapa 4
 
+- **`Planejamento`**:
+
+- **`Execução`**:
+
+- **`Evidências`**:
+
 # Etapa 5
+
+- **`Planejamento`**:
+
+- **`Execução`**:
+
+- **`Evidências`**:
 
 # Ferramentas 
 
