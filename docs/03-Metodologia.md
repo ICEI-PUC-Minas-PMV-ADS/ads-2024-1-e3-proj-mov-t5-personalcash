@@ -78,8 +78,21 @@ Definição do Problema / Introdução, Problema, Proposta de Solução / Objeti
 
 - **`Execução`**:
 
+Todos os membros tiveram participação ativa na execução dos seguintes tópicos. Os temas foram abordados diretamente no grupo de WhatsApp do grupo e também através das orientações do coordenador do grupo via os encontros semanais.
+
 - **`Evidências`**:
 
+Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 01 do trabalho no dia 06/03/2024:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/40dd174a-c3ce-40f8-8d24-3f0eee78f94f)
+
+Atualização do Board do GitHub (Kanban) com as atividades concluídas de toda a etapa 01 do trabalho no dia 08/03/2024:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/b0bc5748-8de1-490f-8287-d06e76f123e1)
+
+Board Atualizado com os Issues e Milestones concluídos da Etapa 01 no dia 08/03/2024:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/8dbd541e-1276-4f3e-94e8-b629925a75d0)
 
 # Etapa 2
 
