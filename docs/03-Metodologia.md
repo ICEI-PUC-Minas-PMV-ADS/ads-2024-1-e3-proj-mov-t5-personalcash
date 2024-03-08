@@ -84,6 +84,8 @@ Definição do Problema / Introdução, Problema, Proposta de Solução / Objeti
 
 Todos os membros tiveram participação ativa na execução dos seguintes tópicos. Os temas foram abordados diretamente no grupo de WhatsApp do grupo e também através das orientações do coordenador do grupo via os encontros semanais.
 
+O Rafael dos Santos Rodrigues entrou no grupo no final da entrega da 1º etapa.
+
 - **`Evidências`**:
 
 Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 01 do trabalho no dia 06/03/2024:
