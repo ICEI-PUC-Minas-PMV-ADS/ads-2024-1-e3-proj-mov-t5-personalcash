@@ -24,19 +24,18 @@ foi utilizado para hospedagem do repositório.
 
 O projeto segue a seguinte convenção para o nome de branches:
 
-- `main`: versão estável já testada do software
-- `unstable`: versão já testada do software, porém instável
-- `testing`: versão em testes do software
-- `dev`: versão de desenvolvimento do software
+- `main`: Versão estável já testada do software
+- `unstable`: Versão já testada do software, porém instável
+- `testing`: Versão em testes do software
+- `dev`: Versão de desenvolvimento do software
 
 Quanto à gerência de issues, o projeto adota a seguinte convenção para
 etiquetas:
 
-- `documentation`: melhorias ou acréscimos à documentação
-- `bug`: uma funcionalidade encontra-se com problemas
-- `enhancement`: uma funcionalidade precisa ser melhorada
-- `feature`: uma nova funcionalidade precisa ser introduzida
-
+- `documentation`: Melhorias ou acréscimos à documentação
+- `bug`: Uma funcionalidade encontra-se com problemas
+- `enhancement`: Uma funcionalidade precisa ser melhorada
+- `feature`: Uma nova funcionalidade precisa ser introduzida
 
 # Gerenciamento de Projeto
 
