@@ -12,16 +12,12 @@ Dessa forma implementamos todos os requisitos funcionais, os requisitos não fun
 Os diagramas de fluxo do usuário são indispensáveis para dominar a experiência do usuário. Eles permitem que você entenda como os usuários interagem com seu aplicativo ou site, os passos que eles tomam para completar uma tarefa ou alcançar um objetivo em seu site.
 
 Assim, o diagrama apresenta o estudo do fluxo de interação do usuário com o sistema interativo e  muitas vezes sem a necessidade do desenho do design das telas da interface. Isso permite que o design das interações seja bem planejado e gere impacto na qualidade no design do wireframe interativo que será desenvolvido logo em seguida.
-
-O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem internamente a indicação dos principais elementos de interface - tais como menus e acessos - e funcionalidades, tais como editar, pesquisar, filtrar, configurar - e a conexão entre esses boxes a partir do processo de interação. Você pode ver mais explicações e exemplos https://www.lucidchart.com/blog/how-to-make-a-user-flow-diagram.
-
 Logo abaixo, o diagrama apresentado na sequência mostra o fluxo de interação do usuário pelas telas do sistema do app Personal Cash.
 
 
 **ANEXAR FOTO DO DIAGRAMA**
 
 ![Exemplo de Diagrama de Fluxo](img/diagramafluxo2.jpg)
-
 
 
 ## Wireframes
