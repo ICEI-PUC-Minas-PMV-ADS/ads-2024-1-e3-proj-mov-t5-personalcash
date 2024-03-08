@@ -41,7 +41,7 @@ etiquetas:
 
 O Scrum é a metodologia ágil escolhida pela equipe, ela é a base fundamental para todo o processo de desenvolvimento.
 
-### Equipe de Trabalho
+# Equipe de Trabalho
 
 A equipa está organizada da seguinte maneira:
 
