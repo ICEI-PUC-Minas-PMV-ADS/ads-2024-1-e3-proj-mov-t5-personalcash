@@ -1,11 +1,11 @@
 
 # Projeto de Interface
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
+Nessa etapa vamos ilustrar de maneira completa a visão geral da interação do usuário. Será definido as telas do sistema e o protótipo interativo das telas com as funcionalidades que fazem parte do sistema (Wireframes).
 
-Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
+As principais interfaces da plataforma serão expostas. Toda a criação foi elaborada para que a experiência do usuário fosse contemplada da melhor maneira, atendendo todas as condições já definidas em nosso Projeto de Interface.
 
- Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
+Dessa forma implementamos todos os requisitos funcionais, os requisitos não funcionais, as histórias de usuário e a documentação de especificação do Projeto.
 
 ## Diagrama de Fluxo
 
