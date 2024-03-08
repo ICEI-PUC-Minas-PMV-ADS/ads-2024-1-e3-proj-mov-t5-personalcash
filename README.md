@@ -15,7 +15,7 @@ O objetivo por trás da concepção do aplicativo Personal Cash é proporcionar 
 * Diogo Amâncio Da Silva
 * Luiz Felipe Sena Costa
 * Rafael dos Santos Rodrigues
-* 
+  
 ## Orientador
 
 * Cristiano de Macêdo Neto
