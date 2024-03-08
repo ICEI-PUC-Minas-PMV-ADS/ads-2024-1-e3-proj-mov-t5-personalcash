@@ -4,6 +4,7 @@
 
 # 1. Diagrama de Casos de Uso
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/d549772d-3232-4a56-8ffa-6426763bf95f)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/3fdf9647-c096-459e-a016-e0e9f4c4ff02)
+
 
 
