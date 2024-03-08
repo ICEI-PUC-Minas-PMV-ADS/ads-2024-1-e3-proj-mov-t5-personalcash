@@ -17,6 +17,27 @@ Os artefatos do projeto Personal Cash são desenvolvidos por toda a equipe a par
 | Projeto de Interface e Wireframes | Figma           | [Projeto de Interface e Wireframes](https://www.figma.com/file/PVMDd8ZYhduvIBc5eUkktw/Grupo-02---Le.io-App?type=design&node-id=0%3A1&mode=design&t=2Ob3Hm0gWIMeTHxV-1)                      |
 | Gerenciamento do Projeto (Board)          | GitHub Projects | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/543    
 
+## Controle de Versão
+
+A ferramenta de controle de versão adotada no projeto foi o [Git](https://git-scm.com/), sendo que o [Github](https://github.com) 
+foi utilizado para hospedagem do repositório.
+
+O projeto segue a seguinte convenção para o nome de branches:
+
+- `main`: versão estável já testada do software
+- `unstable`: versão já testada do software, porém instável
+- `testing`: versão em testes do software
+- `dev`: versão de desenvolvimento do software
+
+Quanto à gerência de issues, o projeto adota a seguinte convenção para
+etiquetas:
+
+- `documentation`: melhorias ou acréscimos à documentação
+- `bug`: uma funcionalidade encontra-se com problemas
+- `enhancement`: uma funcionalidade precisa ser melhorada
+- `feature`: uma nova funcionalidade precisa ser introduzida
+
+
 # Gerenciamento de Projeto
 
 O Scrum é a metodologia ágil escolhida pela equipe, ela é a base fundamental para todo o processo de desenvolvimento.
