@@ -41,7 +41,7 @@ etiquetas:
 
 O Scrum é a metodologia ágil escolhida pela equipe, ela é a base fundamental para todo o processo de desenvolvimento.
 
-# Equipe de Trabalho
+# Divisão de Papéis
 
 A equipa está organizada da seguinte maneira:
 
@@ -49,24 +49,12 @@ A equipa está organizada da seguinte maneira:
 - `Product Owner`: Luiz Felipe Sena Costa
 - `Equipe de Desenvolvimento`: Caê Moreira Euphrásio e Rafael dos Santos Rodrigues
 - `Equipe de Design`: Daniel Dutra De Aguiar
-
-# Gerenciamento de Projeto
-
-# Divisão de Papéis 
-
-
-
-
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-> - [Os papéis do Scrum e a verdade sobre cargos nessa técnica](https://www.atlassian.com/br/agile/scrum/roles)
-
-### Processo (EM CONSTRUÇÃO)
+- 
+# Processo
 
 Logo abaixo segue todas as informações sobre a implementação do Scrum e um detalhamento completo relacionado a cada sprint: o andamento do projeto, a execução de tarefas e o status de desenvolvimentro da solução.
 
-Para a organização e distribuição das tarefas do projeto, o grupo esta utilizando o GitHub, seguindo os critérios de:
+Para a organização e distribuição das tarefas do projeto, o grupo esta utilizando o Board do GitHub, seguindo os critérios de:
 
 - `Product Backlog`: Recebe as tarefas a serem trabalhadas e presenta o Backlogdo produto. Todas as atividades identificadas no decorrer do projeto são incorporadas a esta lista.
 - `To Do`: Esta lista representa o Sprint Backlog que está sendo trabalhado.
