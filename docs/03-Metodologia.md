@@ -57,7 +57,7 @@ Logo abaixo segue todas as informações sobre a implementação do Scrum e um d
 Para a organização e distribuição das tarefas do projeto, o grupo esta utilizando o Board do GitHub, seguindo os critérios de:
 
 - `Product Backlog`: Recebe as tarefas a serem trabalhadas e presenta o Backlogdo produto. Todas as atividades identificadas no decorrer do projeto são incorporadas a esta lista.
-- `To Do`: Esta lista representa o Sprint Backlog que está sendo trabalhado.
+- `Sprint Backlog`: Esta lista representa o Sprint Backlog que está sendo trabalhado.
 - `In progress`: Lista das tarefas iniciadas.
 - `Done`: Nesta lista são colocadas as tarefas finalizadas e as que passaram pelos testes e controle de qualidade.
 
