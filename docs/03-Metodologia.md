@@ -14,7 +14,7 @@ Os artefatos do projeto Personal Cash são desenvolvidos por toda a equipe a par
 | Repositório de código fonte       | GitHub          | [Repositório de código fonte](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/tree/main/src) |
 | Documentos do projeto             | Github          | https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/tree/main/docs       |
 | Diagramas             | Github         | https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/blob/main/docs/14-Diagramas%20Utilizados%20em%20todo%20o%20Projeto.md      |
-| Projeto de Interface e Wireframes | Figma           | [Projeto de Interface e Wireframes](https://www.figma.com/file/PVMDd8ZYhduvIBc5eUkktw/Grupo-02---Le.io-App?type=design&node-id=0%3A1&mode=design&t=2Ob3Hm0gWIMeTHxV-1)                      |
+| Projeto de Interface e Wireframes | Figma           | [Projeto de Interface e Wireframes]https://www.figma.com/file/lFf0vcposkwyv4ffoR95m7/Grupo-1---Projeto-Personal-Cash?type=design&node-id=0-1&mode=design&t=6YMlVWheJ3y2HNEF-0                     |
 | Gerenciamento do Projeto (Board)          | GitHub Projects | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/867
 
 # Controle de Versão
