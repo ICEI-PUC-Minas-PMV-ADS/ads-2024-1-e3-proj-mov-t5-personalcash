@@ -15,7 +15,7 @@ Assim, o diagrama apresenta o estudo do fluxo de interação do usuário com o s
 
 Logo abaixo, o diagrama apresentado na sequência mostra o fluxo de interação do usuário pelas telas do sistema do app Personal Cash.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/f5b11e2b-bae1-4e40-b2ca-2384f35ddc46)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/4711869d-18e1-45b9-b4d0-7b4aa5028bcd)
 
 # Wireframes
 
