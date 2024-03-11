@@ -110,6 +110,8 @@ Seguindo também a composição dos referentes tópicos: Metodologia: Relação 
 
 - **`Execução`**:
 
+A parte da Metologia foi atualizada pelo Diogo, seguido do Board e a distribuição das atividades dessa etapa. A execução de cada atividade relacionado sobre a segunda Etapa vão ser divididas através da comunicação do grupo via Whatsapp.
+
 - **`Evidências`**:
 
   Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 02 do trabalho no dia 11/03/2024:
