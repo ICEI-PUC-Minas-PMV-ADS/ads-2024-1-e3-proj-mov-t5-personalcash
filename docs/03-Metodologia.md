@@ -104,9 +104,18 @@ Board Atualizado com os Issues e Milestones concluídos da Etapa 01 no dia 08/03
 
 - **`Planejamento`**:
 
+Nesta etapa está planejada a elaboração da Continuidade da Elaboração do Projeto da Solução e Início do Desenvolvimento da Solução.
+
+Seguindo também a composição dos referentes tópicos: Metodologia: Relação de Ambientes de Trabalho, Controle de Versão, Gerenciamento de Projeto, Divisão de Papéis, Processo e Ferramentas, Projeto de Interface: Diagrama de Fluxo, Wireframes, Arquitetura da Solução: Modelo ER, Esquema Relacional, Modelo Físico, Tecnologias Utilizadas, Hospedagem e Qualidade de Software, Template Padrão da Aplicação, Programação de Funcionalidades,  Plano de Testes de Softwares: Ferramentas de Testes (Opcional), Registro de Testes de Software: Avaliação, Plano de Testes de Usabilidade e Criar tabelas, gráficos ou Dashboards com no mínimo 5 indicadores de desempenho e metas para o processo de negócio.
+
 - **`Execução`**:
 
 - **`Evidências`**:
+
+  Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 02 do trabalho no dia 11/03/2024:
+
+  ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/a617f4f4-d8d6-4f4b-b13b-27fa67b9f53a)
+
 
 # Etapa 3
 
