@@ -12,6 +12,7 @@ Dessa forma implementamos todos os requisitos funcionais, os requisitos não fun
 Os diagramas de fluxo do usuário são indispensáveis para dominar a experiência do usuário. Eles permitem que você entenda como os usuários interagem com seu aplicativo ou site, os passos que eles tomam para completar uma tarefa ou alcançar um objetivo em seu site.
 
 Assim, o diagrama apresenta o estudo do fluxo de interação do usuário com o sistema interativo e  muitas vezes sem a necessidade do desenho do design das telas da interface. Isso permite que o design das interações seja bem planejado e gere impacto na qualidade no design do wireframe interativo que será desenvolvido logo em seguida.
+
 Logo abaixo, o diagrama apresentado na sequência mostra o fluxo de interação do usuário pelas telas do sistema do app Personal Cash.
 
 
