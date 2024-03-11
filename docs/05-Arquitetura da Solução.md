@@ -1,10 +1,16 @@
 # Arquitetura da Solução
 
-<span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>
+A Arquitetura da Solução, nada mais é que a definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
+Sendo assim, esse é o Fluxo da Arquitetura aplicado ao projeto Personal Cash:
 
-Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
+1) Os usuários realizam uma requisião por meio do Front-end ou do app mobile.
+2) A requisição é consequentemente encaminhada para o Back-end que em seguida a processa.
+3) O Back-end efetua uma série de operações que envolvem a leitura, a criação, a atualização ou a exclução de dados no MySql.
+4) Posteriormente após o processamento uma resposta é instituída e encaminhada de volta para o Front-end ou Mobile.
 
-![Arquitetura da Solução](img/02-mob-arch.png)
+Consequentemente, essa arquitetura permite uma emissão compreensível de todas as responsabilidades e facilita futuras melhorias separadamente em cada componente.
+
+
 
 # Diagrama de Classes
 
