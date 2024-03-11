@@ -28,7 +28,7 @@ Logo abaixo, o diagrama apresentado na sequência mostra o fluxo de interação 
 ## Tela principal
 ![Home](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/e1a8007a-3e6e-4148-b7f3-06cef0be47ca)
 
-## Tela do usuário
+## Tela de perfil do usuário
 ![TelaUsuario](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/4b236434-2c17-41c3-a324-eac6f405dc25)
 
 ## Tela de cadastro de Clientes
