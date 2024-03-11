@@ -1,7 +1,10 @@
 # Arquitetura da Solução
 
 A Arquitetura da Solução, nada mais é que a definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
-Sendo assim, esse é o Fluxo da Arquitetura aplicado ao projeto Personal Cash:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/dba1568b-9040-42b7-9337-db7623d91d76)
+
+Sendo assim, conforme a ilustração esse é o Fluxo da Arquitetura aplicado ao projeto Personal Cash:
 
 1) Os usuários realizam uma requisião por meio do Front-end ou do app mobile.
 2) A requisição é consequentemente encaminhada para o Back-end que em seguida a processa.
