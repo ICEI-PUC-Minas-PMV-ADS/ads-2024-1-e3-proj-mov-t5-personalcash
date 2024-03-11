@@ -21,6 +21,19 @@ Logo abaixo, o diagrama apresentado na sequência mostra o fluxo de interação 
 
 ![CriarConta](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/bc4f28d9-7f12-48f1-bb6d-bc5ab631a8b3)
 
+![Login](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/bcbd80d1-5f8f-4cc0-9417-59ee936ac309)
+
+![Home](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/e1a8007a-3e6e-4148-b7f3-06cef0be47ca)
+
+![TelaUsuario](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/4b236434-2c17-41c3-a324-eac6f405dc25)
+
+![TelaCliente](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/ea145e89-ecb6-4757-85a1-947df65a7886)
+
+![TelaTreino](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/1c03cca2-6651-4f34-aa25-9e0d4d544c62)
+
+![TelaQuitarDivida](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/63b9d951-82bc-4455-8b25-73162fdc3839)
+
+
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
  
 > **Links Úteis**:
