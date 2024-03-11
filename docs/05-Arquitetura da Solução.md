@@ -6,6 +6,8 @@ A Arquitetura da Solução, nada mais é que a definição de como o software é
 
 Sendo assim, conforme a ilustração esse é o Fluxo da Arquitetura aplicado ao projeto Personal Cash:
 
+- **`1`**: Os usuários realizam uma requisião por meio do Front-end ou do app mobile.
+
 1) Os usuários realizam uma requisião por meio do Front-end ou do app mobile.
 2) A requisição é consequentemente encaminhada para o Back-end que em seguida a processa.
 3) O Back-end efetua uma série de operações que envolvem a leitura, a criação, a atualização ou a exclução de dados no MySql.
