@@ -8,10 +8,10 @@ Sendo assim, conforme a ilustração esse é o Fluxo da Arquitetura aplicado ao 
 
 Abaixo a explicação do Fluxo da Arquitetura:
 
-- **`1`º Etapa**: Os usuários realizam uma requisião por meio do Front-end ou do app mobile.
-- **`2`º Etapa**: A requisição é consequentemente encaminhada para o Back-end que em seguida a processa.
-- **`3`º Etapa**: O Back-end efetua uma série de operações que envolvem a leitura, a criação, a atualização ou a exclução de dados no MySql.
-- **`4`º Etapa**: Posteriormente após o processamento uma resposta é instituída e encaminhada de volta para o Front-end ou Mobile.
+- **`1`º**: Os usuários realizam uma requisião por meio do Front-end ou do app mobile.
+- **`2`º**: A requisição é consequentemente encaminhada para o Back-end que em seguida a processa.
+- **`3`º**: O Back-end efetua uma série de operações que envolvem a leitura, a criação, a atualização ou a exclução de dados no MySql.
+- **`4`º**: Posteriormente após o processamento uma resposta é instituída e encaminhada de volta para o Front-end ou Mobile.
 
 Consequentemente, essa arquitetura permite uma emissão compreensível de todas as responsabilidades e facilita futuras melhorias separadamente em cada componente.
 
