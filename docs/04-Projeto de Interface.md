@@ -7,7 +7,7 @@ As principais interfaces da plataforma serão expostas. Toda a criação foi ela
 
 Dessa forma implementamos todos os requisitos funcionais, os requisitos não funcionais, as histórias de usuário e a documentação de especificação do Projeto.
 
-## Diagrama de Fluxo
+# Diagrama de Fluxo
 
 Os diagramas de fluxo do usuário são indispensáveis para dominar a experiência do usuário. Eles permitem que você entenda como os usuários interagem com seu aplicativo ou site, os passos que eles tomam para completar uma tarefa ou alcançar um objetivo em seu site.
 
@@ -17,7 +17,7 @@ Logo abaixo, o diagrama apresentado na sequência mostra o fluxo de interação 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/f5b11e2b-bae1-4e40-b2ca-2384f35ddc46)
 
-## Wireframes
+# Wireframes
 
 ![Exemplo de Wireframe](img/wireframe-example.png)
 
