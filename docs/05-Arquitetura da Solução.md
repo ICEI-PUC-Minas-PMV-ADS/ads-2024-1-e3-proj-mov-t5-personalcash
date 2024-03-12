@@ -6,9 +6,6 @@ Sendo assim, conforme a ilustração esse é o Fluxo da Arquitetura aplicado ao 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/dba1568b-9040-42b7-9337-db7623d91d76)
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/d467b809-d979-4e1d-9e19-7b661a1fa5d5)
-
-
 Abaixo a explicação do Fluxo da Arquitetura:
 
 - **`1`º**: Os usuários realizam uma requisião por meio do Front-end ou do app mobile.
