@@ -26,13 +26,11 @@ Todas essas classes demonstradas servem de um modelo com o objetivo de matrerial
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/a89596c9-a86c-49c9-b146-b56008cae817)
 
 
-# Modelo ER EM CONSTRUÇÃO)
+# Modelo ER
 
 O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.]
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Modelo ER”.
-
-> - [Como fazer um diagrama entidade relacionamento | Lucidchart](https://www.lucidchart.com/pages/pt/como-fazer-um-diagrama-entidade-relacionamento)
+![Modelo ER E3](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/e27e0e4c-07f8-44aa-a60c-e7c4ff20ee3b)
 
 # Esquema Relacional EM CONSTRUÇÃO)
 
