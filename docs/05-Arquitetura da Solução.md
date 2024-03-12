@@ -28,7 +28,7 @@ Todas essas classes demonstradas servem de um modelo com o objetivo de matrerial
 
 # Modelo Entidade-Relacionamento
 
-O Modelo ER, trata-se de um modelo conceitual usado para descrever entidades (coisas, objetos) envolvidos no domínio de um sistema a ser constreuído, incluindo seus atributos e relacionamentos.
+O Modelo ER, trata-se de um modelo conceitual usado para descrever entidades (coisas, objetos) envolvidos no domínio de um sistema a ser constreuído, incluindo seus atributos e relacionamentos. </br>
 O Modelo Entidade-Relacionamento permite representar de forma abstrata a estrutura que irá constituir o banco de dados.
 
 ![Modelo ER E3](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/e27e0e4c-07f8-44aa-a60c-e7c4ff20ee3b)
