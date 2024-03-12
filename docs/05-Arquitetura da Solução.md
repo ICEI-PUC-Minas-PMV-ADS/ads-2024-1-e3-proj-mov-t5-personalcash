@@ -19,9 +19,9 @@ Consequentemente, essa arquitetura permite uma emissão compreensível de todas 
 
 O diagrama de classes ilustra graficamente como será a estrutura do software, e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que executarão na memória.
 
-A seguir o diagrama de classe do projeto Personal Cash demonstra visualmente como será toda a estrutura do software, dessa forma, como cada uma das classes da sua estrutura estarão interligadas. Toddas essas classes demonstradas servem de um modelo com o objetivo de matrerializar os objetos que serão executados na memória. 
+A seguir o diagrama de classe do projeto Personal Cash demonstra visualmente como será toda a estrutura do software, dessa forma, como cada uma das classes da sua estrutura estarão interligadas, para a sua construção foi utilizada a ferramenta Canva.
 
-Foi utilizada a ferramenta Canva.
+Todas essas classes demonstradas servem de um modelo com o objetivo de matrerializar os objetos que serão executados na memória.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/c0ee6846-5b91-418f-bd56-d43a61c1d270)
 
