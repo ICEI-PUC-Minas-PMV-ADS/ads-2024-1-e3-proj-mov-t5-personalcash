@@ -15,7 +15,7 @@ Abaixo a explicação do Fluxo da Arquitetura:
 
 Consequentemente, essa arquitetura permite uma emissão compreensível de todas as responsabilidades e facilita futuras melhorias separadamente em cada componente.
 
-# Diagrama de Classes (EM CONSTRUÇÃO)
+# Diagrama de Classes
 
 O diagrama de classes ilustra graficamente como será a estrutura do software, e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que executarão na memória.
 
@@ -23,8 +23,7 @@ A seguir o diagrama de classe do projeto Personal Cash demonstra visualmente com
 
 Foi utilizada a ferramenta Canva.
 
-**INSERIR ILUSTRAÇÃO**
-
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/c0ee6846-5b91-418f-bd56-d43a61c1d270)
 
 # Modelo ER EM CONSTRUÇÃO)
 
