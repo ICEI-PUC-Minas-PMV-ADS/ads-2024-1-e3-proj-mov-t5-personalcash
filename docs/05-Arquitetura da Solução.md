@@ -48,7 +48,7 @@ Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do ba
 
 # Tecnologias Utilizadas (EM CONSTRUÇÃO)
 
-Estas serão as tecnologias utilizadas para a criação e conclusão do projeto.
+Estas serão as tecnologias utilizadas para a criação, desenvolvimento e conclusão do projeto.
 
 >- Linguagem utlizada para desenvolver o projeto: JavaScript;
 >- Biblioteca utilizada: React;
