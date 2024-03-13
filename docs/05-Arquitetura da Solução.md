@@ -46,7 +46,7 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Esquema Rel
 
 Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do banco de dados. Este arquivo deverá ser incluído dentro da pasta src\bd.
 
-# Tecnologias Utilizadas (EM CONSTRUÇÃO)
+# Tecnologias Utilizadas 
 
 Estas serão as tecnologias utilizadas para a criação, desenvolvimento e conclusão do projeto:
 
