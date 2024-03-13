@@ -52,7 +52,7 @@ Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, 
 
 Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
 
-# Hospedagem EM CONSTRUÇÃO)
+# Hospedagem (EM CONSTRUÇÃO)
 
 Explique como a hospedagem e o lançamento da plataforma foi feita.
 
