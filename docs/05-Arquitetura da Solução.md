@@ -64,7 +64,9 @@ Apresente também uma figura explicando como as tecnologias estão relacionadas 
 
 # Utilizando o GitHub
 
-1. **Repositório**: 
+- **`Repositório`**:
+-
+- 1. **Repositório**: 
 
 Foi criado um repositório no Github visando armazenar todo o código-fonte e a documentação do projeto. Assim fica totalmente viável a realização de alterações, permitindo uma colaboração entre todos os membros do time.
 
