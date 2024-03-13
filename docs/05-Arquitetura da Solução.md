@@ -48,7 +48,7 @@ Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do ba
 
 # Tecnologias Utilizadas (EM CONSTRUÇÃO)
 
-Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
+Estas serão as tecnologias utilizadas para a criação e conclusão do projeto.
 
 >- Linguagem utlizada para desenvolver o projeto: JavaScript;
 >- Biblioteca utilizada: React;
