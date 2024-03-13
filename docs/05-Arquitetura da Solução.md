@@ -71,4 +71,42 @@ Dessa forma, foi levantado para o projeto seis características com três sub-ca
 
 Logo abaixo é apresentado a justificação de todas as sub-características escolhidas pelo time e as métricas que permitirão a equipe avaliar os objetos de interesse.
 
+**1.	Confiabilidade – Refere-se à capacidade que o software possui em manter o seu desempenho após falhas.**
+| -------------------------------------------------------------------------------- |
+| **Recuperabilidade:** Contextualiza sobre a capacidade do software recuperar os seus dados após uma situação de falha. Assim, é fundamental que não ocorra perdas de informações importantes ao usuário. Caso ocorra perdas, que não sejam dados essencialmente tão importantes. |
+| **Maturidade:** É indicado a frequência da ocorrência das falhas. Quanto mais falhas o software tiver, menos maduro ele vai estar.
+Isso é extremamente importante para o app, pois uma simples falha pode comprometer o sistema, sendo um fator impeditivo onde o Personal não consiga, por exemplo, gerenciar o fluxo das suas finanças. |
+| **Tolerância a falhas:** É verificado o comportamento do software após uma possível falha, como a aplicação é focado em um controle monetário particular de um Personal, é muito importante que o software tenha uma reação adequada após uma falha onde o usuário não perca as suas informações primordiais. |
+
+**2.	Funcionalidade  – Certifica-se sobre um conjunto de funções determinadas a atender às necessidades definidas anteriormente nos requisitos estabelecidos.**
+| ----------------------------------------------------------------------------------- |   
+| **Segurança:** Condiz sobre a capacidade de proteção aos dados dos usuários. A aplicação recolhe e armazena informações financeiras relevantes ao Personal, a segurança é muito importante. Será avaliado sobre a segurança de acesso aos dados inseridos e a segurança da senha do usuário. |
+| **Acurácia:** É avaliado se o app compõe os resultados precisos conforme o solicitado. Tendo em vista que a sua principal função é registrar o fluxo financeiro de toda a cartela de clientes do Personal.|
+| **Adequação:** Verifica-se se o software exerce adequadamente a finalidade do seu objetivo e principalmente, se ele satisfaz o foco da aplicação que é o gerenciamento financeiro da carteira de clientes de Personal Trainers. |
+
+**3.	Eficiência – É indicado sobre ao desempenho do software.**
+| ----------------------------------------------------------------------------------- |
+| **Conformidade:** Objetiva garantir que a aplicação forneça um serviço compatível com o desempenho desejado, será averiguado se os resultados de todas as pesquisas realizadas pelos usuários do aplicativo são precisos. |
+| **Comportamento em relação ao tempo:** Condiz sobre ao tempo de resposta do software, por se tratar de um app móvel espera-se que todas as informações sejam rapidamente apresentadas na tela. Sendo assim, melhorar o desempenho da aplicação é extremamente importante. |
+| **Utilização de Recursos:** Relaciona-se aos recursos necessários do app para viabilizar o que foi solicitado. É analisado a entrega de dados, garantindo um tempo plausível na exibição das informações ao usuário. |
+
+**4.	Usabilidade – Corresponde sobre a facilidade de uso do software pelo usuário.**
+| ----------------------------------------------------------------------------------- |
+| **Atratividade:** Condiz sobre a capacidade do software em captar a atenção do usuário para demonstrar aspectos relevantes da aplicação. Como o app é uma ferramenta que visa auxiliar no gerenciamento financeiro do Personal, o foco está nos registros e na fácil visualização do controle das finanças cadastradas pelo usuário. |
+| **Inteligibilidade:** É avaliado a capacidade do software transmitir a sua finalidade de uso, a aplicação visa ser acessível com um layout muito intuitivo para todos os usuários, independente do nível de conhecimento e da faixa etária. |
+| **Apreensibilidade:** Refere-se ao esforço que o usuário necessita para aprender a utilizar a aplicação. O desenvolvimento do software deve ser realizado com o intuito de facilitar a aprendizagem, evitando adversidades na sua utilização. |
+
+
+**5.	Portabilidade - Aborda sobre à capacidade do software ser transferido de um ambiente para outro.**
+| ----------------------------------------------------------------------------------- |
+| **Coexistência:** É verificado se o software pode funcionar corretamente com outros sistemas instalados. Vai ser analisado se existem conflitos com outros aplicativos e sistemas operacionais. |
+| **Capacidade para substituir:** É determinado se o software pode substituir outro no ambiente operacional, tendo em vista que ele vai estar disponível para download em todas as plataformas móveis. |
+| **Capacidade de instalação:** É avaliado a facilidade de instalação do software, pois, como é um aplicativo móvel, aqui é considerado as possíveis dificuldades que o usuário pode ter no momento da sua instalação. |
+
+**6.	Manutenibilidade – Aborda ao esforço empregado para efetuar alterações no software.**
+| ----------------------------------------------------------------------------------- |   
+| **Modificabilidade:** Ao esforço prescrito para modificar o software. A estruturação do código e a documentação do mesmo vão ser analisados para existir uma facilitação na identificação de todas as funções necessárias. |
+| **Testabilidade:** É avaliado todo o esforço prescrito para testar o software após as alterações, assim, o time de desenvolvimento vai realizar testes de usabilidade visando a garantia do funcionamento correto da aplicação. |
+| **Analisabilidade:** É analisado o código para apontar a facilidade, ou, determinar uma dificuldade para mapear e identificar os problemas. Aqui é avaliado o esforço utilizado para analisar o projeto.. |
+
 # Métricas (EM CONSTRUÇÃO)
