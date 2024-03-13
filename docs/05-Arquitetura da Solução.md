@@ -42,7 +42,7 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Esquema Rel
 
 > - [Criando um modelo relacional - Documentação da IBM](https://www.ibm.com/docs/pt-br/cognos-analytics/10.2.2?topic=designer-creating-relational-model)
 
-## Modelo Físico EM CONSTRUÇÃO)
+# Modelo Físico (EM CONSTRUÇÃO)
 
 Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do banco de dados. Este arquivo deverá ser incluído dentro da pasta src\bd.
 
