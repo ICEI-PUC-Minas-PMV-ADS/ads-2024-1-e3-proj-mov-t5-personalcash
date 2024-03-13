@@ -60,16 +60,24 @@ Estas serão as tecnologias utilizadas para a criação, desenvolvimento e concl
 
 Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
 
-# Hospedagem (EM CONSTRUÇÃO)
+# Hospedagem
 
-Explique como a hospedagem e o lançamento da plataforma foi feita.
+# Utilizando o GitHub
 
-> **Links Úteis**:
->
-> - [Website com GitHub Pages](https://pages.github.com/)
-> - [Programação colaborativa com Repl.it](https://repl.it/)
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Publicando Seu Site No Heroku](http://pythonclub.com.br/publicando-seu-hello-world-no-heroku.html)
+1. **Repositório**: 
+
+Foi criado um repositório no Github visando armazenar todo o código-fonte e a documentação do projeto. Assim fica totalmente viável a realização de alterações, permitindo uma colaboração entre todos os membros do time.
+
+2. **Branching e Merging**: 
+
+O recurso de Branching foi utilizado visando o desenvolvimento de novas funcionalidades e a correção de bugs. As alterações foram integradas no branch principal por meio de Pull Requests.
+
+3. **CI/CD**: 
+Uma pipeline de Integração Contínua/Entrega Contínua foi configurada visando automatizar os testes e outros checks antes de incorporar as alterações.
+
+# Utilizando Github Pages e SQLite
+
+A hospedagem do projeto vai ser realizado diretamente no Github Pages em conjunto com o SQLite para o armazenamento de todos os dados.
 
 # Qualidade de Software 
 
