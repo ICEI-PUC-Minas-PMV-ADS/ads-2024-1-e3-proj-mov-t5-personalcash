@@ -78,7 +78,7 @@ Logo abaixo é apresentado a justificação de todas as sub-características esc
 Isso é extremamente importante para o app, pois uma simples falha pode comprometer o sistema, sendo um fator impeditivo onde o Personal não consiga, por exemplo, gerenciar o fluxo das suas finanças. |
 | **Tolerância a falhas:** É verificado o comportamento do software após uma possível falha, como a aplicação é focado em um controle monetário particular de um Personal, é muito importante que o software tenha uma reação adequada após uma falha onde o usuário não perca as suas informações primordiais. |
 
-**2.	Funcionalidade  – Certifica-se sobre um conjunto de funções determinadas a atender às necessidades definidas anteriormente nos requisitos estabelecidos.**
+**2.	Funcionalidade – Certifica-se sobre um conjunto de funções determinadas a atender às necessidades definidas anteriormente nos requisitos estabelecidos.**
 | ----------------------------------------------------------------------------------- |   
 | **Segurança:** Condiz sobre a capacidade de proteção aos dados dos usuários. A aplicação recolhe e armazena informações financeiras relevantes ao Personal, a segurança é muito importante. Será avaliado sobre a segurança de acesso aos dados inseridos e a segurança da senha do usuário. |
 | **Acurácia:** É avaliado se o app compõe os resultados precisos conforme o solicitado. Tendo em vista que a sua principal função é registrar o fluxo financeiro de toda a cartela de clientes do Personal.|
