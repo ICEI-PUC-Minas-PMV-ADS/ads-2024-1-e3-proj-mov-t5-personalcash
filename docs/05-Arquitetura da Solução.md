@@ -64,17 +64,16 @@ Apresente também uma figura explicando como as tecnologias estão relacionadas 
 
 # Utilizando o GitHub
 
-- **`Repositório`**:
--
-- 1. **Repositório**: 
+- **1. `Repositório`**:
 
 Foi criado um repositório no Github visando armazenar todo o código-fonte e a documentação do projeto. Assim fica totalmente viável a realização de alterações, permitindo uma colaboração entre todos os membros do time.
 
-2. **Branching e Merging**: 
+- **2.`Branching e Merging`**:
 
 O recurso de Branching foi utilizado visando o desenvolvimento de novas funcionalidades e a correção de bugs. As alterações foram integradas no branch principal por meio de Pull Requests.
 
-3. **CI/CD**: 
+- **3.`CI/CD`**:
+  
 Uma pipeline de Integração Contínua/Entrega Contínua foi configurada visando automatizar os testes e outros checks antes de incorporar as alterações.
 
 # Utilizando Github Pages e SQLite
