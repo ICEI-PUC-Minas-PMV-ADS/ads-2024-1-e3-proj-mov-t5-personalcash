@@ -125,6 +125,9 @@ No tópico sobre a Arquitetura da Solução, Diagrama de Classes, Modelo Entidad
 
   ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/a617f4f4-d8d6-4f4b-b13b-27fa67b9f53a)
 
+  Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 02 do trabalho no dia 13/03/2024:
+
+  ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/97b7dd68-1a81-44af-8ce5-a3184b223619)
 
 # Etapa 3
 
