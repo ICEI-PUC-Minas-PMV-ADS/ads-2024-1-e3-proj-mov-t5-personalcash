@@ -61,7 +61,7 @@ Estas serão as tecnologias utilizadas para a criação, desenvolvimento e concl
 
 # Hospedagem
 
-# Utilizando o GitHub
+## Utilizando o GitHub
 
 - **1. `Repositório`**:
 
@@ -75,7 +75,7 @@ O recurso de Branching foi utilizado visando o desenvolvimento de novas funciona
   
 Uma pipeline de Integração Contínua/Entrega Contínua foi configurada visando automatizar os testes e outros checks antes de incorporar as alterações.
 
-# Utilizando Github Pages e SQLite
+## Utilizando Github Pages e SQLite
 
 A hospedagem do projeto vai ser realizado diretamente no Github Pages em conjunto com o SQLite para o armazenamento de todos os dados.
 
