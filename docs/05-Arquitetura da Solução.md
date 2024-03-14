@@ -59,8 +59,6 @@ Estas serão as tecnologias utilizadas para a criação, desenvolvimento e concl
 >- Ferramenta para crição do template: Figma;
 >- Ferramenta para criação de diagramas: Draw.io;
 
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
-
 # Hospedagem
 
 # Utilizando o GitHub
