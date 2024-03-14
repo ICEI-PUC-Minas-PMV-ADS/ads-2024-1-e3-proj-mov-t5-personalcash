@@ -4,7 +4,7 @@ A Arquitetura da Solução, nada mais é que a definição de como o software é
 
 Sendo assim, conforme a ilustração esse é o Fluxo da Arquitetura aplicado ao projeto Personal Cash:
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/dba1568b-9040-42b7-9337-db7623d91d76)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/79aaf759-e3cb-406f-b156-81dd05a07733)
 
 Abaixo a explicação do Fluxo da Arquitetura:
 
