@@ -41,7 +41,7 @@ O Esquema Relacional corresponde à representação dos dados em tabelas juntame
 Assim, o Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa, logo abaixo o
 Modelo ER do projeto Personal Cash.
  
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/2c7aca75-a00d-4498-adb8-b255e5be06c3)
+![Modelo ER E3-2](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/f8a0107f-1e08-4738-8c25-47c6057121e5)
 
 # Modelo Físico (EM CONSTRUÇÃO)
 
