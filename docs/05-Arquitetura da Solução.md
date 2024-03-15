@@ -148,8 +148,8 @@ Assim, as respostas reveladas pelos usuários na escala irão possuir os seguint
 | Comportamento em relação ao tempo |  O sistema é lento, ou, demora para responder alguma solicitação? | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
 | Utilização de Recursos |  Os recursos usados pelo sistema entregam o que é solicitado? | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
 | Atratividade |  Existe algum aspecto pontual do sistema que se destaca e chama mais a atenção? | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
-| Inteligibilidade |  ADICIONAR PERGUNTA | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
-| Apreensibilidade |  ADICIONAR PERGUNTA | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
+| Inteligibilidade |  É demonstrado com clareza a função do sistema? | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
+| Apreensibilidade |   A aplicação é fácil de ser utilizada? | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
 | Coexistência |  ADICIONAR PERGUNTA | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
 | Capacidade para substituir |  ADICIONAR PERGUNTA | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
 | Capacidade de instalação |  ADICIONAR PERGUNTA | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
