@@ -145,7 +145,7 @@ Assim, as respostas reveladas pelos usuários na escala irão possuir os seguint
 | Acurácia |  O sistema consegue oferecer a entrega dos resultados de forma precisa e correta? | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
 | Adequação |  O sistema atende a sua principal função de registrar os valores das aulas e o cadastro de clientes do Personal Trainer? | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
 | Conformidade |  O sistema entrega resultados positivos conforme o que foi estabelecido? | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
-| Comportamento em relação ao tempo |  ADICIONAR PERGUNTA | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
+| Comportamento em relação ao tempo |  O sistema é lento, ou, demora para responder alguma solicitação? | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
 | Utilização de Recursos |  ADICIONAR PERGUNTA | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
 | Atratividade |  ADICIONAR PERGUNTA | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
 | Inteligibilidade |  ADICIONAR PERGUNTA | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
