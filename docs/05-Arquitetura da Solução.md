@@ -139,7 +139,7 @@ Assim, as respostas reveladas pelos usuários na escala irão possuir os seguint
 | Subcaracterística | Métrica | Escala | Peso |
 |---------|--------------------------------------------------------------|--------------| -------------- |
 | Recuperabilidade |  Após uma falha, existe a perda de dados significativos? | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
-| Maturidade |  ADICIONAR PERGUNTA | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
+| Maturidade |  O sistema apresenta falhas constantes? | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
 | Tolerância a falhas |  ADICIONAR PERGUNTA | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
 | Segurança |  ADICIONAR PERGUNTA | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
 | Acurácia |  ADICIONAR PERGUNTA | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
