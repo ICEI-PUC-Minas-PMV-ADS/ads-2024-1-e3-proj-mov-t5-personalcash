@@ -151,7 +151,7 @@ Assim, as respostas reveladas pelos usuários na escala irão possuir os seguint
 | Inteligibilidade |  É demonstrado com clareza a função do sistema? | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
 | Apreensibilidade |   A aplicação é fácil de ser utilizada? | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
 | Coexistência |  O sistema consegue conviver de maneira natural com outras aplicações? | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
-| Capacidade para substituir |  ADICIONAR PERGUNTA | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
+| Capacidade para substituir |  O sistema consegue substituir outra aplicação que tenha a mesma função? | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
 | Capacidade de instalação |  ADICIONAR PERGUNTA | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
 | Modificabilidade |  ADICIONAR PERGUNTA | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
 | Testabilidade |  ADICIONAR PERGUNTA | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
