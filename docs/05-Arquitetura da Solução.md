@@ -150,7 +150,7 @@ Assim, as respostas reveladas pelos usuários na escala irão possuir os seguint
 | Atratividade |  Existe algum aspecto pontual do sistema que se destaca e chama mais a atenção? | 1)SIM<br>2)PARCIALMENTE<br>3)NÃO | Alto |
 | Inteligibilidade |  É demonstrado com clareza a função do sistema? | 1)SIM<br>2)PARCIALMENTE<br>3)NÃO | Alto |
 | Apreensibilidade |   A aplicação é fácil de ser utilizada? | 1)SIM<br>2)PARCIALMENTE<br>3)NÃO | Alto |
-| Coexistência |  O sistema consegue conviver de maneira natural com outras aplicações? | 1)SIM<br>2)PARCIALMENTE br>3)NÃO | Alto |
+| Coexistência |  O sistema consegue conviver de maneira natural com outras aplicações? | 1)SIM<br>2)PARCIALMENTE<br>3)NÃO | Alto |
 | Capacidade para substituir |  O sistema consegue substituir outra aplicação que tenha a mesma função? |1)SIM <br>2)PARCIALMENTE<br>3)NÃO | Alto |
 | Capacidade de instalação |  A instalação do sistema é fácil? | 1)SIM<br>2)PARCIALMENTE<br>3)NÃO | Alto |
 | Modificabilidade |  O sistema permite que alterações sejam praticadas quando necessárias? | 1)SIM <br>2) PARCIALMENTE <br> 3)NÃO | Alto |
