@@ -124,4 +124,14 @@ Isso é extremamente importante para o app, pois uma simples falha pode comprome
 | **Testabilidade:** É avaliado todo o esforço prescrito para testar o software após as alterações, assim, o time de desenvolvimento vai realizar testes de usabilidade visando a garantia do funcionamento correto da aplicação. |
 | **Analisabilidade:** É analisado o código para apontar a facilidade, ou, determinar uma dificuldade para mapear e identificar os problemas. Aqui é avaliado o esforço utilizado para analisar o projeto.. |
 
-# Métricas (EM CONSTRUÇÃO)
+# Métricas 
+
+Conforme as informações investigadas por futuros usuarios da aplicação Personal Cash e aplicando as características contextualizadas junto as subcaracterísticas definidas anteriormente, optamos pela a opção de escalas e porcentagens.
+
+Assim, as respostas reveladas pelos usuários irão possuir os seguintes valores quantitativos conforme a opção confirmada:
+
+- **`ESCALA: SIM - PARCIALMENTE - NÃO`**:
+
+- **`SIM`**: Por volta de 100% até 70% de resposta.
+- **`PARCIALMENTE`**: Por volta de 60% e 40% de resposta.
+- **`NÃO`**: Por volta de30% e 0% de resposta.
