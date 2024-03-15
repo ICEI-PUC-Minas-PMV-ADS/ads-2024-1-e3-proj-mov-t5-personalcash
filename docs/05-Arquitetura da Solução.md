@@ -143,8 +143,8 @@ Assim, as respostas reveladas pelos usuários na escala irão possuir os seguint
 | Tolerância a falhas |  Existe uma recuperação eficiente do sistema após alguma falha? | 1)SIM <br>2)PARCIALMENTE<br>3)NÃO | Alto |
 | Segurança |  O sistema consegue preservar em segurança os dados e as informações coletadas? | 1)SIM<br>2)PARCIALMENTE<br>3) NÃO | Alto |
 | Acurácia |  O sistema consegue oferecer a entrega dos resultados de forma precisa e correta? | 1)SIM<br>2)PARCIALMENTE <br>3)NÃO | Alto |
-| Adequação |  O sistema atende a sua principal função de registrar os valores das aulas e o cadastro de clientes do Personal Trainer? | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
-| Conformidade |  O sistema entrega resultados positivos conforme o que foi estabelecido? | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
+| Adequação |  O sistema atende a sua principal função de registrar os valores das aulas e o cadastro de clientes do Personal Trainer? | 1)SIM<br>2) PARCIALMENTE<br>3)NÃO | Alto |
+| Conformidade |  O sistema entrega resultados positivos conforme o que foi estabelecido? | 1)SIM<br>2)PARCIALMENTE<br>3)NÃO | Alto |
 | Comportamento em relação ao tempo |  O sistema é lento, ou, demora para responder alguma solicitação? | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
 | Utilização de Recursos |  Os recursos usados pelo sistema entregam o que é solicitado? | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
 | Atratividade |  Existe algum aspecto pontual do sistema que se destaca e chama mais a atenção? | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
@@ -154,6 +154,6 @@ Assim, as respostas reveladas pelos usuários na escala irão possuir os seguint
 | Capacidade para substituir |  O sistema consegue substituir outra aplicação que tenha a mesma função? | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
 | Capacidade de instalação |  A instalação do sistema é fácil? | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
 | Modificabilidade |  O sistema permite que alterações sejam praticadas quando necessárias? | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
-| Testabilidade |  O sistema consegue permitir testes de usabilidade em alterações realizadas? | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
-| Analisabilidade |  A identificação e análise de falhas no sistema são feitas de maneira eficaz? | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
+| Testabilidade |  O sistema consegue permitir testes de usabilidade em alterações realizadas? | 1)SIM<br>2)PARCIALMENTE<br>3)NÃO | Alto |
+| Analisabilidade |  A identificação e análise de falhas no sistema são feitas de maneira eficaz? | 1)SIM<br>2)PARCIALMENTE<br>3) NÃO| Alto |
 
