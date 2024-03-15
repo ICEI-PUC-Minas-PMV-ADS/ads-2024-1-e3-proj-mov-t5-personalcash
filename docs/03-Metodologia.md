@@ -119,6 +119,10 @@ Além disso o a parte de Projeyo de Interface, Diagrama de Fluxo e Wireframes ta
 
 No tópico sobre a Arquitetura da Solução, Diagrama de Classes, Modelo Entidade-Relacionamento, Esquema Relacional, Tecnologias Utilizadas, Hospedagem e Qualidade de Software também.
 
+Após o encontro do dia 13 correções em relação aos diagramas da Arquitetura da Solução, Diagrama de Classes, Modelo Entidade-Relacionamento e Esquema Relacional foram realizados.
+
+
+
 - **`Evidências`**:
 
   Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 02 do trabalho no dia 11/03/2024:
