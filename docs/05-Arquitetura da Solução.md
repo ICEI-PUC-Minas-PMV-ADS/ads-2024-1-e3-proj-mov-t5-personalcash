@@ -155,5 +155,5 @@ Assim, as respostas reveladas pelos usuários na escala irão possuir os seguint
 | Capacidade de instalação |  A instalação do sistema é fácil? | 1)SIM<br>2)PARCIALMENTE<br>3)NÃO | Alto |
 | Modificabilidade |  O sistema permite que alterações sejam praticadas quando necessárias? | 1)SIM <br>2) PARCIALMENTE <br> 3)NÃO | Alto |
 | Testabilidade |  O sistema consegue permitir testes de usabilidade em alterações realizadas? | 1)SIM<br>2)PARCIALMENTE<br>3)NÃO | Alto |
-| Analisabilidade |  A identificação e análise de falhas no sistema são feitas de maneira eficaz? | 1)SIM<br>2)PARCIALMENTE<br>3) NÃO| Alto |
+| Analisabilidade |  A identificação e análise de falhas no sistema são feitas de maneira eficaz? | 1)SIM<br>2)PARCIALMENTE<br>3)NÃO| Alto |
 
