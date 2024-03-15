@@ -128,7 +128,7 @@ Isso é extremamente importante para o app, pois uma simples falha pode comprome
 
 Conforme as informações investigadas por futuros usuários da aplicação Personal Cash e aplicando as características contextualizadas junto as sub características definidas anteriormente, optamos pela opção de escalas e porcentagens.
 
-Assim, as respostas reveladas pelos usuários irão possuir os seguintes valores quantitativos conforme a opção confirmada:
+Assim, as respostas reveladas pelos usuários na escala irão possuir os seguintes valores quantitativos conforme a opção confirmada:
 
 | Escala | Valores | 
 | ----------------- | ----------------- |
