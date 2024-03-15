@@ -130,7 +130,7 @@ Conforme as informações investigadas por futuros usuários da aplicação Pers
 
 Assim, as respostas reveladas pelos usuários irão possuir os seguintes valores quantitativos conforme a opção confirmada:
 
-## Escala: SIM // PARCIALMENTE // NÃO
+## Escala e Valores: SIM // PARCIALMENTE // NÃO
 
 - **`SIM: Por volta de 100% até 70% de resposta.`**
 - **`PARCIALMENTE: Por volta de 60% e 40% de resposta.`**
