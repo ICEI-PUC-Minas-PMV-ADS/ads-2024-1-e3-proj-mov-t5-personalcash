@@ -132,9 +132,9 @@ Assim, as respostas reveladas pelos usuários irão possuir os seguintes valores
 
 | Escala | Valores | 
 | ----------------- | ----------------- |
-| SIM | Por volta de 100% até 70% de resposta. | 
-| PARCIALMENTE | Por volta de 60% e 40% de resposta. | 
-| NÃO   | Por volta de 30% e 0% de resposta.  |
+| 1) SIM | Por volta de 100% até 70% de resposta. | 
+| 2) PARCIALMENTE | Por volta de 60% e 40% de resposta. | 
+| 3) NÃO   | Por volta de 30% e 0% de resposta.  |
 
 | Subcaracterística | Métrica | Escala | Peso |
 |---------|--------------------------------------------------------------|--------------| -------------- |
