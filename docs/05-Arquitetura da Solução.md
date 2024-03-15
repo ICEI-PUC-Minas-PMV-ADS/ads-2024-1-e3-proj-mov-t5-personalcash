@@ -139,5 +139,25 @@ Assim, as respostas reveladas pelos usuários irão possuir os seguintes valores
 | Subcaracterística | Métrica | Escala | Peso |
 |---------|--------------------------------------------------------------|--------------| -------------- |
 | Recuperabilidade |  ADICIONAR PERGUNTA | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
+| Maturidade |  ADICIONAR PERGUNTA | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
+| Tolerância a falhas |  ADICIONAR PERGUNTA | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
+| Segurança |  ADICIONAR PERGUNTA | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
+| Acurácia |  ADICIONAR PERGUNTA | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
+| Adequação |  ADICIONAR PERGUNTA | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
+| Conformidade |  ADICIONAR PERGUNTA | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
+| Comportamento em relação ao tempo |  ADICIONAR PERGUNTA | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
+| Utilização de Recursos |  ADICIONAR PERGUNTA | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
+| Atratividade |  ADICIONAR PERGUNTA | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
+| Inteligibilidade |  ADICIONAR PERGUNTA | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
+| Apreensibilidade |  ADICIONAR PERGUNTA | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
+| Coexistência |  ADICIONAR PERGUNTA | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
+| Capacidade para substituir |  ADICIONAR PERGUNTA | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
+| Capacidade de instalação |  ADICIONAR PERGUNTA | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
+| Modificabilidade |  ADICIONAR PERGUNTA | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
+| Testabilidade |  ADICIONAR PERGUNTA | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
+| Analisabilidade |  ADICIONAR PERGUNTA | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
+
+
+
 
 
