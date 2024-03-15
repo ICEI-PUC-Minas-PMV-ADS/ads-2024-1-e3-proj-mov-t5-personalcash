@@ -132,9 +132,9 @@ Assim, as respostas reveladas pelos usuários na escala irão possuir os seguint
 
 | Escala | Valores | 
 | ----------------- | ----------------- |
-| 1) SIM | 2. | 
-| 2) PARCIALMENTE | 1. | 
-| 3) NÃO   | 0.  |
+| 1) SIM | 2 | 
+| 2) PARCIALMENTE | 1 | 
+| 3) NÃO   | 0  |
 
 | Subcaracterística | Métricas | Escala | Peso |
 |---------|--------------------------------------------------------------|--------------| -------------- |
