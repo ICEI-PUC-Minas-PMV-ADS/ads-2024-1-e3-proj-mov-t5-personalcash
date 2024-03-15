@@ -126,7 +126,7 @@ Isso é extremamente importante para o app, pois uma simples falha pode comprome
 
 # Métricas 
 
-Conforme as informações investigadas por futuros usuarios da aplicação Personal Cash e aplicando as características contextualizadas junto as subcaracterísticas definidas anteriormente, optamos pela a opção de escalas e porcentagens.
+Conforme as informações investigadas por futuros usuários da aplicação Personal Cash e aplicando as características contextualizadas junto as sub características definidas anteriormente, optamos pela opção de escalas e porcentagens.
 
 Assim, as respostas reveladas pelos usuários irão possuir os seguintes valores quantitativos conforme a opção confirmada:
 
