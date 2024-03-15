@@ -143,7 +143,7 @@ Assim, as respostas reveladas pelos usuários na escala irão possuir os seguint
 | Tolerância a falhas |  Existe uma recuperação eficiente do sistema após alguma falha? | 1)SIM <br>2)PARCIALMENTE<br>3)NÃO | Alto |
 | Segurança |  O sistema consegue preservar em segurança os dados e as informações coletadas? | 1)SIM<br>2)PARCIALMENTE<br>3) NÃO | Alto |
 | Acurácia |  O sistema consegue oferecer a entrega dos resultados de forma precisa e correta? | 1)SIM<br>2)PARCIALMENTE <br>3)NÃO | Alto |
-| Adequação |  O sistema atende a sua principal função de registrar os valores das aulas e o cadastro de clientes do Personal Trainer? | 1)SIM<br>2) PARCIALMENTE<br>3)NÃO | Alto |
+| Adequação |  O sistema atende a sua principal função de registrar os valores das aulas e o cadastro de clientes do Personal Trainer? | 1)SIM<br>2)PARCIALMENTE<br>3)NÃO | Alto |
 | Conformidade |  O sistema entrega resultados positivos conforme o que foi estabelecido? | 1)SIM<br>2)PARCIALMENTE<br>3)NÃO | Alto |
 | Comportamento em relação ao tempo |  O sistema é lento, ou, demora para responder alguma solicitação? | 1)SIM<br>2)PARCIALMENTE<br>3)NÃO | Alto |
 | Utilização de Recursos |  Os recursos usados pelo sistema entregam o que é solicitado? | 1)SIM<br>2)PARCIALMENTE<br>3)NÃO| Alto |
