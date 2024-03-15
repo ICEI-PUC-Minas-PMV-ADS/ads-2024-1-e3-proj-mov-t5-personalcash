@@ -136,7 +136,7 @@ Assim, as respostas reveladas pelos usuários na escala irão possuir os seguint
 | 2) PARCIALMENTE | Por volta de 60% e 40% de resposta. | 
 | 3) NÃO   | Por volta de 30% e 0% de resposta.  |
 
-| Subcaracterística | Métrica | Escala | Peso |
+| Subcaracterística | Métricas | Escala | Peso |
 |---------|--------------------------------------------------------------|--------------| -------------- |
 | Recuperabilidade |  Após uma falha, existe a perda de dados significativos? | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
 | Maturidade |  O sistema apresenta falhas constantes? | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
