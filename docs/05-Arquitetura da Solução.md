@@ -147,7 +147,7 @@ Assim, as respostas reveladas pelos usuários na escala irão possuir os seguint
 | Conformidade |  O sistema entrega resultados positivos conforme o que foi estabelecido? | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
 | Comportamento em relação ao tempo |  O sistema é lento, ou, demora para responder alguma solicitação? | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
 | Utilização de Recursos |  Os recursos usados pelo sistema entregam o que é solicitado? | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
-| Atratividade |  ADICIONAR PERGUNTA | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
+| Atratividade |  Existe algum aspecto pontual do sistema que se destaca e chama mais a atenção? | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
 | Inteligibilidade |  ADICIONAR PERGUNTA | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
 | Apreensibilidade |  ADICIONAR PERGUNTA | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
 | Coexistência |  ADICIONAR PERGUNTA | 1) SIM <br> 2) PARCIALMENTE <br> 3) NÃO | Alto |
