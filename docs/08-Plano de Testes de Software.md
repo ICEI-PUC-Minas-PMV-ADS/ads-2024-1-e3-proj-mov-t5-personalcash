@@ -4,14 +4,24 @@ Esse tópico é sobre a implementação do sistema descrita por meio dos requisi
 
 Vamos relacionar os requisitos atendidos com os artefatos criados (código fonte) para o projeto Personal Cash, sendo apresentados as instruções para o acesso e a verificação da implementação encontrando-se funcional no seu ambiente de hospedagem.
 
-## Ferramentas de Testes (Opcional)
+# 1º Funcionalidade: Realizar Cadastro (RF-001)
 
-Comente sobre as ferramentas de testes utilizadas.
- 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+Essa funcionalidade permite que o usuário (Personal Trainer) realize o seu cadastro e acesse o aplicativo Personal Cash.
+
+| Etpapa | ID | Descrição do Requisito | Artefato(s) |
+|--------|----|-------------------------|--------------
+| 1 | RF-001 | O aplicativo deve permitir que o usuário Personal Trainer realize o seu cadastro | - |
+| 2 | RF-001 | O aplicativo deve permitir que o usuário digite as opções "Nome", "E-mail" e "Senha" | - |
+| 5 | RF-001 | O aplicativo deve permitir que o usuário realize o cadastro clicando na opção "Cadastrar" | **colocar link do artefato**|
+
+`Responsável`: X
+
+__Instruções de Acesso__
+1. Acesse o aplicativo **Personal Cash**
+2. Clique em **"Criar Conta?** 
+3. Forneça os dados "Nome", "E-mail" e "Senha"
+4. Clique em "Cadastrar"
+
+**Imagem ilustrativa**
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/89f8fd58-bf2a-4f34-9976-42533a48db43)
+
