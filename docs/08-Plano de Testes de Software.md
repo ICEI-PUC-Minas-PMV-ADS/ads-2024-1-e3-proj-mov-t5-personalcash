@@ -37,7 +37,7 @@ Deste modo, segue o Plano de Testes de Software da aplicação Personal Cash e o
 |------------------|-----------------------------------------|
 | Requisitos Associado | RF-005 - Permitir o cadastro de clientes e os dados pessoais. |
 | Objetivo do Teste | Verificar se o usuário consegue cadastrar clientes |
-| Instruções| - Acessar o navegador <br> - Informar ao navegador a URL <br> - Efetuar login <br> - Na página inicial, o usuário deve clicar na  opção **Adicionar Cliente** <br> - <br> - Depois, inserir os dados pessoais do cliente: **Nome**, **Sobrenome**, **Apelido**, **Telefone**, **Endereço**, **Valor pago por treino** e **Turno do treino** <br> - Após preencher todos os campos, clicar em **Cadastrar**|
+| Instruções| - Acessar o navegador <br> - Informar ao navegador a URL <br> - Efetuar login <br> - Na página inicial, o usuário deve clicar na  opção **Adicionar Cliente** <br> - Depois, inserir os dados pessoais do cliente: **Nome**, **Sobrenome**, **Apelido**, **Telefone**, **Endereço**, **Valor pago por treino** e **Turno do treino** <br> - Após preencher todos os campos, clicar em **Cadastrar**|
 | Critérios de Êxito |O usuário consegue realizar o cadastro de clientes - |
 
 # 5º Caso de Teste: (EM CONSTRUÇÃO)
