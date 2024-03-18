@@ -17,10 +17,10 @@ Essa funcionalidade permite que o usuário (Personal Trainer) realize o seu cada
 `Responsável`: X
 
 __Instruções de Acesso__
-1. Acesse o aplicativo **Personal Cash**
-2. Clique em **"Criar Conta?** 
-3. Forneça os dados "Nome", "E-mail" e "Senha"
-4. Clique em "Cadastrar"
+**1.** Acesse o aplicativo **Personal Cash**
+**2** Clique em **"Criar Conta?** 
+**3.** Forneça os dados "Nome", "E-mail" e "Senha"
+**4.** Clique em "Cadastrar"
 
 **Imagem ilustrativa**
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/89f8fd58-bf2a-4f34-9976-42533a48db43)
@@ -38,9 +38,9 @@ Essa funcionalidade permite que o usuário que já foi cadastrado no app Persona
 `Responsável`: X
 
 __Instruções de Acesso__
-1. Acesse o aplicativo **Personal Cash**
-2. Digite o seu "E-mail" e "Senha"
-3. Clique no botão "Logar"
+**1**. Acesse o aplicativo **Personal Cash**
+**2.** Digite o seu "E-mail" e "Senha"
+**3.** Clique no botão "Logar"
 
 **Imagem ilustrativa**
 
