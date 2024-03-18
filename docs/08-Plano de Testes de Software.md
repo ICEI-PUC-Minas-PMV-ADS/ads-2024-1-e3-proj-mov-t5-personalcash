@@ -90,9 +90,25 @@ __Instruções de Acesso__
 
 ![TelaCliente](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/ea145e89-ecb6-4757-85a1-947df65a7886)
 
+# 5º Funcionalidade: Registro dos Treinos dos Clientes (RF-004)
 
+Essa funcionalidade permite que o usuário registre o turno dos treinos de cada cliente.
 
+| Etapa | ID | Descrição do Requisito | Artefato(s) |
+|-------|----|-----------------------|----------------|
+| 1 | RF-004| Permitir o cadastro do turno e data do treino de cada cliente.| **colocar link do artefato** / **colocar link do artefato** |
+| 2 | RF-004 | Permite que o usuário selecione o turno desejado de treino do seu cliente | **colocar link do artefato** / **colocar link do artefato** |
+| 3 | RF-004 | Permite Cadastrar |**colocar link do artefato**/ **colocar link do artefato** / **colocar link do artefato** |
 
+`Responsável`: X
 
+__Instruções de Acesso__
+1. Acesse o aplicativo **Personal Cash**
+2. Clique em **Treinos do Dias** 
+3. Clique no cliente desejado e depois nas opções de turnos disponíveis: **Manhã**, **Tarde** e **Noite**.
+5. Clique em **Registrar** 
 
+**Imagem ilustrativa**
+
+![TelaTreino](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/1c03cca2-6651-4f34-aa25-9e0d4d544c62)
 
