@@ -223,7 +223,7 @@ As tabelas seguintes apresentam os requisitos funcionais e não funcionais que d
 |RF-001| Permitir o cadastro do usuário: Personal Trainner. | ALTA |
 |RF-002| Permitir que o usuário Personal Trainner realize o Login. | ALTA |
 |RF-003| Permitir o cadastro de clientes e os dados pessoais: nome, sobrenome, apelido, telefone, endereço, valor pago por treino e turno do treino. | ALTA |
-|RF-004| Permitir o cadastro da data do treino. | ALTA |
+|RF-004| Permitir o cadastro do turno e data do treino de cada cliente. | ALTA |
 |RF-005| Permitir o cadastro do histórico de pagamentos do cliente com a data e se o cliente pagou ou não pelo treino. | ALTA |
 |RF-006| Permitir a visualização dos valores pagos por data e se há alguma pendência remanescente dos treinamentos já realizados, exemplo: Data do treinamento, divida total e valor pago. | ALTA |
 |RF-007| Permitir a visualização de uma lista dos clientes do personal para ser preenchido via checklist conforme a data do treinamento e o turno (manhã, tarde e noite).| ALTA |
