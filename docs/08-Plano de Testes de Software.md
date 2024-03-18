@@ -68,23 +68,23 @@ __Instruções de Acesso__
 
 ![Home](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/e1a8007a-3e6e-4148-b7f3-06cef0be47ca)
 
-## 4º Funcionalidade: Cadastro de Clientes (RF-005)
+## 4º Funcionalidade: Cadastro de Clientes (RF-003)
 
-
+Essa funcionalidade permite que o usuário realize o cadastro de clientes e os seus dados pessoais dentro do plataforma.
 
 | Etapa | ID | Descrição do Requisito | Artefato(s) |
 |-------|----|-----------------------|----------------|
-| 1 | RF-00 | | **colocar link do artefato** / **colocar link do artefato** |
-| 2 | RF-00 | | **colocar link do artefato** / **colocar link do artefato** |
-| 3 | RF-005 |  |**colocar link do artefato**/ **colocar link do artefato** / **colocar link do artefato** |
+| 1 | RF-003 | Permitir o cadastro de clientes e os dados pessoais.| **colocar link do artefato** / **colocar link do artefato** |
+| 2 | RF-003 | Permitir a inserção dos seguintes dados pessoais do cliente: Nome, Sobrenome, Apelido, Telefone, Endereço, Valor pago por treino e Turno do treino. | **colocar link do artefato** / **colocar link do artefato** |
+| 3 | RF-003 | Permitir cadastrar|**colocar link do artefato**/ **colocar link do artefato** / **colocar link do artefato** |
 
 `Responsável`: X
 
 __Instruções de Acesso__
 1. Acesse o aplicativo **Personal Cash**
-2. Clique em **Clientes** 
-3. Visualize a **Descrição** dos valores totais a receber dos treinos de todos os clientes 
-4. Verifique o nome de cada **Cliente** e o **Valor** do pagamento de cada um a receber 
+2. Clique em **Adicionar Cliente** 
+3. Clique e preencha os dados pessoais de cada cliente
+4. Clique em **Cadastrar** 
 
 **Imagem ilustrativa**
 
