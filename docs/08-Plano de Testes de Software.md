@@ -60,9 +60,9 @@ Essa funcionalidade permite que o usuário visualize os nomes dos clientes e os 
 
 __Instruções de Acesso__
 1. Acesse o aplicativo **Personal Cash**
-2. Clique em **"Clientes"** 
-3. Visualize a descrição dos valores totais a receber dos treinos de todos os clientes ****
-4. Verifique o nom de cada Cliente e os valores dos pagamentos de cada um a receber **** 
+2. Clique em **Clientes** 
+3. Visualize a **Descrição** dos valores totais a receber dos treinos de todos os clientes 
+4. Verifique o nome de cada **Cliente** e o **Valor** do pagamento de cada um a receber 
 
 **Imagem ilustrativa**
 
