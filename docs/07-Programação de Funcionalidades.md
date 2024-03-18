@@ -18,9 +18,9 @@ Essa funcionalidade permite que o usuário (Personal Trainer) realize o seu cada
 
 __Instruções de Acesso__
 1. Acesse o aplicativo **Personal Cash**
-2. Clique em **"Criar Conta** 
-3. Forneça os dados "Nome", "E-mail" e "Senha"
-4. Clique em "Cadastrar"
+2. Clique em **Criar Conta** 
+3. Forneça os dados **"Nome"**, **"E-mail"** e **"Senha"**
+4. Clique em **"Cadastrar"**
 
 **Imagem ilustrativa - TEMPORÁRIA**
 ![CriarConta](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/bc4f28d9-7f12-48f1-bb6d-bc5ab631a8b3)
@@ -39,8 +39,8 @@ Essa funcionalidade permite que o usuário que já foi cadastrado no app Persona
 
 __Instruções de Acesso__
 1. Acesse o aplicativo **Personal Cash**
-2. Digite o seu **"E-mail"**  e **"Senha"** 
-3. Clique no botão **"Logar"** 
+2. Digite o seu **E-mail**  e **Senha** 
+3. Clique no botão **Logar** 
 
 **Imagem ilustrativa - TEMPORÁRIA**
 
