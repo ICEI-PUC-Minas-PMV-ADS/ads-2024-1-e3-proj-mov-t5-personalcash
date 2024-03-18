@@ -39,8 +39,8 @@ Essa funcionalidade permite que o usuário que já foi cadastrado no app Persona
 
 __Instruções de Acesso__
 1. Acesse o aplicativo **Personal Cash**
-2. Digite o seu "E-mail" e "Senha"
-3. Clique no botão "Logar"
+2. Digite o seu **"E-mail"**  e **"Senha"** 
+3. Clique no botão **"Logar"** 
 
 **Imagem ilustrativa**
 
