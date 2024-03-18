@@ -68,6 +68,28 @@ __Instruções de Acesso__
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/8b14c05b-8bb3-426f-81ad-1a5f183b2191)
 
+## 4º Funcionalidade: Cadastro de Clientes (RF-005)
+
+
+
+| Etapa | ID | Descrição do Requisito | Artefato(s) |
+|-------|----|-----------------------|----------------|
+| 1 | RF-00 | | **colocar link do artefato** / **colocar link do artefato** |
+| 2 | RF-00 | | **colocar link do artefato** / **colocar link do artefato** |
+| 3 | RF-005 |  |**colocar link do artefato**/ **colocar link do artefato** / **colocar link do artefato** |
+
+`Responsável`: X
+
+__Instruções de Acesso__
+1. Acesse o aplicativo **Personal Cash**
+2. Clique em **Clientes** 
+3. Visualize a **Descrição** dos valores totais a receber dos treinos de todos os clientes 
+4. Verifique o nome de cada **Cliente** e o **Valor** do pagamento de cada um a receber 
+
+**Imagem ilustrativa**
+
+![TelaCliente](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/ea145e89-ecb6-4757-85a1-947df65a7886)
+
 
 
 
