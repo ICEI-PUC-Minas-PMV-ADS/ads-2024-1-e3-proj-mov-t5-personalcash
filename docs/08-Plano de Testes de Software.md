@@ -23,9 +23,9 @@ __Instruções de Acesso__
 4. Clique em "Cadastrar"
 
 **Imagem ilustrativa**
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/89f8fd58-bf2a-4f34-9976-42533a48db43)
+![CriarConta](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/bc4f28d9-7f12-48f1-bb6d-bc5ab631a8b3)
 
-## 2º Funcionalidade: Realizar o Login (RF-002)
+# 2º Funcionalidade: Realizar o Login (RF-002)
 
 Essa funcionalidade permite que o usuário que já foi cadastrado no app Personal Cash consiga efetuar o seu "Login", para isso, basta o usuário fornecer os seus dados de acesso: "Email" e "Senha".
 
@@ -44,9 +44,9 @@ __Instruções de Acesso__
 
 **Imagem ilustrativa**
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/28d554bc-021c-4061-b172-6ceb953f7356)
+![Login](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/bcbd80d1-5f8f-4cc0-9417-59ee936ac309)
 
-## 3º Funcionalidade: Histórico dos Valores/Pagamentos dos Clientes (RF-005)
+# 3º Funcionalidade: Histórico dos Valores/Pagamentos dos Clientes (RF-005)
 
 Essa funcionalidade permite que o usuário visualize os nomes dos clientes e os valores dos pagamentos a receber.
 
@@ -66,7 +66,7 @@ __Instruções de Acesso__
 
 **Imagem ilustrativa**
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/8b14c05b-8bb3-426f-81ad-1a5f183b2191)
+![Home](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/e1a8007a-3e6e-4148-b7f3-06cef0be47ca)
 
 ## 4º Funcionalidade: Cadastro de Clientes (RF-005)
 
