@@ -1,4 +1,4 @@
-# Plano de Testes de Software (Em construção)
+# Plano de Testes de Software 
 
 O  Plano de Testes de Software é um documento que define as estratégias, os objetivos e as etapas necessárias para testar um software de forma a garantir que ele esteja funcionando corretamente e de acordo com os requisitos estabelecidos.
 
