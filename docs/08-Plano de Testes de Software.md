@@ -46,7 +46,7 @@ __Instruções de Acesso__
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/28d554bc-021c-4061-b172-6ceb953f7356)
 
-## 3º Funcionalidade: Histórico dos Valores/Pagamentos dos Clientes (RF-002)
+## 3º Funcionalidade: Histórico dos Valores/Pagamentos dos Clientes (RF-005)
 
 Essa funcionalidade permite que o usuário visualize os nomes dos clientes e os valores dos pagamentos a receber.
 
