@@ -58,7 +58,7 @@ Abaixo, segue o relatório com as evidências dos testes de software realizados 
 | Instruções| - Acessar o navegador <br> - Informar ao navegador a URL <br> - Efetuar login <br> - Na página inicial, o usuário deve clicar na  opção **Treinos do Dia** <br> - Depois, clicar na opções **Clientes 1**, **Clientes 2** ou **Clientes 3** e inserir a data do treino e o **Turno** escolhido <br> - Concluir clicando na opção **Registrar**|
 | Critérios de Êxito |O usuário consegue registrar o treino do cliente. |
 
-**INSERIR VÍDEO 5º Caso de Teste**
+# INSERIR VÍDEO 5º Caso de Teste
 
 
 
