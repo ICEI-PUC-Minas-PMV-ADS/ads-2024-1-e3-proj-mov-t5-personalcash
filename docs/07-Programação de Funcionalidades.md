@@ -22,7 +22,7 @@ __Instruções de Acesso__
 3. Forneça os dados "Nome", "E-mail" e "Senha"
 4. Clique em "Cadastrar"
 
-**Imagem ilustrativa**
+**Imagem ilustrativa - TEMPORÁRIA**
 ![CriarConta](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/bc4f28d9-7f12-48f1-bb6d-bc5ab631a8b3)
 
 # 2º Funcionalidade: Realizar o Login (RF-002)
@@ -42,7 +42,7 @@ __Instruções de Acesso__
 2. Digite o seu **"E-mail"**  e **"Senha"** 
 3. Clique no botão **"Logar"** 
 
-**Imagem ilustrativa**
+**Imagem ilustrativa - TEMPORÁRIA**
 
 ![Login](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/bcbd80d1-5f8f-4cc0-9417-59ee936ac309)
 
@@ -64,7 +64,7 @@ __Instruções de Acesso__
 3. Visualize a **Descrição** dos valores totais a receber dos treinos de todos os clientes 
 4. Verifique o nome de cada **Cliente** e o **Valor** do pagamento de cada um a receber 
 
-**Imagem ilustrativa**
+**Imagem ilustrativa - TEMPORÁRIA**
 
 ![Home](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/e1a8007a-3e6e-4148-b7f3-06cef0be47ca)
 
@@ -86,7 +86,7 @@ __Instruções de Acesso__
 3. Clique e preencha os dados pessoais de cada cliente
 4. Clique em **Cadastrar** 
 
-**Imagem ilustrativa**
+**Imagem ilustrativa - TEMPORÁRIA**
 
 ![TelaCliente](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/ea145e89-ecb6-4757-85a1-947df65a7886)
 
@@ -108,7 +108,7 @@ __Instruções de Acesso__
 3. Clique no cliente desejado e depois nas opções de turnos disponíveis: **Manhã**, **Tarde** e **Noite**.
 5. Clique em **Registrar** 
 
-**Imagem ilustrativa**
+**Imagem ilustrativa - TEMPORÁRIA**
 
 ![TelaTreino](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/1c03cca2-6651-4f34-aa25-9e0d4d544c62)
 
