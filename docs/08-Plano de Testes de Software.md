@@ -28,7 +28,7 @@ Deste modo, segue o Plano de Testes de Software da aplicação Personal Cash e o
 |------------------|-----------------------------------------|
 | Requisitos Associado | RF-005 - O aplicativo deve permitir que o usuário registre os valores de pagamento de cada Cliente |
 | Objetivo do Teste | Verificar se o usuário logado consegue cadastrar os valores a receber |
-| Passos | - Acessar o navegador <br> - Informar ao navegador a URL <br> - Efetuar o **Login** <br> - Na página inicial **Home**, clicar nas opções **Cliente 1**, ou, **Cliente 2** <br> Preencher o campo **Valor** e confirmar |
+| Passos | - Acessar o navegador <br> - Informar ao navegador a URL <br> - Efetuar o **Login** <br> - Na página inicial **Home**, clicar nas opções **Cliente 1**, ou, **Cliente 2** <br> - Preencher o campo **Valor** e confirmar |
 | Critérios de Êxito | O usuário consegue realizar o cadastro do valor a receber de um cliente. |
 
 # 4º Caso de Teste:  (EM CONSTRUÇÃO)
