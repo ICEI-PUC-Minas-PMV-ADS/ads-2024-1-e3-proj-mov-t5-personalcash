@@ -8,11 +8,11 @@ Vamos relacionar os requisitos atendidos com os artefatos criados (código fonte
 
 Essa funcionalidade permite que o usuário (Personal Trainer) realize o seu cadastro e acesse o aplicativo Personal Cash.
 
-| Etpapa | ID | Descrição do Requisito | Artefato(s) |
+| Etapa | ID | Descrição do Requisito | Artefato(s) |
 |--------|----|-------------------------|--------------
 | 1 | RF-001 | O aplicativo deve permitir que o usuário Personal Trainer realize o seu cadastro | - |
 | 2 | RF-001 | O aplicativo deve permitir que o usuário digite as opções "Nome", "E-mail" e "Senha" | - |
-| 5 | RF-001 | O aplicativo deve permitir que o usuário realize o cadastro clicando na opção "Cadastrar" | **colocar link do artefato**|
+| 3 | RF-001 | O aplicativo deve permitir que o usuário realize o cadastro clicando na opção "Cadastrar" | **colocar link do artefato**|
 
 `Responsável`: X
 
@@ -31,9 +31,9 @@ Essa funcionalidade permite que o usuário que já foi cadastrado no app Persona
 
 | Etapa | ID | Descrição do Requisito | Artefato(s) |
 |-------|----|-----------------------|----------------|
-| 3 | RF-002 | O aplicativo deve permitir que o usuário Personal Triner efetue o processo de Login | **colocar link do artefato** / **colocar link do artefato** |
-| 4 | RF-002 |O aplicativo deve permitir que o usuário digite as opções "E-mail" e "Senha"  | **colocar link do artefato** / **colocar link do artefato** |
-| 5 | RF-002 | O aplicativo deve permitir que os usuários efetuem o processo de login clicando na opção "Logar" |**colocar link do artefato**/ **colocar link do artefato** / **colocar link do artefato** |
+| 1 | RF-002 | O aplicativo deve permitir que o usuário Personal Triner efetue o processo de Login | **colocar link do artefato** / **colocar link do artefato** |
+| 2 | RF-002 |O aplicativo deve permitir que o usuário digite as opções "E-mail" e "Senha"  | **colocar link do artefato** / **colocar link do artefato** |
+| 3 | RF-002 | O aplicativo deve permitir que os usuários efetuem o processo de login clicando na opção "Logar" |**colocar link do artefato**/ **colocar link do artefato** / **colocar link do artefato** |
 
 `Responsável`: X
 
