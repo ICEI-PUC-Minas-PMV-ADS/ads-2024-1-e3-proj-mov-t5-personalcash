@@ -68,7 +68,7 @@ __Instruções de Acesso__
 
 ![Home](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/e1a8007a-3e6e-4148-b7f3-06cef0be47ca)
 
-## 4º Funcionalidade: Cadastro de Clientes (RF-003)
+# 4º Funcionalidade: Cadastro de Clientes (RF-003)
 
 Essa funcionalidade permite que o usuário realize o cadastro de clientes e os seus dados pessoais dentro do plataforma.
 
