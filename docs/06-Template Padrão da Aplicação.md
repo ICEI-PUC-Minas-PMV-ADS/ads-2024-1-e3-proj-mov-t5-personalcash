@@ -86,9 +86,13 @@ Logo abaixo segue os layouts dos ícones e as telas compostas do template Padrã
 
 **INSERIR FOTOS Botões**
 
-# Estrutura
+# Template e Layout
 
-As telas do template Padrão do Aplicativo Personal Cash são compostas pelos seguintes layouts:
+O template é um formato gráfico pronto que serve para facilitar o processo de criação de layouts de sites. Ele funciona como uma estrutura padronizada em cores, linhas, seções e fontes tipográficas específicas que orientam o layout da página principal e secundária de um site ou aplicativo.
+
+Assim, um template seguido da sua estrutura, atribui a uma aplicação todo o aspecto visual e também funcionalidades que otimizem o seu desempenho, proporcionando que a experiência do usuário seja a melhor possível no momento da sua interação com o sistema.
+
+Abaixo, será demonstrado as telas do template e os seguintes layouts do Aplicativo Personal Cash.
 
 **INSERIR FOTOS Tela de Cadastro de Conta**
 
