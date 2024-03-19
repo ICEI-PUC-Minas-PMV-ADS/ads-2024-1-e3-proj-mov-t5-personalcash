@@ -6,3 +6,8 @@ Assim, o visual deve ser condizente com a linguagem de um negócio e as suas fun
 
 Seguindo esses conceitos, logo abaixo segue o template da Aplicação Personal Cash que foi elaborado pensando exclusivamente no seu cliente: Personal Trainer.
 
+# Identidade Visual
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/9a750b48-b7b4-4e18-895f-99cea49c3ab6)
+
+
