@@ -20,6 +20,21 @@ O símbolo da barra de exercício físico junto a descrição "Personal Cash" cr
 
 Já a utilização da estrela foi escolhida, pois é um símbolo que remete a luz, a orientação e também está associado ao propósito central das funções do Personal Trainer que é o sucesso financeiro.
 
+# Guia dos Estilos
+
+O guia de estilo são conjuntos de elementos, padrões e regras que direcionam a criação e a manutenção de interfaces coerentes e consistentes em times de desenvolvimento de produtos digitais.
+
+Antes de estabelecer o template da aplicação Personal Cash, foi desenvolvido um guia de estilos, onde o seu principal objetivo é nortear os padrões de design da interface da aplicação.
+
+## Paleta de Cores e Tipografia
+
+
+
+
+Escolhemos a fonte Montserrat, pois o seu estilo transmite uma imagem profissional, moderna e de fácil entendimento.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/c8639d9a-cc5e-4767-bbde-8ee7533fb215)
+
 
 
 
