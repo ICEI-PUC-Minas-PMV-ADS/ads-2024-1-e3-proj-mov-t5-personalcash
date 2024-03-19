@@ -84,8 +84,19 @@ Os ícones e telas do template Padrão do Aplicativo Personal Cash são composta
 
 As telas do template Padrão do Aplicativo Personal Cash são compostas pelos seguintes layouts:
 
-**INSERIR FOTOS**
+**INSERIR FOTOS Tela de Cadastro de Conta**
 
+**INSERIR FOTOS Tela de Login**
+
+**INSERIR FOTOSTela Principal**
+
+**INSERIR FOTOSTela de Perfil do Usuário**
+
+**INSERIR FOTOSTela de Cadastro de Clientes**
+
+**INSERIR FOTOSTela de Registro dos Treinos do Dia**
+
+**INSERIR FOTOSTela de Débitos dos Clientes**
 
 
 
