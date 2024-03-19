@@ -20,4 +20,6 @@ PMI resource, pm podcasts, pm point of view. **Project Managament Institute**, 2
 
 PSICOLOGIA das cores. **Enciclopédia Significados**, 2024. Disponível em: https://www.significados.com.br/psicologia-das-cores/. Acesso em: 19 mar. 2024.
 
+MONSTSERRAT extravold. **MaisFontes**, 2024. Disponível em: https://br.maisfontes.com/montserrat-extrabold.fonte/. Acesso em: 19 mar. 2024.
+
 
