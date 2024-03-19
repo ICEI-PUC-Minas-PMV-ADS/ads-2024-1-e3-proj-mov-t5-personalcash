@@ -1,3 +1,5 @@
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/f9765fea-3b7b-4496-9608-bf4af07eb5d3)
+
 # Personal Cash
 
 `CURSO`: Análise e Desenvolvimento de Sistemas
