@@ -26,7 +26,13 @@ O guia de estilo são conjuntos de elementos, padrões e regras que direcionam 
 
 Antes de estabelecer o template da aplicação Personal Cash, foi desenvolvido um guia de estilos, onde o seu principal objetivo é nortear os padrões de design da interface da aplicação.
 
-# Paleta de Cores e Tipografia
+# Paleta de Cores 
+
+A Paleta de cores é um conjunto de cores pré-selecionadas que são utilizadas em harmonia para passar uma ideia, sentimento, sensação ou identidade visual.
+
+Segundo a psicologia das cores, o verde está associado com a saúde, a vitalidade, a natureza e fertilidade. Para os psicólogos, essa cor possui a capacidade de acalmar as pessoas e aliviar o stress.  Além disso, os tons de verde simbolizam a natureza, o dinheiro e geram uma sensação de segurança e calma.
+
+Devido à importância de todos esses significados,  a cor verde foi escolhida para ser a cor primária no aplicativo Personal Cash.
 
 ## Paleta de Cores do Tema:
 
@@ -41,6 +47,7 @@ Antes de estabelecer o template da aplicação Personal Cash, foi desenvolvido u
 ## Paleta de Cores:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/275041ac-8ca1-42ed-834a-bb0448ee9ef5)
+
 
 ## Fonte
 Escolhemos a fonte Montserrat ExtraBold, pois o seu estilo transmite uma imagem profissional, moderna e de fácil entendimento.
