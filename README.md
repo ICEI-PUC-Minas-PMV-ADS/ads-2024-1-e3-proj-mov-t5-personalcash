@@ -1,4 +1,4 @@
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/f9765fea-3b7b-4496-9608-bf4af07eb5d3)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/949b7151-97bf-43c0-a85d-203a803fb3e1)
 
 # Personal Cash
 
@@ -12,11 +12,11 @@ O objetivo por trás da concepção do aplicativo Personal Cash é proporcionar 
 
 ## Integrantes
 
-* Caê Moreira Euphrásio
-* Daniel Dutra De Aguiar
-* Diogo Amâncio Da Silva
-* Luiz Felipe Sena Costa
-* Rafael dos Santos Rodrigues
+💪🏻 Caê Moreira Euphrásio
+💪🏻 Daniel Dutra De Aguiar
+💪🏻 Diogo Amâncio Da Silva
+💪🏻 Luiz Felipe Sena Costa
+💪🏻 Rafael dos Santos Rodrigues
   
 ## Orientador
 
