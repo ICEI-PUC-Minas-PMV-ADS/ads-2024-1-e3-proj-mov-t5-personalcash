@@ -22,4 +22,6 @@ PSICOLOGIA das cores. **Enciclopédia Significados**, 2024. Disponível em: http
 
 MONSTSERRAT extrabold. **MaisFontes**, 2024. Disponível em: https://br.maisfontes.com/montserrat-extrabold.fonte/. Acesso em: 19 mar. 2024.
 
+LOGOMARCA. **Enciclopédia Significados**, 2024. Disponível em: https://www.significados.com.br/logomarca/. Acesso em: 19 mar. 2024.
+
 
