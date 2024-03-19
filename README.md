@@ -18,7 +18,7 @@ O objetivo por trás da concepção do aplicativo Personal Cash é proporcionar 
   
 ## Orientador
 
-* Cristiano de Macêdo Neto
+💪🏻 Cristiano de Macêdo Neto
 
 ## Instruções de utilização
 
