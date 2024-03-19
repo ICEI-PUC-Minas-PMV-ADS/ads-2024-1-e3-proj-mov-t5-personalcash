@@ -1,12 +1,8 @@
 # Template Padrão da Aplicação
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>
+O template é um formato gráfico pronto que serve para facilitar o processo de criação de layouts de sites. Ele funciona como uma estrutura padronizada em cores, linhas, seções e fontes tipográficas específicas que orientam o layout da página principal e secundária de uma aplicação.
 
-Layout padrão da aplicação que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
+Assim, o visual deve ser condizente com a linguagem de um negócio e as suas funcionalidades deve atender as necessidades que a ideia central do empreendimento possui.
 
-> **Links Úteis**:
->
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
+Seguindo esses conceitos, logo abaixo segue o template da Aplicação Personal Cash que foi elaborado pensando exclusivamente no seu cliente: Personal Trainer.
+
