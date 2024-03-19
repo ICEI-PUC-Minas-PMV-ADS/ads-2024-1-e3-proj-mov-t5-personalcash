@@ -28,9 +28,12 @@ Antes de estabelecer o template da aplicação Personal Cash, foi desenvolvido u
 
 ## Paleta de Cores e Tipografia
 
-Paleta de Cores:
+Paleta de Cores do Tema:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/22c39744-e624-4f3e-abb2-e71a354b922d)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/d331321d-ba61-44c0-80d6-8fa744013a09)
+
 
 Paleta de Cores:
 
@@ -40,7 +43,6 @@ Paleta de Cores:
 Disco de Cores:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/120e89d0-d489-4003-95d9-7c8b02f27e3d)
-
 
 
 Escolhemos a fonte Montserrat ExtraBold, pois o seu estilo transmite uma imagem profissional, moderna e de fácil entendimento.
