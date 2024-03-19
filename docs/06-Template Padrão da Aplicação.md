@@ -90,15 +90,15 @@ As telas do template Padrão do Aplicativo Personal Cash são compostas pelos se
 
 **INSERIR FOTOS Tela de Login**
 
-**INSERIR FOTOSTela Principal**
+**INSERIR FOTOS Tela Principal**
 
-**INSERIR FOTOSTela de Perfil do Usuário**
+**INSERIR FOTOS Tela de Perfil do Usuário**
 
-**INSERIR FOTOSTela de Cadastro de Clientes**
+**INSERIR FOTOS Tela de Cadastro de Clientes**
 
-**INSERIR FOTOSTela de Registro dos Treinos do Dia**
+**INSERIR FOTOS Tela de Registro dos Treinos do Dia**
 
-**INSERIR FOTOSTela de Débitos dos Clientes**
+**INSERIR FOTOS Tela de Débitos dos Clientes**
 
 
 
