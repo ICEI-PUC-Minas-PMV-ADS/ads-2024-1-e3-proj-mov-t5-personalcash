@@ -49,10 +49,19 @@ Devido à importância de todos esses significados,  a cor verde foi escolhida 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/275041ac-8ca1-42ed-834a-bb0448ee9ef5)
 
 
-## Fonte
-Escolhemos a fonte Montserrat ExtraBold, pois o seu estilo transmite uma imagem profissional, moderna e de fácil entendimento.
+## Tipografia 
+
+Segundo o MaisFontes a Tipografia significa a “impressão dos tipos”, nome mais comum para fontes de letras, contudo, atualmente este é o nome dado ao estudo, a criação e aplicação de caracteres, estilos, formatos e disposição visual de palavras (MAISFONTES, 2024).
+
+Todas as peças de design que possuem textos utilizam a tipografia para definir em qual formato e estilo as palavras irão aparecer. Além disso, a tipografia é a base da comunicação visual e verbal.
+
+A tipografia consiste nas fontes de letras utilizadas por designers e profissionais de criação para realizar inúmeros tipos de produção de textos, projetos gráficos e na aplicação em sites e aplicativos.
+
+Para a Aplicação Personal Cash escolhemos a fonte Montserrat ExtraBold, pois o seu estilo transmite uma imagem profissional, moderna e de fácil entendimento.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/c8639d9a-cc5e-4767-bbde-8ee7533fb215)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/7d455d01-e222-4a5b-9642-d500d57a4737)
 
 
 
