@@ -16,7 +16,7 @@ Assim, foi análisado e construido a identidade visual da aplicação Personal C
 
 Conforme a Enciclopédia Significados, a Logomarca, ou simplesmente o logo, é a representação gráfica do nome de uma empresa ou marca, que determina a sua identidade visual e tem como objetivo facilitar o seu reconhecimento (ENCICLOPÉDIA SIGNIFICADOS, 2024).
 
-Assim, com essas informações foi criado a seguinte Logomarca para o projeto Personal Cash:
+Assim, com essas informações conceituais e vários estudos, foi criado a seguinte Logomarca para o projeto Personal Cash:
 
 ## Logomarca Personal Cash
 
