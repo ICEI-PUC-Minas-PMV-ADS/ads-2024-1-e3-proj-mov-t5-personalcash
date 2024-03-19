@@ -78,7 +78,9 @@ Para a Aplicação Personal Cash escolhemos a fonte Montserrat ExtraBold, pois o
 
 Os ícones e telas do template Padrão do Aplicativo Personal Cash são compostas pelos seguintes layouts:
 
-**INSERIR FOTOS**
+**INSERIR FOTOS Ícones**
+
+**INSERIR FOTOS Botões**
 
 # Estrutura
 
