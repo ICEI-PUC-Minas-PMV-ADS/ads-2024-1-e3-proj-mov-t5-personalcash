@@ -29,9 +29,7 @@ Antes de estabelecer o template da aplicação Personal Cash, foi desenvolvido u
 ## Paleta de Cores e Tipografia
 
 
-
-
-Escolhemos a fonte Montserrat, pois o seu estilo transmite uma imagem profissional, moderna e de fácil entendimento.
+Escolhemos a fonte Montserrat ExtraBold, pois o seu estilo transmite uma imagem profissional, moderna e de fácil entendimento.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/c8639d9a-cc5e-4767-bbde-8ee7533fb215)
 
