@@ -14,11 +14,17 @@ Assim, foi análisado e construido a identidade visual da aplicação Personal C
 
 # Conceito
 
+## Logomarca
+
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/9a750b48-b7b4-4e18-895f-99cea49c3ab6)
 
 O símbolo da barra de exercício físico junto a descrição "Personal Cash" cria uma conexão entre a principal atividade do nosso público-alvo o Personal Trainer, afinal, ele é um especialista em atividade física e trabalha com os clientes para que eles atinjam as suas metas de exercícios e bem-estar.
 
 Já a utilização da estrela foi escolhida, pois é um símbolo que remete a luz, a orientação e também está associado ao propósito central das funções do Personal Trainer que é o sucesso financeiro.
+
+## Aplicação da Logomarca no App
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/646c2bf5-7f86-4774-b24d-c5a60873b24e)
 
 # Guia dos Estilos
 
