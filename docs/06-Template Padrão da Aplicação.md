@@ -62,7 +62,7 @@ Devido à importância de todos esses significados,  a cor verde foi escolhida 
 
 # Tipografia 
 
-Segundo o MaisFontes a Tipografia significa a “impressão dos tipos”, nome mais comum para fontes de letras, contudo, atualmente este é o nome dado ao estudo, a criação e aplicação de caracteres, estilos, formatos e disposição visual de palavras (MAISFONTES, 2024).
+Segundo o MaisFontes a tipografia significa a “impressão dos tipos”, nome mais comum para fontes de letras, contudo, atualmente este é o nome dado ao estudo, a criação e aplicação de caracteres, estilos, formatos e disposição visual de palavras (MAISFONTES, 2024).
 
 Todas as peças de design que possuem textos utilizam a tipografia para definir em qual formato e estilo as palavras irão aparecer. Além disso, a tipografia é a base da comunicação visual e verbal.
 
