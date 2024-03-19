@@ -15,3 +15,4 @@ Assim, foi análisado e construido a identidade visual da aplicação Personal C
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/9a750b48-b7b4-4e18-895f-99cea49c3ab6)
 
 
+
