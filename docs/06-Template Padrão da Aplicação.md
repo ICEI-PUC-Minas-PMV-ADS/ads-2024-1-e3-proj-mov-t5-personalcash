@@ -30,7 +30,7 @@ Antes de estabelecer o template da aplicação Personal Cash, foi desenvolvido u
 
 A Paleta de cores é um conjunto de cores pré-selecionadas que são utilizadas em harmonia para passar uma ideia, sentimento, sensação ou identidade visual.
 
-Segundo a psicologia das cores, o verde está associado com a saúde, a vitalidade, a natureza e fertilidade. Para os psicólogos, essa cor possui a capacidade de acalmar as pessoas e aliviar o stress.  Além disso, os tons de verde simbolizam a natureza, o dinheiro e geram uma sensação de segurança e calma.
+Segundo a Psicologia das Cores, o verde está associado com a saúde, a vitalidade, a natureza e fertilidade. Para os psicólogos, essa cor possui a capacidade de acalmar as pessoas e aliviar o stress.  Além disso, os tons de verde simbolizam a natureza, o dinheiro e geram uma sensação de segurança e calma (PSICOLOGIA DAS CORES, 2024).
 
 Devido à importância de todos esses significados,  a cor verde foi escolhida para ser a cor primária no aplicativo Personal Cash.
 
