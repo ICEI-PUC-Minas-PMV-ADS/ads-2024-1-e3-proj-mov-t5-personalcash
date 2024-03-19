@@ -12,15 +12,15 @@ O objetivo por trás da concepção do aplicativo Personal Cash é proporcionar 
 
 ## Integrantes
 
-💪🏻 Caê Moreira Euphrásio
-💪🏻 Daniel Dutra De Aguiar
-💪🏻 Diogo Amâncio Da Silva
-💪🏻 Luiz Felipe Sena Costa
-💪🏻 Rafael dos Santos Rodrigues
+💪🏻 - Caê Moreira Euphrásio
+💪🏻 - Daniel Dutra De Aguiar
+💪🏻 - Diogo Amâncio Da Silva
+💪🏻 - Luiz Felipe Sena Costa
+💪🏻 - Rafael dos Santos Rodrigues
   
 ## Orientador
 
-💪🏻 Cristiano de Macêdo Neto
+💪🏻 - Cristiano de Macêdo Neto
 
 ## Instruções de utilização
 
