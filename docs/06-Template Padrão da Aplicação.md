@@ -8,6 +8,10 @@ Seguindo esses conceitos, logo abaixo segue o template da Aplicação Personal C
 
 # Identidade Visual
 
+A Identidade visual é o conjunto de vários elementos gráficos e visuais que comunicam alguma mensagem. Ainda que de forma indireta, ela pode expressar os valores da marca, sua personalidade e nicho de atuação.
+
+Assim, foi análisado e construido a identidade visual da aplicação Personal Cash.
+
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/9a750b48-b7b4-4e18-895f-99cea49c3ab6)
 
 
