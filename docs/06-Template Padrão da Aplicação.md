@@ -48,8 +48,7 @@ Devido à importância de todos esses significados,  a cor verde foi escolhida 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/275041ac-8ca1-42ed-834a-bb0448ee9ef5)
 
-
-## Tipografia 
+# Tipografia 
 
 Segundo o MaisFontes a Tipografia significa a “impressão dos tipos”, nome mais comum para fontes de letras, contudo, atualmente este é o nome dado ao estudo, a criação e aplicação de caracteres, estilos, formatos e disposição visual de palavras (MAISFONTES, 2024).
 
@@ -63,8 +62,17 @@ Para a Aplicação Personal Cash escolhemos a fonte Montserrat ExtraBold, pois o
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/7d455d01-e222-4a5b-9642-d500d57a4737)
 
+# Ícones e Botões
 
+Os ícones e telas do template Padrão do Aplicativo Personal Cash são compostas pelos seguintes layouts:
 
+**INSERIR FOTOS**
+
+# Estrutura
+
+As telas do template Padrão do Aplicativo Personal Cash são compostas pelos seguintes layouts:
+
+**INSERIR FOTOS**
 
 
 
