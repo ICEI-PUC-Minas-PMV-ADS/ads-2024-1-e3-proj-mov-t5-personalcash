@@ -18,15 +18,15 @@ Conforme a Enciclopédia Significados, a Logomarca, ou simplesmente o logo, é a
 
 Assim, com essas informações foi criado a seguinte Logomarca para o projeto Personal Cash:
 
-## Logomarca Personal Cash:
+## Logomarca Personal Cash
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/9a750b48-b7b4-4e18-895f-99cea49c3ab6)
 
-## Logomarca Personal Cash:
+## Logomarca Personal Cash
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/646c2bf5-7f86-4774-b24d-c5a60873b24e)
 
-## Conceito da logomarca Personal Cash:
+## Conceito da logomarca Personal Cash
 
 O símbolo da barra de exercício físico junto a descrição "Personal Cash" cria uma conexão entre a principal atividade do nosso público-alvo o Personal Trainer, afinal, ele é um especialista em atividade física e trabalha com os clientes para que eles atinjam as suas metas de exercícios e bem-estar.
 
@@ -46,17 +46,17 @@ Segundo a Psicologia das Cores, o verde está associado com a saúde, a vitalida
 
 Devido à importância de todos esses significados,  a cor verde foi escolhida para ser a cor primária no aplicativo Personal Cash.
 
-## Paleta de Cores do Tema Personal Cash:
+## Paleta de Cores do Tema Personal Cash
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/22c39744-e624-4f3e-abb2-e71a354b922d)
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/d331321d-ba61-44c0-80d6-8fa744013a09)
 
-## Disco de Cores Personal Cash:
+## Disco de Cores Personal Cash
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/120e89d0-d489-4003-95d9-7c8b02f27e3d)
 
-## Paleta de Cores Personal Cash:
+## Paleta de Cores Personal Cash
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/275041ac-8ca1-42ed-834a-bb0448ee9ef5)
 
