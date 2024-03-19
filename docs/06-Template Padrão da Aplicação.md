@@ -26,23 +26,23 @@ O guia de estilo são conjuntos de elementos, padrões e regras que direcionam 
 
 Antes de estabelecer o template da aplicação Personal Cash, foi desenvolvido um guia de estilos, onde o seu principal objetivo é nortear os padrões de design da interface da aplicação.
 
-## Paleta de Cores e Tipografia
+# Paleta de Cores e Tipografia
 
-Paleta de Cores do Tema:
+## Paleta de Cores do Tema:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/22c39744-e624-4f3e-abb2-e71a354b922d)
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/d331321d-ba61-44c0-80d6-8fa744013a09)
 
-Disco de Cores:
+## Disco de Cores:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/120e89d0-d489-4003-95d9-7c8b02f27e3d)
 
-Paleta de Cores:
+## Paleta de Cores:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/275041ac-8ca1-42ed-834a-bb0448ee9ef5)
 
-
+## Fonte
 Escolhemos a fonte Montserrat ExtraBold, pois o seu estilo transmite uma imagem profissional, moderna e de fácil entendimento.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/c8639d9a-cc5e-4767-bbde-8ee7533fb215)
