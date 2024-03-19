@@ -18,4 +18,6 @@ OMS inatividade física sera causa de doenças. **CNN Brasil**, 2022. Disponíve
 
 PMI resource, pm podcasts, pm point of view. **Project Managament Institute**, 2024. Disponível em: https://www.pmi.org/chapters/wdc/pmi-resources/pm-podcasts/pm-point-of-view-44. Acesso em: 05 mar. 2024.
 
+PSICOLOGIA das cores. **Enciclopédia Significados**, 2024. Disponível em: https://www.significados.com.br/psicologia-das-cores/. Acesso em: 19 mar. 2024.
+
 
