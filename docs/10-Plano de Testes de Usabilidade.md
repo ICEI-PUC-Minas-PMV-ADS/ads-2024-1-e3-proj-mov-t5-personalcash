@@ -29,9 +29,11 @@ Cada pergunta acima exposta no questionário contém cinco opções de respostas
 | Opções | Respostas | 
 | ----------------- | ----------------- |
 | 1)  | Concordo Totalmente|
-| 2)  |  | Concordo |
-| 3)  |   | Neutro |
-| 4)  | Discordo    |
-| 5)  | Discordo Totalmente |
+| 2)  | Concordo|
+| 3)  | Neutro|
+| 4)  | Discordo|
+| 5)  | Discordo Totalmente|
+
+
 
 
