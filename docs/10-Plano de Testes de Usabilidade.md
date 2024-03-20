@@ -41,7 +41,7 @@ Cada pergunta acima exposta no questionário contém cinco opções de respostas
 **INSERIR PRINT DAS RESPOSTAS ENCAMINHADAS VIA FORMS**
 
 
-# Caso de Teste  (EM CONSTRUÇÃO..)
+# Caso de Teste 
 
 Conforme as informações adquiridas pelo Questionário do Google Forms, a equipe de Desenvolvimento da aplicação realizará os possíveis ajustes no aplicativo e melhorias na plataforma:
  
