@@ -128,7 +128,7 @@ Vamos abordar o os principais pontos de cada pergunta e aquelas avaliações de 
 
 - **Resultado**: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
 
-### Conclusão
+# Conclusão
 
 Sobre as sugestões de todos os participantes do teste de usabilidade aplicado, o grupo, chegou nas seguintes conclusões de modo a melhorar a experiência do usuário e o sistema do Personal Cash em sua totalidade. 
 
