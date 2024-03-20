@@ -133,10 +133,6 @@ Vamos abordar o os principais pontos de cada pergunta e aquelas avaliações de 
 Sobre as sugestões de todos os participantes do teste de usabilidade aplicado, o grupo, chegou nas seguintes conclusões de modo a melhorar a experiência do usuário e o sistema do Personal Cash em sua totalidade. 
 
 Logo abaixo, os principais tópicos de melhoria:
-
-- Adicionar imagens para melhorar a sensação de acolhimento e entendimento sobre o assunto e objetivo da aplicação.
-  
-- Adicionar mais botões e opções para facilitar o entendimento sobre as regras de navegabilidade de cada tópico da plataforma.
   
 - **INSERIR MAIS INFORMAÇÕES**
 
