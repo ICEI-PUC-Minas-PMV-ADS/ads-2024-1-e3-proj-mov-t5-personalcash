@@ -1,8 +1,8 @@
-# Registro de Testes de Usabilidade (EM CONSTRUÇÃO..)
+# Registro de Testes de Usabilidade
 
-Após realizar os testes de usabilidade, obtém-se um relatório a partir das análises realizadas. O Registro de Testes de Usabilidade é um relatório que contém as evidências dos testes e relatos dos usuários participantes, baseado no Plano de Testes de Usabilidade desenvolvido para os casos de uso desta etapa.
+Após realizar os testes de usabilidade, o Registro de Testes de Usabilidade é um relatório que contém as evidências dos testes e relatos dos usuários participantes, baseado no Plano de Testes de Usabilidade desenvolvido para os casos de uso desta etapa.
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Registro de Testes de Usabilidade”.
+Essa ação tem por objetivo apresentar detalhadamente os resultados do teste de usabilidade da aplicação Personal Cash.
 
-> **Links Úteis**:
-> - [Ferramentas de Testes de Usabilidade](https://www.usability.gov/how-to-and-tools/resources/templates.html)
+Na primeira etapa desse teste são apresentadas todas as respostas objetivas em relação às perguntas propostas no plano de testes da plataforma.
+Posteriormente, na segunda etapa, são apresentadas por todos os participantes do teste as correções e possíveis melhorias apontadas para a aplicação.
