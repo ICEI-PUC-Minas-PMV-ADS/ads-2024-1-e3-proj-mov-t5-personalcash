@@ -73,6 +73,13 @@ Conforme as informações adquiridas pelo Questionário do Google Forms, a equip
 | Instruções| - Acessar o navegador <br> - Informar ao navegador a URL <br> - Efetuar login <br> - Na página inicial, o usuário deve clicar na  opção **Adicionar Cliente** <br> - Depois, inserir os dados pessoais do cliente: **Nome**, **Sobrenome**, **Apelido**, **Telefone**, **Endereço**, **Valor pago por treino** e **Turno do treino** <br> - Após preencher todos os campos, clicar em **Cadastrar**|
 | Critérios de Êxito |O usuário consegue realizar o cadastro de clientes - |
 
+| 5º Caso de Teste | CT-05 - Cliente|
+|------------------|-----------------------------------------|
+| Requisitos Associado | RF-004 - Permitir o cadastro do turno e data do treino de cada cliente. |
+| Objetivo do Teste | Verificar se o usuário consegue registrar o turno e a data do treino dos clientes |
+| Instruções| - Acessar o navegador <br> - Informar ao navegador a URL <br> - Efetuar login <br> - Na página inicial, o usuário deve clicar na  opção **Treinos do Dia** <br> - Depois, clicar na opções **Clientes 1**, **Clientes 2** ou **Clientes 3** e inserir a data do treino e o **Turno** escolhido <br> - Concluir clicando na opção **Registrar**|
+| Critérios de Êxito |O usuário consegue registrar o treino do cliente. |
+
 
 
 
