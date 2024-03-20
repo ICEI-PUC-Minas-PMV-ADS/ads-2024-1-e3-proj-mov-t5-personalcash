@@ -52,4 +52,11 @@ Conforme as informações adquiridas pelo Questionário do Google Forms, a equip
 | Ações Esperadas | - Acessar o navegador <br> - Informar ao navegador a URL <br> - Clicar na opção **Criar Conta** <br> - Informar o **Nome**, **E-mail** e **Senha** <br> - Em seguida, clicar na opção em **Cadastrar**	           | 
 | Critério de Êxito  | O usuário consegue se cadastrar no App Personal Cash.  
 
+| Caso de Teste | CT-02 - Usuário |
+|---------------|---------------------------------|
+| Requisitos Associado | RF-002 - O aplicativo deve permitir que o usuário Personal Triner efetue o processo de Login |
+| Objetivo do Teste | Verificar se o usuário consegue realizar o login na aplicação |
+| Instruções | - Acessar o navegador <br> - Informar ao navegador a URL <br> - Informar o seu **E-mail** e **Senha** dados <br> - Clicar em **Logar** |
+| Critérios de Êxito | O usuário consegue realizar o login. | 
+
 
