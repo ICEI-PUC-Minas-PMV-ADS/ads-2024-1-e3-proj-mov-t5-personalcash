@@ -16,7 +16,9 @@ Esses comentários são importantes e necessários para se visualizar possíveis
 
 O formulário do Google foi respondido por **INSERIR O NÚMERO DE USUÁRIOS**
 
-A idade dos participantes, variando entre 24 e 30 anos conforme a média de idade do público-alvo da plataforma que é voltado para os recém-graduados em Educação Física. Todos os participantes da pesquisa não necessariamente possuem experiência em analisar aplicações e sistemas web.
+A idade dos participantes independente de gênero, variando entre 24 e 30 anos conforme a média de idade do público-alvo da plataforma que é voltado para os recém-graduados em Educação Física. 
+
+Todos os participantes da pesquisa não necessariamente possuem experiência em analisar aplicações e sistemas web.
 
 # Resultados
 
