@@ -45,7 +45,7 @@ Cada pergunta acima exposta no questionário contém cinco opções de respostas
 
 Conforme as informações adquiridas pelo Questionário do Google Forms, a equipe de Desenvolvimento da aplicação realizará os possíveis ajustes no aplicativo e melhorias na plataforma:
  
-| **Caso de Teste** 	| **CT-01 - Usuário**                                                                           	|
+| ** 1° Caso de Teste** 	| **CT-01 - Usuário**                                                                           	|
 |--------------------|-----------------------------------------------------------------------------------------------------|
 |	Requisito Associado| RNF-001- A aplicação deve permitir o cadastro do usuário.   |
 | Objetivo do Teste 	| Confirmar se o usuário consegue se cadastrar no aplicativo.                                     |
@@ -58,8 +58,6 @@ Conforme as informações adquiridas pelo Questionário do Google Forms, a equip
 | Objetivo do Teste | Verificar se o usuário consegue realizar o login na aplicação |
 | Instruções | - Acessar o navegador <br> - Informar ao navegador a URL <br> - Informar o seu **E-mail** e **Senha** dados <br> - Clicar em **Logar** |
 | Critérios de Êxito | O usuário consegue realizar o login. | 
-
-# 3º Caso de Teste: Registrar os valores dos pagamentos de cada cliente.
 
 | Caso de Teste | CT-03 - Cliente |
 |------------------|-----------------------------------------|
