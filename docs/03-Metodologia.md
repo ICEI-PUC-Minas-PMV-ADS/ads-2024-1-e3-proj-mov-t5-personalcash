@@ -121,7 +121,12 @@ No tópico sobre a Arquitetura da Solução, Diagrama de Classes, Modelo Entidad
 
 Após o encontro do dia 13 correções em relação aos diagramas da Arquitetura da Solução, Diagrama de Classes, Modelo Entidade-Relacionamento e Esquema Relacional foram realizados.
 
+Para o encontro do dia 20/03 o grupo avançou nos temas do Template Padrão da Aplicação, Programação de Funcionalidades, Plano de Testes de Software, Registro de Testes de Software, Plano de Testes de Usabilidade e Registro de Testes de Usabilidade.
 
+A única dúvida importante do trabalho é sobre exemplos práticos do seguinte tópico:
+"Criar tabelas, gráficos ou dashboards com no mínimo 5 indicadores de desempenho e metas para o processo de negócio." 
+
+Com as orientações do nosso orientador, vamos avançar nessa entrega.
 
 - **`Evidências`**:
 
