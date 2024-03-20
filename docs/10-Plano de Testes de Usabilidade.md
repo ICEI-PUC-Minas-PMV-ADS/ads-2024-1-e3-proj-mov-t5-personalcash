@@ -45,16 +45,16 @@ Cada pergunta acima exposta no questionário contém cinco opções de respostas
 
 Conforme as informações adquiridas pelo Questionário do Google Forms após o acesso dos usuários, a equipe de Desenvolvimento da aplicação realizará os possíveis ajustes no aplicativo e melhorias na plataforma:
  
-|  1° Caso de Teste 	| **CT-01 - Usuário**                                                                           	|
+|  1° Caso de Teste 	| **CT-01 - Performance**                                                                           	|
 |--------------------|-----------------------------------------------------------------------------------------------------|
-|	Requisito Associado| RNF-001- A aplicação deve permitir o cadastro do usuário.   |
-| Objetivo do Teste 	| Confirmar se o usuário consegue se cadastrar no aplicativo.                                     |
-| Ações Esperadas | - Acessar o navegador <br> - Informar ao navegador a URL <br> - Clicar na opção **Criar Conta** <br> - Informar o **Nome**, **E-mail** e **Senha** <br> - Em seguida, clicar na opção em **Cadastrar**	           | 
-| Critério de Êxito  | O usuário consegue se cadastrar no App Personal Cash.  
+|	Requisito Associado| RNF-006- A aplicação deve carregar todas as telas em no máximo 5 segundos.   |
+| Objetivo do Teste 	| Confirmar agilidade e uma boa Performance da aplicação |
+| Instruções | - Acessar o navegador <br> - Informar ao navegador a URL <br> - **Logar** na aplicação** <br> - Acessar todas as telas disponíveis do app| Aguardar no máximo 5 segundos para carregar cada tela| 
+| Critério de Êxito  | O usuário espera no máximo 5 segundos para carregar cada tela nas opções de acesso do App|
 
 | 2º Caso de Teste | CT-02 - Usuário |
 |---------------|---------------------------------|
-| Requisitos Associado | RF-002 - O aplicativo deve permitir que o usuário Personal Triner efetue o processo de Login |
+| Requisitos Associado | RF-002 - O aplicativo deve permitir que o usuário Personal Trainer efetue o processo de Login |
 | Objetivo do Teste | Verificar se o usuário consegue realizar o login na aplicação |
 | Instruções | - Acessar o navegador <br> - Informar ao navegador a URL <br> - Informar o seu **E-mail** e **Senha** dados <br> - Clicar em **Logar** |
 | Critérios de Êxito | O usuário consegue realizar o login. | 
@@ -68,7 +68,7 @@ Conforme as informações adquiridas pelo Questionário do Google Forms após o 
 
 | 4º Caso de Teste | CT-04 - Cliente|
 |------------------|-----------------------------------------|
-| Requisitos Associado | RF-005 - Permitir o cadastro de clientes e os dados pessoais. |
+| Requisitos Associado | RF-003 - Permitir o cadastro de clientes e os dados pessoais. |
 | Objetivo do Teste | Verificar se o usuário consegue cadastrar clientes |
 | Instruções| - Acessar o navegador <br> - Informar ao navegador a URL <br> - Efetuar login <br> - Na página inicial, o usuário deve clicar na  opção **Adicionar Cliente** <br> - Depois, inserir os dados pessoais do cliente: **Nome**, **Sobrenome**, **Apelido**, **Telefone**, **Endereço**, **Valor pago por treino** e **Turno do treino** <br> - Após preencher todos os campos, clicar em **Cadastrar**|
 | Critérios de Êxito |O usuário consegue realizar o cadastro de clientes - |
@@ -79,7 +79,3 @@ Conforme as informações adquiridas pelo Questionário do Google Forms após o 
 | Objetivo do Teste | Verificar se o usuário consegue registrar o turno e a data do treino dos clientes |
 | Instruções| - Acessar o navegador <br> - Informar ao navegador a URL <br> - Efetuar login <br> - Na página inicial, o usuário deve clicar na  opção **Treinos do Dia** <br> - Depois, clicar na opções **Clientes 1**, **Clientes 2** ou **Clientes 3** e inserir a data do treino e o **Turno** escolhido <br> - Concluir clicando na opção **Registrar**|
 | Critérios de Êxito |O usuário consegue registrar o treino do cliente. |
-
-
-
-
