@@ -138,7 +138,7 @@ Logo abaixo, os principais tópicos de melhoria:
   
 - Adicionar mais botões e opções para facilitar o entendimento sobre as regras de navegabilidade de cada tópico da plataforma.
   
-- Inserir mais opções.....
+- **INSERIR MAIS INFORMAÇÕES**
 
 
 
