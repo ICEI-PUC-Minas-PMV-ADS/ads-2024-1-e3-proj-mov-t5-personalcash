@@ -24,107 +24,120 @@ Logo abaixo, uma análise objetiva e estatística sobre o resultado de avaliaç�
 
 Vamos abordar o os principais pontos de cada pergunta e aquelas avaliações de maior destaque.
 
-**INSERIR PRINT DA PERGUNTA 1 DO GOOGLE FORMS**:
-
-
-
-- **Resultado**: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
-
-- **INSERIR PRINT DA PERGUNTA 2 DO GOOGLE FORMS**:
-
+**1- INSERIR PRINT DA PERGUNTA 1 DO GOOGLE FORMS**:
 
 
 - **Resultado**: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
 
-
-**INSERIR PRINT DA PERGUNTA 3 DO GOOGLE FORMS**:
+**2- INSERIR PRINT DA PERGUNTA 2 DO GOOGLE FORMS**:
 
 
 
 - **Resultado**: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
 
 
-**INSERIR PRINT DA PERGUNTA 4 DO GOOGLE FORMS**:
+**3- INSERIR PRINT DA PERGUNTA 3 DO GOOGLE FORMS**:
 
 
 
 - **Resultado**: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
 
 
-**INSERIR PRINT DA PERGUNTA 5 DO GOOGLE FORMS**:
+**4- INSERIR PRINT DA PERGUNTA 4 DO GOOGLE FORMS**:
 
 
 
 - **Resultado**: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
 
 
-**INSERIR PRINT DA PERGUNTA 6 DO GOOGLE FORMS**:
+**5- INSERIR PRINT DA PERGUNTA 5 DO GOOGLE FORMS**:
 
 
 
 - **Resultado**: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
 
 
-**INSERIR PRINT DA PERGUNTA 7 DO GOOGLE FORMS**:
+**6- INSERIR PRINT DA PERGUNTA 6 DO GOOGLE FORMS**:
 
 
 
 - **Resultado**: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
 
 
-**INSERIR PRINT DA PERGUNTA 8 DO GOOGLE FORMS**:
+**7- INSERIR PRINT DA PERGUNTA 7 DO GOOGLE FORMS**:
 
 
 
 - **Resultado**: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
 
 
-**INSERIR PRINT DA PERGUNTA 9 DO GOOGLE FORMS**:
+**8- INSERIR PRINT DA PERGUNTA 8 DO GOOGLE FORMS**:
 
 
 
 - **Resultado**: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
 
 
-**INSERIR PRINT DA PERGUNTA 10 DO GOOGLE FORMS**:
+**9- INSERIR PRINT DA PERGUNTA 9 DO GOOGLE FORMS**:
 
 
 
 - **Resultado**: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
 
 
-**INSERIR PRINT DA PERGUNTA 11 DO GOOGLE FORMS**:
+**10- INSERIR PRINT DA PERGUNTA 10 DO GOOGLE FORMS**:
 
 
 
 - **Resultado**: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
 
 
-**INSERIR PRINT DA PERGUNTA 12 DO GOOGLE FORMS**:
+**11- INSERIR PRINT DA PERGUNTA 11 DO GOOGLE FORMS**:
 
 
 
 - **Resultado**: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
 
 
-**INSERIR PRINT DA PERGUNTA 13 DO GOOGLE FORMS**:
+**12- INSERIR PRINT DA PERGUNTA 12 DO GOOGLE FORMS**:
 
 
 
 - **Resultado**: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
 
 
-**INSERIR PRINT DA PERGUNTA 14 DO GOOGLE FORMS**:
+**13- INSERIR PRINT DA PERGUNTA 13 DO GOOGLE FORMS**:
 
 
 
 - **Resultado**: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
 
 
-**INSERIR PRINT DA PERGUNTA 15 DO GOOGLE FORMS**:
+**14- INSERIR PRINT DA PERGUNTA 14 DO GOOGLE FORMS**:
 
 
 
 - **Resultado**: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
+
+
+**15 INSERIR PRINT DA PERGUNTA 15 DO GOOGLE FORMS**:
+
+
+
+- **Resultado**: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
+
+### Conclusão
+
+Sobre as sugestões de todos os participantes do teste de usabilidade aplicado, o grupo, chegou nas seguintes conclusões de modo a melhorar a experiência do usuário e o sistema do Personal Cash em sua totalidade. 
+
+Logo abaixo, os principais tópicos de melhoria:
+
+- Adicionar imagens para melhorar a sensação de acolhimento e entendimento sobre o assunto e objetivo da aplicação.
+  
+- Adicionar mais botões e opções para facilitar o entendimento sobre as regras de navegabilidade de cada tópico da plataforma.
+  
+- Inserir mais opções.....
+
+
 
 
