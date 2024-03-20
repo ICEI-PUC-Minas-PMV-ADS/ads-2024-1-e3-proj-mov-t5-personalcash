@@ -8,7 +8,7 @@ Dessa forma, para o projeto Personal Cash, iremos utilizar o modelo de perguntas
 
 Os usuários testados vão responder às seguintes perguntas demonstradas abaixo:
 
-    1. Gostaria de utilizar esse sistema com muito mais frequência.
+    1. **Gostaria de utilizar esse sistema com muito mais frequência.**
     2. Achei o sistema muito fácil de usar.
     3. Achei o sistema desnecessariamente complexo.
     4. Pensei que fosse necessário o suporte de algum especialista técnico para usar esse sistema.
