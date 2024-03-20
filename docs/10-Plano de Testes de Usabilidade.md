@@ -38,6 +38,8 @@ Cada pergunta acima exposta no questionário contém cinco opções de respostas
 | 4)  | Discordo|
 | 5)  | Discordo Totalmente|
 
+**INSERIR PRINT DAS RESPOSTAS ENCAMINHADAS VIA FORMS**
+
 
 
 
