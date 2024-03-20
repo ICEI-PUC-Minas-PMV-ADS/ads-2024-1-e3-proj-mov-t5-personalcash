@@ -66,12 +66,13 @@ Conforme as informações adquiridas pelo Questionário do Google Forms, a equip
 | Instruções | - Acessar o navegador <br> - Informar ao navegador a URL <br> - Efetuar o **Login** <br> - Na página inicial **Home**, clicar nas opções **Cliente 1**, ou, **Cliente 2** <br> - Preencher o campo **Valor** e confirmar |
 | Critérios de Êxito | O usuário consegue realizar o cadastro do valor a receber de um cliente. |
 
-# 4º Caso de Teste | CT-04 - Cliente |
+| 4º Caso de Teste | CT-04 - Cliente|
 |------------------|-----------------------------------------|
 | Requisitos Associado | RF-005 - Permitir o cadastro de clientes e os dados pessoais. |
 | Objetivo do Teste | Verificar se o usuário consegue cadastrar clientes |
 | Instruções| - Acessar o navegador <br> - Informar ao navegador a URL <br> - Efetuar login <br> - Na página inicial, o usuário deve clicar na  opção **Adicionar Cliente** <br> - Depois, inserir os dados pessoais do cliente: **Nome**, **Sobrenome**, **Apelido**, **Telefone**, **Endereço**, **Valor pago por treino** e **Turno do treino** <br> - Após preencher todos os campos, clicar em **Cadastrar**|
 | Critérios de Êxito |O usuário consegue realizar o cadastro de clientes - |
+
 
 
 
