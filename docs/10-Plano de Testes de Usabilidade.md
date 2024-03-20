@@ -1,11 +1,9 @@
-# Plano de Testes de Usabilidade (EM CONSTRUÇÃO..)
+# Plano de Testes de Usabilidade
 
-O teste de usabilidade permite avaliar a qualidade da interface com o usuário da aplicação interativa. O Plano de Testes de Software é gerado a partir da especificação do sistema e consiste em casos de testes que deverão ser executados quando a implementação estiver parcial ou totalmente pronta.
+O teste de usabilidade nada mais é que uma maneira de provar a consistência e a solidez de uma interface ao colocá-la para uso em situações comuns do cotidiano da sua utilização. Ou seja, entendemos que é um teste que busca compreender como o sistema se comporta no dia a dia, na naturalidade da sua utilização e principalmente se ele atende aos requisitos estabelecidos na construção do software.
 
-As referências abaixo irão auxiliá-lo na geração do artefato "Plano de Testes de Usabilidade".
+Assim, o teste de usabilidade permite avaliar a qualidade da interface com o usuário da aplicação interativa. Consequentemente, o Plano de Testes de Software é gerado a partir da especificação do sistema e consiste em casos de testes que deverão ser executados quando a implementação estiver parcial ou totalmente pronta.
 
-> **Links Úteis**:
-> - [Teste De Usabilidade: O Que É e Como Fazer Passo a Passo (neilpatel.com)](https://neilpatel.com/br/blog/teste-de-usabilidade/)
-> - [Teste de usabilidade: tudo o que você precisa saber! | by Jon Vieira | Aela.io | Medium](https://medium.com/aela/teste-de-usabilidade-o-que-voc%C3%AA-precisa-saber-39a36343d9a6/)
-> - [Planejando testes de usabilidade: o que (e o que não) fazer | iMasters](https://imasters.com.br/design-ux/planejando-testes-de-usabilidade-o-que-e-o-que-nao-fazer/)
-> - [Ferramentas de Testes de Usabilidade](https://www.usability.gov/how-to-and-tools/resources/templates.html)
+Dessa forma, para o projeto Personal Cash, iremos utilizar o modelo de perguntas via Google Forms, vamos selecionar usuários ativos no mundo da tecnologia e também um representante do público-alvo central do nosso projeto, um Personal trainer.
+
+Os usuários testados vão responder às seguintes perguntas demonstradas abaixo:
