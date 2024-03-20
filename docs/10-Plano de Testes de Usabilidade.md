@@ -45,25 +45,33 @@ Cada pergunta acima exposta no questionário contém cinco opções de respostas
 
 Conforme as informações adquiridas pelo Questionário do Google Forms, a equipe de Desenvolvimento da aplicação realizará os possíveis ajustes no aplicativo e melhorias na plataforma:
  
-| ** 1° Caso de Teste** 	| **CT-01 - Usuário**                                                                           	|
+|  1° Caso de Teste 	| **CT-01 - Usuário**                                                                           	|
 |--------------------|-----------------------------------------------------------------------------------------------------|
 |	Requisito Associado| RNF-001- A aplicação deve permitir o cadastro do usuário.   |
 | Objetivo do Teste 	| Confirmar se o usuário consegue se cadastrar no aplicativo.                                     |
 | Ações Esperadas | - Acessar o navegador <br> - Informar ao navegador a URL <br> - Clicar na opção **Criar Conta** <br> - Informar o **Nome**, **E-mail** e **Senha** <br> - Em seguida, clicar na opção em **Cadastrar**	           | 
 | Critério de Êxito  | O usuário consegue se cadastrar no App Personal Cash.  
 
-| Caso de Teste | CT-02 - Usuário |
+| 2º Caso de Teste | CT-02 - Usuário |
 |---------------|---------------------------------|
 | Requisitos Associado | RF-002 - O aplicativo deve permitir que o usuário Personal Triner efetue o processo de Login |
 | Objetivo do Teste | Verificar se o usuário consegue realizar o login na aplicação |
 | Instruções | - Acessar o navegador <br> - Informar ao navegador a URL <br> - Informar o seu **E-mail** e **Senha** dados <br> - Clicar em **Logar** |
 | Critérios de Êxito | O usuário consegue realizar o login. | 
 
-| Caso de Teste | CT-03 - Cliente |
+| 3º Caso de Teste | CT-03 - Cliente |
 |------------------|-----------------------------------------|
 | Requisitos Associado | RF-005 - O aplicativo deve permitir que o usuário registre os valores de pagamento de cada Cliente |
 | Objetivo do Teste | Verificar se o usuário logado consegue cadastrar os valores a receber |
 | Instruções | - Acessar o navegador <br> - Informar ao navegador a URL <br> - Efetuar o **Login** <br> - Na página inicial **Home**, clicar nas opções **Cliente 1**, ou, **Cliente 2** <br> - Preencher o campo **Valor** e confirmar |
 | Critérios de Êxito | O usuário consegue realizar o cadastro do valor a receber de um cliente. |
+
+# 4º Caso de Teste | CT-04 - Cliente |
+|------------------|-----------------------------------------|
+| Requisitos Associado | RF-005 - Permitir o cadastro de clientes e os dados pessoais. |
+| Objetivo do Teste | Verificar se o usuário consegue cadastrar clientes |
+| Instruções| - Acessar o navegador <br> - Informar ao navegador a URL <br> - Efetuar login <br> - Na página inicial, o usuário deve clicar na  opção **Adicionar Cliente** <br> - Depois, inserir os dados pessoais do cliente: **Nome**, **Sobrenome**, **Apelido**, **Telefone**, **Endereço**, **Valor pago por treino** e **Turno do treino** <br> - Após preencher todos os campos, clicar em **Cadastrar**|
+| Critérios de Êxito |O usuário consegue realizar o cadastro de clientes - |
+
 
 
