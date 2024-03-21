@@ -71,12 +71,12 @@ __Instruções de Acesso__
 
 # Funcionalidade: Cadastro de Clientes (RF-003)
 
-Essa funcionalidade permite que o usuário realize o cadastro de clientes e os seus dados pessoais dentro do plataforma.
+Essa funcionalidade permite que o usuário realize o cadastro de clientes dentro do plataforma.
 
 | Etapa | ID | Descrição do Requisito | Artefato(s) |
 |-------|----|-----------------------|----------------|
-| 1 | RF-003 | Permitir o cadastro de clientes e os dados pessoais.| **colocar link do artefato** / **colocar link do artefato** |
-| 2 | RF-003 | Permitir a inserção dos seguintes dados pessoais do cliente: Nome, Sobrenome, Apelido, Telefone, Endereço, Valor pago por treino e Turno do treino. | **colocar link do artefato** / **colocar link do artefato** |
+| 1 | RF-003 | Permitir o cadastro de clientes.| **colocar link do artefato** / **colocar link do artefato** |
+| 2 | RF-003 | Permitir a inserção dos seguintes dados para o cadastro do cliente: Nome, Sobrenome, Apelido, Telefone, Endereço, Valor pago por treino e Turno do treino. | **colocar link do artefato** / **colocar link do artefato** |
 | 3 | RF-003 | Permitir cadastrar|**colocar link do artefato**/ **colocar link do artefato** / **colocar link do artefato** |
 
 `Responsável`: X
