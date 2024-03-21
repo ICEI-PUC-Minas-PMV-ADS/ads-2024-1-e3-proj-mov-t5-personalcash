@@ -25,15 +25,15 @@ __Instruções de Acesso__
 **Imagem ilustrativa - TEMPORÁRIA**
 ![CriarConta](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/bc4f28d9-7f12-48f1-bb6d-bc5ab631a8b3)
 
-# 2º Funcionalidade: Realizar o Login (RF-002)
+# 2º Funcionalidade: Realizar o Login (RNF-002)
 
 Essa funcionalidade permite que o usuário que já foi cadastrado no app Personal Cash consiga efetuar o seu "Login", para isso, basta o usuário fornecer os seus dados de acesso: "Email" e "Senha".
 
 | Etapa | ID | Descrição do Requisito | Artefato(s) |
 |-------|----|-----------------------|----------------|
-| 1 | RF-002 | O aplicativo deve permitir que o usuário Personal Triner efetue o processo de Login | **colocar link do artefato** / **colocar link do artefato** |
-| 2 | RF-002 |O aplicativo deve permitir que o usuário digite as opções "E-mail" e "Senha"  | **colocar link do artefato** / **colocar link do artefato** |
-| 3 | RF-002 | O aplicativo deve permitir que os usuários efetuem o processo de login clicando na opção "Logar" |**colocar link do artefato**/ **colocar link do artefato** / **colocar link do artefato** |
+| 1 | RNF-002 | O aplicativo deve permitir que o usuário Personal Triner efetue o processo de Login | **colocar link do artefato** / **colocar link do artefato** |
+| 2 | RNF-002 |O aplicativo deve permitir que o usuário digite as opções "E-mail" e "Senha"  | **colocar link do artefato** / **colocar link do artefato** |
+| 3 | RNF-002 | O aplicativo deve permitir que os usuários efetuem o processo de login clicando na opção "Logar" |**colocar link do artefato**/ **colocar link do artefato** / **colocar link do artefato** |
 
 `Responsável`: X
 
