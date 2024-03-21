@@ -4,7 +4,7 @@ Esse tópico é sobre a implementação do sistema descrita por meio dos requisi
 
 Vamos relacionar os requisitos atendidos com os artefatos criados (código fonte) para o projeto Personal Cash, sendo apresentados as instruções para o acesso e a verificação da implementação encontrando-se funcional no seu ambiente de hospedagem.
 
-# 1º Funcionalidade: Realizar Cadastro (RF-001)
+# Funcionalidade: Realizar Cadastro (RF-001)
 
 Essa funcionalidade permite que o usuário (Personal Trainer) realize o seu cadastro e acesse o aplicativo Personal Cash.
 
@@ -25,7 +25,7 @@ __Instruções de Acesso__
 **Imagem ilustrativa - TEMPORÁRIA**
 ![CriarConta](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/bc4f28d9-7f12-48f1-bb6d-bc5ab631a8b3)
 
-# 2º Funcionalidade: Realizar o Login (RNF-002)
+# Funcionalidade: Realizar o Login (RNF-002)
 
 Essa funcionalidade permite que o usuário que já foi cadastrado no app Personal Cash consiga efetuar o seu "Login", para isso, basta o usuário fornecer os seus dados de acesso: "Email" e "Senha".
 
@@ -47,7 +47,7 @@ __Instruções de Acesso__
 
 ![Login](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/bcbd80d1-5f8f-4cc0-9417-59ee936ac309)
 
-# 3º Funcionalidade: Histórico dos Valores/Pagamentos dos Clientes (RF-005)
+# Funcionalidade: Histórico dos Valores/Pagamentos dos Clientes (RF-005)
 
 Essa funcionalidade permite que o usuário visualize os nomes dos clientes e os valores dos pagamentos a receber.
 
@@ -69,7 +69,7 @@ __Instruções de Acesso__
 
 ![Home](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/e1a8007a-3e6e-4148-b7f3-06cef0be47ca)
 
-# 4º Funcionalidade: Cadastro de Clientes (RF-003)
+# Funcionalidade: Cadastro de Clientes (RF-003)
 
 Essa funcionalidade permite que o usuário realize o cadastro de clientes e os seus dados pessoais dentro do plataforma.
 
@@ -91,7 +91,7 @@ __Instruções de Acesso__
 
 ![TelaCliente](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/ea145e89-ecb6-4757-85a1-947df65a7886)
 
-# 5º Funcionalidade: Registro dos Treinos dos Clientes (RF-004)
+# Funcionalidade: Registro dos Treinos dos Clientes (RF-004)
 
 Essa funcionalidade permite que o usuário registre o turno dos treinos de cada cliente.
 
