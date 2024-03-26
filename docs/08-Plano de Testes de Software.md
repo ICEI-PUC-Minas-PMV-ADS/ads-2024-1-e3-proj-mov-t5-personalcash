@@ -51,7 +51,8 @@ Deste modo, segue o Plano de Testes de Software da aplicação Personal Cash e o
 
 # Indicadores de Desempenho e Metas para o processo de negócio
 
-# 1º Indicador: Histórico de clientes e Previsão de Crescimento / Porcentagem
+# 1º Indicador: 
+# Histórico de clientes e Previsão de Crescimento / Porcentagem
 
 Com um pequeno histórico na sua carteira de clientes, o Personal Trainer já vai ter alguns dados para projetar uma previsão de crescimento ao seu negócio. Assim, é possível efetuar uma análise de forma estratégica utilizando uma Previsão de Crescimento de modo a utilizar esses dados na sua tomada de decisão.
 
