@@ -59,8 +59,6 @@ Dessa forma, por exemplo, é importante que o Personal consiga acompanhar o cres
 
 Para isso, inicialmente pensando em uma projeção um crescimento de clientes em %, basta o Personal seguir a fórmula:
 
-- `Fórmula do Histórico e Previsão de Crescimento / Porcentagem:`:
-
 **Fórmula do Histórico e Previsão de Crescimento / Porcentagem:**
 
 Núm. de Clientes Mês Atual => Previsão de Crescimento Mês Seguinte = Clientes novos mês.
