@@ -96,7 +96,7 @@ Logo, o CAC do Personal Trainer foi de R$ 500.
 
 A taxa de rotatividade de clientes para o Personal Trainer é uma medida de proporção importante para o controle do seu negócio, por isso, é um dos fatores principais que determinam o nível estável de clientes que ele vai conseguir atender.
 
-O Churn Rate é um indicador que representa o número de clientes e o prcentual que cancelam o serviço. 
+O Churn Rate é um indicador que representa o número de clientes e o percentual que cancelam o serviço. 
 
 Com um simples cadastro na carteira de clientes do Personal é possível calcular esse importante indicador.
 
