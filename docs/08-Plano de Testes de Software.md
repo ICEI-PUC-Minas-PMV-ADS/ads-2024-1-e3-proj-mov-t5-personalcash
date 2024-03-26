@@ -61,7 +61,7 @@ Para isso, inicialmente pensando em uma projeção um crescimento de clientes em
 
 **Fórmula do Histórico e Previsão de Crescimento / Porcentagem:**
 
-- `Núm. de Clientes Mês Atual => Previsão de Crescimento Mês Seguinte = Clientes novos mês`
+- `Número de Clientes Mês Atual => Previsão de Crescimento Mês Seguinte = Clientes novos mês`
 
 **Exemplo prático:**
 
