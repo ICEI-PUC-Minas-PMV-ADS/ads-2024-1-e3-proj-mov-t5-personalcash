@@ -137,19 +137,21 @@ O Personal Trainer teve 6 conversões em vendas, nesse caso, a sua tava represen
 
 **Indicações**
 
-Cada vez mais, ter indicações é uma questão de sobrevivência dentro da área fitness. Ao contrário das visitas espontâneas, elas são uma forma ativa de atrair novos clientes. 
+Cada vez mais, ter indicações é uma questão de sobrevivência dentro da área fitness. Ao contrário das visitas em aulas e contatos espontâneos, as indicações são uma forma ativa de atrair novos clientes. 
 
 E, para que isso aconteça é preciso ter uma estratégia. 
 
-Comece pelas novas matrículas, ou seja, peça aos seus alunos que estão entrando indicarem outras pessoas. Pense que, uma das primeiras coisas que o cliente pede antes de efetuar a matrícula é desconto.
+O Personal pode começar por novas INSCRIÇÕES, ou seja, ele pode pedir aos seus alunos que estão se tornando clientes ativos a indicação de  outras pessoas. Uma das primeiras coisas nesse caso que o cliente pede antes de efetuar uma INSCRIÇÃO é um desconto.
 
-Então, você pode oferecer desconto ao aluno em troca da indicação. Esta é uma maneira de ambos os lados obterem um benefício - é uma via de mão dupla. Porém, não pode parar por aí, após pedir as indicações, é preciso entrar em contato. Afinal, não adianta conseguir os contatos, se não der continuidade com a estratégia de venda.
+Então, o Personal pode oferecer um desconto ao aluno em troca da indicação. 
+
+Esta é uma maneira de ambos os lados obterem um benefício. Após pedir as indicações, o Personal precisa entrar em contato para dar continuidade com a estratégia de venda.
 
 **Exemplo prático Indicações:**
 
 3 INDICAÇÕES por venda.
 
-Se existe 45 RENOVAÇÕES e 60 novas MATRÍCULAS = 315 INDICAÇÕES/MÊS
+Se existe 45 RENOVAÇÕES e 60 novas INSCRIÇÕES = 315 INDICAÇÕES/MÊS
 
 **Agendamentos + Vendas**
 
