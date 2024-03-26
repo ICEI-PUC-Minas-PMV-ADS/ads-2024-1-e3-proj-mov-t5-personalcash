@@ -118,14 +118,21 @@ Logo, nesse caso a perca de 3 clientes ao Personal Trainer vai representar um Ch
 A taxa de conversão de vendas é um insumo relevante que pode ajudar o Personal Trainer, de uma maneira prática, quantos clientes entram em contato com o Personal via telefone?
 Quantas pessoas encaminham uma mensagem ao seu Instagram?
 
-Esses números podem viabilizar uma definição de metas de melhorias além de prover mais resultados para ele Personal, quando for realizar a venda em contato direto com as pessoas.
+Esses números podem viabilizar uma definição de metas ao prórpio negócio além de melhorias em seu serviço visando prover mais resultados para ele Personal, quando for realizar a venda em contato direto com as pessoas.
 
 **Fórmula da Taxa de Conversão de Vendas:**
 
-- `Taxa de Conversão = total de contratos fechados ÷ número de clientes atendidos ou que acessaram a página do negócio × 100
-`
+- `Taxa de Conversão (%) = (Número de Conversões / Total de Pessoas que entram em contato) x 100`
 
+**Exemplo prático:**
 
+Um Personal teve o contato de 40 pessoas no mês de Março de 2024 via Instagram e Telefone.
+Dessas 40 pessoas, o Personal conseguiu converter a venda dos seus serviços para novos 6 clientes.
+
+Dessa forma:
+40 clientes (%) = (6 números de Conversões) x 100 = 15%.
+
+O Personal Trainer teve 6 conversões em vendas, nesse caso, a sua tava representou 15%.
 
 # 5º Indicador: 
 
