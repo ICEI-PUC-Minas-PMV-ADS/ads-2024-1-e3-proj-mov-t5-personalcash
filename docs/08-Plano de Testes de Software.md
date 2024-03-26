@@ -135,6 +135,8 @@ O Personal Trainer teve 6 conversões em vendas, nesse caso, a sua tava represen
 
 # 5º Indicador: Indicações + Agendamento + Vendas
 
+**Indicações**
+
 Cada vez mais, ter indicações é uma questão de sobrevivência dentro da área fitness. Ao contrário das visitas espontâneas, elas são uma forma ativa de atrair novos clientes. 
 
 E, para que isso aconteça é preciso ter uma estratégia. 
@@ -148,6 +150,8 @@ Então, você pode oferecer desconto ao aluno em troca da indicação. Esta é u
 3 INDICAÇÕES por venda.
 
 Se existe 45 RENOVAÇÕES e 60 novas MATRÍCULAS = 315 INDICAÇÕES/MÊS
+
+**Agendamentos + Vendas**
 
 O primeiro passo para fazer os agendamentos é explicar o porquê está ligando e quem deu o contato da pessoa. 
 
