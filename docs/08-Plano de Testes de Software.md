@@ -133,28 +133,35 @@ Dessa forma: 40 clientes (%) = (6 números de Conversões) x 100 = 15%.
 
 O Personal Trainer teve 6 conversões em vendas, nesse caso, a sua tava representou 15%.
 
-# 5º Indicador: (EM CONSTRUÇÃO....)
+# 5º Indicador: Indicações + Agendamento + Vendas
 
-O índice de retenção de clientes é um indicador que pode ser muito estratégico para o Personal Trainer. Ele mede a capacidade de um negócio fidelizar os clientes que ele conquista ao longo do tempo.
+Cada vez mais, ter indicações é uma questão de sobrevivência dentro da área fitness. Ao contrário das visitas espontâneas, elas são uma forma ativa de atrair novos clientes. 
 
-Acompanhar esse indicador contribui para que um negócio consiga possa conquistar um crescimento mais sustentável e escalável de acordo com o seu planejamento.
+E, para que isso aconteça é preciso ter uma estratégia. 
 
-Assim, é possível calcular o percentual de taxa de retenção de clientes.
+Comece pelas novas matrículas, ou seja, peça aos seus alunos que estão entrando indicarem outras pessoas. Pense que, uma das primeiras coisas que o cliente pede antes de efetuar a matrícula é desconto.
 
-**Fórmula da Taxa de :**
+Então, você pode oferecer desconto ao aluno em troca da indicação. Esta é uma maneira de ambos os lados obterem um benefício - é uma via de mão dupla. Porém, não pode parar por aí, após pedir as indicações, é preciso entrar em contato. Afinal, não adianta conseguir os contatos, se não der continuidade com a estratégia de venda.
 
-- `Taxa de indicações = (número de vendas por indicação / número de vendas total) x 100`
+**Exemplo prático Indicações:**
 
-**Exemplo prático:**
+3 INDICAÇÕES por venda.
 
-Um Personal conseguiu fechar para um novo mês o total de 20 novos clientes. 
-Desses novos clientes, 10 foram por indicação de clientes ativos que o Personal já tinha.
+Se existe 45 RENOVAÇÕES e 60 novas MATRÍCULAS = 315 INDICAÇÕES/MÊS
 
-Dessa forma: 10 novos clientes por indicação / 20 novos clientes totais) x 100 = 
+O primeiro passo para fazer os agendamentos é explicar o porquê está ligando e quem deu o contato da pessoa. 
 
-O Personal Trainer teve 6 conversões em vendas, nesse caso, a sua tava representou 15%.
+E então, você pode oferecer a mesma condição de desconto que deu ao aluno que o indicou para aumentar o interesse dele. Mas primeiro convide-o a vir conhecer o seu negócio, e agende uma aula experimental, por exemplo. Assim, aumentam as chances dele fechar a venda. 
 
+Vale lembrar que: este é um processo demorado e que deve ser feito com calma, pois é necessário ter uma agenda, ligar/ enviar mensagem para confirmar se a pessoa vem, etc.
 
+A minoria dos negócios investe neste processo, mas é muito importante realizá-lo. É onde a comissão do consultor de vendas estará, ou seja, o resultado será bom. Só não se esqueça de que é um ciclo que não pode parar.
 
+**Exemplo prático Indicações + Agendamento + Vendas**
 
+Das 315 INDICAÇÕES > Se conseguir 30% de DE SUCESSO  = 95 CONTATOS
 
+Dos 95 CONTATOS > Se conseguir 30% DE SUCESSO = 
+Cerca de 28 PESSOAS agendando uma aula experimental.
+
+Converter 50% = 14 vendas
