@@ -149,7 +149,7 @@ Esta é uma maneira de ambos os lados obterem um benefício. Após pedir as indi
 
 **Exemplo prático Indicações:**
 
-- `3 INDICAÇÕES por venda.`
+- `Número estabelecido de 3 INDICAÇÕES por venda`
 
 - `Se existe 45 RENOVAÇÕES + 60 novas INSCRIÇÕES = 105`
 - `105 x 3 INDICAÇÕES POR VENDAS = 315 INDICAÇÕES/MÊS`
