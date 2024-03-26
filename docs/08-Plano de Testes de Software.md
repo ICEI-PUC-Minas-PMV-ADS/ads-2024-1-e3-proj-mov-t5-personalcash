@@ -61,7 +61,7 @@ Para isso, inicialmente pensando em uma projeção um crescimento de clientes em
 
 **Fórmula do Histórico e Previsão de Crescimento / Porcentagem:**
 
-- `Núm. de Clientes Mês Atual => Previsão de Crescimento Mês Seguinte = Clientes novos mês`.
+- `Núm. de Clientes Mês Atual => Previsão de Crescimento Mês Seguinte = Clientes novos mês`
 
 **Exemplo prático:**
 
@@ -82,7 +82,7 @@ Dessa forma, por exemplo, é importante que o Personal consiga acompanhar o Cust
 
 **Fórmula do CAC:**
 
-- `CAC (em R$) = investimentos totais em marketing e vendas ÷ número de clientes adquiridos no mesmo período`:
+- `CAC (em R$) = investimentos totais em marketing e vendas ÷ número de clientes adquiridos no mesmo período`
 
 **Exemplo prático:**
 
