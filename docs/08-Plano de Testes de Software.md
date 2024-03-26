@@ -48,3 +48,29 @@ Deste modo, segue o Plano de Testes de Software da aplicação Personal Cash e o
 | Objetivo do Teste | Verificar se o usuário consegue registrar o turno e a data do treino dos clientes |
 | Instruções| - Acessar o navegador <br> - Informar ao navegador a URL <br> - Efetuar login <br> - Na página inicial, o usuário deve clicar na  opção **Treinos do Dia** <br> - Depois, clicar na opções **Clientes 1**, **Clientes 2** ou **Clientes 3** e inserir a data do treino e o **Turno** escolhido <br> - Concluir clicando na opção **Registrar**|
 | Critérios de Êxito |O usuário consegue registrar o treino do cliente. |
+
+# 5 Indicadores de Desempenho e Metas para o processo de negócio
+
+# Histórico de clientes e Previsão de Crescimento / Porcentagem
+
+Com um pequeno histórico na sua carteira de clientes, o Personal Trainer já vai ter alguns dados para projetar uma previsão de crescimento ao seu negócio. Assim, é possível efetuar uma análise de forma estratégica utilizando uma Previsão de Crescimento de modo a utilizar esses dados na sua tomada de decisão.
+
+
+Dessa forma, por exemplo, é importante que o Personal consiga acompanhar o crescimento da sua carteira de clientes de forma mensal. 
+
+Para isso, inicialmente pensando em uma projeção um crescimento de clientes em %, basta o Personal seguir a fórmula:
+
+Núm. de Clientes Mês Atual => Previsão de Crescimento Mês Seguinte = Clientes novos mês.]
+
+**Exemplo prático:**
+
+Um Personal tem 20 clientes ativos em Março de 2024 **=>** Objetivo de Crescimento de 5% em Abril 2024 **=** É necessário 1 cliente novo.
+
+**Fórmula do Histórico e Previsão de Crescimento / Porcentagem:**
+
+Multiplicar o valor (20 clientes) pela porcentagem (5%) e então dividir o resultado por 100.
+Assim, 5% de 20 = 20 × 5 / 100 = 20 × 0,05 = 1.
+
+Logo, se o Personal Trainer tem 20 clientes ativos em Março de 2024 busca um crescimento de 5% para o mês de Abril de 2024, ele teria que captar mais 1 novo aluno para a sua carteira de clientes.
+
+
