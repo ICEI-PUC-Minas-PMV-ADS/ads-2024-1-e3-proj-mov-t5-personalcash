@@ -157,11 +157,12 @@ Se existe 45 RENOVAÇÕES e 60 novas INSCRIÇÕES = 315 INDICAÇÕES/MÊS
 
 O primeiro passo para fazer os agendamentos é explicar o porquê está ligando e quem deu o contato da pessoa. 
 
-E então, você pode oferecer a mesma condição de desconto que deu ao aluno que o indicou para aumentar o interesse dele. Mas primeiro convide-o a vir conhecer o seu negócio, e agende uma aula experimental, por exemplo. Assim, aumentam as chances dele fechar a venda. 
+O Personal pode oferecer a mesma condição de desconto que dofereceu ao aluno que o indicou para aumentar o interesse dele. Mas em um primeiro monento o personal pode convidar para ele conhecer a sua assessoria, e agendar por exemplo uma aula experimental.
+Assim, aumentam as chances do Personal fechar uma venda. 
 
-Vale lembrar que: este é um processo demorado e que deve ser feito com calma, pois é necessário ter uma agenda, ligar/ enviar mensagem para confirmar se a pessoa vem, etc.
+Esse processo é de médio a longo prazo, pois é necessário ter uma agenda com todas as indicações, entrar em contato e confirmar se a pessoa vai participar de uma assessoria experimental.
 
-A minoria dos negócios investe neste processo, mas é muito importante realizá-lo. É onde a comissão do consultor de vendas estará, ou seja, o resultado será bom. Só não se esqueça de que é um ciclo que não pode parar.
+Esse ciclo deve ser constante, é um procedimento que a continuidade pode resultar ótimos resultados. 
 
 **Exemplo prático Indicações + Agendamento + Vendas**
 
