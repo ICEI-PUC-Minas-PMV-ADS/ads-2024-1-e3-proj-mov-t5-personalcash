@@ -84,6 +84,8 @@ Dessa forma, por exemplo, é importante que o Personal consiga acompanhar o Cust
 
 CAC (em R$) = investimentos totais em marketing e vendas ÷ número de clientes adquiridos no mesmo período
 
+- `CAC (em R$) = investimentos totais em marketing e vendas ÷ número de clientes adquiridos no mesmo período`:
+
 **Exemplo prático:**
 
 Um Personal Trainer, em um trimestre, investiu R$ 5.000 nas áreas de Marketing Digital via Google Ads e Instagram Ads. Nesse investimento ele conquistou 10 clientes novos. 
