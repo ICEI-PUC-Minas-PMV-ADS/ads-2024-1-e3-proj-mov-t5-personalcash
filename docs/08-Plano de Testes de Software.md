@@ -113,7 +113,18 @@ Porém, no fim do mês de Março de 2024 3 clientes não vão continuar treinand
 
 Logo, nesse caso a perca de 3 clientes ao Personal Trainer vai representar um Churn Rate de 15%.
 
-# 4º Indicador: 
+# 4º Indicador: Taxa de Conversão de Vendas
+
+A taxa de conversão de vendas é um insumo relevante que pode ajudar o Personal Trainer, de uma maneira prática, quantos clientes entram em contato com o Personal via telefone?
+Quantas pessoas encaminham uma mensagem ao seu Instagram?
+
+Esses números podem viabilizar uma definição de metas de melhorias além de prover mais resultados para ele Personal, quando for realizar a venda em contato direto com as pessoas.
+
+**Fórmula da Taxa de Conversão de Vendas:**
+
+- `Taxa de Conversão = total de contratos fechados ÷ número de clientes atendidos ou que acessaram a página do negócio × 100
+`
+
 
 
 # 5º Indicador: 
