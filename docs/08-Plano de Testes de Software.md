@@ -149,9 +149,10 @@ Esta é uma maneira de ambos os lados obterem um benefício. Após pedir as indi
 
 **Exemplo prático Indicações:**
 
-3 INDICAÇÕES por venda.
+- `3 INDICAÇÕES por venda.`
 
-Se existe 45 RENOVAÇÕES e 60 novas INSCRIÇÕES = 315 INDICAÇÕES/MÊS
+- `Se existe 45 RENOVAÇÕES + 60 novas INSCRIÇÕES = 105`
+- `105 x 3 INDICAÇÕES POR VENDAS = 315 INDICAÇÕES/MÊS`
 
 **Agendamentos + Vendas**
 
@@ -166,9 +167,8 @@ Esse ciclo deve ser constante, é um procedimento que a continuidade pode result
 
 **Exemplo prático Indicações + Agendamento + Vendas**
 
-Das 315 INDICAÇÕES > Se conseguir 30% de DE SUCESSO  = 95 CONTATOS
+- `Das 315 INDICAÇÕES > Se conseguir 30% de DE SUCESSO  = 95 CONTATOS`
 
-Dos 95 CONTATOS > Se conseguir 30% DE SUCESSO = 
-Cerca de 28 PESSOAS agendando uma aula experimental.
+- `Dos 95 CONTATOS > Se conseguir 30% DE SUCESSO = Cerca de 28 PESSOAS agendando uma aula experimental.`
 
-Converter 50% = 14 vendas
+- `Converter 50% = 14 vendas`
