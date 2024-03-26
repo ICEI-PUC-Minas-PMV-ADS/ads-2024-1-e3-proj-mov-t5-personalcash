@@ -67,7 +67,7 @@ Para isso, inicialmente pensando em uma projeção um crescimento de clientes em
 
 Um Personal tem 20 clientes ativos em Março de 2024 **=>** Objetivo de Crescimento de 5% em Abril 2024 **=** ???
 
-Basta multiplicar o valor (20 clientes) pela porcentagem (5%) e então dividir o resultado por 100.
+Dessa forma basta multiplicar o valor (20 clientes) pela porcentagem (5%) e então dividir o resultado por 100.
 Assim, 5% de 20 clientes = 20 × 5 / 100 = 20 × 0,05 = 1 cliente.
 
 Logo, se o Personal Trainer tem 20 clientes ativos em Março de 2024 busca um crescimento de 5% para o mês de Abril de 2024, ele teria que captar mais 1 novo aluno para a sua carteira de clientes.
@@ -88,7 +88,7 @@ Dessa forma, por exemplo, é importante que o Personal consiga acompanhar o Cust
 
 Um Personal Trainer, em um trimestre, investiu R$ 5.000 nas áreas de Marketing Digital via Google Ads e Instagram Ads. Nesse investimento ele conquistou 10 clientes novos. 
 
-R$5.000 Investimentos em Marketing Digital via Google Ads e Instagram Ads % 10 clientes novos = R$500.
+Dessa forma, R$5.000 Investimentos em Marketing Digital via Google Ads e Instagram Ads % 10 clientes novos = R$500.
 
 Logo, o CAC do Personal Trainer foi de R$ 500.
 
@@ -109,7 +109,7 @@ Com um simples cadastro na carteira de clientes do Personal é possível calcula
 Um Personal Trainer no inicio do mês de Março de 2024 tinha 20 clientes ativos. 
 Porém, no fim do mês de Março de 2024 3 clientes não vão continuar treinando com ele.
 
-20 Clientes ativos no ínicio do mês de Março 2024 % 3 Clientes vão cancelar os treinos no mês de Março 2024 x100
+Dessa forma, 20 Clientes ativos no ínicio do mês de Março 2024 % 3 Clientes vão cancelar os treinos no mês de Março 2024 x100
 
 Logo, nesse caso a perca de 3 clientes ao Personal Trainer vai representar um Churn Rate de 15%.
 
@@ -129,8 +129,7 @@ Esses números podem viabilizar uma definição de metas ao prórpio negócio al
 Um Personal teve o contato de 40 pessoas no mês de Março de 2024 via Instagram e Telefone.
 Dessas 40 pessoas, o Personal conseguiu converter a venda dos seus serviços para novos 6 clientes.
 
-Dessa forma:
-40 clientes (%) = (6 números de Conversões) x 100 = 15%.
+Dessa forma: 40 clientes (%) = (6 números de Conversões) x 100 = 15%.
 
 O Personal Trainer teve 6 conversões em vendas, nesse caso, a sua tava representou 15%.
 
