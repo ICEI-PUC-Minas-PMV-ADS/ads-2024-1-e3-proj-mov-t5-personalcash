@@ -88,7 +88,9 @@ CAC (em R$) = investimentos totais em marketing e vendas ÷ número de clientes 
 
 Um Personal Trainer, em um trimestre, investiu R$ 5.000 nas áreas de Marketing Digital via Google Ads e Instagram Ads. Nesse investimento ele conquistou 10 clientes novos. 
 
-Logo, o CAC do Personal Trainer é de R$ 500.
+R$5.000 Investimentos em Marketing Digital via Google Ads e Instagram Ads % 10 clientes novos = R$500.
+
+Logo, o CAC do Personal Trainer foi de R$ 500.
 
 # 3º Indicador: 
 
