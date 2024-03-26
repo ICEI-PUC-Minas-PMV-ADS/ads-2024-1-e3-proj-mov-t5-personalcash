@@ -61,7 +61,7 @@ Para isso, inicialmente pensando em uma projeção um crescimento de clientes em
 
 **Fórmula do Histórico e Previsão de Crescimento / Porcentagem:**
 
-Núm. de Clientes Mês Atual => Previsão de Crescimento Mês Seguinte = Clientes novos mês.
+- `Núm. de Clientes Mês Atual => Previsão de Crescimento Mês Seguinte = Clientes novos mês`.
 
 **Exemplo prático:**
 
@@ -81,8 +81,6 @@ Mas se o custo de aquisição for muito elevado é provável que essa situação
 Dessa forma, por exemplo, é importante que o Personal consiga acompanhar o Custo de Aquisição de Clientes (CAC).
 
 **Fórmula do CAC:**
-
-CAC (em R$) = investimentos totais em marketing e vendas ÷ número de clientes adquiridos no mesmo período
 
 - `CAC (em R$) = investimentos totais em marketing e vendas ÷ número de clientes adquiridos no mesmo período`:
 
@@ -104,7 +102,7 @@ Com um simples cadastro na carteira de clientes do Personal é possível calcula
 
 **Fórmula do Churn Rate:**
 
-Churn Rate (em %) = Quantidade de clientes ativos no início de um mês ÷ Cancelamentos realizados no final do mesmo mês ×100
+- `Churn Rate (em %) = Quantidade de clientes ativos no início de um mês ÷ Cancelamentos realizados no final do mesmo mês ×100`
 
 **Exemplo prático:**
 
