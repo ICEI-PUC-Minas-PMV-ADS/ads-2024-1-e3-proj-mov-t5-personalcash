@@ -92,9 +92,26 @@ R$5.000 Investimentos em Marketing Digital via Google Ads e Instagram Ads % 10 c
 
 Logo, o CAC do Personal Trainer foi de R$ 500.
 
-# 3º Indicador: 
+# 3º Indicador: Churn Rate
 
+A taxa de rotatividade de clientes para o Personal Trainer é uma medida de proporção importante para o controle do seu negócio, por isso, é um dos fatores principais que determinam o nível estável de clientes que ele vai conseguir atender.
 
+O Churn Rate é um indicador que representa o número de clientes e o prcentual que cancelam o serviço. 
+
+Com um simples cadastro na carteira de clientes do Personal é possível calcular esse importante indicador.
+
+**Fórmula do Churn Rate:**
+
+Churn Rate (em %) = Quantidade de clientes ativos no início de um mês ÷ Cancelamentos realizados no final do mesmo mês ×100
+
+**Exemplo prático:**
+
+Um Personal Trainer no inicio do mês de Março de 2024 tinha 20 clientes ativos. 
+Porém, no fim do mês de Março de 2024 3 clientes não vão continuar treinando com ele.
+
+20 Clientes ativos no ínicio do mês de Março 2024 % 3 Clientes vão cancelar os treinos no mês de Março 2024 x100
+
+Logo, nesse caso a perca de 3 clientes ao Personal Trainer vai representar um Churn Rate de 15%.
 
 # 4º Indicador: 
 
