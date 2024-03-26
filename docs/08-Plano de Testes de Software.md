@@ -168,7 +168,5 @@ Esse ciclo deve ser constante, é um procedimento que a continuidade pode result
 **Exemplo prático Indicações + Agendamento + Vendas**
 
 - `Das 315 INDICAÇÕES > Se conseguir 30% de DE SUCESSO  = 95 CONTATOS`
-
-- `Dos 95 CONTATOS > Se conseguir 30% DE SUCESSO = Cerca de 28 PESSOAS agendando uma aula experimental.`
-
+- `Dos 95 CONTATOS > Se conseguir 30% DE SUCESSO = Cerca de 28 PESSOAS agendando uma aula experimental`
 - `Converter 50% = 14 vendas`
