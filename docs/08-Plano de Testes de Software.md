@@ -60,7 +60,7 @@ Dessa forma, por exemplo, é importante que o Personal consiga acompanhar o cres
 
 Para isso, inicialmente pensando em uma projeção um crescimento de clientes em %, basta o Personal seguir a fórmula:
 
-Núm. de Clientes Mês Atual => Previsão de Crescimento Mês Seguinte = Clientes novos mês.]
+Núm. de Clientes Mês Atual => Previsão de Crescimento Mês Seguinte = Clientes novos mês.
 
 **Exemplo prático:**
 
@@ -74,8 +74,19 @@ Assim, 5% de 20 = 20 × 5 / 100 = 20 × 0,05 = 1.
 
 Logo, se o Personal Trainer tem 20 clientes ativos em Março de 2024 busca um crescimento de 5% para o mês de Abril de 2024, ele teria que captar mais 1 novo aluno para a sua carteira de clientes.
 
-# 2º Indicador: 
+# 2º Indicador: Custo de Aquisição de Clientes (CAC)
 
+Para o Personal Trainer entender quanto cada cliente custa é uma importante métrica para balizar os investimentos em marketing e venda. Se o custo de aquisição for muito elevado, é provável que essa situação possa comprometer o lucro e o crescimento do negócio. 
+
+**Fórmula do CAC:**
+
+CAC (em R$) = investimentos totais em marketing e vendas ÷ número de clientes adquiridos no mesmo período
+
+**Exemplo prático:**
+
+Um Personal Trainer, em um trimestre, investiu R$ 5.000 nas áreas de Marketing Digital via Google Ads e Instagram Ads. Nesse investimento ele conquistou 10 clientes novos. 
+
+Logo, o CAC do Personal Trainer é de R$ 500.
 
 
 # 3º Indicador: 
