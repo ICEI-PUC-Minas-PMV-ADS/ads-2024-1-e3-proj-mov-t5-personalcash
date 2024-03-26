@@ -133,6 +133,28 @@ Dessa forma: 40 clientes (%) = (6 números de Conversões) x 100 = 15%.
 
 O Personal Trainer teve 6 conversões em vendas, nesse caso, a sua tava representou 15%.
 
-# 5º Indicador: 
+# 5º Indicador: (EM CONSTRUÇÃO....)
+
+O índice de retenção de clientes é um indicador que pode ser muito estratégico para o Personal Trainer. Ele mede a capacidade de um negócio fidelizar os clientes que ele conquista ao longo do tempo.
+
+Acompanhar esse indicador contribui para que um negócio consiga possa conquistar um crescimento mais sustentável e escalável de acordo com o seu planejamento.
+
+Assim, é possível calcular o percentual de taxa de retenção de clientes.
+
+**Fórmula da Taxa de :**
+
+- `Taxa de indicações = (número de vendas por indicação / número de vendas total) x 100`
+
+**Exemplo prático:**
+
+Um Personal conseguiu fechar para um novo mês o total de 20 novos clientes. 
+Desses novos clientes, 10 foram por indicação de clientes ativos que o Personal já tinha.
+
+Dessa forma: 10 novos clientes por indicação / 20 novos clientes totais) x 100 = 
+
+O Personal Trainer teve 6 conversões em vendas, nesse caso, a sua tava representou 15%.
+
+
+
 
 
