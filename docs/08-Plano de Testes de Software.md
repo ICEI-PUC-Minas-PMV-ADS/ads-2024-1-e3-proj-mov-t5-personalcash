@@ -59,17 +59,16 @@ Dessa forma, por exemplo, é importante que o Personal consiga acompanhar o cres
 
 Para isso, inicialmente pensando em uma projeção um crescimento de clientes em %, basta o Personal seguir a fórmula:
 
+**Fórmula do Histórico e Preivisão de Crescimento / Porcentagem:**
+
 Núm. de Clientes Mês Atual => Previsão de Crescimento Mês Seguinte = Clientes novos mês.
 
 **Exemplo prático:**
 
-Um Personal tem 20 clientes ativos em Março de 2024 **=>** Objetivo de Crescimento de 5% em Abril 2024 **=** É necessário 1 cliente novo.
+Um Personal tem 20 clientes ativos em Março de 2024 **=>** Objetivo de Crescimento de 5% em Abril 2024 **=** ???
 
-**Fórmula do Histórico e Previsão de Crescimento / Porcentagem:**
-
-Multiplicar o valor (20 clientes) pela porcentagem (5%) e então dividir o resultado por 100.
-
-Assim, 5% de 20 = 20 × 5 / 100 = 20 × 0,05 = 1.
+Basta multiplicar o valor (20 clientes) pela porcentagem (5%) e então dividir o resultado por 100.
+Assim, 5% de 20 clientes = 20 × 5 / 100 = 20 × 0,05 = 1 cliente.
 
 Logo, se o Personal Trainer tem 20 clientes ativos em Março de 2024 busca um crescimento de 5% para o mês de Abril de 2024, ele teria que captar mais 1 novo aluno para a sua carteira de clientes.
 
