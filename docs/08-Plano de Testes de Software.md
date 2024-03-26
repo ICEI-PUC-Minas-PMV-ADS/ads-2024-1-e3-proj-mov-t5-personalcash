@@ -69,6 +69,7 @@ Um Personal tem 20 clientes ativos em Março de 2024 **=>** Objetivo de Crescime
 **Fórmula do Histórico e Previsão de Crescimento / Porcentagem:**
 
 Multiplicar o valor (20 clientes) pela porcentagem (5%) e então dividir o resultado por 100.
+
 Assim, 5% de 20 = 20 × 5 / 100 = 20 × 0,05 = 1.
 
 Logo, se o Personal Trainer tem 20 clientes ativos em Março de 2024 busca um crescimento de 5% para o mês de Abril de 2024, ele teria que captar mais 1 novo aluno para a sua carteira de clientes.
