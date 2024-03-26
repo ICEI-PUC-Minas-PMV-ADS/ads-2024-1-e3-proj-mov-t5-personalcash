@@ -55,7 +55,6 @@ Deste modo, segue o Plano de Testes de Software da aplicação Personal Cash e o
 
 Com um pequeno histórico na sua carteira de clientes, o Personal Trainer já vai ter alguns dados para projetar uma previsão de crescimento ao seu negócio. Assim, é possível efetuar uma análise de forma estratégica utilizando uma Previsão de Crescimento de modo a utilizar esses dados na sua tomada de decisão.
 
-
 Dessa forma, por exemplo, é importante que o Personal consiga acompanhar o crescimento da sua carteira de clientes de forma mensal. 
 
 Para isso, inicialmente pensando em uma projeção um crescimento de clientes em %, basta o Personal seguir a fórmula:
@@ -76,7 +75,11 @@ Logo, se o Personal Trainer tem 20 clientes ativos em Março de 2024 busca um cr
 
 # 2º Indicador: Custo de Aquisição de Clientes (CAC)
 
-Para o Personal Trainer entender quanto cada cliente custa é uma importante métrica para balizar os investimentos em marketing e venda. Se o custo de aquisição for muito elevado, é provável que essa situação possa comprometer o lucro e o crescimento do negócio. 
+Para o Personal Trainer entender quanto cada cliente custa é uma importante métrica para verificar futuros investimentos em Marketing e Venda.
+
+Mas se o custo de aquisição for muito elevado é provável que essa situação possa comprometer o lucro e o crescimento do negócio. 
+
+Dessa forma, por exemplo, é importante que o Personal consiga acompanhar o Custo de Aquisição de Clientes (CAC).
 
 **Fórmula do CAC:**
 
@@ -87,7 +90,6 @@ CAC (em R$) = investimentos totais em marketing e vendas ÷ número de clientes 
 Um Personal Trainer, em um trimestre, investiu R$ 5.000 nas áreas de Marketing Digital via Google Ads e Instagram Ads. Nesse investimento ele conquistou 10 clientes novos. 
 
 Logo, o CAC do Personal Trainer é de R$ 500.
-
 
 # 3º Indicador: 
 
