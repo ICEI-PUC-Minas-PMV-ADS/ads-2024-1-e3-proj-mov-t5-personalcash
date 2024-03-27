@@ -137,15 +137,15 @@ O Personal Trainer teve 6 conversões em vendas, nesse caso, a sua tava represen
 
 **Indicações**
 
-Cada vez mais, ter indicações é uma questão de sobrevivência dentro da área fitness. Ao contrário das visitas em aulas e contatos espontâneos, as indicações são uma forma ativa de atrair novos clientes. 
+Cada vez mais, ter indicações é uma questão de sobrevivência no âmbito dos negócios, e como Personal Trainer a indicação em si é muito importante, pois ao contrário das visitas em aulas e contatos espontâneos, as indicações são uma forma ativa de atrair cada vez mais novos clientes.
 
-E, para que isso aconteça é preciso ter uma estratégia. 
+E, para isso acontecer, o Personal por ser em autônomo necessita ter uma estratégia.
 
-O Personal pode começar por novas INSCRIÇÕES, ou seja, ele pode pedir aos seus alunos que estão se tornando clientes ativos a indicação de  outras pessoas. Uma das primeiras coisas nesse caso que o cliente pede antes de efetuar uma INSCRIÇÃO é um desconto.
+O Personal pode começar por novas INSCRIÇÕES (ou CONVIDADOS), assim, ele pode pedir aos seus alunos que estão se tornando clientes ativos a indicação de outras pessoas. Uma das primeiras coisas nesse caso que o cliente pede antes de efetuar uma INSCRIÇÃO (ou CONVIDADO) é um desconto.
 
-Então, o Personal pode oferecer um desconto ao aluno em troca da indicação. 
+Então, o Personal pode oferecer um desconto ao aluno já ativo em sua cartela de clientes em troca da indicação.
 
-Esta é uma maneira de ambos os lados obterem um benefício. Após pedir as indicações, o Personal precisa entrar em contato para dar continuidade com a estratégia de venda.
+Esta é uma maneira de ambos os lados obterem um benefício. Após pedir as indicações, o Personal precisa entrar em contato para dar continuidade com a sua estratégia de venda.
 
 **Exemplo prático Indicações:**
 
