@@ -139,7 +139,7 @@ O Personal Trainer teve 6 conversões em vendas, nesse caso, a sua tava represen
 
 Cada vez mais, ter indicações é uma questão de sobrevivência no âmbito dos negócios, e como Personal Trainer a indicação em si é muito importante, pois ao contrário das visitas em aulas e contatos espontâneos, as indicações são uma forma ativa de atrair cada vez mais novos clientes.
 
-Segundo a Tecnofit em seu Guia Prático de Indicadores para Gestão Fitness(2024)[^1], ao contrário das visitas espontâneas, as indicações são uma forma ativa de atrair novos clientes. E, para que isso aconteça, é preciso ter uma estratégia de atuação em conjunto entre indicações, agendamentos e vendas(TECNOFIT, 2024).
+Segundo a Tecnofit em seu Guia Prático de Indicadores para Gestão Fitness (2024)[^1], ao contrário das visitas espontâneas, as indicações são uma forma ativa de atrair novos clientes. E, para que isso aconteça, é preciso ter uma estratégia de atuação em conjunto entre indicações, agendamentos e vendas (TECNOFIT, 2024).
 
 Agorando esses indicadores, o Personal pode começar por novas INSCRIÇÕES (ou CONVIDADOS), assim, ele pode pedir aos seus alunos que estão se tornando clientes ativos a indicação de outras pessoas. Uma das primeiras coisas nesse caso que o cliente pede antes de efetuar uma INSCRIÇÃO (ou CONVIDADO) é um desconto.
 
