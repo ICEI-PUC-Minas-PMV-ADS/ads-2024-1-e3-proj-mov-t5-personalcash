@@ -133,7 +133,7 @@ Dessa forma: 40 clientes (%) = (6 números de Conversões) x 100 = 15%.
 
 O Personal Trainer teve 6 conversões em vendas, nesse caso, a sua tava representou 15%.
 
-# 5º Indicador: Indicações + Agendamento + Vendas
+# 5º Indicador: Indicações + Agendamento + Vendas[^1]:
 
 **Indicações**
 
@@ -171,3 +171,5 @@ Esse ciclo deve ser constante, é um procedimento que com uma continuidade pode 
 - `Das 315 INDICAÇÕES > Se conseguir 30% de DE SUCESSO  = 95 CONTATOS`
 - `Dos 95 CONTATOS > Se conseguir 30% DE SUCESSO = Cerca de 28 PESSOAS agendando uma aula experimental`
 - `Converter 50% = 14 vendas`
+
+[^1]: https://s3-sa-east-1.amazonaws.com/tecnofit-site/media/files/2019/10/17153859/GUIA_PRATICO_DE_INDICADORES_PARA_GESTAO_FITNESS-compactado.pdf?utm_source=SiteTecnofit&utm_medium=email&utm_campaign=EbookIndicadoresPerformance&utm_term=aquisicao&utm_content=ebook
