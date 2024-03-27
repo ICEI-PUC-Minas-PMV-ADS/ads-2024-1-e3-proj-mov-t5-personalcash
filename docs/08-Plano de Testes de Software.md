@@ -156,14 +156,15 @@ Esta é uma maneira de ambos os lados obterem um benefício. Após pedir as indi
 
 **Agendamentos + Vendas**
 
-O primeiro passo para fazer os agendamentos é explicar o porquê está ligando e quem deu o contato da pessoa. 
+Agora o primeiro passo para fazer os agendamentos é explicar o porquê está ligando e quem deu o contato da pessoa.
 
-O Personal pode oferecer a mesma condição de desconto que dofereceu ao aluno que o indicou para aumentar o interesse dele. Mas em um primeiro monento o personal pode convidar para ele conhecer a sua assessoria, e agendar por exemplo uma aula experimental.
-Assim, aumentam as chances do Personal fechar uma venda. 
+O Personal pode oferecer a mesma condição de desconto que ofereceu ao aluno que o indicou para aumentar o interesse dele. Mas em um primeiro momento o Personal pode convidar para ele conhecer a sua assessoria, e agendar, por exemplo, uma aula experimental. 
+
+Assim, as chances do Personal fechar uma venda podem ser ampliadas devido a sua assessoria personalizada e a exposição direta das qualidades dos seus serviços.
 
 Esse processo é de médio a longo prazo, pois é necessário ter uma agenda com todas as indicações, entrar em contato e confirmar se a pessoa vai participar de uma assessoria experimental.
 
-Esse ciclo deve ser constante, é um procedimento que a continuidade pode resultar ótimos resultados. 
+Esse ciclo deve ser constante, é um procedimento que com uma continuidade pode resultar bons resultados.
 
 **Exemplo prático Indicações + Agendamento + Vendas**
 
