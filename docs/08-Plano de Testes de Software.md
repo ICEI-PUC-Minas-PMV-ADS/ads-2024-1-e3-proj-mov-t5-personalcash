@@ -133,7 +133,7 @@ Dessa forma: 40 clientes (%) = (6 números de Conversões) x 100 = 15%.
 
 O Personal Trainer teve 6 conversões em vendas, nesse caso, a sua tava representou 15%.
 
-# 5º Indicador: Indicações + Agendamento + Vendas:
+# 5º Indicador: Indicações + Agendamento + Vendas
 
 **Indicações**
 
