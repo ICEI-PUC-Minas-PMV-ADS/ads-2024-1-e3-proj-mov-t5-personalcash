@@ -49,7 +49,7 @@ Deste modo, segue o Plano de Testes de Software da aplicação Personal Cash e o
 | Instruções| - Acessar o navegador <br> - Informar ao navegador a URL <br> - Efetuar login <br> - Na página inicial, o usuário deve clicar na  opção **Treinos do Dia** <br> - Depois, clicar na opções **Clientes 1**, **Clientes 2** ou **Clientes 3** e inserir a data do treino e o **Turno** escolhido <br> - Concluir clicando na opção **Registrar**|
 | Critérios de Êxito |O usuário consegue registrar o treino do cliente. |
 
-# Indicadores de Desempenho e Metas para o processo de negócio
+# Indicadores de Desempenho e Metas para o Processo de Negócio
 
 # 1º Indicador: Histórico de clientes e Previsão de Crescimento / Porcentagem
 
