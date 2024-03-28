@@ -157,9 +157,9 @@ Nesta etapa está planejada a elaboração da Continuidade do Desenvolvimento da
 Seguindo também a composição dos referentes tópicos: Programação de Funcionalidades,  Planos de Testes de Funcionalidades e Usabilidade, Registros de Testes de Funcionalidades e Usabilidade.
 
 - **`Execução`**:
+- 
+A parte da Metologia foi atualizada pelo Diogo, seguido do Board e a distribuição das atividades dessa etapa. A execução de cada atividade relacionado sobre a segunda Etapa vão ser divididas através da comunicação do grupo via Whatsapp.
  
-
-
 - **`Evidências`**:
   
 Atualização do Board do GitHub (Kanban) com as atividades de toda a Sprint da Etapa 03 do trabalho no dia 08/04/2024:
