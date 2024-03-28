@@ -106,7 +106,11 @@ Com um pequeno histórico na sua carteira de clientes, o Personal Trainer já va
 
 Dessa forma, por exemplo, é importante que o Personal consiga acompanhar o crescimento da sua carteira de clientes de forma mensal. 
 
-Para isso, inicialmente pensando em uma projeção um crescimento de clientes em %, basta o Personal seguir a fórmula:
+Conformea Tecnofit em seu Guia Prático de Indicadores para Gestão Fitness (2024)[^1], antes de definir uma previsão de crescimento é preciso ter um histórico de indicadores do seu próprio negócio. (TECNOFIT, 2024).
+
+Antes de definir uma previsão de crescimento é preciso ter um histórico de indicadores da empresa. 
+
+Para isso, inicialmente pensando em uma projeção um crescimento de clientes em **%**, basta o Personal seguir a fórmula:
 
 **Fórmula do Histórico e Previsão de Crescimento / Porcentagem:**
 
@@ -188,7 +192,7 @@ O Personal Trainer teve 6 conversões em vendas, nesse caso, a sua tava represen
 
 Cada vez mais, ter indicações é uma questão de sobrevivência no âmbito dos negócios, e como Personal Trainer a indicação em si é muito importante, pois ao contrário das visitas em aulas e contatos espontâneos, as indicações são uma forma ativa de atrair cada vez mais novos clientes.
 
-Segundo a Tecnofit em seu Guia Prático de Indicadores para Gestão Fitness (2024)[^1], ao contrário das visitas espontâneas, as indicações são uma forma ativa de atrair novos clientes. E, para que isso aconteça, é preciso ter uma estratégia de atuação em conjunto entre indicações, agendamentos e vendas (TECNOFIT, 2024).
+Segundo a Tecnofit em seu Guia Prático de Indicadores para Gestão Fitness (2024)[^2], ao contrário das visitas espontâneas, as indicações são uma forma ativa de atrair novos clientes. E, para que isso aconteça, é preciso ter uma estratégia de atuação em conjunto entre indicações, agendamentos e vendas (TECNOFIT, 2024).
 
 Agorando esses indicadores, o Personal pode começar por novas INSCRIÇÕES (ou CONVIDADOS), assim, ele pode pedir aos seus alunos que estão se tornando clientes ativos a indicação de outras pessoas. Uma das primeiras coisas nesse caso que o cliente pede antes de efetuar uma INSCRIÇÃO (ou CONVIDADO) é um desconto.
 
@@ -221,3 +225,4 @@ Esse ciclo deve ser constante, é um procedimento que com uma continuidade pode 
 - `Converter 50% = 14 vendas`
 
 [^1]: https://s3-sa-east-1.amazonaws.com/tecnofit-site/media/files/2019/10/17153859/GUIA_PRATICO_DE_INDICADORES_PARA_GESTAO_FITNESS-compactado.pdf?utm_source=SiteTecnofit&utm_medium=email&utm_campaign=EbookIndicadoresPerformance&utm_term=aquisicao&utm_content=ebook
+[^2]: https://s3-sa-east-1.amazonaws.com/tecnofit-site/media/files/2019/10/17153859/GUIA_PRATICO_DE_INDICADORES_PARA_GESTAO_FITNESS-compactado.pdf?utm_source=SiteTecnofit&utm_medium=email&utm_campaign=EbookIndicadoresPerformance&utm_term=aquisicao&utm_content=ebook
