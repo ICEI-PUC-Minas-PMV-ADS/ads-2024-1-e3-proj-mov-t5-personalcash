@@ -24,6 +24,8 @@ MONSTSERRAT extrabold. **MaisFontes**, 2024. Disponível em: https://br.maisfont
 
 LOGOMARCA. **Enciclopédia Significados**, 2024. Disponível em: https://www.significados.com.br/logomarca/. Acesso em: 19 mar. 2024.
 
+GUIA prático de indicadores para gestão fitness. **Tecnofit**, 2024. p. 4. Disponível em: https://s3-sa-east-1.amazonaws.com/tecnofit-site/media/files/2019/10/17153859/GUIA_PRATICO_DE_INDICADORES_PARA_GESTAO_FITNESS-compactado.pdf?utm_source=SiteTecnofit&utm_medium=email&utm_campaign=EbookIndicadoresPerformance&utm_term=aquisicao&utm_content=ebook. Acesso em: 23 mar. 2024.
+
 GUIA prático de indicadores para gestão fitness. **Tecnofit**, 2024. p. 12-13. Disponível em: https://s3-sa-east-1.amazonaws.com/tecnofit-site/media/files/2019/10/17153859/GUIA_PRATICO_DE_INDICADORES_PARA_GESTAO_FITNESS-compactado.pdf?utm_source=SiteTecnofit&utm_medium=email&utm_campaign=EbookIndicadoresPerformance&utm_term=aquisicao&utm_content=ebook. Acesso em: 23 mar. 2024.
 
 
