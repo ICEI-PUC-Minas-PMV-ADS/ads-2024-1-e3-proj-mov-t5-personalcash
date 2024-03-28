@@ -18,7 +18,7 @@ Deste modo, segue o Plano de Testes de Software da aplicação Personal Cash e o
 | Requisitos Associados | RF-001 - O aplicativo não deve permitir que o usuário consiga realizar o seu cadastro, caso o e-mail informado seja inválido |
 | Objetivo do Teste | Verificar se o usuário não consegue realizar o cadastro na aplicação |
 | Instruções| - Acessar o navegador <br> - Informar ao navegador a URL <br> - Clicar na opção **Criar Conta** <br> - Informar o **Nome**, **E-mail** e **Senha** <br> - Em seguida, clicar na opção em **Cadastrar** |
-| Critérios de Êxito | O usuário não vai conseguir realizar o cadastro e vai aparecer uma mensagem: "E-mail inválido" |
+| Critérios de Êxito | O usuário não vai conseguir realizar o cadastro e vai aparecer uma mensagem: **"E-mail inválido"** |
 
 # Caso de Teste: Realizar o Login
 
