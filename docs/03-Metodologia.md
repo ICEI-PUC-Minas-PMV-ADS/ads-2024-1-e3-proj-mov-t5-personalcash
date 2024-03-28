@@ -161,7 +161,7 @@ Seguindo também a composição dos referentes tópicos: Programação de Funcio
 
 
 - **`Evidências`**:
-- 
+  
 Atualização do Board do GitHub (Kanban) com as atividades de toda a Sprint da Etapa 03 do trabalho no dia 08/04/2024:
   
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/1d6fd14c-9731-4267-9edf-cffd56328cbe)
