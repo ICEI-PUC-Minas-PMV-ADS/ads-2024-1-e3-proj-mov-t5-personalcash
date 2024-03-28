@@ -52,12 +52,12 @@ Deste modo, segue o Plano de Testes de Software da aplicação Personal Cash e o
 | Instruções | - Acessar o navegador <br> - Informar ao navegador a URL <br> - Efetuar o **Login** <br> - Na página inicial **Home**, clicar nas opções **Cliente 1**, ou, **Cliente 2** <br> - Preencher o campo **Valor** e confirmar |
 | Critérios de Êxito | O usuário consegue realizar o cadastro do valor a receber de um cliente. |
 
-| Caso de Teste | CT-07 - Registrar os valores de cada Cliente com o tópico do valor vazio (em branco)|
+| Caso de Teste | CT-07 - Registrar os valores de cada Cliente sem preencher todos os dados|
 |------------------|-----------------------------------------|
 | Requisitos Associado | RF-005 - O aplicativo deve permitir que o usuário registre os valores de pagamento de cada cliente |
 | Objetivo do Teste | Verificar se o usuário logado consegue cadastrar os valores a receber |
-| Instruções | - Acessar o navegador <br> - Informar ao navegador a URL <br> - Efetuar o **Login** <br> - Na página inicial **Home**, clicar nas opções **Cliente 1**, ou, **Cliente 2** <br> - Não preencher o campo **Valor** deixando (vazio) ( em branco)e confirmar |
-| Critérios de Êxito | O usuário não consegue realizar o cadastro do valor a receber de um cliente, pois, não preencheu o campo deixando em branco (vazio). Assim, vai aparecer uma mensagem: **"Preencher o valor no campo em branco"**  |
+| Instruções | - Acessar o navegador <br> - Informar ao navegador a URL <br> - Efetuar o **Login** <br> - Na página inicial **Home**, clicar nas opções **Cliente 1**, ou, **Cliente 2** <br> - Não preencher o campo **Valor** deixando (vazio) em branco)e confirmar |
+| Critérios de Êxito | O usuário não consegue realizar o cadastro do valor a receber de um cliente, pois, não preencheu o campo deixando em branco (vazio). Assim, vai aparecer uma mensagem: **"Preencher todos os dados do cliente"**  |
 
 # Caso de Teste: Cadastrar os clientes
 
