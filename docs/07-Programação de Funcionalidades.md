@@ -31,7 +31,7 @@ Essa funcionalidade permite que o usuário que já foi cadastrado no app Persona
 
 | Etapa | ID | Descrição do Requisito | Artefato(s) |
 |-------|----|-----------------------|----------------|
-| 1 | RNF-002 | O aplicativo deve permitir que o usuário Personal Triner efetue o processo de Login | **colocar link do artefato** / **colocar link do artefato** |
+| 1 | RNF-002 | O aplicativo deve permitir que o usuário Personal Trainer efetue o processo de Login | **colocar link do artefato** / **colocar link do artefato** |
 | 2 | RNF-002 |O aplicativo deve permitir que o usuário digite as opções "E-mail" e "Senha"  | **colocar link do artefato** / **colocar link do artefato** |
 | 3 | RNF-002 | O aplicativo deve permitir que os usuários efetuem o processo de login clicando na opção "Logar" |**colocar link do artefato**/ **colocar link do artefato** / **colocar link do artefato** |
 
