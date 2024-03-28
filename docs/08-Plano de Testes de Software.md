@@ -36,7 +36,7 @@ Deste modo, segue o Plano de Testes de Software da aplicação Personal Cash e o
 | Instruções | - Acessar o navegador <br> - Informar ao navegador a URL <br> - Informar o seu **E-mail** e **Senha**<br> - Clicar em **Logar** |
 | Critérios de Êxito | O usuário não vai conseguir realizar o cadastro e vai aparecer uma mensagem: **"E-mail inválido"** |
 
-| Caso de Teste | CT-05 - Realizar o Login com a senha errada|
+| Caso de Teste | CT-05 - Realizar o Login com a Senha errada|
 |---------------|---------------------------------|
 | Requisitos Associado | RF-002 - O aplicativo deve permitir que o usuário Personal Trainer efetue o processo de Login |
 | Objetivo do Teste | Verificar se o usuário consegue realizar o login na aplicação informando a sua senha |
