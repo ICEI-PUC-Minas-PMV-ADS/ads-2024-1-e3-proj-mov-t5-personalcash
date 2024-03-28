@@ -19,7 +19,7 @@ Deste modo, segue o Plano de Testes de Software da aplicação Personal Cash e o
 |---------------|---------------------------------|
 | Requisitos Associado | RF-002 - O aplicativo deve permitir que o usuário Personal Triner efetue o processo de Login |
 | Objetivo do Teste | Verificar se o usuário consegue realizar o login na aplicação |
-| Instruções | - Acessar o navegador <br> - Informar ao navegador a URL <br> - Informar o seu **E-mail** e **Senha** dados <br> - Clicar em **Logar** |
+| Instruções | - Acessar o navegador <br> - Informar ao navegador a URL <br> - Informar o seu **E-mail** e **Senha**<br> - Clicar em **Logar** |
 | Critérios de Êxito | O usuário consegue realizar o login. | 
 
 # 3º Caso de Teste: Registrar os valores dos pagamentos de cada cliente.
