@@ -128,6 +128,8 @@ A única dúvida importante do trabalho é sobre exemplos práticos do seguinte 
 
 Com as orientações do nosso orientador, vamos avançar nessa entrega.
 
+Após as orientações, vamos corrigir a parte do Plano de Testes de Software, Registro de Testes de Software e os Indicadores de Desempenho e Metas para o Processo de Negócio.
+
 - **`Evidências`**:
 
   Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 02 do trabalho no dia 11/03/2024:
