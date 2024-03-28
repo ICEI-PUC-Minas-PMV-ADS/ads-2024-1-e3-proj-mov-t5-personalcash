@@ -157,8 +157,19 @@ Nesta etapa está planejada a elaboração da Continuidade do Desenvolvimento da
 Seguindo também a composição dos referentes tópicos: Programação de Funcionalidades,  Planos de Testes de Funcionalidades e Usabilidade, Registros de Testes de Funcionalidades e Usabilidade.
 
 - **`Execução`**:
+ 
+
 
 - **`Evidências`**:
+- 
+Atualização do Board do GitHub (Kanban) com as atividades de toda a Sprint da Etapa 03 do trabalho no dia 08/04/2024:
+  
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/1d6fd14c-9731-4267-9edf-cffd56328cbe)
+
+Atualização do Board do GitHub (Kanban) com as atividades In Progress da Etapa 03 do trabalho no dia 08/04/2024:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/3d352663-b533-4b96-ad4d-a1146391c840)
+
 
 # Etapa 4
 
