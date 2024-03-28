@@ -108,8 +108,6 @@ Dessa forma, por exemplo, é importante que o Personal consiga acompanhar o cres
 
 Conformea Tecnofit em seu Guia Prático de Indicadores para Gestão Fitness (2024)[^1], antes de definir uma previsão de crescimento é preciso ter um histórico de indicadores do seu próprio negócio. (TECNOFIT, 2024).
 
-Antes de definir uma previsão de crescimento é preciso ter um histórico de indicadores da empresa. 
-
 Para isso, inicialmente pensando em uma projeção um crescimento de clientes em **%**, basta o Personal seguir a fórmula:
 
 **Fórmula do Histórico e Previsão de Crescimento / Porcentagem:**
