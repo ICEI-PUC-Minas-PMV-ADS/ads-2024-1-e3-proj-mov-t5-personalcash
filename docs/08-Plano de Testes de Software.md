@@ -43,8 +43,6 @@ Deste modo, segue o Plano de Testes de Software da aplicação Personal Cash e o
 | Instruções | - Acessar o navegador <br> - Informar ao navegador a URL <br> - Informar o seu **E-mail** e **Senha**<br> - Clicar em **Logar** |
 | Critérios de Êxito | O usuário não vai conseguir realizar o cadastro e vai aparecer uma mensagem: **"Senha inválida"** |
 
-EM CONSTRUÇÃO
-
 # Caso de Teste: Registrar os valores dos pagamentos de cada cliente.
 
 | Caso de Teste | CT-06 - Registrar os valores de cada Cliente |
@@ -54,16 +52,14 @@ EM CONSTRUÇÃO
 | Instruções | - Acessar o navegador <br> - Informar ao navegador a URL <br> - Efetuar o **Login** <br> - Na página inicial **Home**, clicar nas opções **Cliente 1**, ou, **Cliente 2** <br> - Preencher o campo **Valor** e confirmar |
 | Critérios de Êxito | O usuário consegue realizar o cadastro do valor a receber de um cliente. |
 
-| Caso de Teste | CT-07 - Registrar os valores de cada Cliente e não validar o registro |
+| Caso de Teste | CT-07 - Registrar os valores de cada Cliente e não cadastrar o registro |
 |------------------|-----------------------------------------|
 | Requisitos Associado | RF-005 - O aplicativo deve permitir que o usuário registre os valores de pagamento de cada Cliente |
 | Objetivo do Teste | Verificar se o usuário logado consegue cadastrar os valores a receber |
 | Instruções | - Acessar o navegador <br> - Informar ao navegador a URL <br> - Efetuar o **Login** <br> - Na página inicial **Home**, clicar nas opções **Cliente 1**, ou, **Cliente 2** <br> - Não preencher o campo **Valor** deixando em branco (vazio) e confirmar |
 | Critérios de Êxito | O usuário não consegue realizar o cadastro do valor a receber de um cliente, pois, não preencheu o campo deixando em branco (vazio). Assim, vai aparecer uma mensagem: **"Preencher o valor"**  |
 
-EM CONSTRUÇÃO
-
-# 4º Caso de Teste:  Cadastrar os clientes
+# Caso de Teste: Cadastrar os clientes
 
 | Caso de Teste | CT-0 - Realizar o cadastro de clientes|
 |------------------|-----------------------------------------|
@@ -72,6 +68,14 @@ EM CONSTRUÇÃO
 | Instruções| - Acessar o navegador <br> - Informar ao navegador a URL <br> - Efetuar login <br> - Na página inicial, o usuário deve clicar na  opção **Adicionar Cliente** <br> - Depois, inserir os dados pessoais do cliente: **Nome**, **Sobrenome**, **Apelido**, **Telefone**, **Endereço**, **Valor pago por treino** e **Turno do treino** <br> - Após preencher todos os campos, clicar em **Cadastrar**|
 | Critérios de Êxito |O usuário consegue realizar o cadastro de clientes - |
 
+| Caso de Teste | CT-0 - Realizar o cadastro de clientes sem preencher todos os dados|
+|------------------|-----------------------------------------|
+| Requisitos Associado | RF-005 - Permitir o cadastro de clientes e os dados pessoais. |
+| Objetivo do Teste | Verificar se o usuário consegue cadastrar clientes |
+| Instruções| - Acessar o navegador <br> - Informar ao navegador a URL <br> - Efetuar login <br> - Na página inicial, o usuário deve clicar na  opção **Adicionar Cliente** <br> - Depois, não inserir todos dados pessoais do cliente e esquecer algum dos seguintes tópicos: **Nome**, **Sobrenome**, **Apelido**, **Telefone**, **Endereço**, **Valor pago por treino** e **Turno do treino** <br> - Após preencher todos os campos, clicar em **Cadastrar**|
+| Critérios de Êxito |O usuário não consegue realizar o cadastro de clientes, pois, não preencheu todos os dados dos clientes deixando em branco (vazio) uma das opções: **Nome**, **Sobrenome**, **Apelido**, **Telefone**, **Endereço**, **Valor pago por treino** e **Turno do treino**. Assim, vai aparecer uma mensagem: **"Preencher todos os dados do cliente"** - |
+
+(EM CONTRUÇÃO)
 # º Caso de Teste: Registar os treinos dos clientes
 
 | Caso de Teste | CT-0 - Registrar os treinos dos clientes|
