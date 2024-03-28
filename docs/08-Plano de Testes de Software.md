@@ -1,4 +1,4 @@
-# Plano de Testes de Software  (EM CONSTRUÇÃO)
+# Plano de Testes de Software 
 
 O  Plano de Testes de Software é um documento que define as estratégias, os objetivos e as etapas necessárias para testar um software de forma a garantir que ele esteja funcionando corretamente e de acordo com os requisitos estabelecidos.
 
@@ -6,14 +6,14 @@ Deste modo, segue o Plano de Testes de Software da aplicação Personal Cash e o
 
 # Caso de Teste: Realizar Cadastro
 
-| 1º Caso de Teste | CT-01 - Realizar cadastro |
+| Caso de Teste | CT-01 - Realizar cadastro |
 |---------------|-----------------------------|
 | Requisitos Associados | RF-001 - O aplicativo deve permitir que o usuário consiga realizar o seu cadastro |
 | Objetivo do Teste | Verificar se o usuário consegue realizar o cadastro na aplicação |
 | Instruções| - Acessar o navegador <br> - Informar ao navegador a URL <br> - Clicar na opção **Criar Conta** <br> - Informar o **Nome**, **E-mail** e **Senha** <br> - Em seguida, clicar na opção em **Cadastrar** |
 | Critérios de Êxito | O usuário consegue acessar a página inicial. |
 
-| 1º Caso de Teste | CT-01 - Realizar cadastro com o e-mail inválido|
+| Caso de Teste | CT-02 - Realizar cadastro com o E-mail inválido|
 |---------------|-----------------------------|
 | Requisitos Associados | RF-001 - O aplicativo não deve permitir que o usuário consiga realizar o seu cadastro, caso o e-mail informado seja inválido |
 | Objetivo do Teste | Verificar se o usuário não consegue realizar o cadastro na aplicação |
@@ -22,12 +22,29 @@ Deste modo, segue o Plano de Testes de Software da aplicação Personal Cash e o
 
 # º Caso de Teste: Realizar o Login
 
-| Caso de Teste | CT-0 - Realizar o login |
+| Caso de Teste | CT-03 - Realizar o login |
 |---------------|---------------------------------|
 | Requisitos Associado | RF-002 - O aplicativo deve permitir que o usuário Personal Triner efetue o processo de Login |
 | Objetivo do Teste | Verificar se o usuário consegue realizar o login na aplicação |
 | Instruções | - Acessar o navegador <br> - Informar ao navegador a URL <br> - Informar o seu **E-mail** e **Senha**<br> - Clicar em **Logar** |
 | Critérios de Êxito | O usuário consegue realizar o login. | 
+
+| Caso de Teste | CT-03 - Realizar o login com E-mail errado|
+|---------------|---------------------------------|
+| Requisitos Associado | RF-002 - O aplicativo deve permitir que o usuário Personal Triner efetue o processo de Login |
+| Objetivo do Teste | Verificar se o usuário consegue realizar o login na aplicação informando o seu e-mail|
+| Instruções | - Acessar o navegador <br> - Informar ao navegador a URL <br> - Informar o seu **E-mail** e **Senha**<br> - Clicar em **Logar** |
+| Critérios de Êxito | O usuário não vai conseguir realizar o cadastro e vai aparecer uma mensagem: **"E-mail inválido"** |
+
+| Caso de Teste | CT-04 - Realizar o Login com a senha errada|
+|---------------|---------------------------------|
+| Requisitos Associado | RF-002 - O aplicativo deve permitir que o usuário Personal Trainer efetue o processo de Login |
+| Objetivo do Teste | Verificar se o usuário consegue realizar o login na aplicação informando a sua senha |
+| Instruções | - Acessar o navegador <br> - Informar ao navegador a URL <br> - Informar o seu **E-mail** e **Senha**<br> - Clicar em **Logar** |
+| Critérios de Êxito | O usuário não vai conseguir realizar o cadastro e vai aparecer uma mensagem: **"Senha inválida"** |
+
+
+(EM CONSTRUÇÃO)
 
 # º Caso de Teste: Registrar os valores dos pagamentos de cada cliente.
 
