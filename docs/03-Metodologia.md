@@ -140,7 +140,15 @@ Após as orientações, vamos corrigir a parte do Plano de Testes de Software, R
 
   ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/97b7dd68-1a81-44af-8ce5-a3184b223619)
 
-# Etapa 3
+  Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 02 do trabalho no dia 03/04/2024:
+  
+  ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/cd24255b-84ff-41f8-86ed-568b99304639)
+
+  Board Atualizado com os Issues e Milestones concluídos da Etapa 02 no dia 07/04/2024:
+  
+  ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/acef1422-f178-4636-adce-409b1118f06d)
+
+  # Etapa 3
 
 - **`Planejamento`**:
 
