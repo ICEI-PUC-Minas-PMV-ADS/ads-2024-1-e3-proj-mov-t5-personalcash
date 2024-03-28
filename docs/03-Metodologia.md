@@ -152,6 +152,10 @@ Após as orientações, vamos corrigir a parte do Plano de Testes de Software, R
 
 - **`Planejamento`**:
 
+Nesta etapa está planejada a elaboração da Continuidade do Desenvolvimento da Solução: Desenvolvimento da aplicação móvel (Parte 1).
+
+Seguindo também a composição dos referentes tópicos: Programação de Funcionalidades,  Planos de Testes de Funcionalidades e Usabilidade, Registros de Testes de Funcionalidades e Usabilidade.
+
 - **`Execução`**:
 
 - **`Evidências`**:
