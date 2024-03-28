@@ -4,9 +4,9 @@ O  Plano de Testes de Software é um documento que define as estratégias, os ob
 
 Deste modo, segue o Plano de Testes de Software da aplicação Personal Cash e os testes funcionais a serem realizados:
 
-# 1º Caso de Teste: Realizar Cadastro
+# Caso de Teste: Realizar Cadastro
 
-| Caso de Teste | CT-01 - Realizar cadastro |
+| 1º Caso de Teste | CT-01 - Realizar cadastro |
 |---------------|-----------------------------|
 | Requisitos Associados | RF-001 - O aplicativo deve permitir que o usuário consiga realizar o seu cadastro |
 | Objetivo do Teste | Verificar se o usuário consegue realizar o cadastro na aplicação |
