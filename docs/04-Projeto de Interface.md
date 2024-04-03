@@ -44,11 +44,12 @@ Abaixo, segue os Wireframes do app Personal Cash.
 ## 7. Tela de Registro dos Treinos do Dia
 ![TreinosDia](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/b94a6d05-66cf-449b-8b9f-4630a36fe24d)
 
-## 9. Tela de Cadastro dos Treinos
+## 8. Tela de Cadastro dos Treinos
 ![CadastroTreino](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/6f6456c1-d63c-439a-94ea-722ce9c72615)
 
 ## 9. Tela de Débitos dos Clientes
-![TelaQuitarDivida](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/63b9d951-82bc-4455-8b25-73162fdc3839)
+![TelaQuitarDivida](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/88664cae-ac59-4b65-b1f1-346d867c1df6)
+
 
 
 
