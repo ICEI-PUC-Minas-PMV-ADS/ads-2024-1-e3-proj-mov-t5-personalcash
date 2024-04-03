@@ -100,7 +100,7 @@ Abaixo, será demonstrado as telas do template e os seguintes layouts do Aplicat
 **Tela de Login**</br>
 ![Login](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/10344640-2a28-4428-a658-1136ff41ddff)</br>
 
-**INSERIR FOTOS Tela Principal**</br>
+**Tela Principal**</br>
 ![Home](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/c8700e7f-48d2-45c7-9368-f56392ade9a3)</br>
 
 **INSERIR FOTOS Tela de Perfil do Usuário**
