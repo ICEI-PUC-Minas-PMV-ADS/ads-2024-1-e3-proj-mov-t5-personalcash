@@ -30,18 +30,24 @@ Abaixo, segue os Wireframes do app Personal Cash.
 ![Login](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/bcbd80d1-5f8f-4cc0-9417-59ee936ac309)
 
 ## 3. Tela Principal
-![Home](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/e1a8007a-3e6e-4148-b7f3-06cef0be47ca)
+![Home](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/7d0a1cbc-780a-417f-839c-458b5c126019)
 
 ## 4. Tela de Perfil do Usuário
-![TelaUsuario](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/4b236434-2c17-41c3-a324-eac6f405dc25)
+![Perfil](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/2fc54626-be88-4d3e-af43-2b08ae25f17a)
 
-## 5. Tela de Cadastro de Clientes
-![TelaCliente](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/ea145e89-ecb6-4757-85a1-947df65a7886)
+## 5. Tela de Registro de Clientes
+![RegistroCliente](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/f6af0d10-8bf2-498a-bef9-5cb41e9adea8)
 
-## 6. Tela de Registro dos Treinos do Dia
-![TelaTreino](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/1c03cca2-6651-4f34-aa25-9e0d4d544c62)
+## 6. Tela de Cadastro de Clientes
+![AdicionarCliente](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/177230c4-ea97-4bce-acd8-ff8ea869950f)
 
-## 7. Tela de Débitos dos Clientes
+## 7. Tela de Registro dos Treinos do Dia
+![TreinosDia](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/b94a6d05-66cf-449b-8b9f-4630a36fe24d)
+
+## 9. Tela de Cadastro dos Treinos
+![CadastroTreino](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/6f6456c1-d63c-439a-94ea-722ce9c72615)
+
+## 9. Tela de Débitos dos Clientes
 ![TelaQuitarDivida](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/63b9d951-82bc-4455-8b25-73162fdc3839)
 
 
