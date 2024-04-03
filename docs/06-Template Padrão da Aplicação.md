@@ -94,9 +94,11 @@ Assim, um template seguido da sua estrutura, atribui a uma aplicação todo o as
 
 Abaixo, será demonstrado as telas do template e os seguintes layouts do Aplicativo Personal Cash.
 
-**INSERIR FOTOS Tela de Cadastro de Conta**
+**Tela de Cadastro de Conta**
+![CadastroConta](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/1d9cf903-511a-499e-b386-94b532fcfb27)
 
-**INSERIR FOTOS Tela de Login**
+**Tela de Login**
+![Login](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/10344640-2a28-4428-a658-1136ff41ddff)
 
 **INSERIR FOTOS Tela Principal**
 
