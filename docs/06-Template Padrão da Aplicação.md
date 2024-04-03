@@ -104,9 +104,13 @@ Abaixo, será demonstrado as telas do template e os seguintes layouts do Aplicat
 
 **INSERIR FOTOS Tela de Perfil do Usuário**
 
+**INSERIR FOTOS Tela de Registro de Clientes**
+
 **INSERIR FOTOS Tela de Cadastro de Clientes**
 
 **INSERIR FOTOS Tela de Registro dos Treinos do Dia**
+
+**INSERIR FOTOS Tela de Cadastro dos Treinos do Dia**
 
 **INSERIR FOTOS Tela de Débitos dos Clientes**
 
