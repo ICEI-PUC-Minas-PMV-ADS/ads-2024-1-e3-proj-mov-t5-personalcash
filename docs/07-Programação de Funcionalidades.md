@@ -67,7 +67,7 @@ __Instruções de Acesso__
 
 **Imagem ilustrativa - TEMPORÁRIA**
 
-![Home](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/e1a8007a-3e6e-4148-b7f3-06cef0be47ca)
+![Home](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/2a057bff-88d7-4c11-9ac7-da7e7a6f4678)
 
 # Funcionalidade: Cadastro de Clientes (RF-003)
 
