@@ -109,7 +109,7 @@ __Instruções de Acesso__
 2. Clique em **Treinos do Dias** 
 3. Clique em **Registrar**
 4. Clique e preencha os campos relacionados ao treino
-5. Clique em **Registrar** 
+5. Clique em **Salvar** 
 
 **Imagem ilustrativa - TEMPORÁRIA**
 
