@@ -83,13 +83,14 @@ Essa funcionalidade permite que o usuário realize o cadastro de clientes dentro
 
 __Instruções de Acesso__
 1. Acesse o aplicativo **Personal Cash**
-2. Clique em **Adicionar Cliente** 
-3. Clique e preencha os dados pessoais de cada cliente
-4. Clique em **Cadastrar** 
+2. Clique em **Registro dos Clientes** 
+3. Clique em **Adicionar**
+4. Clique e preencha os dados pessoais de cada cliente
+5. Clique em **Adicionar** 
 
 **Imagem ilustrativa - TEMPORÁRIA**
 
-![TelaCliente](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/ea145e89-ecb6-4757-85a1-947df65a7886)
+![AdicionarCliente](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/3f7563f4-f5d0-4bce-b68f-e55b3845c722)
 
 # Funcionalidade: Registro dos Treinos dos Clientes (RF-004)
 
@@ -106,10 +107,11 @@ Essa funcionalidade permite que o usuário registre o turno dos treinos de cada 
 __Instruções de Acesso__
 1. Acesse o aplicativo **Personal Cash**
 2. Clique em **Treinos do Dias** 
-3. Clique no cliente desejado e depois nas opções de turnos disponíveis: **Manhã**, **Tarde** e **Noite**.
+3. Clique em **Registrar**
+4. Clique e preencha os campos relacionados ao treino
 5. Clique em **Registrar** 
 
 **Imagem ilustrativa - TEMPORÁRIA**
 
-![TelaTreino](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/1c03cca2-6651-4f34-aa25-9e0d4d544c62)
+![CadastroTreino](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/5b7d1ea6-19ce-45d2-a09a-878633214c91)
 
