@@ -48,8 +48,7 @@ Abaixo, segue os Wireframes do app Personal Cash.
 ![CadastroTreino](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/6f6456c1-d63c-439a-94ea-722ce9c72615)
 
 ## 9. Tela de Débitos dos Clientes
-![TelaQuitarDivida](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/88664cae-ac59-4b65-b1f1-346d867c1df6)
-
+![TelaQuitarDivida](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/1c51b8e1-3a8a-4a4a-a3a2-3267d54276ab)
 
 
 
