@@ -6,6 +6,10 @@ import Login from '../pages/Login';
 import Home from '../pages/Home';
 import Perfil from '../pages/Perfil';
 import CadastroCliente from '../pages/CadastroCliente';
+import RegistroTreino from '../pages/RegistroTreino';
+import TelaPrincipal from '../pages/TelaPrincipal';
+import QuitarDivida from '../pages/QuitarDivida';
+import RegistroCliente from '../pages/RegistroCliente';
 import CadastroTreino from '../pages/CadastroTreino';
 
 const Stack = createNativeStackNavigator();
@@ -42,19 +46,48 @@ const Main = () => {
         }}
       />
       <Stack.Screen
-        name="Cadastro Cliente"
+        name="CadastroCliente"
         component={CadastroCliente}
         options={{
           header: () => null,
         }}
       />
       <Stack.Screen
-        name="Cadastro Treino"
-        component={CadastroTreino}
+        name="Registro Treino"
+        component={RegistroTreino}
         options={{
           header: () => null,
         }}
       />
+      {/* Adicione as novas telas à pilha de navegação */}
+      <Stack.Screen 
+        name="TelaPrincipal" 
+        component={TelaPrincipal}
+        options={{
+          header: () => null,
+        }} 
+      />
+      <Stack.Screen 
+        name="QuitarDivida" 
+        component={QuitarDivida}
+        options={{
+          header: () => null,
+        }} 
+        />
+        <Stack.Screen 
+        name="RegistroCliente" 
+        component={RegistroCliente}
+        options={{
+          header: () => null,
+        }} 
+        />
+        <Stack.Screen 
+        name="CadastroTreino" 
+        component={CadastroTreino}
+        options={{
+          header: () => null,
+        }} 
+        />
     </Stack.Navigator>
   );
 };

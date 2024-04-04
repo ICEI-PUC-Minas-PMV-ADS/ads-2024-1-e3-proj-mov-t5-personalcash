@@ -1,26 +1,29 @@
 import React, { useState } from 'react';
-import { StyleSheet, View, Alert } from 'react-native';
+import { StyleSheet, View, TouchableOpacity } from 'react-native';
 import { Appbar, TextInput, Button, Text } from 'react-native-paper';
+import DateTimePicker from '@react-native-community/datetimepicker';
+import moment from 'moment';
 
 import Body from '../components/Body';
 import Container from '../components/Container';
 import Header from '../components/Header';
 import Input from '../components/Input';
 
-const App = () => {
+const CadastroCliente = ({navigation}) => {
+  const [date, setDate] = useState(new Date());
+  const [show, setShow] = useState(false);
+
   const [nome, setNome] = useState('');
   const [sobrenome, setSobrenome] = useState('');
   const [apelido, setApelido] = useState('');
   const [telefone, setTelefone] = useState('');
-  const [endereco, setEndereco] = useState('');
-  const [valorTreino, setValorTreino] = useState('');
-  const [turnoTreino, setTurnoTreino] = useState('');
+  const [dataCadastro, setDataCadastro] = useState('');
 
   const handleCalcular = () => console.log('Salvo');
 
   return (
     <Container>
-      <Header title={'Cadastro de Cliente'} />
+      <Header title={'Cadastro de Cliente'} goBack={() => navigation.goBack()} />
       <Body>
         <Input
           label="Nome"
@@ -43,22 +46,27 @@ const App = () => {
           onChangeText={(text) => setTelefone(text)}
           keyboardType="numeric" // Apenas números
         />
-        <Input
-          label="Endereço"
-          value={endereco}
-          onChangeText={(text) => setEndereco(text)}
-        />
-        <Input
-          label="Valor do treino"
-          value={valorTreino}
-          onChangeText={(text) => setValorTreino(text)}
-          keyboardType="numeric" // Apenas números
-        />
-        <Input
-          label="Turno do treino"
-          value={turnoTreino}
-          onChangeText={(text) => setTurnoTreino(text)}
-        />
+        {show &&(
+          <DateTimePicker
+            testID="dateTimePicker"
+            value={date}
+            mode={'date'}
+            is24hour={true}
+            display="default"
+            onTouchCancel={() => setShow(false)}
+            onChange={(event, date) => {
+              setShow(false);
+              setDataCadastro(moment(date).format('DD/MM/YYYY'));
+            }}
+            />
+        )}
+        <TouchableOpacity onPress={() => setShow(true)}>
+          <Input
+            label="Data do Cadastro"
+            value={dataCadastro}
+            editable={false}
+          />
+        </TouchableOpacity>
         <View style={styles.buttonContainer}>
           <Button
             style={styles.buttonC}
@@ -70,7 +78,7 @@ const App = () => {
             style={styles.buttonR}
             mode="contained"
             onPress={handleCalcular}>
-            Registrar
+            Adicionar
           </Button>
         </View>
       </Body>
@@ -98,4 +106,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default App;
+export default CadastroCliente;

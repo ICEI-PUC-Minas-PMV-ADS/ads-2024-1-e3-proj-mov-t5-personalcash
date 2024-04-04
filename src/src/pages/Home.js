@@ -3,8 +3,8 @@ import { BottomNavigation, Text } from 'react-native-paper';
 
 import TelaPrincipal from './TelaPrincipal';
 import Perfil from './Perfil';
-import CadastroCliente from './CadastroCliente';
-import CadastroTreino from './CadastroTreino';
+import RegistroCliente from './RegistroCliente';
+import RegistroTreino from './RegistroTreino';
 
 const Home = () => {
   const [index, setIndex] = useState(0);
@@ -19,8 +19,8 @@ const Home = () => {
   const renderScene = BottomNavigation.SceneMap({
     main: TelaPrincipal,
     perfil: Perfil,
-    clientes: CadastroCliente,
-    treino: CadastroTreino,
+    clientes: RegistroCliente,
+    treino: RegistroTreino,
   });
 
   return (
