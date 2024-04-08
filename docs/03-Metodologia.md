@@ -148,6 +148,9 @@ Após as orientações, vamos corrigir a parte do Plano de Testes de Software, R
   
   ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/acef1422-f178-4636-adce-409b1118f06d)
 
+  BPMN (Business Process Model and Notation):
+  ![BPMN](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/da7749cd-5996-4d35-9b03-fc433f0a80b8)
+
   # Etapa 3
 
 - **`Planejamento`**:
