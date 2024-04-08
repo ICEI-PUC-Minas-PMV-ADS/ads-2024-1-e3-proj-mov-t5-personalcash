@@ -108,11 +108,13 @@ Abaixo, será demonstrado as telas do template e os seguintes layouts do Aplicat
 
 **INSERIR FOTOS Tela de Registro de Clientes**
 
-**INSERIR FOTOS Tela de Cadastro de Clientes**
+**Tela de Cadastro de Clientes**</br>
+![CadastroCliente](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/900b640c-487b-49b5-8aa6-fd9cae745fae)</br>
 
 **INSERIR FOTOS Tela de Registro dos Treinos do Dia**
 
-**INSERIR FOTOS Tela de Cadastro dos Treinos do Dia**
+**Tela de Cadastro dos Treinos do Dia**</br>
+![CadastroTreino](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/b93011c0-dce9-455b-b4a9-676191387f42)</br>
 
 **INSERIR FOTOS Tela de Débitos dos Clientes**
 
