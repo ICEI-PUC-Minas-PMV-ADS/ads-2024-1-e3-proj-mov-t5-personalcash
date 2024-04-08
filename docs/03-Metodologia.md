@@ -150,6 +150,7 @@ Após as orientações, vamos corrigir a parte do Plano de Testes de Software, R
 
   BPMN (Business Process Model and Notation):
   ![BPMN](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/da7749cd-5996-4d35-9b03-fc433f0a80b8)
+  Link para acessar a imagem: https://modeler.cloud.camunda.io/share/84961991-0b74-4c42-bfd2-a543b17e552b
 
   # Etapa 3
 
