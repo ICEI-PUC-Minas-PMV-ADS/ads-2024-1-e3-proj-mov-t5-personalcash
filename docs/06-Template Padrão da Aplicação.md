@@ -98,7 +98,7 @@ Abaixo, será demonstrado as telas do template e os seguintes layouts do Aplicat
 ![CadastroConta](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/1d9cf903-511a-499e-b386-94b532fcfb27)</br>
 
 **Tela de Login**</br>
-![Login](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/10344640-2a28-4428-a658-1136ff41ddff)</br>
+![Login](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/b1b3d4be-80f1-44e2-9036-7a343a444d5c)</br>
 
 **Tela Principal**</br>
 ![Home](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/c8700e7f-48d2-45c7-9368-f56392ade9a3)</br>
@@ -111,12 +111,17 @@ Abaixo, será demonstrado as telas do template e os seguintes layouts do Aplicat
 **Tela de Cadastro de Clientes**</br>
 ![CadastroCliente](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/900b640c-487b-49b5-8aa6-fd9cae745fae)</br>
 
-**INSERIR FOTOS Tela de Registro dos Treinos do Dia**
+**Tela de Registro dos Treinos do Dia**
+![RegistroTreino](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/ad644779-fd6b-4a76-b375-14798ab6b5ef)</br>
+
 
 **Tela de Cadastro dos Treinos do Dia**</br>
 ![CadastroTreino](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/b93011c0-dce9-455b-b4a9-676191387f42)</br>
 
-**INSERIR FOTOS Tela de Débitos dos Clientes**
+**Tela de Débitos dos Clientes**
+![QuitarDivida](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/57f93fcf-d4ca-4a58-94de-0d935bf7ba76)</br>
+
+
 
 
 
