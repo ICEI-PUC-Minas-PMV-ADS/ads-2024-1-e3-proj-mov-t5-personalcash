@@ -106,7 +106,8 @@ Abaixo, será demonstrado as telas do template e os seguintes layouts do Aplicat
 **Tela de Perfil do Usuário**</br>
 ![Perfil](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/e2fa3d01-f6f5-4f9a-94fe-8eec3db3e984)</br>
 
-**INSERIR FOTOS Tela de Registro de Clientes**</br>
+**Tela de Registro de Clientes**</br>
+![RegistroCliente](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/34a2300e-4534-4435-ad7f-b5d3b5b09946)</br>
 
 **Tela de Cadastro de Clientes**</br>
 ![CadastroCliente](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/900b640c-487b-49b5-8aa6-fd9cae745fae)</br>
