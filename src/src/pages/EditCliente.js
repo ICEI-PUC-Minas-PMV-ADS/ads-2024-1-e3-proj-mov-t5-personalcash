@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { StyleSheet, View, TouchableOpacity, Alert } from 'react-native';
+import { StyleSheet, View, TouchableOpacity } from 'react-native';
 import { Appbar, TextInput, Button, Text } from 'react-native-paper';
 import DateTimePicker from '@react-native-community/datetimepicker';
 import moment from 'moment';
@@ -9,9 +9,9 @@ import Container from '../components/Container';
 import Header from '../components/Header';
 import Input from '../components/Input';
 
-import { insertClientes, updateClientes} from '../services/ClientesServicesDB';
+import { insertClientes, updateClientes, deleteClientes } from '../services/ClientesServicesDB';
 
-const CadastroCliente = ({navigation, route}) => {
+const EditCliente = ({navigation, route}) => {
   const { cliente } = route.params ? route.params : {};
 
   const [date, setDate] = useState(new Date());
@@ -23,13 +23,6 @@ const CadastroCliente = ({navigation, route}) => {
   const [telefone, setTelefone] = useState('');
   const [data, setData] = useState(moment(new Date()).format('DD/MM/YYYY'));
 
-  const handleCancel = () => {
-    setNome('');
-    setSobrenome('');
-    setApelido('');
-    setTelefone('');
-    setData('');
-  };
 
   useEffect(() => {
     if (cliente) {
@@ -42,13 +35,8 @@ const CadastroCliente = ({navigation, route}) => {
   }, [cliente]);
 
   const handleCalcular = () => {
-    // Verificar se os campos estão vazios
-    if (!nome || !sobrenome || !apelido || !telefone || !data ) {
-      Alert.alert('Por favor, preencha todos os campos.');
-      return; // Retorna se algum campo estiver vazio
-    }
-
     if(cliente){
+      console.log(cliente);
 
       updateClientes(
         {
@@ -72,13 +60,18 @@ const CadastroCliente = ({navigation, route}) => {
         }
       ).then();
     }
-
     navigation.goBack();
+
     };
+
+  const handleExcluir = () =>{
+    deleteClientes(cliente.id).then();
+    navigation.goBack();
+  };
 
   return (
     <Container>
-      <Header title={'Cadastro de Cliente'} goBack={() => navigation.goBack()} />
+      <Header title={'Editar Cliente'} goBack={() => navigation.goBack()} />
       <Body>
         <Input
           label="Nome"
@@ -126,14 +119,14 @@ const CadastroCliente = ({navigation, route}) => {
           <Button
             style={styles.buttonC}
             mode="contained"
-            onPress={handleCancel}>
-            Cancelar
+            onPress={handleExcluir}>
+            Excluir Cliente
           </Button>
           <Button
             style={styles.buttonR}
             mode="contained"
             onPress={handleCalcular}>
-            Adicionar
+            Salvar
           </Button>
         </View>
       </Body>
@@ -161,4 +154,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default CadastroCliente;
+export default EditCliente;

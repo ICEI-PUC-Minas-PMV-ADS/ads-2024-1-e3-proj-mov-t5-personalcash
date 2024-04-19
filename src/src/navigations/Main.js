@@ -1,8 +1,6 @@
 import React from 'react';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 
-import CadastroConta from '../pages/CadastroConta';
-import Login from '../pages/Login';
 import Home from '../pages/Home';
 import Perfil from '../pages/Perfil';
 import CadastroCliente from '../pages/CadastroCliente';
@@ -11,26 +9,15 @@ import TelaPrincipal from '../pages/TelaPrincipal';
 import QuitarDivida from '../pages/QuitarDivida';
 import RegistroCliente from '../pages/RegistroCliente';
 import CadastroTreino from '../pages/CadastroTreino';
+import EditCliente from '../pages/EditCliente';
+import EditTreino from '../pages/EditTreino';
+
 
 const Stack = createNativeStackNavigator();
 
 const Main = () => {
   return (
-    <Stack.Navigator initialRouteName="CadastroConta">
-      <Stack.Screen
-        name="Cadastrar"
-        component={CadastroConta}
-        options={{
-          header: () => null,
-        }}
-      />
-      <Stack.Screen
-        name="Login"
-        component={Login}
-        options={{
-          header: () => null,
-        }}
-      />
+    <Stack.Navigator initialRouteName="Home">
       <Stack.Screen
         name="Home"
         component={Home}
@@ -84,6 +71,20 @@ const Main = () => {
         <Stack.Screen 
         name="CadastroTreino" 
         component={CadastroTreino}
+        options={{
+          header: () => null,
+        }} 
+        />
+        <Stack.Screen 
+        name="EditCliente" 
+        component={EditCliente}
+        options={{
+          header: () => null,
+        }} 
+        />
+        <Stack.Screen 
+        name="EditTreino" 
+        component={EditTreino}
         options={{
           header: () => null,
         }} 

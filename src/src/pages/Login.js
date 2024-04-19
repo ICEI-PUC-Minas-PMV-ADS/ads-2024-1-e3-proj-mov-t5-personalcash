@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { StyleSheet, View, Alert, Image } from 'react-native'; // Importe o componente Image corretamente
+import React, { useState, useEffect } from 'react';
+import { StyleSheet, View, Alert, Image } from 'react-native';
 import { Appbar, TextInput, Button, Text } from 'react-native-paper';
 import { useNavigation } from '@react-navigation/native';
 
@@ -9,37 +9,98 @@ import Header from '../components/Header';
 import Input from '../components/Input';
 import ImageLogo from '../components/ImageLogo';
 
-const Login = () => {
-  const navigation = useNavigation();
+import { usePerfil } from '../contexts/PerfilContext';
+import { useUser } from '../contexts/UserContext';
+import { getPerfil } from '../services/PerfilServices';
+import { useIsFocused } from '@react-navigation/native';
+
+
+const Login = ({ navigation }) => {
+  
+  const isFocused = useIsFocused();
+
+  const { setFoundProfile } = usePerfil();
+  const { setSigned } = useUser();
+
+  const [nome, setNome] = useState('');
+  const [email, setEmail] = useState('');
+  const [password, setPassword] = useState('');
+
+  const [perfis, setPerfis] = useState([]);
+  useEffect(() => {
+
+    getPerfil().then((dados) => {
+        setPerfis(dados);
+        //console.log(dados);
+      });
+
+  },[isFocused]);
+
+  const handleCancel = () =>{
+    setNome('');
+    setEmail('');
+    setPassword('');
+  };
 
   const handleLoginPress = () => {
-    navigation.navigate('Cadastrar'); // Navega para a tela de Login
-  };
-  const handleGoMenu = () => {
-    navigation.navigate('Home'); // Navega para a tela Principal do app
+    navigation.navigate('Cadastrar');
   };
 
-  const handleCalcular = () => console.log('Salvo');
+  const handleGoMenu = async () => {
+  if (!nome || !email || !password) {
+    Alert.alert('Por favor, preencha todos os campos.');
+    return;
+  }
+
+  // Find the profile with the entered email
+  const foundProfile = perfis.find(profile => profile.email === email && profile.nome === nome && profile.password === password);
+
+  if (foundProfile) {
+    // Check if the entered password matches the profile's password
+    if (foundProfile) {
+      console.log(foundProfile);  // Aqui verifico qual usuário que está logando
+      setSigned(true);
+      setFoundProfile(foundProfile);
+      navigation.navigate('Home');
+    } else {
+      setSigned(false);
+      Alert.alert('Nome, Email ou Senha inválidos');
+    }
+  } else {
+    setSigned(false);
+    Alert.alert('Não foi possível encontrar a conta com o nome, email e senha fornecidos');
+  }
+};
 
   return (
     <Container>
       <Header title={'Login'} />
       <Body>
-        <ImageLogo>
-        </ImageLogo>
-        <Input label="Email" />
-        <Input label="Senha" />
+        <ImageLogo />
+        <Input 
+          label="Nome" 
+          value = {nome}
+          onChangeText={(text) => setNome(text)}
+          left={<TextInput.Icon name="account"/>}
+        />
+        <Input
+          label="Email"
+          value={email}
+          onChangeText={(text) => setEmail(text)}
+          left={<TextInput.Icon name="email" />}
+        />
+        <Input
+          label="Senha"
+          value={password}
+          secureTextEntry
+          onChangeText={(text) => setPassword(text)}
+          left={<TextInput.Icon name="key" />}
+        />
         <View style={styles.buttonContainer}>
-          <Button
-            style={styles.buttonC}
-            mode="contained"
-            onPress={handleCalcular}>
+          <Button style={styles.buttonC} mode="contained" onPress={handleCancel}>
             Cancelar
           </Button>
-          <Button
-            style={styles.buttonR}
-            mode="contained"
-            onPress={handleGoMenu}>
+          <Button style={styles.buttonR} mode="contained" onPress={handleGoMenu}>
             Logar
           </Button>
         </View>

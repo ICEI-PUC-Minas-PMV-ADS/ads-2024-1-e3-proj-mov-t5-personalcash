@@ -1,5 +1,5 @@
-import React from 'react';
-import {View, Text, StyleSheet, Image, TouchableOpacity, FlatList, } from 'react-native';
+import React, { useState, useEffect } from 'react';
+import { View, Text, StyleSheet, Image, TouchableOpacity, FlatList, } from 'react-native';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons'; // Importe o ícone necessário
 import { List } from 'react-native-paper';
 
@@ -8,76 +8,50 @@ import Container from '../components/Container';
 import Header from '../components/Header';
 import ImageLogo from '../components/ImageLogo';
 
+import { getTreinos } from '../services/WorkoutServices';
+import { useIsFocused } from '@react-navigation/native';
 import { useNavigation } from '@react-navigation/native'; // Importe a função useNavigation para acessar a navegação
 
-const DATA = [
-    {
-      id: 1,
-      nome: 'Cae',
-      sobrenome: 'Euphrasio',
-      apelido:'C',
-      telefone: 31996721589,
-      endereco: 'Belo Horizonte',
-      valorTreino: 100,
-      turnoTreino: 'Noite',
-    },
-    {
-      id: 2,
-      nome: 'João',
-      sobrenome: 'Victor',
-      apelido:'Jv',
-      telefone: 31992524773,
-      endereco: 'São Paulo',
-      valorTreino: 150,
-      turnoTreino: 'Manhã',
-    },
-    {
-      id: 3,
-      nome: 'Pedro',
-      sobrenome: 'Henrique',
-      apelido:'PH',
-      telefone: 31993247645,
-      endereco: 'Claudio',
-      valorTreino: 200,
-      turnoTreino: 'Tarde',
-    },
-    {
-      id: 4,
-      nome: 'Augusto',
-      sobrenome: 'Silva',
-      apelido:'AS',
-      telefone: 31991345795,
-      endereco: 'Rio de Janeiro',
-      valorTreino: 150,
-      turnoTreino: 'Manhã, tarde',
-    },
-    {
-      id: 5,
-      nome: 'Luis',
-      sobrenome: 'Felipe',
-      apelido:'LF',
-      telefone: 31994357894,
-      endereco: 'Belo Horizonte',
-      valorTreino: 200,
-      turnoTreino: 'Noite, tarde',
-    },
-  ];
-
 const TelaPrincipal = () => { 
+  
   const navigation = useNavigation('QuitarDivida'); // Obtenha a função de navegação
+  const isFocused = useIsFocused();
+  const [treinos, setTreinos] = useState([]);
+
+  useEffect(() => {
+    getTreinos().then((dados) => {
+      setTreinos(dados);
+    });
+  }, [isFocused]);
 
   // Calcula o valor total do treino somando os valores de treino de cada item em DATA
-  const totalTreino = DATA.reduce((total, item) => total + item.valorTreino, 0);
+  const totalTreino = treinos.reduce((total, treino) => total + treino.valor, 0);
 
-  const renderItem = ({ item }) => (
+  // Agrupa os treinos pelo nome e soma seus valores
+  const treinosAgrupados = treinos.reduce((accumulator, treino) => {
+    if (accumulator[treino.nome]) {
+      accumulator[treino.nome].valorTotal += treino.valor;
+    } else {
+      accumulator[treino.nome] = {
+        ...treino,
+        valorTotal: treino.valor
+      };
+    }
+    return accumulator;
+  }, {});
+
+  // Converte o objeto de treinos agrupados em uma lista
+  const treinosUnicos = Object.values(treinosAgrupados);
+
+  const renderTreinos = ({ item }) => (
     <List.Item
-      title={item.nome +' '+ item.sobrenome}
+      title={item.nome}
       right={() => (
         <View style={styles.list}>
-          <Text>{'R$' + item.valorTreino.toFixed(2)}</Text>
+          <Text>{'R$' + item.valorTotal.toFixed(2)}</Text>
         </View>
       )}
-      onPress={() => navigation.navigate('QuitarDivida', {item})} // Navegar para 'QuitarDivida' ao pressionar o item, já estou passando o os itens também através do '{item}'
+      onPress={() => navigation.navigate('QuitarDivida', { treino: item })}
     />
   );
 
@@ -85,7 +59,7 @@ const TelaPrincipal = () => {
     <Container>
       <Header title={'Home'} />
       <Body>
-        <ImageLogo></ImageLogo>
+        <ImageLogo />
       
         <View style={styles.retangulo}>
           <Text style={styles.textCentrado}>
@@ -94,9 +68,9 @@ const TelaPrincipal = () => {
         </View>
 
         <FlatList
-          data={DATA}
-          renderItem={renderItem}
-          keyExtractor={(item) => item.id}
+          data={treinosUnicos}
+          renderItem={renderTreinos}
+          keyExtractor={(treino) => treino.id.toString()}
         />
       </Body>
     </Container>
