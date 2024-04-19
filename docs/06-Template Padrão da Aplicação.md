@@ -106,7 +106,7 @@ Abaixo, será demonstrado as telas do template e os seguintes layouts do Aplicat
 **Tela de Perfil do Usuário**</br>
 ![Perfil](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/e2fa3d01-f6f5-4f9a-94fe-8eec3db3e984)</br>
 
-**INSERIR FOTOS Tela de Registro de Clientes**
+**INSERIR FOTOS Tela de Registro de Clientes**</br>
 
 **Tela de Cadastro de Clientes**</br>
 ![CadastroCliente](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/900b640c-487b-49b5-8aa6-fd9cae745fae)</br>
@@ -118,7 +118,7 @@ Abaixo, será demonstrado as telas do template e os seguintes layouts do Aplicat
 **Tela de Cadastro dos Treinos do Dia**</br>
 ![CadastroTreino](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/b93011c0-dce9-455b-b4a9-676191387f42)</br>
 
-**Tela de Débitos dos Clientes**
+**Tela de Débitos dos Clientes**</br>
 ![QuitarDivida](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/57f93fcf-d4ca-4a58-94de-0d935bf7ba76)</br>
 
 
