@@ -111,7 +111,7 @@ Abaixo, será demonstrado as telas do template e os seguintes layouts do Aplicat
 **Tela de Cadastro de Clientes**</br>
 ![CadastroCliente](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/900b640c-487b-49b5-8aa6-fd9cae745fae)</br>
 
-**Tela de Registro dos Treinos do Dia**
+**Tela de Registro dos Treinos do Dia**</br>
 ![RegistroTreino](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/ad644779-fd6b-4a76-b375-14798ab6b5ef)</br>
 
 
