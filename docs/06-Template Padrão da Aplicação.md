@@ -82,7 +82,19 @@ Assim, tanto ícones como os botões são elementos de interface interativos que
 
 Logo abaixo segue os layouts dos ícones e as telas compostas do template Padrão do Aplicativo Personal Cash:
 
-**INSERIR FOTOS Ícones**
+## Ícones utilizados:
+
+**Home**</br>
+![casa](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/a1541fd8-94c5-48e2-8967-cd23369e1101)</br>
+
+**Perfil**</br>
+![perfilIcon](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/125190a8-a26c-464a-bb5b-4e454ec2550c)</br>
+
+**Clientes**</br>
+![grupo](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/162f8447-e88a-4c7a-93fe-8545ba753b47)</br>
+
+**Treinos**</br>
+![peso-de-levantamento-de-homem](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/cf033220-cbb6-4a92-a793-7dc6fbb5523f)</br>
 
 **INSERIR FOTOS Botões**
 
