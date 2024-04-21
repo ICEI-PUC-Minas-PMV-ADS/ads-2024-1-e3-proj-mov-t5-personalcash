@@ -17,7 +17,7 @@ Os artefatos do projeto Personal Cash são desenvolvidos por toda a equipe a par
 | Projeto de Interface e Wireframes | Figma           | https://www.figma.com/file/OWAIuZopVlz7HZFGgVfzOr/PersonalCash-OnePag?type=design&node-id=0-1&mode=design&t=3fclntlGSMf2rYcA-0                   |
 | Gerenciamento do Projeto: Board do GitHub (Kanban)        | GitHub Projects | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/867
 | Gerenciamento dos Milestones e Issues do Projeto         | GitHub Projects | https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/milestones
-| Diagrama BPMN Personal Cash  | Camunda Cloud | https://modeler.cloud.camunda.io/share/84961991-0b74-4c42-bfd2-a543b17e552bDiagrama BPMN Personal Cash |
+| Diagrama BPMN Personal Cash  | Camunda Cloud | https://modeler.cloud.camunda.io/share/84961991-0b74-4c42-bfd2-a543b17e552b |
 
 
 # Controle de Versão
