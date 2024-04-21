@@ -158,7 +158,7 @@ https://modeler.cloud.camunda.io/share/84961991-0b74-4c42-bfd2-a543b17e552b
   ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/acef1422-f178-4636-adce-409b1118f06d)
 
 
-  # Etapa 3
+# Etapa 3
 
 - **`Planejamento`**:
 
