@@ -187,6 +187,17 @@ Assim, o objetivo subjacente ao conceber o aplicativo Personal Cash é fornecer 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/5a107d95-85f2-44fd-be6f-bf4efd228141)
 
+# Diagrama BPMN Personal Cash
+
+O BPMN é uma representação gráfica feita a partir de ícones que simbolizam o fluxo de processo, ou seja, a partir dessa notação é possível fazer o mapeamento dos processos. Portanto, cada ícone representa uma etapa do processo de produção.
+
+Dessa maneira, logo abaixo, segue o diagrama BPMN completo da aplicação Personal Cash onde se encontra o fluxo completo da Gestão de Clientes e Serviços, incluindo as etapas do Personal Trainer e do seu próprio Cliente.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/a1fd9bee-5a0b-4953-812e-ef871e819bf5)
+
+**Link para acesso completo do Diagrama BPM:**
+
+https://modeler.cloud.camunda.io/share/84961991-0b74-4c42-bfd2-a543b17e552b
 
 # Indicadores de Desempenho 
 
