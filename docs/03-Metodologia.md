@@ -209,7 +209,7 @@ Após a Reunião do dia 10/04 foi iniciado o desenvolvimento da parte do "Login"
 
 Seguindo as orientações da reunião do dia 17/04, algumas pendências no desenvolvimento estão sendo realizadas baseadas nas aulas dos Microfundamentos do Desenvolvimento de Aplicações Móveis, principalmente na Unidade 2: Desenvolvimento de Aplicações Móveis.
 
-Na sexta-feira, dia 19, foi compactado o que se refere à última versão do aplicativo Personal Cash, essa parte foi inserida no repositório do Github dentro da pasta 'src'. Além disso, na sexta-feira, foram feitas algumas validações que estavam faltando para não "quebrar" a aplicação no momento da sua execução. 
+Na sexta-feira, dia 19/04, foi compactado o que se refere à última versão do aplicativo Personal Cash, essa parte foi inserida no repositório do Github dentro da pasta 'src'. Além disso, na sexta-feira, foram feitas algumas validações que estavam faltando para não "quebrar" a aplicação no momento da sua execução. 
 
 Assim, as partes dos registros de Vídeos para validar o Plano de Testes e o Registros dos mesmos vão ser realizados no Domingo, junto com a atualização do Board da Sprint dessa etapa e o Modelo Físico que consiste na criação do arquivo no MySQL e na adição dentro da pasta bd. Arquivo esse que tem de ser o mesmo que está no esquema relacional do Projeto.
 
