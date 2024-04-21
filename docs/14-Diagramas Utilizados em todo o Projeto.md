@@ -26,7 +26,8 @@
 
  # Diagrama BPMN (Business Process Model and Notation):
  
-![BPMN](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/da7749cd-5996-4d35-9b03-fc433f0a80b8)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/b63aaeeb-a240-4081-a1db-0f021dc3a4de)
+
 
 
 
