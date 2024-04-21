@@ -129,6 +129,16 @@ Com as orientações do nosso orientador, vamos avançar nessa entrega.
 
 Após as orientações, vamos corrigir a parte do Plano de Testes de Software, Registro de Testes de Software e os Indicadores de Desempenho e Metas para o Processo de Negócio.
 
+Seguido das orientações do último encontro com o nosso orientador, realizamos a alteração do Diagrama BPMN do Projeto:
+
+ **BPMN (Business Process Model and Notation):**
+ 
+![BPMN](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/da7749cd-5996-4d35-9b03-fc433f0a80b8)
+  
+**Link para acessar a imagem:** 
+
+https://modeler.cloud.camunda.io/share/84961991-0b74-4c42-bfd2-a543b17e552b
+
 - **`Evidências`**:
 
   Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 02 do trabalho no dia 11/03/2024:
@@ -147,9 +157,6 @@ Após as orientações, vamos corrigir a parte do Plano de Testes de Software, R
   
   ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/acef1422-f178-4636-adce-409b1118f06d)
 
-  BPMN (Business Process Model and Notation):
-  ![BPMN](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/da7749cd-5996-4d35-9b03-fc433f0a80b8)
-  Link para acessar a imagem: https://modeler.cloud.camunda.io/share/84961991-0b74-4c42-bfd2-a543b17e552b
 
   # Etapa 3
 
