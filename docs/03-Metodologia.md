@@ -170,7 +170,7 @@ Seguindo também a composição dos referentes tópicos: Programação de Funcio
   
 A parte da Metologia foi atualizada pelo Diogo, seguido do Board e a distribuição das atividades dessa etapa. A execução de cada atividade relacionado sobre a segunda Etapa vão ser divididas através da comunicação do grupo via Whatsapp.
 
-Seguindo as orientações da entrega da **Etapa 02**, foi necessário realizar uma reunião para definir o desenvolvimento das telas da aplicação. Assim, foi concluído que será necessário fazer algumas alterações na parte dos WireFrames e no Front-End do Projeto.
+Seguindo as orientações da entrega da **Etapa 02**, foi necessário realizar uma reunião para definir o desenvolvimento das telas da aplicação. Assim, foi concluído que será necessário fazer algumas alterações na parte dos WireFrames e no Front-End do Projeto:
 
 **1 Passo:** Fazer as alterações necessárias no Figma para complementar a Etapa 2.
 
