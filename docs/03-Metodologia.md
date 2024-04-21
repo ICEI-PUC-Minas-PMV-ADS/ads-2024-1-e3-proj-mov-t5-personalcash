@@ -205,6 +205,10 @@ Além disso foi decidido efetuar as seguintes mudanças:
 	-No local do Turno colocar Duração
 
 
+Após a Reunião do dia 10/04 foi iniciado o desenvolvimento da parte do "Login" e do "Cadastro de Conta" em conjunto com o Back-End, além disso, os tópicos do "Cadastro de Clientes" e o de "Cadastro de Treinos" utilizando o Back-End. 
+
+Pensando em abstrair e fazer a criação das tabelas de uma maneira mais rápida para essa etapa, os tópicos do "Cadastro de Clientes" e de "Cadastro de Treinos" já estão sendo iniciados.
+
  
 - **`Evidências`**:
   
