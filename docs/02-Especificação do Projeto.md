@@ -195,7 +195,7 @@ Dessa maneira, logo abaixo, segue o diagrama BPMN completo da aplicação Person
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/a1fd9bee-5a0b-4953-812e-ef871e819bf5)
 
-**Link para acesso completo do Diagrama BPM:**
+**Link para acesso completo do Diagrama BPMN Personal Cash:**
 
 https://modeler.cloud.camunda.io/share/84961991-0b74-4c42-bfd2-a543b17e552b
 
