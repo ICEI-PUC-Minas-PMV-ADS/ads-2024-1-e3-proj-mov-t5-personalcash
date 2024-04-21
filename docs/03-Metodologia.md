@@ -118,7 +118,7 @@ Além disso o a parte de Projeto de Interface, Diagrama de Fluxo e Wireframes ta
 
 No tópico sobre a Arquitetura da Solução, Diagrama de Classes, Modelo Entidade-Relacionamento, Esquema Relacional, Tecnologias Utilizadas, Hospedagem e Qualidade de Software também.
 
-Após o encontro do dia 13 correções em relação aos diagramas da Arquitetura da Solução, Diagrama de Classes, Modelo Entidade-Relacionamento e Esquema Relacional foram realizados.
+Após o encontro do dia 13, ocorreram correções em relação aos diagramas da Arquitetura da Solução, Diagrama de Classes, Modelo Entidade-Relacionamento e Esquema Relacional foram realizados.
 
 Para o encontro do dia 20/03 o grupo avançou nos temas do Template Padrão da Aplicação, Programação de Funcionalidades, Plano de Testes de Software, Registro de Testes de Software, Plano de Testes de Usabilidade e Registro de Testes de Usabilidade.
 
@@ -211,9 +211,9 @@ Seguindo as orientações da reunião do dia 17/04, algumas pendências no desen
 
 Na sexta-feira, dia 19/04, foi compactado o que se refere à última versão do aplicativo Personal Cash, essa parte foi inserida no repositório do Github dentro da pasta 'src'. Além disso, na sexta-feira, foram feitas algumas validações que estavam faltando para não "quebrar" a aplicação no momento da sua execução. 
 
-Assim, as partes dos registros de Vídeos para validar o Plano de Testes e o Registros dos mesmos vão ser realizados no Domingo, junto com a atualização do Board da Sprint dessa etapa e o Modelo Físico que consiste na criação do arquivo no MySQL e na adição dentro da pasta bd. 
+Assim, as partes dos registros de Vídeos para validar o Plano de Testes e o Registros dos mesmos vão ser realizados no Domingo, junto com a atualização do Board da Sprint dessa etapa e o Modelo Físico que consiste na criação do arquivo no MySQL e na adição dentro da pasta bd. Arquivo esse que tem de ser o mesmo que está no esquema relacional do Projeto.
 
-Arquivo esse que tem de ser o mesmo que está no esquema relacional do Projeto.
+No domingo dia 21/04, foram anexados junto ao repositório do Github as partes pendentes do projeto da Etapa 03.
 
 - **`Evidências`**:
   
