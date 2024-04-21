@@ -239,7 +239,7 @@ Atualização do Board do GitHub (Kanban) com as atividades In Progress da Etapa
 
 Board Atualizado com os Issues e Milestones concluídos da Etapa 03 no dia 21/04/2024:
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/6966140b-2765-4eef-843f-bab4000da26b)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/afe9ea52-817c-4b67-99f3-bc3735552106)
 
 # Etapa 4
 
