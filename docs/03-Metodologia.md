@@ -169,6 +169,37 @@ Seguindo também a composição dos referentes tópicos: Programação de Funcio
 - **`Execução`**:
   
 A parte da Metologia foi atualizada pelo Diogo, seguido do Board e a distribuição das atividades dessa etapa. A execução de cada atividade relacionado sobre a segunda Etapa vão ser divididas através da comunicação do grupo via Whatsapp.
+
+Seguindo as orientações da entrega da **Etapa 02**, foi necessário realizar uma reunião para definir o desenvolvimento das telas da aplicação. Assim, foi concluído que será necessário fazer algumas alterações na parte dos WireFrames e no Front-End do Projeto.
+
+**1 Passo:** Fazer as alterações necessárias no Figma para complementar a Etapa 2.
+**2 Passo:** Fazer alterações no front-end para complementar a Etapa 2.
+**3 Passo:** Apreender a comunicar tabelas no Back-end para a Etapa 3.
+
+Além disso foi decidido efetuar as seguintes mudanças:
+
+**5-Tela Clientes Cadastrados**: (NOVA TELA)
+	-Tabela com os dados do Cliente da 5.1 (Editável)
+**5.1-Tela Cadastro Clientes:**
+	-Retirar o Valor pago por treino
+	-Retirar Turno do Treino
+
+**6-Tela de Registro dos Treinos do Dia:**
+	-View da tabela da tela 6.1
+**6.1-Tela de Cadastros dos Treinos:** (NOVA TELA)
+	-Input Cliente (dropbox)
+	-Input Data
+	-Input Inicio do treino
+	-Input Duração
+	-Input Valor
+	-Botão (Salvar e Cancelar)
+**Obs: Dropbox do input de Clientes será da tabela 5.1**
+
+**7-Tela de Débitos dos Clientes:**
+	-Puxar os dados da tabela da tela 6.1
+	-No local do Turno colocar Duração
+
+
  
 - **`Evidências`**:
   
