@@ -182,12 +182,14 @@ Além disso foi decidido efetuar as seguintes mudanças:
 
 **5-Tela Clientes Cadastrados**: (NOVA TELA)
 	-Tabela com os dados do Cliente da 5.1 (Editável)
+ 
 **5.1-Tela Cadastro Clientes:**
 	-Retirar o Valor pago por treino
 	-Retirar Turno do Treino
 
 **6-Tela de Registro dos Treinos do Dia:**
 	-View da tabela da tela 6.1
+ 
 **6.1-Tela de Cadastros dos Treinos:** (NOVA TELA)
 	-Input Cliente (dropbox)
 	-Input Data
@@ -195,6 +197,7 @@ Além disso foi decidido efetuar as seguintes mudanças:
 	-Input Duração
 	-Input Valor
 	-Botão (Salvar e Cancelar)
+ 
 **Obs: Dropbox do input de Clientes será da tabela 5.1**
 
 **7-Tela de Débitos dos Clientes:**
