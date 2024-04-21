@@ -271,4 +271,5 @@ Board Atualizado com os Issues e Milestones concluídos da Etapa 03 no dia 21/04
 | Linguagem utilizada | Framework do React |
 | Ferramentas de comunicação | Microsoft Teams, Whatsapp | 
 | Ferramentas de desenho de tela | Figma |
+| Diagrama BPMN (Business Process Model and Notation) | Camunda Cloud |
 
