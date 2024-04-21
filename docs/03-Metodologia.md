@@ -114,7 +114,7 @@ A parte da Metologia foi atualizada pelo Diogo, seguido do Board e a distribuiç
 Antes da aula do dia 13, foram realizados os seguintes tópicos dessa etapa:
 Metodologia, Relação de Ambientes de Trabalho, Controle de Versão, Gerenciamento de Projeto, Divisão de Papéis, Processo, Ferramentas.
 
-Além disso o a parte de Projeyo de Interface, Diagrama de Fluxo e Wireframes também foram feitas.
+Além disso o a parte de Projeto de Interface, Diagrama de Fluxo e Wireframes também foram feitas.
 
 No tópico sobre a Arquitetura da Solução, Diagrama de Classes, Modelo Entidade-Relacionamento, Esquema Relacional, Tecnologias Utilizadas, Hospedagem e Qualidade de Software também.
 
@@ -173,7 +173,9 @@ A parte da Metologia foi atualizada pelo Diogo, seguido do Board e a distribuiç
 Seguindo as orientações da entrega da **Etapa 02**, foi necessário realizar uma reunião para definir o desenvolvimento das telas da aplicação. Assim, foi concluído que será necessário fazer algumas alterações na parte dos WireFrames e no Front-End do Projeto.
 
 **1 Passo:** Fazer as alterações necessárias no Figma para complementar a Etapa 2.
+
 **2 Passo:** Fazer alterações no front-end para complementar a Etapa 2.
+
 **3 Passo:** Apreender a comunicar tabelas no Back-end para a Etapa 3.
 
 Além disso foi decidido efetuar as seguintes mudanças:
