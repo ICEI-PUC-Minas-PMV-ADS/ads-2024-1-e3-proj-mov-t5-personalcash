@@ -205,9 +205,13 @@ Além disso foi decidido efetuar as seguintes mudanças:
 	-No local do Turno colocar Duração
 
 
-Após a Reunião do dia 10/04 foi iniciado o desenvolvimento da parte do "Login" e do "Cadastro de Conta" em conjunto com o Back-End, além disso, os tópicos do "Cadastro de Clientes" e o de "Cadastro de Treinos" utilizando o Back-End. 
+Após a Reunião do dia 10/04 foi iniciado o desenvolvimento da parte do "Login" e do "Cadastro de Conta" em conjunto com o Back-End, além disso, os tópicos do "Cadastro de Clientes" e o de "Cadastro de Treinos" utilizando o Back-End. Pensando em abstrair e fazer a criação das tabelas de uma maneira mais rápida para essa etapa, os tópicos do "Cadastro de Clientes" e de "Cadastro de Treinos" já estão sendo iniciados.
 
-Pensando em abstrair e fazer a criação das tabelas de uma maneira mais rápida para essa etapa, os tópicos do "Cadastro de Clientes" e de "Cadastro de Treinos" já estão sendo iniciados.
+Seguindo as orientações da reunião do dia 17/04, algumas pendências no desenvolvimento estão sendo realizadas baseadas nas aulas dos Microfundamentos do Desenvolvimento de Aplicações Móveis, principalmente na Unidade 2: Desenvolvimento de Aplicações Móveis.
+
+Na sexta-feira, dia 19, foi compactado o que se refere à última versão do aplicativo Personal Cash, o Caê upou no repositório do Github dentro da pasta 'src'.
+
+
 
  
 - **`Evidências`**:
