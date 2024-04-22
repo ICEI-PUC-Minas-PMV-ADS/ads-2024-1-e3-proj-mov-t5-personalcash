@@ -43,7 +43,7 @@ Modelo ER do projeto Personal Cash.
  ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/c9577264-ff7e-4bab-8acd-bdb585bc85ef)
 
 # Modelo Físico 
-Link para acessar os scripts das tabelas do banco de dados:
+Link para acessar os scripts das tabelas do banco de dados:</br>
 https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/tree/main/src/db
 
 # Tecnologias Utilizadas 
