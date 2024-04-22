@@ -28,7 +28,11 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash
 | Instruções | - Acessar o navegador <br> - Informar ao navegador a URL <br> - Informar o seu **E-mail** e **Senha** dados <br> - Clicar em **Logar** |
 | Critérios de Êxito | O usuário consegue realizar o login. | 
 
-# INSERIR VÍDEO 2º Caso de Teste
+
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/122392469/296bb856-5480-46cc-a045-99b1a5a7638a
+
+
 
 
 # 3º Caso de Teste: Registrar os valores dos pagamentos de cada cliente.
@@ -40,7 +44,7 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash
 | Instruções | - Acessar o navegador <br> - Informar ao navegador a URL <br> - Efetuar o **Login** <br> - Na página inicial **Home**, clicar nas opções **Cliente 1**, ou, **Cliente 2** <br> - Preencher o campo **Valor** e confirmar |
 | Critérios de Êxito | O usuário consegue realizar o cadastro do valor a receber de um cliente. |
 
-# INSERIR VÍDEO 3º Caso de Teste
+# INSERIR VÍDEO 3º Caso de Teste ***EM CONSTRUÇÃO***
 
 # 4º Caso de Teste:  Cadastrar os clientes
 
@@ -51,7 +55,11 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash
 | Instruções| - Acessar o navegador <br> - Informar ao navegador a URL <br> - Efetuar login <br> - Na página inicial, o usuário deve clicar na  opção **Adicionar Cliente** <br> - Depois, inserir os dados pessoais do cliente: **Nome**, **Sobrenome**, **Apelido**, **Telefone**, **Endereço**, **Valor pago por treino** e **Turno do treino** <br> - Após preencher todos os campos, clicar em **Cadastrar**|
 | Critérios de Êxito |O usuário consegue realizar o cadastro de clientes - |
 
-# INSERIR VÍDEO 4º Caso de Teste
+
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/122392469/fd2e0564-9be9-4c3f-b5c7-f6f1949cee43
+
+
 
 # 5º Caso de Teste: Registar os treinos dos clientes
 
@@ -62,7 +70,11 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash
 | Instruções| - Acessar o navegador <br> - Informar ao navegador a URL <br> - Efetuar login <br> - Na página inicial, o usuário deve clicar na  opção **Treinos do Dia** <br> - Depois, clicar na opções **Clientes 1**, **Clientes 2** ou **Clientes 3** e inserir a data do treino e o **Turno** escolhido <br> - Concluir clicando na opção **Registrar**|
 | Critérios de Êxito |O usuário consegue registrar o treino do cliente. |
 
-# INSERIR VÍDEO 5º Caso de Teste
+
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/122392469/e56c99e3-c6ba-4920-a337-d78a1369ad80
+
+
 
 
 
