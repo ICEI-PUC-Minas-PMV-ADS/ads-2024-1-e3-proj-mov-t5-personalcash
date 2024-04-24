@@ -219,7 +219,7 @@ Na sexta-feira, dia 19/04, foi compactado o que se refere à última versão do 
 
 Assim, as partes dos registros de vídeos para validar o Plano de Testes e o Registros dos mesmos vão ser realizados no Domingo, junto com a atualização do Board da Sprint dessa etapa e o Modelo Físico que consiste na criação do arquivo no MySQL e na adição dentro da pasta bd. Arquivo esse que tem de ser o mesmo que está no esquema relacional do Projeto.
 
-No domingo dia 21/04, foram anexados junto ao repositório do Github as partes pendentes do projeto da Etapa 03.
+No domingo dia 21/04, foram anexados junto ao repositório do Github as partes pendentes do projeto da Etapa 3.
 
 - **`Evidências`**:
   
