@@ -271,7 +271,7 @@ Aguardamos o feedback do nosso orientador relativo a Etapa 3 para dar sequência
 
 Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 04 do trabalho no dia 24/04/2024:
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/93ce3ce4-5878-4ce4-8975-d61666674050)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/4fd353e0-e870-43f7-ae32-075e2a0c29ef)
 
 Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 04 do trabalho no dia 24/04/2024:
 
