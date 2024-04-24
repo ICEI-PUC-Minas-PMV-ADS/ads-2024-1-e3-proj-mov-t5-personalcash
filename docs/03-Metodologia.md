@@ -265,7 +265,7 @@ Programação de Funcionalidades (CRUDs, Autenticação, Padrões de Projeto de 
 
 A parte da Metologia foi atualizada pelo Diogo, seguido do Board e a distribuição das atividades dessa etapa. A execução de cada atividade relacionado sobre a segunda Etapa vão ser divididas através da comunicação do grupo via Whatsapp.
 
-Aguardamos o feedback do nosso orientador relativo a Etapa 03 para dar sequência nas correções necessárias e na execução das futuras atividades.
+Aguardamos o feedback do nosso orientador relativo a Etapa 3 para dar sequência nas correções necessárias e na execução das futuras atividades.
 
 - **`Evidências`**:
 
