@@ -105,7 +105,9 @@ Board Atualizado com os Issues e Milestones concluídos da Etapa 01 no dia 08/03
 
 Nesta etapa está planejada a elaboração da Continuidade da Elaboração do Projeto da Solução e Início do Desenvolvimento da Solução.
 
-Seguindo também a composição dos referentes tópicos: Metodologia: Relação de Ambientes de Trabalho, Controle de Versão, Gerenciamento de Projeto, Divisão de Papéis, Processo e Ferramentas, Projeto de Interface: Diagrama de Fluxo, Wireframes, Arquitetura da Solução: Modelo ER, Esquema Relacional, Modelo Físico, Tecnologias Utilizadas, Hospedagem e Qualidade de Software, Template Padrão da Aplicação, Programação de Funcionalidades,  Plano de Testes de Softwares: Ferramentas de Testes (Opcional), Registro de Testes de Software: Avaliação, Plano de Testes de Usabilidade e Criar tabelas, gráficos ou Dashboards com no mínimo 5 indicadores de desempenho e metas para o processo de negócio.
+Seguindo também a composição dos referentes tópicos: 
+
+Metodologia: Relação de Ambientes de Trabalho, Controle de Versão, Gerenciamento de Projeto, Divisão de Papéis, Processo e Ferramentas, Projeto de Interface: Diagrama de Fluxo, Wireframes, Arquitetura da Solução: Modelo ER, Esquema Relacional, Modelo Físico, Tecnologias Utilizadas, Hospedagem e Qualidade de Software, Template Padrão da Aplicação, Programação de Funcionalidades,  Plano de Testes de Softwares: Ferramentas de Testes (Opcional), Registro de Testes de Software: Avaliação, Plano de Testes de Usabilidade e Criar tabelas, gráficos ou Dashboards com no mínimo 5 indicadores de desempenho e metas para o processo de negócio.
 
 - **`Execução`**:
 
@@ -166,7 +168,9 @@ Nesta etapa está planejada a elaboração da Continuidade do Desenvolvimento da
 
 Seguindo também a composição dos referentes tópicos: Programação de Funcionalidades,  Planos de Testes de Funcionalidades e Usabilidade, Registros de Testes de Funcionalidades e Usabilidade.
 
-Bem como as seguintes subtópicos e especificações: Programação de Funcionalidades (Modelo Físico do Projeto de BD, Scripts SQL de DML, Funcionalidades de Telas) - Requisitos principais,  Programação de Funcionalidades (CRUDs, Autenticação, Padrões de Projeto de Codificação, Evidências de Implementação das Funcionalidades de CRUD, Evidências de Implementação da Autenticação) - Requisitos principais, Programação de Funcionalidades (CRUDs, Autenticação, Padrões de Projeto de Codificação, Evidências de Implementação das Funcionalidades de CRUD, Evidências de Implementação da Autenticação, Quadro Visual Atual de Gestão de Trabalho, Status Atual das Contribuições dos Membros do Time e Comentários Adicionais sobre as Participações Individuais) - Requisitos principais, Programação de Funcionalidades (CRUDs, Autenticação, Padrões de Projeto de Codificação, Evidências de Implementação das Funcionalidades de CRUD, Evidências de Implementação da Autenticação, Quadro Visual Atual de Gestão de Trabalho, Status Atual das Contribuições dos Membros do Time e Comentários Adicionais sobre as Participações Individuais) - Requisitos principais. Planos de Testes de Funcionalidades e Usabilidade. Registros de Testes de Funcionalidades e Usabilidade e Planos de Testes de Funcionalidades e Usabilidade. Registros de Testes de Funcionalidades e Usabilidade.
+Bem como as seguintes subtópicos e especificações:
+
+Programação de Funcionalidades (Modelo Físico do Projeto de BD, Scripts SQL de DML, Funcionalidades de Telas) - Requisitos principais,  Programação de Funcionalidades (CRUDs, Autenticação, Padrões de Projeto de Codificação, Evidências de Implementação das Funcionalidades de CRUD, Evidências de Implementação da Autenticação) - Requisitos principais, Programação de Funcionalidades (CRUDs, Autenticação, Padrões de Projeto de Codificação, Evidências de Implementação das Funcionalidades de CRUD, Evidências de Implementação da Autenticação, Quadro Visual Atual de Gestão de Trabalho, Status Atual das Contribuições dos Membros do Time e Comentários Adicionais sobre as Participações Individuais) - Requisitos principais, Programação de Funcionalidades (CRUDs, Autenticação, Padrões de Projeto de Codificação, Evidências de Implementação das Funcionalidades de CRUD, Evidências de Implementação da Autenticação, Quadro Visual Atual de Gestão de Trabalho, Status Atual das Contribuições dos Membros do Time e Comentários Adicionais sobre as Participações Individuais) - Requisitos principais. Planos de Testes de Funcionalidades e Usabilidade. Registros de Testes de Funcionalidades e Usabilidade e Planos de Testes de Funcionalidades e Usabilidade. Registros de Testes de Funcionalidades e Usabilidade.
 
 - **`Execução`**:
   
@@ -250,8 +254,17 @@ Board Atualizado com os Issues e Milestones concluídos da Etapa 03 no dia 21/04
 # Etapa 4
 
 - **`Planejamento`**:
+- 
+Nesta etapa está planejada a elaboração da Continuidade do Desenvolvimento da Solução: Desenvolvimento da aplicação móvel (Parte 2).
+
+Seguindo também a composição dos referentes tópicos e subtópicos:
+
+Programação de Funcionalidades (CRUDs, Autenticação, Padrões de Projeto de Codificação, Evidências de Implementação das Funcionalidades de CRUD, Evidências de Implementação da Autenticação) - Requisitos principais, Quadro Visual Atual de Gestão de Trabalho, Status Atual das Contribuições dos Membros do Time e Comentários Adicionais sobre as Participações Individuais) - Requisitos principais, Planos de Testes de Funcionalidades e Usabilidade, Registros de Testes de Funcionalidades e Usabilidade.
 
 - **`Execução`**:
+-  
+A parte da Metologia foi atualizada pelo Diogo, seguido do Board e a distribuição das atividades dessa etapa. A execução de cada atividade relacionado sobre a segunda Etapa vão ser divididas através da comunicação do grupo via Whatsapp.
+
 
 - **`Evidências`**:
 
