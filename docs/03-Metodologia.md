@@ -254,7 +254,7 @@ Board Atualizado com os Issues e Milestones concluídos da Etapa 03 no dia 21/04
 # Etapa 4
 
 - **`Planejamento`**:
-- 
+  
 Nesta etapa está planejada a elaboração da Continuidade do Desenvolvimento da Solução: Desenvolvimento da aplicação móvel (Parte 2).
 
 Seguindo também a composição dos referentes tópicos e subtópicos:
@@ -262,11 +262,20 @@ Seguindo também a composição dos referentes tópicos e subtópicos:
 Programação de Funcionalidades (CRUDs, Autenticação, Padrões de Projeto de Codificação, Evidências de Implementação das Funcionalidades de CRUD, Evidências de Implementação da Autenticação) - Requisitos principais, Quadro Visual Atual de Gestão de Trabalho, Status Atual das Contribuições dos Membros do Time e Comentários Adicionais sobre as Participações Individuais) - Requisitos principais, Planos de Testes de Funcionalidades e Usabilidade, Registros de Testes de Funcionalidades e Usabilidade.
 
 - **`Execução`**:
--  
+
 A parte da Metologia foi atualizada pelo Diogo, seguido do Board e a distribuição das atividades dessa etapa. A execução de cada atividade relacionado sobre a segunda Etapa vão ser divididas através da comunicação do grupo via Whatsapp.
 
+Aguardamos o feedback do nosso orientador para dar sequência nas correções necessárias e na execução das atividades futuras.
 
 - **`Evidências`**:
+
+Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 04 do trabalho no dia 24/04/2024:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/93ce3ce4-5878-4ce4-8975-d61666674050)
+
+Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 04 do trabalho no dia 24/04/2024:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/c6cecd6a-674c-4cc2-bf3e-9e00e0444a80)
 
 # Etapa 5
 
