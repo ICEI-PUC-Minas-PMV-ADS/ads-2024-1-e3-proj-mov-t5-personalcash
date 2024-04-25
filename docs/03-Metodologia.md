@@ -280,7 +280,7 @@ Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 04 d
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/c6cecd6a-674c-4cc2-bf3e-9e00e0444a80)
 
-Aula dia 24/04 -  Resolução do errro em IOS: Error DateTimePicker.
+Aula dia 24/04 -  Dúvidas para a resolução de um erro em IOS: Error DateTimePicker.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/b22961da-173c-4019-86e0-f70322c2df7f)
 
