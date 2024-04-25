@@ -268,7 +268,7 @@ A parte da Metologia foi atualizada pelo Diogo, seguido do Board e a distribuiç
 Aguardamos o feedback do nosso orientador relativo a Etapa 3 no encontro do dia 24/04 para dar sequência nas correções necessárias e na execução das futuras atividades. 
 Em um primeiro momento, temos a seguinte dúvida, ver a questão de não estarmos conseguindo selecionar a data no IOS na aplicação.
 
-Na aula do dia 24/04 foi conversado sobre a resolução de um erro em IOS, o erro específico foi na parte específica de Error DateTimePicker. Detectamos esse erro na biblioteca em IOS, e estamos seguindo várias alternativas junto com o nosso orientador mas no momento não conseguimos resolver.
+Na aula do dia 24/04 foi conversado sobre a resolução de um erro em IOS, o erro específico foi na parte específica de Error DateTimePicker. Detectamos esse erro na biblioteca em IOS, estamos seguindo várias alternativas com o nosso orientador, mas no momento não estamos conseguindo resolver. Vamos buscar outras alternativas e atualizações sobre essa situação, e também, estamos aguardando se algum grupo da nossa Turma vai encontrar essa dificuldade e consequentemente uma solução ao mesmo erro.
 
 - **`Evidências`**:
 
