@@ -270,6 +270,20 @@ Em um primeiro momento, temos a seguinte dúvida, ver a questão de não estarmo
 
 Na aula do dia 24/04 foi conversado sobre a resolução de um erro em IOS, o erro específico foi na parte específica de Error DateTimePicker. Detectamos esse erro na biblioteca em IOS, estamos seguindo várias alternativas com o nosso orientador, mas no momento não estamos conseguindo resolver. Vamos buscar outras alternativas e atualizações sobre essa situação, e também, estamos aguardando se algum grupo da nossa Turma vai encontrar essa dificuldade e consequentemente uma solução ao mesmo erro.
 
+Na semana do encontro do dia 08/05, o Câe e o Diogo tentaram resolver o Bug na resolução de um erro em IOs: Error DateTimePicker.
+
+O erro foi solucionado, porém, resta encontrar a solução para a edição manual do calendário por parte do usuário. Na parte do "Cadastro Treino", está vindo com a data atual preenchida, de maneira correta, mas continua não abrindo o calendário, como acontece no Android. 
+
+Já na segunda opção, "Cadastro Cliente" não está vindo com a data preenchida e também não está abrindo o calendário ao ser clicado na data.
+
+Conforme o encontro do dia 08/05, foi decidido que o problema relacionado ao IOs vai ficar em segundo plano, dessa forma, o foco vai ser finalizar as telas e funções do app que estão faltando.
+
+Foi relaizado a orientação para ser feito individualmente uma modificaçao na parte dos 'commits':
+Diogo: Elaborar o commit do 'CRUD' de Treinos;
+Caê: Elaborar o commit do 'CRUD' de Clientes;
+Luiz: Elaborar o commit da Tela Principal e de Perfil (do Personal Trainer);
+Daniel: Elaborar o commit da Tela de Quitar Dívidas;
+
 - **`Evidências`**:
 
 Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 04 do trabalho no dia 24/04/2024:
@@ -284,7 +298,9 @@ Aula dia 24/04 -  Dúvidas para a resolução de um erro em IOS: Error DateTimeP
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/b22961da-173c-4019-86e0-f70322c2df7f)
 
+Aula dia 08/05 - Error DateTimePicker solucionado em IOs, porém, falta encontrar a solução para a mudança manual do calendário pelo usuário.
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/0ae7e9a6-2987-4d0d-8d4d-8b9435ffbe2d)
 
 
 # Etapa 5
