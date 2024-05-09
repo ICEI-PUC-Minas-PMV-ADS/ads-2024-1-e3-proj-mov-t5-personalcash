@@ -283,7 +283,7 @@ Foi relaizado a orientação para ser feito individualmente uma modificaçao na 
 Diogo: Elaborar o commit do 'CRUD' de Treinos;
 Caê: Elaborar o commit do 'CRUD' de Clientes;
 Luiz: Elaborar o commit da Tela Principal e de Perfil (do Personal Trainer);
-Daniel: Elaborar o commit da Tela de Quitar Dívidas;
+Daniel: Elaborar o commit da Tela de Quitar Dívidas.
 
 - **`Evidências`**:
 
