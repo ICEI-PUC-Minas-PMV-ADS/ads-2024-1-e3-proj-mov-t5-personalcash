@@ -279,6 +279,7 @@ Já na segunda opção, "Cadastro Cliente" não está vindo com a data preenchid
 Conforme o encontro do dia 08/05, foi decidido que o problema relacionado ao IOs vai ficar em segundo plano, dessa forma, o foco vai ser finalizar as telas e funções do app que estão faltando.
 
 Foi relaizado a orientação para ser feito individualmente uma modificaçao na parte dos 'commits':
+
 Diogo: Elaborar o commit do 'CRUD' de Treinos;
 Caê: Elaborar o commit do 'CRUD' de Clientes;
 Luiz: Elaborar o commit da Tela Principal e de Perfil (do Personal Trainer);
