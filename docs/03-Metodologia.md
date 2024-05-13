@@ -305,6 +305,11 @@ Aula dia 08/05 - Error DateTimePicker solucionado em IOs, porém, falta encontra
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/0ae7e9a6-2987-4d0d-8d4d-8b9435ffbe2d)
 
+10/05 - Associação dos commits aos respectivos responsáveis direto da conta do Caê.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/1ed8eeb0-7d10-4ec3-afba-c6cef3692da3)
+
+
 
 # Etapa 5
 
