@@ -287,6 +287,8 @@ Daniel: Elaborar o commit da Tela de Quitar Dívidas.
 
 No dia 10/05 Caê e Diogo realizaram a vinculação dos commits aos respectivos responsáveis, essa vinculação ocorreu diretamente da conta do Caê. Aguardamos o retorno do nosso orientador para confirmar se essa ação está correta de acordo com os critérios de avaliação dessa etapa.
 
+Após a aula do dia 15/05, foi confirmado junto ao nosso orientador que a vinculação dos commits diretamente do perfil do Caê aos respectivos colaboradores está correta. Dessa forma, está pendente a finalização do app. Restando a produção do vídeo que está faltando na parte de Registros de Testes e realizando a hospedagem do aplicativo na nuvem.
+
 - **`Evidências`**:
 
 Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 04 do trabalho no dia 24/04/2024:
