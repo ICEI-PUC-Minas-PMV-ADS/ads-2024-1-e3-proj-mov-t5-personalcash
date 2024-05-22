@@ -13,7 +13,7 @@ Abaixo, segue o relatório com as evidências dos testes de software realizados 
 | Instruções| - Acessar o navegador <br> - Informar ao navegador a URL <br> - Clicar na opção **Criar Conta** <br> - Informar o **Nome**, **E-mail** e **Senha** <br> - Em seguida, clicar na opção em **Cadastrar** |
 | Critérios de Êxito | O usuário consegue acessar a página inicial. |
 
-# 1º Caso de Teste
+
 
 https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/61eb183f-520a-4070-9457-114d4b5a3d6f
 
