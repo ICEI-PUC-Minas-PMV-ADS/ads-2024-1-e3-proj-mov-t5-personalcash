@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { StyleSheet, View, Text, TouchableOpacity, Alert } from 'react-native';
 import { Appbar, TextInput, Button } from 'react-native-paper';
-import { Picker } from '@react-native-community/picker';
 import DateTimePicker from '@react-native-community/datetimepicker';
 import moment from 'moment';
 
@@ -11,110 +10,78 @@ import Header from '../components/Header';
 import Input from '../components/Input';
 
 import { useNavigation } from '@react-navigation/native';
-import { useIsFocused } from '@react-navigation/native';
 import { insertTreinos, updateTreinos } from '../services/WorkoutServices';
 
-const CadastroTreino = (route) => {
+const CadastroTreino = ({ route }) => {
   const navigation = useNavigation();
   const { treino } = route.params ? route.params : {};
 
   const handleCancel = () => {
+    // Clear all input fields
     setNome('');
-    setData('');
     setInicio('');
     setDuracao('');
     setValor('');
-    setPago('');
+    setPago(0); // Ensure it's a number
   };
 
   const [date, setDate] = useState(new Date());
   const [show, setShow] = useState(false);
 
   const [nome, setNome] = useState('');
-  const [data, setData] = useState('');
   const [inicio, setInicio] = useState('');
   const [duracao, setDuracao] = useState('');
   const [valor, setValor] = useState('');
-  const [pago, setPago] = useState(0);
+  const [pago, setPago] = useState(0); // Initialize with 0 as a number
 
   useEffect(() => {
-
     if (treino) {
       setNome(treino.nome);
-      setData(treino.data);
       setInicio(treino.inicio);
       setDuracao(treino.duracao);
-      setValor(treino.valor.tofixed(2));
-      setPago(treino.pago == 0);
+      setValor(treino.valor.toString()); // Convert to string to display correctly
+      setPago(treino.pago); // Set directly, assuming it's already a number
     }
   }, [treino]);
 
   const handleCalcular = () => {
-    // Verificar se os campos estão vazios
-    if (!nome || !data || !inicio || !duracao || !valor || !pago) {
+    if (!nome || !inicio || !duracao || !valor) {
       Alert.alert('Por favor, preencha todos os campos.');
-      return; // Retorna se algum campo estiver vazio
+      return;
     }
+
+    const treinoData = {
+      nome,
+      data: moment(date).format('DD/MM/YYYY'),
+      inicio,
+      duracao,
+      valor: parseFloat(valor), // Parse to float
+      pago,
+    };
 
     if (treino) {
-      console.log(treino);
-
-      updateTreinos({
-        nome: nome,
-        data: data,
-        inicio: inicio,
-        duracao: duracao,
-        valor: valor,
-        pago: pago,
-        id: treino.id,
-      }).then();
+      updateTreinos({ ...treinoData, id: treino.id }).then(() =>
+        navigation.goBack()
+      );
     } else {
-      insertTreinos({
-        nome: nome,
-        data: data,
-        inicio: inicio,
-        duracao: duracao,
-        valor: valor,
-        pago: pago,
-      }).then();
+      insertTreinos(treinoData).then(() => navigation.goBack());
     }
-    navigation.goBack();
   };
 
   return (
     <Container>
       <Header title={'Cadastro de Treino'} goBack={() => navigation.goBack()} />
       <Body>
-        <Input
-          label="Nome"
-          value={nome}
-          onChangeText={(text) => setNome(text)}
-        />
-        {/*  FAZER DEPOIS SE DER TEMPO
-        <Picker
-          selectedValue={selectedCliente}
-          style={styles.picker}
-          onValueChange={(itemValue, itemIndex) => {
-            setSelectedCliente(itemValue);
-            if (itemValue) {
-              // Verifica se itemValue não é nulo
-              setSelectedClientName(itemValue.nome); // Armazene o nome do cliente selecionado
-            } else {
-              setSelectedClientName(' '); // Se itemValue for nulo, defina o nome do cliente como vazio
-            }
-          }}
-        >
 
-          <Picker.Item label="Selecione um cliente" value={null} />
-          {clientes.map((cliente) => (
-            <Picker.Item
-              key={cliente.id}
-              label={cliente.nome + ' ' + cliente.sobrenome} 
-              value={cliente}
-            />
-          ))}
-        </Picker>
-        */}
+        <Input label="Nome" value={nome} onChangeText={setNome} />
+
+        <TouchableOpacity onPress={() => setShow(true)}>
+          <Input
+            label="Data"
+            value={moment(date).format('DD/MM/YYYY')}
+            editable={false}
+          />
+        </TouchableOpacity>
         {show && (
           <DateTimePicker
             testID="dateTimePicker"
@@ -125,29 +92,24 @@ const CadastroTreino = (route) => {
             onTouchCancel={() => setShow(false)}
             onChange={(event, date) => {
               setShow(false);
-              setData(moment(date).format('DD/MM/YYYY'));
+              setDate(date || new Date()); // Set to current date if null
             }}
           />
         )}
-        <TouchableOpacity onPress={() => setShow(true)}>
-          <Input label="Data" value={data} editable={false} />
-        </TouchableOpacity>
-        <Input
-          label="Início"
-          value={inicio}
-          onChangeText={(text) => setInicio(text)}
-        />
+
+        <Input label="Início" value={inicio} onChangeText={setInicio} />
+        
         <Input
           label="Duração (min)"
           value={duracao}
-          onChangeText={(text) => setDuracao(text)}
-          keyboardType="numeric" // Apenas números
+          onChangeText={setDuracao}
+          keyboardType="numeric"
         />
         <Input
           label="Valor do treino"
           value={valor}
-          onChangeText={(text) => setValor(text)}
-          keyboardType="numeric" // Apenas números
+          onChangeText={setValor}
+          keyboardType="numeric"
         />
         <View style={styles.buttonContainer}>
           <Button
@@ -186,15 +148,6 @@ const styles = StyleSheet.create({
     flex: 1,
     marginRight: 15,
   },
-  /*picker: {
-    height: 50,
-    width: '100%',
-    marginBottom: 10,
-    backgroundColor: '#fff',
-    borderWidth: 1,
-    borderColor: '#ccc',
-    borderRadius: 4,
-  },*/
 });
 
 export default CadastroTreino;
