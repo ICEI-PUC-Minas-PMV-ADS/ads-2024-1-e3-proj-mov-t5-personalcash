@@ -4,32 +4,63 @@ import { DataTable, Button, Checkbox } from 'react-native-paper';
 import { useIsFocused } from '@react-navigation/native';
 import { useNavigation } from '@react-navigation/native';
 
-import Body from '../components/Body';
+import { getTreinos, updateTreinos } from '../services/WorkoutServices';
+
 import Container from '../components/Container';
 import Header from '../components/Header';
 
 const QuitarDivida = ({ route }) => {
-  const { treino } = route.params;
+  const { clienteNome } = route.params;
   const navigation = useNavigation();
 
   const isFocused = useIsFocused();
-  const [treinosSelecionados, setTreinosSelecionados] = useState([]);
+  const [treinos, setTreinos] = useState([]);
+  const [totalDivida, setTotalDivida] = useState(0);
 
   useEffect(() => {
-    setTreinosSelecionados(Array.isArray(treino) ? treino : [treino]);
-  }, [isFocused, treino]);
+    if (isFocused) {
+      getTreinos().then((dados) => {
+        const filteredTreinos = dados.filter((treino) => treino.nome === clienteNome);
+        setTreinos(filteredTreinos);
 
-  const handleCalcular = () => console.log('Salvo');
+        const debt = filteredTreinos
+                      .filter(treino => !treino.pago)  // Considerando apenas os não pagos
+                      .reduce((acc, treino) => acc + parseFloat(treino.valor), 0);
+        setTotalDivida(debt);
+      });
+    }
+  }, [isFocused, clienteNome]);
 
   const handleCheckboxChange = (index) => {
-    const updatedTreinos = [...treinosSelecionados];
+    const updatedTreinos = [...treinos];
     updatedTreinos[index].pago = !updatedTreinos[index].pago;
-    setTreinosSelecionados(updatedTreinos);
+
+    if (updatedTreinos[index].pago) {
+      setTotalDivida(totalDivida - parseFloat(updatedTreinos[index].valor));
+    } else {
+      setTotalDivida(totalDivida + parseFloat(updatedTreinos[index].valor));
+    }
+
+    setTreinos(updatedTreinos);
+  };
+
+  const handleCalcular = async () => {
+    try {
+      for (const treino of treinos) {
+        await updateTreinos(treino); // Atualiza cada treino individualmente
+      }
+      console.log('Dívida quitada e treinos salvos com sucesso');
+      alert('Dívida quitada e treinos salvos com sucesso');
+      navigation.goBack();
+    } catch (error) {
+      console.error('Erro ao salvar os treinos:', error);
+      alert('Erro ao salvar os treinos');
+    }
   };
 
   const renderTreinos = () => {
-    return treinosSelecionados.map((treino, index) => (
-      <DataTable.Row key={index}>   
+    return treinos.map((treino, index) => (
+      <DataTable.Row key={index}>
         <DataTable.Cell style={styles.cellLine}>{treino.data}</DataTable.Cell>
         <DataTable.Cell style={styles.cellLine}>{treino.duracao}</DataTable.Cell>
         <DataTable.Cell style={styles.cellLine}>{treino.valor}</DataTable.Cell>
@@ -49,13 +80,14 @@ const QuitarDivida = ({ route }) => {
       <Text style={styles.titulo}>Treinos</Text>
       <DataTable>
         <DataTable.Header>
-            <DataTable.Title style={styles.cellStyles}>Data</DataTable.Title>
-            <DataTable.Title style={styles.cellStyles}>Duração (min)</DataTable.Title>
-            <DataTable.Title style={styles.cellStyles}>Valor</DataTable.Title>          
-            <DataTable.Title style={styles.cellStyles}>Pago</DataTable.Title>
+          <DataTable.Title style={styles.cellStyles}>Data</DataTable.Title>
+          <DataTable.Title style={styles.cellStyles}>Duração (min)</DataTable.Title>
+          <DataTable.Title style={styles.cellStyles}>Valor</DataTable.Title>
+          <DataTable.Title style={styles.cellStyles}>Pago</DataTable.Title>
         </DataTable.Header>
         {renderTreinos()}
       </DataTable>
+      <Text style={styles.totalDivida}>Total Dívida: R$ {totalDivida.toFixed(2)}</Text>
       <Button
         style={styles.buttonR}
         mode="contained"
@@ -84,6 +116,13 @@ const styles = StyleSheet.create({
     textAlign: 'center',
     color: 'black',
     fontSize: 30,
+    fontWeight: '600',
+  },
+  totalDivida: {
+    marginTop: 20,
+    textAlign: 'center',
+    color: 'red',
+    fontSize: 20,
     fontWeight: '600',
   },
   buttonR: {
