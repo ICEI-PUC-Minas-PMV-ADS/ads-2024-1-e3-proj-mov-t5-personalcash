@@ -31,9 +31,10 @@ Além disso, encaminharemos um questionário via Google Forms onde o grupo selec
 
 Um questionário foi encaminhado para o e-mail de várias pessoas interessadas em conhecer o modelo de negócio da aplicação.
 
+### Convite de participação Google Forms
+
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/b3c5ebdf-10c1-4644-827c-5e06bb51bdb0)
 
-**Foto convite Google Forms**
 
 Os usuários testados vão responder às seguintes perguntas demonstradas abaixo:
 
