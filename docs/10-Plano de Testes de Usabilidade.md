@@ -29,7 +29,9 @@ Além disso, encaminharemos um questionário via Google Forms onde o grupo selec
 
 # Questionário Google Forms
 
-Um questionário foi encaminhado para o e-mail de várias pessoas interessadas em conhecer o modelo de negócio da aplicação. 
+Um questionário foi encaminhado para o e-mail de várias pessoas interessadas em conhecer o modelo de negócio da aplicação, além disso, foi disponibilizado o link direto do forms.
+
+**Link**: https://docs.google.com/forms/d/e/1FAIpQLSfjcJVpo_XvVTOTtmC-lRX0jSGzoUWpsGbNArwaU261TjBDTA/viewform?vc=0&c=0&w=1&flr=0
 
 ### Convite de participação Google Forms:
 
@@ -37,7 +39,6 @@ Um questionário foi encaminhado para o e-mail de várias pessoas interessadas e
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/b3c5ebdf-10c1-4644-827c-5e06bb51bdb0)
 
 ### Questionário Google Forms:
-
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/2b70c877-9742-4058-b69a-61fcea687405)
 
