@@ -10,7 +10,7 @@ Assim, o teste de usabilidade permite avaliar a qualidade da interface com o usu
 
 O método empregado será o de Medição e Avaliação. 
 
-Além disso, encaminharemos um questionário via Google Forms onde o grupo vaia selecionar usuários ativos no mundo da tecnologia e também aqueles usuários com um conhecimento básico e objetivo ao acessar as plataformas digitais em sua simples rotina diária.
+Além disso, encaminharemos um questionário via Google Forms onde o grupo selecionou usuários ativos no mundo da tecnologia e também aqueles usuários com um conhecimento básico e objetivo ao acessar as plataformas digitais em sua simples rotina diária.
 
 # Tarefas Propostas
 
