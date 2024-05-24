@@ -12,7 +12,7 @@ Dessa forma, com esse feedback, é possível visualizar mais dados dos participa
 ### 1) Tela de Cadastro
 
 **Descrição da Tarefa**: 
-Usuário criar uma conta no aplicativo.
+Criar uma conta no aplicativo.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/acc92ae5-3ad3-4e61-b699-8c835f4cd350)
 
@@ -56,7 +56,7 @@ Usuário conseguiu realizar o login e foi direcionado para a tela "Home" do apli
 ### 3) Tela de Registro dos Clientes
 
 **Descrição da Tarefa**:
-Usuário conseguir acessar a tela de Registro dos Clientes
+Acessar a tela de Registro dos Clientes
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/aabe96fe-a9f7-42b0-9626-e5c40dbd4299)
 
@@ -64,7 +64,7 @@ Usuário conseguir acessar a tela de Registro dos Clientes
 Não.
 
 **Resultado**: 
-Usuário conseguiu acessar a tela de registro dos clientes do aplicativo.
+Acessar a tela de registro dos clientes do aplicativo.
 
 ### Métricas:
 - Taxa de Sucesso: Total, o usuário conseguiu acessar a página de registro dos clientes do aplicativo.
@@ -76,7 +76,7 @@ Usuário conseguiu acessar a tela de registro dos clientes do aplicativo.
 ### 4) Cadastro de Clientes
 
 **Descrição da Tarefa**:
-Usuário conseguiu acessar e cadastrar clientes da tela específica para essa funcionalidade.
+Acessar e cadastrar clientes da tela específica para essa funcionalidade.
 
  ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/2d21b093-77e4-49a5-9c0f-b03682c3bb91)
 
@@ -98,7 +98,7 @@ Usuário conseguiu acessar a page de cadastro de clientes e adicionou clientes n
 ### 5) Tela do Registro dos Treinos
 
 **Descrição da Tarefa**:
-Usuário conseguiu acessar a página de Registro dos Treinos no aplicativo.
+Acessar a página de Registro dos Treinos no aplicativo.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/fbfb7cb4-1f57-4c88-9d2b-12ddec9c3972)
 
@@ -118,7 +118,7 @@ Usuário conseguiu acessar a page de Registro dos Treinos.
 ### 6) Registro de Treinos
 
 **Descrição da Tarefa**:
-Usuário conseguiu cadastrar o treino e preencher todos os campos de informações disponibilizados: "Nome", "Data", "Início", "Duração" e "Valor do Treino".
+cadastrar o treino e preencher todos os campos de informações disponibilizados: "Nome", "Data", "Início", "Duração" e "Valor do Treino".
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/e8e5d610-4311-4c8f-bfd2-379bfd06bd2c)
 
@@ -137,9 +137,25 @@ Usuário conseguiu acessar a page de "Registro de Treinos" e preencheu todos os 
 - Facilidade de Uso: Aplicável e fácil devido à simplicidade de acessar a page.
 - Satisfação: Total.
 
- ### 7) 
+ ### 7) Tela dos Registros de Treinos e Valores Cadastrados
 
+ **Descrição da Tarefa**:
+Verificar se o registro de treinos valores foram cadastrados na page principal.
 
+ ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/35c23d5b-3918-4fdd-8eb0-f67baf103091)
+
+**Erros**:
+Não.
+
+**Resultado**: 
+Usuário conseguiu acessar a page de "Tela de Registros" onde está exposto e confirmado os dados preenchidos dos "Registros de Treinos" e "Valores dos Treinos." 
+
+### Métricas:
+- Taxa de Sucesso: Total, o usuário conseguiu acessar a página principal e verificou que os dados dos "Registro de Treinos" e "Valores dos Treinos" do aplicativo foram salvos.
+- Tempo Médio de Conclusão: Rápido devido a facilidade de acessar a tela de registros.
+- Erros Cometidos: Nenhum, os participantes relataram sucesso nas tentativas de acesso na tela de registros do app.
+- Facilidade de Uso: Aplicável e fácil devido à simplicidade de acessar a page.
+- Satisfação: Total.
 
 
 
