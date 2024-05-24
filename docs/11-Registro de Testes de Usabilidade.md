@@ -9,7 +9,7 @@ Posteriormente, na segunda etapa, são apresentadas as respostas dos usuários e
 
 Dessa forma, com esse feedback, é possível visualizar mais dados dos participantes após a efetuação dos Testes. Consequentemente, ficam mais claras as correções e as possíveis melhorias apontadas para uma atualização da aplicação.
 
-### 1) Tela de Login
+### 1) Tela de Cadastro
 
 **Descrição da Tarefa**: 
 Criar conta no Aplicativo.
