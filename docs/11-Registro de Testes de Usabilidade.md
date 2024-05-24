@@ -230,7 +230,7 @@ O formulário do Google foi respondido por **INSERIR O NÚMERO DE USUÁRIOS**
 
 Todos os participantes da pesquisa não necessariamente possuem experiência em analisar aplicações e sistemas web.
 
-# Resultados
+# Resultados Estatísticos Google Forms (Em construção)
 
 Logo abaixo, uma análise objetiva e estatística sobre o resultado de avaliação dos usuários que acessaram e opinaram sobre a aplicação Personal Cash.
 
@@ -338,7 +338,7 @@ Vamos abordar o os principais pontos de cada pergunta e aquelas avaliações de 
 
 - **Resultado**: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
 
-# Conclusão (EM CONSTRUÇÃO)
+# Conclusão (Em construção)
  
 Sobre as sugestões de todos os participantes do teste de usabilidade aplicado, o grupo, chegou nas seguintes conclusões de modo a melhorar a experiência do usuário e o sistema do Personal Cash em sua totalidade. 
 
