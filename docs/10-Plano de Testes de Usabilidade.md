@@ -21,6 +21,7 @@ Além disso, encaminharemos um questionário via Google Forms onde o grupo vaia 
 | 03 | Acessar a página de Registros dos Clientes no aplicativo. | Identificar se existem dificuldades no acesso na página de Registro dos Clientes e na sequência, avaliar se o layout e o fluxo são intuitivos.| Acessar a página "Registros dos Clientes" do app sem expressar dificuldades durante esse processo.|
 | 04 | Acessar a página de Cadastro de Clientes e adicionar clientes no aplicativo. | Identificar se existem dificuldades no acesso na página de "Registro de Clientes" e na sequência, avaliar se o layout e o fluxo são intuitivos para confirmar essa operação.| Acessar a página "Registros dos Clientes" do app e adicionar clientes sem expressar dificuldades durante esse processo.|
 | 05 | Acessar a página de Registro dos Treinos no aplicativo. | Identificar se existem dificuldades no acesso na página de "Registro de Treinos" e na sequência, avaliar se o layout e o fluxo são intuitivos para confirmar essa operação.| Acessar a página "Registros dos CTreinos" do app e adicionar clientes sem expressar dificuldades durante esse processo.|
+| 06 | Cadastrar e Adicionar Treinos | Identificar se existem dificuldades no acesso na página de "Cadastrar Treinos" e preencher todos os seguintes dados disponibilizados: Na sequência, avaliar se o layout e o fluxo são intuitivos para confirmar essa operação.| Acessar a página e Cadastrar e Adicionar Treinos do app sem expressar dificuldades durante esse processo.|
 
 
 
