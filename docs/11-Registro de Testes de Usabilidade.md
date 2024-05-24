@@ -140,7 +140,7 @@ Usuário conseguiu acessar a page de "Registro de Treinos" e preencheu todos os 
  ### 7) Tela dos Registros de Treinos e Valores Cadastrados
 
  **Descrição da Tarefa**:
-Verificar se o registro de treinos valores foram cadastrados na page principal.
+Verificar se o registro de treinos valores foram cadastrados na page principal "Home."
 
  ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/35c23d5b-3918-4fdd-8eb0-f67baf103091)
 
@@ -148,12 +148,12 @@ Verificar se o registro de treinos valores foram cadastrados na page principal.
 Não.
 
 **Resultado**: 
-Usuário conseguiu acessar a page de "Tela de Registros" onde está exposto e confirmado os dados preenchidos dos "Registros de Treinos" e "Valores dos Treinos." 
+Usuário conseguiu acessar a page "Home" onde está exposto e confirmado os dados preenchidos dos "Registros de Treinos" e "Valores dos Treinos." 
 
 ### Métricas:
-- Taxa de Sucesso: Total, o usuário conseguiu acessar a página principal e verificou que os dados dos "Registro de Treinos" e "Valores dos Treinos" do aplicativo foram salvos.
-- Tempo Médio de Conclusão: Rápido devido a facilidade de acessar a tela de registros.
-- Erros Cometidos: Nenhum, os participantes relataram sucesso nas tentativas de acesso na tela de registros do app.
+- Taxa de Sucesso: Total, o usuário conseguiu acessar a página principal e verificou que os dados dos "Registro de Treinos" e "Valores dos Treinos" do aplicativo foram salvos na page "Home".
+- Tempo Médio de Conclusão: Rápido devido a facilidade de acessar a tela "Home"
+- Erros Cometidos: Nenhum, os participantes relataram sucesso nas tentativas de acesso na tela de "Home" do app.
 - Facilidade de Uso: Aplicável e fácil devido à simplicidade de acessar a page.
 - Satisfação: Total.
 
