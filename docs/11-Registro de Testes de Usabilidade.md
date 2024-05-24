@@ -9,6 +9,13 @@ Posteriormente, na segunda etapa, são apresentadas as respostas dos usuários e
 
 Dessa forma, com esse feedback, é possível visualizar mais dados dos participantes após a efetuação dos Testes. Consequentemente, ficam mais claras as correções e as possíveis melhorias apontadas para uma atualização da aplicação.
 
+## Tela de Login
+
+|   **Descrição da Tarefa**   |                     **Foto**                      | **Erros** |      **Resultado**       |
+| :-------------------------: | :-----------------------------------------------: | :-------: | :----------------------: |
+| Entrar na conta de usuário. | <![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/42e73642-77a5-4d88-97de-cacc554331c9)
+> |    Não    | O login foi efetuado |
+
 
 # Método e Participantes (EM CONSTRUÇÃO)
 
