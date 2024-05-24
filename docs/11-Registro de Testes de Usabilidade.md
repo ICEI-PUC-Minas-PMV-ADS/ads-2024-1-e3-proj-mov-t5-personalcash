@@ -220,35 +220,17 @@ Usuário acessando o aplicativo via iOS, não conseguiu alterar a opção de "Da
 - Facilidade de Uso: Não aplicável devido à impossibilidade de alterar a "Data" no calendário na page de cadastro de treino.
 - Satisfação: Não aplicável devido à impossibilidade de completar essa ação via iPhone (Sistema operacional iOS).
 
+# Resultados Google Forms
 
+Foi criado um link diretamente no Google Forms com 15 questões claras e bem objetivas sobre a aplicação. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Método e Participantes (EM CONSTRUÇÃO)
-
-Foi criado um link diretamente no Google Forms com 15 questões claras e bem objetivas sobre a aplicação. Além disso, foi aberto um espaço para que os participantes conseguissem complementar a sua resposta e adicionar mais comentários.
-
-Esses comentários são importantes e necessários para se visualizar possíveis erros no site e observar melhorias, afim da experiência do usuário ser melhor conforme a descrição de testes de usabilidade da plataforma Personal Cash.
+Essas questões são importantes e necessários para se visualizar possíveis erros no site e observar melhorias, afim da experiência do usuário ser melhor conforme a descrição de testes de usabilidade da plataforma Personal Cash.
 
 O formulário do Google foi respondido por **INSERIR O NÚMERO DE USUÁRIOS**
 
-A idade dos participantes independente de gênero, variando entre 24 e 30 anos conforme a média de idade do público-alvo da plataforma que é voltado para os recém-graduados em Educação Física. 
-
 Todos os participantes da pesquisa não necessariamente possuem experiência em analisar aplicações e sistemas web.
 
-# Resultados (EM CONSTRUÇÃO)
+# Resultados
 
 Logo abaixo, uma análise objetiva e estatística sobre o resultado de avaliação dos usuários que acessaram e opinaram sobre a aplicação Personal Cash.
 
