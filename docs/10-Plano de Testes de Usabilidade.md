@@ -17,7 +17,7 @@ Além disso, encaminharemos um questionário via Google Forms onde o grupo vaia 
 | **Número da Tarefa** | **Descrição da Tarefa** | **Objetivo da Tarefa** | **Critério de Sucesso** |
 | :------------: | :---------------------: | :-----------------------: | :-----------------------: |
 | 01 | Criar uma conta de usuário. | Identificar se existem dificuldades no cadastro via app, avaliar se o layout e o fluxo são intuitivos.| Terminar o cadastro sem expressar dificuldades durante esse processo.|
-| 02 | Realizar o login no aplicativo e conseguir acessar a página inicial. | Identificar se existem dificuldades no login via app e ao direcionamento na página principal logo na sequência, avaliar se o layout e o fluxo são intuitivos.| Terminar o login e acessar a página principal do app sem expressar dificuldades durante esse processo.|
+| 02 | Realizar o login no aplicativo e conseguir acessar a próxima página "Home" do app. | Identificar se existem dificuldades no login via app e ao direcionamento na página "Home" na sequência, avaliar se o layout e o fluxo são intuitivos.| Terminar o login e acessar a página "Home" do app sem expressar dificuldades durante esse processo.|
 
 
 
