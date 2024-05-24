@@ -14,7 +14,6 @@ Dessa forma, com esse feedback, é possível visualizar mais dados dos participa
 **Descrição da Tarefa**: 
 Criar conta no Aplicativo.
 
-**Foto**
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/acc92ae5-3ad3-4e61-b699-8c835f4cd350)
 
 **Erros**: 
