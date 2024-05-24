@@ -20,7 +20,7 @@ Além disso, encaminharemos um questionário via Google Forms onde o grupo vaia 
 
 
 
-**INSERIR PRINT DO GOOGLE FORMS CRIADO** ( EM CONSTRUÇÃO)
+**INSERIR PRINT DO GOOGLE FORMS CRIADO** (EM CONSTRUÇÃO)
 
 Os usuários testados vão responder às seguintes perguntas demonstradas abaixo:
 
@@ -53,7 +53,7 @@ Cada pergunta acima exposta no questionário contém cinco opções de respostas
 **INSERIR PRINT DAS RESPOSTAS ENCAMINHADAS VIA FORMS**
 
 
-# Caso de Teste 
+# Caso de Teste  (EM CONSTRUÇÃO)
 
 Conforme as informações adquiridas pelo Questionário do Google Forms após o acesso dos usuários, a equipe de Desenvolvimento da aplicação realizará os possíveis ajustes no aplicativo e melhorias na plataforma:
  
