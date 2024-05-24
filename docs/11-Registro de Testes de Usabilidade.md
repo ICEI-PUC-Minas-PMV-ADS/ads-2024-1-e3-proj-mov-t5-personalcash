@@ -137,14 +137,7 @@ Usuário conseguiu acessar a page de "Registro de Treinos" e preencheu todos os 
 - Facilidade de Uso: Aplicável e fácil devido à simplicidade de acessar a page.
 - Satisfação: Total.
 
-
-
-
-
-
-
-
-
+ ### 7) 
 
 
 
