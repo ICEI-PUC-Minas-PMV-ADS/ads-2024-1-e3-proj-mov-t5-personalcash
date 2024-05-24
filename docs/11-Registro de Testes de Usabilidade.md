@@ -9,7 +9,7 @@ Posteriormente, na segunda etapa, são apresentadas as respostas dos usuários e
 
 Dessa forma, com esse feedback, é possível visualizar mais dados dos participantes após a efetuação dos Testes. Consequentemente, ficam mais claras as correções e as possíveis melhorias apontadas para uma atualização da aplicação.
 
-### Tela de Cadastro
+### 1) Tela de Cadastro
 
 **Descrição da Tarefa**: 
 Criar conta no Aplicativo.
@@ -30,7 +30,7 @@ Usuário conseguiu criar uma conta no aplicativo.
 - Facilidade de Uso: Aplicável e fácil devido à simplicidade de se criar uma conta.
 - Satisfação: Total.
 
-### Tela de Login
+### 2) Tela de Login
 
 **Descrição da Tarefa**: 
 Logar na conta ser direcionado para a tela "Home" do aplicativo.
@@ -53,7 +53,7 @@ Usuário conseguiu realizar o login e foi direcionado para a tela "Home" do apli
 - Facilidade de Uso: Aplicável e fácil devido à simplicidade de logar e ser direcionado à próxima tela.
 - Satisfação: Total.
 
-### Tela de Registro dos Clientes
+### 3) Tela de Registro dos Clientes
 
 **Descrição da Tarefa**:
 Usuário conseguir acessar a tela de Registro dos Clientes
