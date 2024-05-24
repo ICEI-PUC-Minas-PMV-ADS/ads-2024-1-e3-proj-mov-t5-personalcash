@@ -67,12 +67,36 @@ Não.
 Usuário conseguiu acessar a tela de registro dos clientes do aplicativo.
 
 ### Métricas:
-
 - Taxa de Sucesso: Total, o usuário conseguiu acessar a página de registro dos clientes do aplicativo.
 - Tempo Médio de Conclusão: Rápido devido a facilidade de acessar a tela de registro dos clientes.
 - Erros Cometidos: Nenhum, os participantes relataram sucesso nas tentativas de acesso na tela de registro dos clientes do app.
 - Facilidade de Uso: Aplicável e fácil devido à simplicidade de acessar e ser direcionado à tela de registro dos clientes.
 - Satisfação: Total.
+
+### 4) Cadastro de Clientes
+
+**Descrição da Tarefa**:
+Usuário conseguiu acessar e cadastrar clientes da tela específica para essa funcionalidade.
+
+ ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/2d21b093-77e4-49a5-9c0f-b03682c3bb91)
+
+ ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/c43e3657-2af7-49e5-a2fc-5e35fcfd5af6)
+
+**Erros**:
+Não.
+
+**Resultado**: 
+Usuário conseguiu acessar a page de cadastro de clientes e realizou o cadastro.
+
+### Métricas:
+- Taxa de Sucesso: Total, o usuário conseguiu acessar a página de cadastro de clientes do aplicativo e cadastrou clientes.
+- Tempo Médio de Conclusão: Rápido devido a facilidade de acessar a tela de cadastro de clientes.
+- Erros Cometidos: Nenhum, os participantes relataram sucesso nas tentativas de acesso na tela de cadastro de clientes do app.
+- Facilidade de Uso: Aplicável e fácil devido à simplicidade de acessar cadastrar os clientes na page.
+- Satisfação: Total.
+
+
+ 
 
 
 
