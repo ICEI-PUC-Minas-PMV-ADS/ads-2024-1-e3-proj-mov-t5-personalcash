@@ -3,12 +3,14 @@
 Após realizar os testes de usabilidade, o Registro de Testes de Usabilidade é um relatório que contém as evidências dos testes e relatos dos usuários participantes, baseado no Plano de Testes de Usabilidade desenvolvido para os casos de uso desta etapa.
 
 Essa ação tem por objetivo apresentar detalhadamente os resultados do teste de usabilidade da aplicação Personal Cash.
+Na primeira etapa desse teste, são apresentadas todas as telas apresentadas e as Métricas em nosso registro de testes.
 
-Na primeira etapa desse teste são apresentadas todas as respostas objetivas em relação às perguntas propostas no plano de testes da plataforma.
+Posteriormente, na segunda etapa, são apresentadas as respostas dos usuários em relação ao questionário encaminhado via Google Forms.
 
-Posteriormente, na segunda etapa, são apresentadas por todos os participantes do teste as correções e possíveis melhorias apontadas para a aplicação.
+Dessa forma, com esse feedback, é possível visualizar mais dados dos participantes após a efetuação dos Testes. Consequentemente, ficam mais claras as correções e as possíveis melhorias apontadas para uma atualização da aplicação.
 
-# Método e Participantes
+
+# Método e Participantes (EM CONSTRUÇÃO)
 
 Foi criado um link diretamente no Google Forms com 15 questões claras e bem objetivas sobre a aplicação. Além disso, foi aberto um espaço para que os participantes conseguissem complementar a sua resposta e adicionar mais comentários.
 
@@ -20,7 +22,7 @@ A idade dos participantes independente de gênero, variando entre 24 e 30 anos c
 
 Todos os participantes da pesquisa não necessariamente possuem experiência em analisar aplicações e sistemas web.
 
-# Resultados
+# Resultados (EM CONSTRUÇÃO)
 
 Logo abaixo, uma análise objetiva e estatística sobre o resultado de avaliação dos usuários que acessaram e opinaram sobre a aplicação Personal Cash.
 
@@ -128,8 +130,8 @@ Vamos abordar o os principais pontos de cada pergunta e aquelas avaliações de 
 
 - **Resultado**: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
 
-# Conclusão
-
+# Conclusão (EM CONSTRUÇÃO)
+ 
 Sobre as sugestões de todos os participantes do teste de usabilidade aplicado, o grupo, chegou nas seguintes conclusões de modo a melhorar a experiência do usuário e o sistema do Personal Cash em sua totalidade. 
 
 Logo abaixo, os principais tópicos de melhoria:
