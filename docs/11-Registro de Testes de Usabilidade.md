@@ -177,11 +177,32 @@ Usuário conseguiu acessar tela "Quitar Dívidas" na aplicação.
 - Facilidade de Uso: Aplicável e fácil devido à simplicidade de acessar a page.
 - Satisfação: Total.
 
+  ### 9) Quitar Dívidas
+
+**Descrição da Tarefa**:
+Acessar a tela "Quitar Dívidas", preencher o checkbox e quitar dívida assinalada no aplicativo.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/d74319be-6a77-420f-bae1-afe5eea0caaa)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/179e4ce3-53bf-4f9d-a3cd-7edf759995d0)
+
+**Erros**:
+Não.
+
+**Resultado**: 
+Usuário conseguiu acessar tela "Quitar Dívidas", preencheu o checkbox e quitou uma dívida assinalada que estava cadastrada na aplicação.
+
+### Métricas:
+- Taxa de Sucesso: Total, o usuário conseguiu acessar a página "Quitar Dívidas", preencher o checkbox e quitou uma dívida assinalada que estava cadastrada na aplicação
+- Tempo Médio de Conclusão: Rápido devido a facilidade de acessar a tela "Quitar Dívidas" e realizar as ações seguintes.
+- Erros Cometidos: Nenhum, os participantes relataram sucesso nas tentativas de acesso na tela "Quitar Dívidas", preencher o checkbox e confirmar a quitação de uma dívida cadastrada na aplicação.
+- Facilidade de Uso: Aplicável e fácil devido à simplicidade de acessar a page.
 
 
 
 
- 
+
+
 
 
 
