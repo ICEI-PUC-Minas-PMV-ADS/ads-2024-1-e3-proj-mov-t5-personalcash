@@ -198,6 +198,31 @@ Usuário conseguiu acessar tela "Quitar Dívidas", preencheu o checkbox e quitou
 - Erros Cometidos: Nenhum, os participantes relataram sucesso nas tentativas de acesso na tela "Quitar Dívidas", preencher o checkbox e confirmar a quitação de uma dívida cadastrada na aplicação.
 - Facilidade de Uso: Aplicável e fácil devido à simplicidade de acessar a page.
 
+### 10) Tela de Cadastro de Treino em iOS
+
+**Descrição da Tarefa**:
+Acessar a tela "Cadastro de Treino", e preencher os campos descritos: "Nome", "Data", "Início", "Duração" e "Treino." 
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/37be1935-2cd6-4b86-a963-8cf6d6fe0626)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/67851295-c150-43a6-9982-7dde7858f11d)
+
+**Erros**:
+Sim.
+
+**Resultado**: 
+Usuário acessando o aplicativo via iOS, não conseguiu alterar a opção de "Data" disponível no calendário na aplicação.
+
+### Métricas:
+- Taxa de Sucesso: Não aplicável devido à impossibilidade de alterar a "Data" disponível no calendário na aplicação.
+- Tempo Médio de Conclusão: Não aplicável devido à impossibilidade de alterar a "Data" disponível no calendário no app.
+- Erros Cometidos: Os participantes que acessaram via iPhone (Sistema operacional iOS), relataram tentativas malsucedidas de conclusão do cadastro de treino devido a falhas no funcionamento da parte do cadastro da "Data" via calendário na página de treino.
+- Facilidade de Uso: Não aplicável devido à impossibilidade de alterar a "Data" no calendário na page de cadastro de treino.
+- Satisfação: Não aplicável devido à impossibilidade de completar essa ação via iPhone (Sistema operacional iOS).
+
+
+
+
 
 
 
