@@ -27,6 +27,9 @@ Além disso, encaminharemos um questionário via Google Forms onde o grupo selec
 | 09 | Quitar Dívidas.| Identificar se existem dificuldades no acesso na página "Quitar Dívidas", preencher o  checkbox disponibilizado e quitar uma dívida cadastrada na aplicação. Na sequência, avaliar se o layout e o fluxo são intuitivos para confirmar essa operação.| Acessar a página "Quitar Dívidas", preencher o checkbox disponibilizado e quitar uma dívida cadastrada no app sem expressar dificuldades durante esse processo.|
 | 10 | Editar Treino.| Identificar se existem dificuldades no acesso na página "Editar Treino" e preencher os e preencher os campos descritos: "Nome", "Data", "Início", "Duração" e "Treino" na aplicação. Na sequência, avaliar se o layout e o fluxo são intuitivos para confirmar essa operação.| Acessar a página "Editar Treino", preencher os campos disponibilizados e confirmar a edição dos dados sem expressar dificuldades durante esse processo.|
 
+# Questionário Google Forms
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/b3c5ebdf-10c1-4644-827c-5e06bb51bdb0)
 
 
 
