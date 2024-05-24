@@ -11,10 +11,11 @@ Dessa forma, com esse feedback, é possível visualizar mais dados dos participa
 
 ## Tela de Login
 
-|   **Descrição da Tarefa**   |                     **Foto**                      | **Erros** |      **Resultado**       |
-| :-------------------------: | :-----------------------------------------------: | :-------: | :----------------------: |
-| Entrar na conta de usuário. | <![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/42e73642-77a5-4d88-97de-cacc554331c9)
-> |    Não    | O login foi efetuado |
+|   **Descrição da Tarefa**   |                     **Foto**                      | 
+| Entrar na conta de usuário. | <![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/ee8ceeaf-22f6-487e-aa05-9ba3078c7598)
+**Erros** |      **Resultado**       |
+| :-------------------------: | :-----------------------------------------------: | 
+> |    Não    | O login foi efetuado com sucesso|
 
 
 # Método e Participantes (EM CONSTRUÇÃO)
