@@ -9,13 +9,26 @@ Posteriormente, na segunda etapa, são apresentadas as respostas dos usuários e
 
 Dessa forma, com esse feedback, é possível visualizar mais dados dos participantes após a efetuação dos Testes. Consequentemente, ficam mais claras as correções e as possíveis melhorias apontadas para uma atualização da aplicação.
 
-## Tela de Login
+### Tela de Login
 
-|   **Descrição da Tarefa**   |                     **Foto**                      | 
-| Entrar na conta de usuário. | <![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/ee8ceeaf-22f6-487e-aa05-9ba3078c7598)
-**Erros** |      **Resultado**       |
-| :-------------------------: | :-----------------------------------------------: | 
-> |    Não    | O login foi efetuado com sucesso|
+**Descrição da Tarefa**: Criar conta no Aplicativo.
+
+**Foto**:
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/addd950f-2b7c-4642-a81b-a54ccb22aa7d)
+
+**Erros**: Não.
+
+**Resultado**: Usuário conseguiu criar uma conta no aplicativo.
+
+### Métricas:
+
+- Taxa de Sucesso: Total, o usuário conseguiu criar uma conta no aplicativo.
+- Tempo Médio de Conclusão: Rápido devido a facilidade de criar uma conta.
+- Erros Cometidos: Nenhum, os participantes relataram sucesso nas tentativas de conclusão no cadastro via página de login.
+- Facilidade de Uso: Aplicável e fácil devido à simplicidade de se criar uma conta.
+- Satisfação: Total.
+
+
 
 
 # Método e Participantes (EM CONSTRUÇÃO)
