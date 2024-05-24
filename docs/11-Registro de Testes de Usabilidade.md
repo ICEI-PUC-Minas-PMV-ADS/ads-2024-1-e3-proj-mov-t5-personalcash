@@ -140,7 +140,7 @@ Usuário conseguiu acessar a page de "Registro de Treinos" e preencheu todos os 
  ### 7) Tela dos Registros de Treinos e Valores Cadastrados
 
  **Descrição da Tarefa**:
-Verificar se o registro de treinos valores foram cadastrados na page principal "Home."
+Verificar se o registro de treinos e valores foram cadastrados e disponibilizados para visualização na page principal "Home."
 
  ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/35c23d5b-3918-4fdd-8eb0-f67baf103091)
 
