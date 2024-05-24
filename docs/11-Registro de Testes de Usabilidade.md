@@ -177,7 +177,7 @@ Usuário conseguiu acessar tela "Quitar Dívidas" na aplicação.
 - Facilidade de Uso: Aplicável e fácil devido à simplicidade de acessar a page.
 - Satisfação: Total.
 
-  ### 9) Quitar Dívidas
+### 9) Quitar Dívidas
 
 **Descrição da Tarefa**:
 Acessar a tela "Quitar Dívidas", preencher o checkbox e quitar dívida assinalada no aplicativo.
