@@ -30,6 +30,30 @@ Usuário conseguiu criar uma conta no aplicativo.
 - Facilidade de Uso: Aplicável e fácil devido à simplicidade de se criar uma conta.
 - Satisfação: Total.
 
+- ### 2) Tela de Login
+
+**Descrição da Tarefa**: 
+Logar na conta ser direcionado para a tela "Home" do aplicativo.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/557468f1-beaf-4b4e-8e42-9507a8713e1b)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/81c42d43-cd33-41f3-886e-4fc97631abc2)
+
+**Erros**: 
+Não.
+
+**Resultado**: 
+Usuário conseguiu realizar o login e foi direcionado para a tela "Home" do aplicativo.
+
+### Métricas:
+
+- Taxa de Sucesso: Total, o usuário conseguiu realizar o login no aplicativo e foi direcionado a tela "Home".
+- Tempo Médio de Conclusão: Rápido devido a facilidade de realizar o login e ser direcionado para a próxima tela.
+- Erros Cometidos: Nenhum, os participantes relataram sucesso nas tentativas de conclusão no login no aplicativo e o direcionamento para a tela "Home" da aplicação".
+- Facilidade de Uso: Aplicável e fácil devido à simplicidade de logar e ser direcionado à próxima tela.
+- Satisfação: Total.
+
+
 
 
 
