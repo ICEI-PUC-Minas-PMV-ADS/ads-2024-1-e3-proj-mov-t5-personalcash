@@ -86,7 +86,7 @@ Usuário conseguiu acessar e cadastrar clientes da tela específica para essa fu
 Não.
 
 **Resultado**: 
-Usuário conseguiu acessar a page de cadastro de clientes e realizou o cadastro.
+Usuário conseguiu acessar a page de cadastro de clientes e adicionou clientes nesse registro.
 
 ### Métricas:
 - Taxa de Sucesso: Total, o usuário conseguiu acessar a página de cadastro de clientes do aplicativo e cadastrou clientes.
@@ -94,6 +94,33 @@ Usuário conseguiu acessar a page de cadastro de clientes e realizou o cadastro.
 - Erros Cometidos: Nenhum, os participantes relataram sucesso nas tentativas de acesso na tela de cadastro de clientes do app.
 - Facilidade de Uso: Aplicável e fácil devido à simplicidade de acessar cadastrar os clientes na page.
 - Satisfação: Total.
+
+### 5) Tela do Registro dos Treinos
+
+**Descrição da Tarefa**:
+Usuário conseguiu acessar a página de Registro dos Treinos no aplicativo.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/fbfb7cb4-1f57-4c88-9d2b-12ddec9c3972)
+
+**Erros**:
+Não.
+
+**Resultado**: 
+Usuário conseguiu acessar a page de Registro dos Treinos.
+
+### Métricas:
+- Taxa de Sucesso: Total, o usuário conseguiu acessar a página de "Registro dos Treinos" do aplicativo.
+- Tempo Médio de Conclusão: Rápido devido a facilidade de acessar a tela de "Registro dos Treinos."
+- Erros Cometidos: Nenhum, os participantes relataram sucesso nas tentativas de acesso na tela de "Registro dos Treinos" do app.
+- Facilidade de Uso: Aplicável e fácil devido à simplicidade de acessar a page.
+- Satisfação: Total.
+
+
+
+
+
+
+
 
 
  
