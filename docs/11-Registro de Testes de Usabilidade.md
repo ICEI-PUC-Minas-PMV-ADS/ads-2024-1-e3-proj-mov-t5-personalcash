@@ -137,7 +137,7 @@ Usuário conseguiu acessar a page de "Registro de Treinos" e preencheu todos os 
 - Facilidade de Uso: Aplicável e fácil devido à simplicidade de acessar a page.
 - Satisfação: Total.
 
- ### 7) Tela dos Registros de Treinos e Valores Cadastrados
+ ### 7) Tela Home: Confirmar os Registros de Treinos e os Valores Cadastrados
 
  **Descrição da Tarefa**:
 Verificar se o registro de treinos e valores foram cadastrados e disponibilizados para visualização na page principal "Home."
@@ -156,6 +156,27 @@ Usuário conseguiu acessar a page "Home" onde está exposto e confirmado os dado
 - Erros Cometidos: Nenhum, os participantes relataram sucesso nas tentativas de acesso na tela de "Home" do app.
 - Facilidade de Uso: Aplicável e fácil devido à simplicidade de acessar a page.
 - Satisfação: Total.
+
+### 8) Tela Quitar Dívidas
+
+ **Descrição da Tarefa**:
+Acessar a tela "Quitar Dívidas" do aplicativo.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/d2a1d919-75db-4027-baf7-9b0f4875395f)
+
+**Erros**:
+Não.
+
+**Resultado**: 
+Usuário conseguiu acessar tela "Quitar Dívidas" na aplicação.
+
+### Métricas:
+- Taxa de Sucesso: Total, o usuário conseguiu acessar a página "Quitar Dívidas" do aplicativo.
+- Tempo Médio de Conclusão: Rápido devido a facilidade de acessar a tela "Quitar Dívidas."
+- Erros Cometidos: Nenhum, os participantes relataram sucesso nas tentativas de acesso na tela "Quitar Dívidas" na aplicação.
+- Facilidade de Uso: Aplicável e fácil devido à simplicidade de acessar a page.
+- Satisfação: Total.
+
 
 
 
