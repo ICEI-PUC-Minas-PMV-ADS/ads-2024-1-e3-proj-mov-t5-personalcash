@@ -198,10 +198,10 @@ Usuário conseguiu acessar tela "Quitar Dívidas", preencheu o checkbox e quitou
 - Erros Cometidos: Nenhum, os participantes relataram sucesso nas tentativas de acesso na tela "Quitar Dívidas", preencher o checkbox e confirmar a quitação de uma dívida cadastrada na aplicação.
 - Facilidade de Uso: Aplicável e fácil devido à simplicidade de acessar a page.
 
-### 10) Tela de Cadastro de Treino em iOS
+### 10) Tela de Editar Treino em iOS
 
 **Descrição da Tarefa**:
-Acessar a tela "Cadastro de Treino", e preencher os campos descritos: "Nome", "Data", "Início", "Duração" e "Treino." 
+Acessar a tela "Editar Treino", e preencher os campos descritos: "Nome", "Data", "Início", "Duração" e "Treino." 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/37be1935-2cd6-4b86-a963-8cf6d6fe0626)
 
