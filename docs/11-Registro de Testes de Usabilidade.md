@@ -53,10 +53,10 @@ Usuário conseguiu realizar o login e foi direcionado para a tela "Home" do apli
 - Facilidade de Uso: Aplicável e fácil devido à simplicidade de logar e ser direcionado à próxima tela.
 - Satisfação: Total.
 
-### Tela de Registro de Clientes
+### Tela de Registro dos Clientes
 
 **Descrição da Tarefa**:
-Usuário conseguir acessar a tela de Registro de Clientes
+Usuário conseguir acessar a tela de Registro dos Clientes
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/aabe96fe-a9f7-42b0-9626-e5c40dbd4299)
 
@@ -64,14 +64,14 @@ Usuário conseguir acessar a tela de Registro de Clientes
 Não.
 
 **Resultado**: 
-Usuário conseguiu acessar a tela de registro de clientes do aplicativo.
+Usuário conseguiu acessar a tela de registro dos clientes do aplicativo.
 
 ### Métricas:
 
-- Taxa de Sucesso: Total, o usuário conseguiu acessar a página de registro de clientes do aplicativo.
-- Tempo Médio de Conclusão: Rápido devido a facilidade de acessar a tela de registro de clientes.
-- Erros Cometidos: Nenhum, os participantes relataram sucesso nas tentativas de acesso na tela de registro de clientes do app.
-- Facilidade de Uso: Aplicável e fácil devido à simplicidade de acessar e ser direcionado à tela de registro de clientes.
+- Taxa de Sucesso: Total, o usuário conseguiu acessar a página de registro dos clientes do aplicativo.
+- Tempo Médio de Conclusão: Rápido devido a facilidade de acessar a tela de registro dos clientes.
+- Erros Cometidos: Nenhum, os participantes relataram sucesso nas tentativas de acesso na tela de registro dos clientes do app.
+- Facilidade de Uso: Aplicável e fácil devido à simplicidade de acessar e ser direcionado à tela de registro dos clientes.
 - Satisfação: Total.
 
 
