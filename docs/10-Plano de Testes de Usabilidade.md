@@ -27,6 +27,17 @@ Além disso, encaminharemos um questionário via Google Forms onde o grupo selec
 | 09 | Quitar Dívidas.| Identificar se existem dificuldades no acesso na página "Quitar Dívidas", preencher o  checkbox disponibilizado e quitar uma dívida cadastrada na aplicação. Na sequência, avaliar se o layout e o fluxo são intuitivos para confirmar essa operação.| Acessar a página "Quitar Dívidas", preencher o checkbox disponibilizado e quitar uma dívida cadastrada no app sem expressar dificuldades durante esse processo.|
 | 10 | Editar Treino.| Identificar se existem dificuldades no acesso na página "Editar Treino" e preencher os e preencher os campos descritos: "Nome", "Data", "Início", "Duração" e "Treino" na aplicação. Na sequência, avaliar se o layout e o fluxo são intuitivos para confirmar essa operação.| Acessar a página "Editar Treino", preencher os campos disponibilizados e confirmar a edição dos dados sem expressar dificuldades durante esse processo.|
 
+## Métricas
+
+Conforme as tarefas propostas realizadas pelos usuários, será possivel mensurar os seguintes dados:
+
+- Satisfação: Consiste na satisfação dos usuários com a experiência no app.
+- Facilidade de uso: A avaliação dos usuários, um feedback de facilidade ou dificuldade para concluir cada tarefa conforme a escala de Likert de 1 a 5.
+- Erros cometidos: Diz respeito sobre a quantidade de erros ocorridos em cada ação exposta nas tarefas descritas.
+- Taxa de sucesso: É relacionada ao percentual de usuários que completaram as tarefas solicitadas.
+- Tempo de conclusão: O tempo médio necessário para concluir cada tarefa em questão.
+
+
 # Questionário Google Forms
 
 Um questionário foi encaminhado para o e-mail de várias pessoas interessadas em conhecer o modelo de negócio da aplicação, além disso, foi disponibilizado o link direto do forms.
@@ -73,14 +84,7 @@ Cada pergunta acima exposta no questionário contém cinco opções de respostas
 
 # Participantes
 
-X usuários interessados no tema do trabalho e principalmente em nosso modelo de negócio tiveram uma participação efetiva em nosso questionário via Google Docs.
+Aqueles usuários interessados no tema do trabalho e principalmente em nosso modelo de negócio tiveram uma participação efetiva em nosso questionário via Google Docs. 
 
-## Métricas
+Todos os participantes da pesquisa não necessariamente possuem experiência em analisar aplicações e sistemas web, por isso, a participação de um público heterogêneo é extremamente importante para um enriquecimento de análises e uma vasta diversidade sobre o funcionamento do aplicativo.
 
-Conforme as tarefas propostas realizadas pelos usuários, será possivel mensurar os seguintes dados:
-
-- Satisfação: Consiste na satisfação dos usuários com a experiência no app.
-- Facilidade de uso: A avaliação dos usuários, um feedback de facilidade ou dificuldade para concluir cada tarefa conforme a escala de Likert de 1 a 5.
-- Erros cometidos: Diz respeito sobre a quantidade de erros ocorridos em cada ação exposta nas tarefas descritas.
-- Taxa de sucesso: É relacionada ao percentual de usuários que completaram as tarefas solicitadas.
-- Tempo de conclusão: O tempo médio necessário para concluir cada tarefa em questão.
