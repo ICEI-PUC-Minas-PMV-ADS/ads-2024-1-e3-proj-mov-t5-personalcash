@@ -18,6 +18,7 @@ Além disso, encaminharemos um questionário via Google Forms onde o grupo vaia 
 | :------------: | :---------------------: | :-----------------------: | :-----------------------: |
 | 01 | Criar uma conta de usuário. | Identificar se existem dificuldades no cadastro via app, avaliar se o layout e o fluxo são intuitivos.| Terminar o cadastro sem expressar dificuldades durante esse processo.|
 | 02 | Realizar o login no aplicativo e conseguir acessar a próxima página "Home" do app. | Identificar se existem dificuldades no login via app e ao direcionamento na página "Home" na sequência, avaliar se o layout e o fluxo são intuitivos.| Terminar o login e acessar a página "Home" do app sem expressar dificuldades durante esse processo.|
+| 03 | Acessar a página de Registros dos Clientes no aplicativo. | Identificar se existem dificuldades no acesso na página de Registro dos Clientes e na sequência, avaliar se o layout e o fluxo são intuitivos.| Acessar a página "Registros dos Clientes" do app sem expressar dificuldades durante esse processo.|
 
 
 
