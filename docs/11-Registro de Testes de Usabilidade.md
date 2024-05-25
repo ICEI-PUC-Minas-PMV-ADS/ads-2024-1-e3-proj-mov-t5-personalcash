@@ -356,9 +356,9 @@ Após os dados obtidos do teste de usabilidade do aplicativo Personal Cash, o g
 
 Logo abaixo, os principais tópicos buscando atualizações positivas da plataforma:
 
--  Adicionar imagens para melhorar a sensação de acolhimento e entendimento sobre o assunto e o objetivo da aplicação.
+- Adicionar imagens para melhorar a sensação de acolhimento e entendimento sobre o assunto e o objetivo da aplicação.
 
--  Inserir um layout ilustrativo que proporcione uma conexão do conceito de controle financeiro da aplicação mais às práticas esportivas, sendo o ponto central do serviço do Personal Trainer.
+- Inserir um layout ilustrativo que proporcione uma conexão do conceito de controle financeiro da aplicação mais às práticas esportivas, sendo o ponto central do serviço do Personal Trainer.
 
 
 
