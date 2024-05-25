@@ -50,10 +50,6 @@ https://docs.google.com/forms/d/e/1FAIpQLSfjcJVpo_XvVTOTtmC-lRX0jSGzoUWpsGbNArwa
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/b3c5ebdf-10c1-4644-827c-5e06bb51bdb0)
 
-### Questionário Google Forms:
-
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/2b70c877-9742-4058-b69a-61fcea687405)
-
 Os usuários testados vão responder às seguintes perguntas demonstradas abaixo:
 
     1.  Gostaria de utilizar esse sistema com muito mais frequência.**
