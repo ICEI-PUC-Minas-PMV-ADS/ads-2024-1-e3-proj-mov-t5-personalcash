@@ -250,105 +250,105 @@ Vamos abordar o os principais pontos de cada pergunta e aquelas avaliações de 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/65bc4380-1090-41c7-88ae-8972b20d25d0)
 
 ### Resultado: 
-- INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA
+- 90% dos usuários gostariam de utilizar o sistema com mais frequência.
 
 ### Pergunta 2:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/e6e4f015-87f7-40c6-bb35-bc982731f39a)
 
 ### Resultado: 
-- INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA
+- 10% dos usuários testados acharam o sistema fácil de usar.
 
 ### Pergunta 3:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/d657b5e5-5ec0-4526-9ee7-3105bea0cf2f)
 
 ### Resultado: 
-- INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA
+- 60% dos usuários acharam o sistema desnecessariamente complexo, outros 40% encontraram uma complexidade na utilização da plataforma.
 
 ### Pergunta 4:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/dcf0c9a8-d21b-49b5-a33e-c80e3a298c52)
 
 ### Resultado: 
-- INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA
+- Dados bem equilibrados entre os usuários, 40% discordaram totalmente, 30% discordaram e 30% concordaram que era necessário um suporte de algum especialista técnico para utilizar o sistema.
   
 ### Pergunta 5:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/4b3bf1ff-d7c7-4de6-a8dc-1a0e3fdda4c0)
 
 ### Resultado: 
-- INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA
+- A maioria dos usuários, 70% deles, concordou que as funções do sistema estão bem integradas.
 
 ### Pergunta 6:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/04255e55-df1a-4f61-aad5-674c0c4b038f)
 
 ### Resultado: 
-- INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA
+- 80% dos usuários discordaram totalmente na inconsistência de navegabilidade da plataforma.
 
 ### Pergunta 7:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/5815974d-ab6e-4814-a573-03702531b91d)
 
 ### Resultado: 
-- INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA
+- 80% dos usuários acreditam que qualquer pessoa pode aprender de maneira fácil a utilizar a plataforma.
 
 ### Pergunta 8:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/f0b6347b-2424-44d4-9361-ebcc419ac18c)
 
 ### Resultado: 
-- INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA
+- Equilíbrio nos dados, 40% dos usuários acharam o sistema fácil de utilizar. Outros 40% encontraram dificuldades.
 
 ### Pergunta 9:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/4f021cd7-c9ea-4542-b31c-c0f0742747fc)
 
 ### Resultado: 
-- INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA
+- 90% dos usuários tiveram confiança para navegar no sistema.
 
 ### Pergunta 10:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/2a4be9f1-2709-484c-8e92-2e03c499fc4b)
 
 ### Resultado: 
-- INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA
+- 60% dos participantes acreditam que não é necessário aprender muitas regras de navegabilidade para usar o app.
 
 ### Pergunta 11:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/746478f8-f9a2-41e9-9642-f43269dfbf7d)
 
 ### Resultado: 
-- INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA
+- A maioria dos usuários, cerca de 70%, sentiu conforto ao usar o aplicativo.
 
 ### Pergunta 12:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/97f610c3-8e32-4574-8ba2-9de6e2ed2f95)
 
 ### Resultado: 
-- INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA
+- A maioria dos participantes, cerca de 80%, concordou que foi fácil de encontrar as informações necessárias ao navegar na aplicação.
 
 ### Pergunta 13:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/5e88db39-7b7c-44f0-a888-4a2aed0ae92f)
 
 ### Resultado: 
-- INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA
+- 70% foi o número dos usuários que acharam positiva a experiência da interface proposta pelo sistema.
 
 ### Pergunta 14:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/c972d738-59e9-4d13-b77c-d39eb23402fd)
 
 ### Resultado: 
-- INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA
+- 60% dos usuários acharam a experiência agradável da interface do app.
 
 ### Pergunta 15:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/17f2a39f-0e4e-4ab2-87f4-a3b48849eaa1)
 
 ### Resultado: 
-- INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA
+- 70% dos usuários concordaram que as informações e a organização da tela do sistema foram de fácil entendimento.
 
 # Conclusão (Em construção)
  
