@@ -198,7 +198,7 @@ Usuário conseguiu acessar tela "Quitar Dívidas", preencheu o checkbox e quitou
 - Erros Cometidos: Nenhum, os participantes relataram sucesso nas tentativas de acesso na tela "Quitar Dívidas", preencher o checkbox e confirmar a quitação de uma dívida cadastrada na aplicação.
 - Facilidade de Uso: Aplicável e fácil devido à simplicidade de acessar a page.
 
-### 10) Tela de Editar Treino em iOS
+### 10) Tela de Editar Treino 
 
 **Descrição da Tarefa**:
 Acessar a tela "Editar Treino", e preencher os campos descritos: "Nome", "Data", "Início", "Duração" e "Treino." 
@@ -211,14 +211,14 @@ Acessar a tela "Editar Treino", e preencher os campos descritos: "Nome", "Data",
 Sim.
 
 **Resultado**: 
-Usuário acessando o aplicativo via iOS, não conseguiu alterar a opção de "Data" disponível no calendário na aplicação.
+Usuário acessando o aplicativo **via iPhone (Sistema operacional iOS)**, não conseguiu alterar a opção de "Data" disponível no calendário na aplicação.
 
 ### Métricas:
 - Taxa de Sucesso: Não aplicável devido à impossibilidade de alterar a "Data" disponível no calendário na aplicação.
 - Tempo Médio de Conclusão: Não aplicável devido à impossibilidade de alterar a "Data" disponível no calendário no app.
-- Erros Cometidos: Os participantes que acessaram via iPhone (Sistema operacional iOS), relataram tentativas malsucedidas de conclusão do cadastro de treino devido a falhas no funcionamento da parte do cadastro da "Data" via calendário na página de treino.
+- Erros Cometidos: Os participantes que acessaram **via iPhone (Sistema operacional iOS)**, relataram tentativas malsucedidas de conclusão do cadastro de treino devido a falhas no funcionamento da parte do cadastro da "Data" via calendário na página de treino.
 - Facilidade de Uso: Não aplicável devido à impossibilidade de alterar a "Data" no calendário na page de cadastro de treino.
-- Satisfação: Não aplicável devido à impossibilidade de completar essa ação via iPhone (Sistema operacional iOS).
+- Satisfação: Não aplicável devido à impossibilidade de completar essa ação **via iPhone (Sistema operacional iOS).**
 
 # Resultados Google Forms
 
