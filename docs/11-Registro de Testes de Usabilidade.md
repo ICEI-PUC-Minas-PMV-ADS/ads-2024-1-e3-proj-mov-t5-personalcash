@@ -219,7 +219,7 @@ Usuário acessando o aplicativo **via iPhone (Sistema operacional iOS)**, não c
 - Tempo Médio de Conclusão: Não aplicável devido à impossibilidade de alterar a "Data" disponível no calendário no app.
 - Erros Cometidos: Os participantes que acessaram **via iPhone (Sistema operacional iOS)**, relataram tentativas malsucedidas de conclusão do cadastro de treino devido a falhas no funcionamento da parte do cadastro da "Data" via calendário na página de treino.
 - Facilidade de Uso: Não aplicável devido à impossibilidade de alterar a "Data" no calendário na page de cadastro de treino.
-- Satisfação: Avaliação 2 = Insatisfeito. Devido à impossibilidade de completar essa ação **via iPhone , a nota foi um reflexo daqueles usuários que utilizaeram o Sistema operacional iOS para navegar nessa seção na aplicação.
+- Satisfação: Avaliação 2 = Insatisfeito. Devido à impossibilidade de completar essa ação **via iPhone** , a nota foi um reflexo daqueles usuários que utilizaeram o **Sistema operacional iOS** para navegar nessa seção na aplicação.
 
 # Resultado Google Forms
 
