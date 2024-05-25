@@ -246,106 +246,84 @@ Logo abaixo, uma análise objetiva e estatística sobre o resultado de avaliaç�
 
 Vamos abordar o os principais pontos de cada pergunta e aquelas avaliações de maior destaque.
 
-**1**
-
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/65bc4380-1090-41c7-88ae-8972b20d25d0)
 
 
 - **Resultado**: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
 
-**2- INSERIR PRINT DA PERGUNTA 2 DO GOOGLE FORMS**:
-
-
-
-- **Resultado**: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
-
-
-**3- INSERIR PRINT DA PERGUNTA 3 DO GOOGLE FORMS**:
-
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/e6e4f015-87f7-40c6-bb35-bc982731f39a)
 
 
 - **Resultado**: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
 
 
-**4- INSERIR PRINT DA PERGUNTA 4 DO GOOGLE FORMS**:
-
-
-
-- **Resultado**: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
-
-
-**5- INSERIR PRINT DA PERGUNTA 5 DO GOOGLE FORMS**:
-
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/d657b5e5-5ec0-4526-9ee7-3105bea0cf2f)
 
 
 - **Resultado**: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
 
 
-**6- INSERIR PRINT DA PERGUNTA 6 DO GOOGLE FORMS**:
-
-
-
-- **Resultado**: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
-
-
-**7- INSERIR PRINT DA PERGUNTA 7 DO GOOGLE FORMS**:
-
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/dcf0c9a8-d21b-49b5-a33e-c80e3a298c52)
 
 
 - **Resultado**: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
 
 
-**8- INSERIR PRINT DA PERGUNTA 8 DO GOOGLE FORMS**:
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/4b3bf1ff-d7c7-4de6-a8dc-1a0e3fdda4c0)
 
+- **Resultado**: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/04255e55-df1a-4f61-aad5-674c0c4b038f)
+
+
+- **Resultado**: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/5815974d-ab6e-4814-a573-03702531b91d)
+
+- **Resultado**: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
+
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/f0b6347b-2424-44d4-9361-ebcc419ac18c)
 
 
 - **Resultado**: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
 
 
-**9- INSERIR PRINT DA PERGUNTA 9 DO GOOGLE FORMS**:
-
-
-
-- **Resultado**: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
-
-
-**10- INSERIR PRINT DA PERGUNTA 10 DO GOOGLE FORMS**:
-
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/4f021cd7-c9ea-4542-b31c-c0f0742747fc)
 
 
 - **Resultado**: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
 
 
-**11- INSERIR PRINT DA PERGUNTA 11 DO GOOGLE FORMS**:
-
-
-
-- **Resultado**: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
-
-
-**12- INSERIR PRINT DA PERGUNTA 12 DO GOOGLE FORMS**:
-
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/2a4be9f1-2709-484c-8e92-2e03c499fc4b)
 
 
 - **Resultado**: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
 
 
-**13- INSERIR PRINT DA PERGUNTA 13 DO GOOGLE FORMS**:
-
-
-
-- **Resultado**: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
-
-
-**14- INSERIR PRINT DA PERGUNTA 14 DO GOOGLE FORMS**:
-
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/746478f8-f9a2-41e9-9642-f43269dfbf7d)
 
 
 - **Resultado**: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
 
 
-**15 INSERIR PRINT DA PERGUNTA 15 DO GOOGLE FORMS**:
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/97f610c3-8e32-4574-8ba2-9de6e2ed2f95)
 
+
+- **Resultado**: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/5e88db39-7b7c-44f0-a888-4a2aed0ae92f)
+
+- **Resultado**: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
+
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/c972d738-59e9-4d13-b77c-d39eb23402fd)
+
+
+- **Resultado**: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
+
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/17f2a39f-0e4e-4ab2-87f4-a3b48849eaa1)
 
 
 - **Resultado**: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
