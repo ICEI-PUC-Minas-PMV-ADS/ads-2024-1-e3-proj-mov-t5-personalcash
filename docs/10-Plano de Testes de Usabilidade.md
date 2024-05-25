@@ -32,7 +32,12 @@ Além disso, encaminharemos um questionário via Google Forms onde o grupo selec
 Conforme as tarefas propostas realizadas pelos usuários, será possivel mensurar os seguintes dados:
 
 - Satisfação: Consiste na satisfação dos usuários com a experiência no app.
-- Facilidade de uso: A avaliação dos usuários, um feedback de facilidade ou dificuldade para concluir cada tarefa conforme a escala de Likert de 1 a 5.
+- Facilidade de uso: A avaliação dos usuários, um feedback de facilidade ou dificuldade para concluir cada tarefa conforme a escala de Likert onde:
+**Avaliação 5 = Muito satisfeito.
+**Avaliação 4 = Satisfeito.
+**Avaliação 3 = Neutro.
+**Avaliação 2 = Insatisfeito.
+**Avaliação 1 = Muito Insatisfeito.
 - Erros cometidos: Diz respeito sobre a quantidade de erros ocorridos em cada ação exposta nas tarefas descritas.
 - Taxa de sucesso: É relacionada ao percentual de usuários que completaram as tarefas solicitadas.
 - Tempo de conclusão: O tempo médio necessário para concluir cada tarefa em questão.
