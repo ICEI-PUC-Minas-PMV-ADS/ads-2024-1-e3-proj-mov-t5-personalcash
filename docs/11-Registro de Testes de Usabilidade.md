@@ -240,13 +240,15 @@ O formulário do Google forms "Personal Cash: Aplicativo de suporte no controle 
 
 Todos os participantes da pesquisa não necessariamente possuem experiência em analisar aplicações e sistemas web.
 
-# Resultados Estatísticos Google Forms (Em construção)
+# Resultados Estatísticos Google Forms
 
 Logo abaixo, uma análise objetiva e estatística sobre o resultado de avaliação dos usuários que acessaram e opinaram sobre a aplicação Personal Cash.
 
 Vamos abordar o os principais pontos de cada pergunta e aquelas avaliações de maior destaque.
 
 **1- INSERIR PRINT DA PERGUNTA 1 DO GOOGLE FORMS**:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/65bc4380-1090-41c7-88ae-8972b20d25d0)
 
 
 - **Resultado**: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
