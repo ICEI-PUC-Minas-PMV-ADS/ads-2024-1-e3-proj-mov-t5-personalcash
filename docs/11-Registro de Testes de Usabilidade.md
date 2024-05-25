@@ -28,7 +28,7 @@ Usuário conseguiu criar uma conta no aplicativo.
 - Tempo Médio de Conclusão: Rápido devido a facilidade de criar uma conta.
 - Erros Cometidos: Nenhum, os participantes relataram sucesso nas tentativas de conclusão no cadastro via página de login.
 - Facilidade de Uso: Aplicável e fácil devido à simplicidade de se criar uma conta.
-- Satisfação: Total.
+- Satisfação: Avaliação 5 = Muito satisfeito.
 
 ### 2) Tela de Login
 
@@ -51,7 +51,7 @@ Usuário conseguiu realizar o login e foi direcionado para a tela "Home" do apli
 - Tempo Médio de Conclusão: Rápido devido a facilidade de realizar o login e ser direcionado para a próxima tela.
 - Erros Cometidos: Nenhum, os participantes relataram sucesso nas tentativas de conclusão no login no aplicativo e o direcionamento para a tela "Home" da aplicação".
 - Facilidade de Uso: Aplicável e fácil devido à simplicidade de logar e ser direcionado à próxima tela.
-- Satisfação: Total.
+- Satisfação: Avaliação 5 = Muito satisfeito.
 
 ### 3) Tela de Registro dos Clientes
 
@@ -71,7 +71,7 @@ Acessar a tela de registro dos clientes do aplicativo.
 - Tempo Médio de Conclusão: Rápido devido a facilidade de acessar a tela de registro dos clientes.
 - Erros Cometidos: Nenhum, os participantes relataram sucesso nas tentativas de acesso na tela de registro dos clientes do app.
 - Facilidade de Uso: Aplicável e fácil devido à simplicidade de acessar e ser direcionado à tela de registro dos clientes.
-- Satisfação: Total.
+- Satisfação: Avaliação 5 = Muito satisfeito.
 
 ### 4) Cadastro de Clientes
 
@@ -93,7 +93,7 @@ Usuário conseguiu acessar a page de cadastro de clientes e adicionou clientes n
 - Tempo Médio de Conclusão: Rápido devido a facilidade de acessar a tela de cadastro de clientes.
 - Erros Cometidos: Nenhum, os participantes relataram sucesso nas tentativas de acesso na tela de cadastro de clientes do app.
 - Facilidade de Uso: Aplicável e fácil devido à simplicidade de acessar cadastrar os clientes na page.
-- Satisfação: Total.
+- Satisfação: Avaliação 5 = Muito satisfeito.
 
 ### 5) Tela do Registro dos Treinos
 
@@ -113,7 +113,7 @@ Usuário conseguiu acessar a page de Registro dos Treinos.
 - Tempo Médio de Conclusão: Rápido devido a facilidade de acessar a tela de "Registro dos Treinos."
 - Erros Cometidos: Nenhum, os participantes relataram sucesso nas tentativas de acesso na tela de "Registro dos Treinos" do app.
 - Facilidade de Uso: Aplicável e fácil devido à simplicidade de acessar a page.
-- Satisfação: Total.
+- Satisfação: Avaliação 5 = Muito satisfeito.
 
 ### 6) Registro de Treinos
 
@@ -135,7 +135,7 @@ Usuário conseguiu acessar a page de "Registro de Treinos" e preencheu todos os 
 - Tempo Médio de Conclusão: Rápido devido a facilidade de acessar a tela de "Registro de Treinos."
 - Erros Cometidos: Nenhum, os participantes relataram sucesso nas tentativas de acesso na tela de "Registro de Treinos" do app.
 - Facilidade de Uso: Aplicável e fácil devido à simplicidade de acessar a page.
-- Satisfação: Total.
+- Satisfação: Avaliação 5 = Muito satisfeito.
 
  ### 7) Tela Home: Confirmar os Registros de Treinos e os Valores Cadastrados
 
@@ -155,7 +155,7 @@ Usuário conseguiu acessar a page "Home" onde está exposto e confirmado os dado
 - Tempo Médio de Conclusão: Rápido devido a facilidade de acessar a tela "Home"
 - Erros Cometidos: Nenhum, os participantes relataram sucesso nas tentativas de acesso na tela de "Home" do app.
 - Facilidade de Uso: Aplicável e fácil devido à simplicidade de acessar a page.
-- Satisfação: Total.
+- Satisfação: Avaliação 5 = Muito satisfeito.
 
 ### 8) Tela Quitar Dívidas
 
@@ -175,7 +175,7 @@ Usuário conseguiu acessar tela "Quitar Dívidas" na aplicação.
 - Tempo Médio de Conclusão: Rápido devido a facilidade de acessar a tela "Quitar Dívidas."
 - Erros Cometidos: Nenhum, os participantes relataram sucesso nas tentativas de acesso na tela "Quitar Dívidas" na aplicação.
 - Facilidade de Uso: Aplicável e fácil devido à simplicidade de acessar a page.
-- Satisfação: Total.
+- Satisfação: Avaliação 5 = Muito satisfeito.
 
 ### 9) Quitar Dívidas
 
@@ -197,6 +197,7 @@ Usuário conseguiu acessar tela "Quitar Dívidas", preencheu o checkbox e quitou
 - Tempo Médio de Conclusão: Rápido devido a facilidade de acessar a tela "Quitar Dívidas" e realizar as ações seguintes.
 - Erros Cometidos: Nenhum, os participantes relataram sucesso nas tentativas de acesso na tela "Quitar Dívidas", preencher o checkbox e confirmar a quitação de uma dívida cadastrada na aplicação.
 - Facilidade de Uso: Aplicável e fácil devido à simplicidade de acessar a page.
+- Satisfação: Avaliação 5 = Muito satisfeito.
 
 ### 10) Tela de Editar Treino 
 
@@ -218,7 +219,7 @@ Usuário acessando o aplicativo **via iPhone (Sistema operacional iOS)**, não c
 - Tempo Médio de Conclusão: Não aplicável devido à impossibilidade de alterar a "Data" disponível no calendário no app.
 - Erros Cometidos: Os participantes que acessaram **via iPhone (Sistema operacional iOS)**, relataram tentativas malsucedidas de conclusão do cadastro de treino devido a falhas no funcionamento da parte do cadastro da "Data" via calendário na página de treino.
 - Facilidade de Uso: Não aplicável devido à impossibilidade de alterar a "Data" no calendário na page de cadastro de treino.
-- Satisfação: Não aplicável devido à impossibilidade de completar essa ação **via iPhone (Sistema operacional iOS).**
+- Satisfação: Avaliação 2 = Insatisfeito. Devido à impossibilidade de completar essa ação **via iPhone , a nota foi um reflexo daqueles usuários que utilizaeram o Sistema operacional iOS para navegar nessa seção na aplicação.
 
 # Resultado Google Forms
 
