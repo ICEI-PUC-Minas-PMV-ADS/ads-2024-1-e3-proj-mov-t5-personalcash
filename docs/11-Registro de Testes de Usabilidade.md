@@ -350,13 +350,16 @@ Vamos abordar o os principais pontos de cada pergunta e aquelas avaliações de 
 ### Resultado: 
 - 70% dos usuários concordaram que as informações e a organização da tela do sistema foram de fácil entendimento.
 
-# Conclusão (Em construção)
+# Conclusão
  
-Sobre as sugestões de todos os participantes do teste de usabilidade aplicado, o grupo, chegou nas seguintes conclusões de modo a melhorar a experiência do usuário e o sistema do Personal Cash em sua totalidade. 
+Após os dados obtidos do teste de usabilidade do aplicativo Personal Cash, o grupo chegou a várias conclusões de modo a melhorar a experiência do usuário e o sistema em sua totalidade.  
 
-Logo abaixo, os principais tópicos de melhoria:
-  
-- **INSERIR MAIS INFORMAÇÕES**
+Logo abaixo, os principais tópicos buscando atualizações positivas da plataforma:
+
+-  Adicionar imagens para melhorar a sensação de acolhimento e entendimento sobre o assunto e o objetivo da aplicação.
+
+-  Inserir um layout ilustrativo que proporcione uma conexão do conceito de controle financeiro da aplicação mais às práticas esportivas, sendo o ponto central do serviço do Personal Trainer.
+
 
 
 
