@@ -246,7 +246,7 @@ Logo abaixo, uma análise objetiva e estatística sobre o resultado de avaliaç�
 
 Vamos abordar o os principais pontos de cada pergunta e aquelas avaliações de maior destaque.
 
-**1- INSERIR PRINT DA PERGUNTA 1 DO GOOGLE FORMS**:
+**1**
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/65bc4380-1090-41c7-88ae-8972b20d25d0)
 
