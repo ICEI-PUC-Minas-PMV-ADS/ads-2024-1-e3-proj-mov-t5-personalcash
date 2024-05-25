@@ -360,6 +360,8 @@ Logo abaixo, os principais tópicos buscando atualizações positivas da platafo
 
 - Inserir um layout ilustrativo que proporcione uma conexão do conceito de controle financeiro da aplicação mais às práticas esportivas, sendo o ponto central do serviço do Personal Trainer.
 
+- Encontrar uma solução técnica na parte de desenvolvimento em iOS do "Error DateTimePicker", usuários que utilizam o iPhone (sistema operacional iOS) encontraram dificuldades para realizar a mudança manual do calendário pelo usuário na parte de editar treinos.
+
 
 
 
