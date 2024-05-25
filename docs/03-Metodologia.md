@@ -327,7 +327,13 @@ Aula dia 08/05 - Error DateTimePicker solucionado em IOs, porém, falta encontra
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/1ed8eeb0-7d10-4ec3-afba-c6cef3692da3)
 
+Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 04 do trabalho no dia 26/05/2024:
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/a45ce730-b2e6-4864-bdb5-59440ac70a10)
+
+Board Atualizado com os Issues e Milestones concluídos da Etapa 04 no dia 25/05/2024:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/4c1a8d79-5925-4da4-845e-279c6b9f12de)
 
 # Etapa 5
 
