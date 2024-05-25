@@ -354,7 +354,7 @@ Vamos abordar o os principais pontos de cada pergunta e aquelas avaliações de 
  
 Após os dados obtidos do teste de usabilidade do aplicativo Personal Cash, o grupo chegou a várias conclusões de modo a melhorar a experiência do usuário e o sistema em sua totalidade.  
 
-Logo abaixo, os principais tópicos buscando atualizações positivas da plataforma:
+Logo abaixo, os principais tópicos buscando atualizações viáveis e outras futuras para que as novas versões da plataforma consigam proporcionar uma maior experiência e integração com a rotina prática do usuário.
 
 - Adicionar imagens para melhorar a sensação de acolhimento e entendimento sobre o assunto e o objetivo da aplicação.
 
@@ -362,11 +362,24 @@ Logo abaixo, os principais tópicos buscando atualizações positivas da platafo
 
 - Encontrar uma solução técnica na parte de desenvolvimento em iOS do "Error DateTimePicker", usuários que utilizam o iPhone (sistema operacional iOS) encontraram dificuldades para realizar a mudança manual do calendário pelo usuário na parte de editar treinos.
 
-- Inserir um pequeno manual de uso dentro da aplicação para ajudar nas instruções do App. Por se tratar de um tema financeiro, muitas pessoas se assustam e, antes de utilizar o aplicativo, já criam um receio por envolver possíveis dificuldades com a matemática.
+- Futuramente, inserir um tutorial Inicial, um guia passo-a-passo ou uma tour interativa na primeira utilização para ajudar o usuário a se familiarizar com as funcionalidades do aplicativo.
+
+- Personalização: Opções para o usuário personalizar a interface de acordo com suas preferências, como temas de cores e layout.
 
 - Inserir a opção do Personal Trainer inserir fotos no campo de perfil de cada cliente. Isso vai facilitar a identificação da carteira de clientes do Personal e também vai proporcionar uma sensação de conforto e praticidade no que se refere aos dados individuais de cada aluno.
 
+- Em atualizações futuras, inserir uma agenda Integrada. Ou seja, um calendário integrado para agendar sessões de treino, com lembretes automáticos e sincronização com outros calendários (Google Calendar, por exemplo).
 
+- Integração Bancária, conexão com contas bancárias para importação automática de transações, facilitando o controle e o pagamento financeiro ao Personal.
 
+- Emissão de Recibos e Faturas, um sistema para gerar e enviar recibos e faturas eletrônicas para os clientes, facilitando o controle fiscal.
 
+- FAQ e Base de Conhecimento, seção de perguntas frequentes e artigos de ajuda para resolver problemas comuns encontrados no aplicativo.
 
+- Notificações Push, notificações em tempo real sobre agendamentos, pagamentos recebidos e metas atingidas do Personal em relação aos seus clientes.
+
+- Feedback do Usuário do Personal Cash, opção para os usuários enviarem feedback diretamente pelo aplicativo, ajudando a identificar áreas de melhoria e bugs.
+
+- Backup Automático, um sistema de backup automático para garantir que os dados do usuário estejam sempre seguros e possam ser recuperados em caso de perda do celular ou tablet do Personal Trainer.
+
+Os pontos apresentados visam implementar melhorias atuais e outras em um futuro de novas atualizações da aplicação, buscando transformar o aplicativo Personal Cash em uma ferramenta indispensável para personal trainers recém-formados em Educação Física, ajudando-os a gerenciar suas finanças de maneira eficiente e simplificada.
