@@ -362,6 +362,10 @@ Logo abaixo, os principais tópicos buscando atualizações positivas da platafo
 
 - Encontrar uma solução técnica na parte de desenvolvimento em iOS do "Error DateTimePicker", usuários que utilizam o iPhone (sistema operacional iOS) encontraram dificuldades para realizar a mudança manual do calendário pelo usuário na parte de editar treinos.
 
+- Inserir um pequeno manual de uso dentro da aplicação para ajudar nas instruções do App. Por se tratar de um tema financeiro, muitas pessoas se assustam e, antes de utilizar o aplicativo, já criam um receio por envolver possíveis dificuldades com a matemática.
+
+- Inserir a opção do Personal Trainer inserir fotos no campo de perfil de cada cliente. Isso vai facilitar a identificação da carteira de clientes do Personal e também vai proporcionar uma sensação de conforto e praticidade no que se refere aos dados individuais de cada aluno.
+
 
 
 
