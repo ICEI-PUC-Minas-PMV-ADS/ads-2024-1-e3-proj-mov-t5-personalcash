@@ -233,7 +233,7 @@ Essas questões foram importantes e necessárias para visualizar possíveis erro
 
 O objetivo com esse forms foi verificar a experiência do usuário conforme a descrição dos testes de usabilidade da plataforma Personal Cash.
 
-O formulário do Google forms "Personal Cash: Aplicativo de suporte no controle financeiro. para o Personal Trainer." foi respondido por **10 usuários conforme a descrição da imagem abaixo:**
+O formulário do Google forms "Personal Cash: Aplicativo de suporte no controle financeiro. para o Personal Trainer", foi respondido por **10 usuários conforme a descrição da imagem abaixo:**
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/d2521cc3-01c5-4c74-9851-ec6177a2f835)
 
