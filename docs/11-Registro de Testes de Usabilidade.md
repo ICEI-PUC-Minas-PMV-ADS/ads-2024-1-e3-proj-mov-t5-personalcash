@@ -249,7 +249,7 @@ Vamos abordar o os principais pontos de cada pergunta e aquelas avaliações de 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/65bc4380-1090-41c7-88ae-8972b20d25d0)
 
 
-- **Resultado**: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
+### Resultado: **INSERIR PERCENTUAL OBTIDO E UMA BREVE RESPOSTA**
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/e6e4f015-87f7-40c6-bb35-bc982731f39a)
 
