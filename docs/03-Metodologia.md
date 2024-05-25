@@ -285,9 +285,25 @@ Caê: Elaborar o commit do 'CRUD' de Clientes;
 Luiz: Elaborar o commit da Tela Principal e de Perfil (do Personal Trainer);
 Daniel: Elaborar o commit da Tela de Quitar Dívidas.
 
-No dia 10/05 Caê e Diogo realizaram a vinculação dos commits aos respectivos responsáveis, essa vinculação ocorreu diretamente da conta do Caê. Aguardamos o retorno do nosso orientador para confirmar se essa ação está correta de acordo com os critérios de avaliação dessa etapa.
+No dia 10/05 Caê e Diogo realizaram a vinculação dos commits aos respectivos responsáveis, essa vinculação ocorreu diretamente da conta do Caê. Aguardamos o retorno do nosso orientador para confirmar se essa ação está correta conforme os critérios de avaliação dessa etapa.
 
 Após a aula do dia 15/05, foi confirmado junto ao nosso orientador que a vinculação dos commits diretamente do perfil do Caê aos respectivos colaboradores está correta. Dessa forma, está pendente a finalização do app. Restando a produção do vídeo que está faltando na parte de Registros de Testes e realizando a hospedagem do aplicativo na nuvem.
+
+No último encontro, do dia 22/05, foi demonstrado que o desenvolvimento da parte de "Quitar Dívidas" foi realizado pelo Luiz e o Caê.  Mas estamos tendo dificuldade na hospedagem da aplicação.
+
+Temos que ter um arquivo "index.html" para fazer o redirecionamento para os arquivos em React, que nesse caso começa pelo "App.js", mas ao fazer esse redirecionamento os elementos da tela "App.js" não estão sendo exibidos.  Dessa forma, a nossa tela fica em branco.
+
+Tentamos utilizar o Netlify e o Firebasar, porém não deu certo. Agora vamos utilizar o Render, sugestão essa indicada pelo nosso orientador.
+
+No dia 24/05 o Diogo iniciou a parte dos Planos de Testes de Usabilidade e Registro de Testes de Usabilidade e se comprometeu a concluir tudo até Domingo, dia 26/05. Não vamos utilizar frameworks de automação de testes devido às dificuldades com a hospedagem e outros aspectos da aplicação.
+
+O Diogo tentou encontrar alternativas para ajudar o Caê e o Luiz na questão da hospedagem.
+
+Caê e Luiz utilizaram o Render, conforme a indicação do nosso Orientador. O Render está fazendo o deploy da aplicação sem problemas, sem erros, porém não está exibindo a interface do nosso app. Acreditamos que o problema seja na comunicação da tela do "index.html" com o "App.js".
+O Daniel também vai colaborar nessa parte da hospedagem, além disso, ele está responsável pelo envio do 3° Caso de teste que está no Registro de Teste de Software.
+
+Pensando em uma ordem de prioridades, o erro em IOs "Error DateTimePicker", infelizmente vai persistir. Caê, Diogo e Luiz encontraram uma alternativa de editar os dados do cliente para aqueles usuários que utilizarem o iPhone, mas, a parte do calendário está automática, sem a possibilidade de alterar para novas datas.
+
 
 - **`Evidências`**:
 
