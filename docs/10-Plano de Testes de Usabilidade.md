@@ -49,7 +49,7 @@ Um questionário foi encaminhado para o e-mail de várias pessoas interessadas e
 
 **Link direto para o Questionário**: 
 
-https://docs.google.com/forms/d/e/1FAIpQLSfjcJVpo_XvVTOTtmC-lRX0jSGzoUWpsGbNArwaU261TjBDTA/viewform?vc=0&c=0&w=1&flr=0
+https://forms.gle/ND5HTe8ZPJiqzrKz8
 
 ### Convite de participação Google Forms encaminhado ao e-mail:
 
