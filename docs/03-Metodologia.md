@@ -341,16 +341,16 @@ Aula dia 08/05 - Error DateTimePicker solucionado em IOs, porém, falta encontra
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/1ed8eeb0-7d10-4ec3-afba-c6cef3692da3)
 
-### Observação importante dia 26/05: Prints dos e-mails comprovando as tentativas e os erros que ocorreram nos deploys utilizando o Render.
+### Observação importante dia 26/05: Prints dos e-mails do Luiz comprovando as tentativas e os erros que ocorreram nos deploys utilizando o Render.
 ### Os prints são dos dias 23/05 (quinta-feira) e 24/05 (sexta-feira).
 
-**23/05 - quinta-feira**:
+### **23/05 - quinta-feira**:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/db7897f8-53b4-4866-b21d-137309282cea)
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/5764faa9-323c-4242-8c1e-da5b360548ca)
 
-**24/05 - sexta-feira**:
+### **24/05 - sexta-feira**:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/cdac62d6-0939-4be4-a089-fd76e266c571)
 
