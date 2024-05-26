@@ -341,6 +341,30 @@ Aula dia 08/05 - Error DateTimePicker solucionado em IOs, porém, falta encontra
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/1ed8eeb0-7d10-4ec3-afba-c6cef3692da3)
 
+### Observação importante dia 26/05: Prints dos e-mails comprovando as tentativas e os erros que ocorreram nos deploys utilizando o Render.
+### Os prints são dos dias 23/05 (quinta-feira) e 24/05 (sexta-feira).
+
+**23/05 - quinta-feira**:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/db7897f8-53b4-4866-b21d-137309282cea)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/5764faa9-323c-4242-8c1e-da5b360548ca)
+
+**24/05 - sexta-feira**:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/cdac62d6-0939-4be4-a089-fd76e266c571)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/4fece332-c913-48c0-9e7e-6b51bc2cc49f)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/91779b0b-61b9-42ac-940e-cac44461f2af)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/c188b4bf-6e61-4889-893d-e8e7b997bcd9)
+
+
+
+
+
+
 Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 04 do trabalho no dia 26/05/2024:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/a45ce730-b2e6-4864-bdb5-59440ac70a10)
