@@ -304,6 +304,20 @@ O Daniel também vai colaborar nessa parte da hospedagem, além disso, ele está
 
 Pensando em uma ordem de prioridades, o erro em IOs "Error DateTimePicker", infelizmente vai persistir. Caê, Diogo e Luiz encontraram uma alternativa de editar os dados do cliente para aqueles usuários que utilizarem o iPhone, mas, a parte do calendário está automática, sem a possibilidade de alterar para novas datas.
 
+### Dia 26/05: 
+
+**O Luiz e o Caê tentaram hospedar a nossa aplicação por mais de uma semana.**
+**Fooram utilizadas três opções diferentes: Netlify, Firebasar e por último o Render que foi uma indicação do nosso orientador.**
+
+**Ao todo, foram realizadas mais de 103 tentativas sem sucesso.**
+**Utilizamos, inclusive, o Chat GPT-4 mas também não obtivemos êxito nessa tentativa.**
+
+**Dessa forma, não conseguimos fazer com que o React Native fizesse o deploy, assim, ele está funcionando apenas o back-end.**
+
+**No próximo encontro, junto ao nosso orientador, vamos pedir um auxílio direto nessa questão, pois realmente esgotamos todas as possibilidades que encontramos e não conseguimos efetuar um desfecho.**
+
+
+
 
 - **`Evidências`**:
 
