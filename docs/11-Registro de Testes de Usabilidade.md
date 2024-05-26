@@ -227,6 +227,8 @@ Foi criado um questionário via Google Forms com 15 questões claras e bem objet
 
 ### Questionário Google Forms:
 
+
+
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/2b70c877-9742-4058-b69a-61fcea687405)
 
 Essas questões foram importantes e necessárias para visualizar possíveis erros na aplicação. Dessa forma, foi uma grande oportunidade de observação pensando em futuras atualizações e melhorias na aplicação Personal Cash.
