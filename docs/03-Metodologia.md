@@ -379,7 +379,7 @@ Realização da Apresentação Final.
 
 - **`Execução`**:
 
-Antes do envio da Etapa 04, Diogo, Luiz, Caê e Dutra tentaram realizar outras tentativas sobre a questão da hospedagem.
+Antes do envio da Etapa 04, Diogo, Luiz, Caê e Daniel tentaram realizar outras tentativas sobre a questão da hospedagem.
 Em contato com grupo de WhatsApp dos alunos de todo o Eixo 3 da PUC, foi sugerido realizar algumas tentativas utilizando Fake Api, usar o Expo Go entre outras alternativas.
 
 Infelizmente, não conseguimos êxito nessas trativas.
