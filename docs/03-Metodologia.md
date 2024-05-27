@@ -317,8 +317,6 @@ Pensando em uma ordem de prioridades, o erro em IOs "Error DateTimePicker", infe
 **No próximo encontro, junto ao nosso orientador, vamos pedir um auxílio direto nessa questão, pois realmente esgotamos todas as possibilidades que encontramos e não conseguimos efetuar um desfecho.**
 
 
-
-
 - **`Evidências`**:
 
 Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 04 do trabalho no dia 24/04/2024:
@@ -360,11 +358,6 @@ Aula dia 08/05 - Error DateTimePicker solucionado em IOs, porém, falta encontra
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/c188b4bf-6e61-4889-893d-e8e7b997bcd9)
 
-
-
-
-
-
 Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 04 do trabalho no dia 26/05/2024:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/a45ce730-b2e6-4864-bdb5-59440ac70a10)
@@ -386,7 +379,20 @@ Realização da Apresentação Final.
 
 - **`Execução`**:
 
+Antes do envio da Etapa 04, Diogo, Luiz, Caê e Dutra tentaram realizar outras tentativas sobre a questão da hospedagem.
+Em contato com grupo de WhatsApp dos alunos de todo o Eixo 3 da PUC, foi sugerido realizar algumas tentativas utilizando Fake Api, usar o Expo Go entre outras alternativas.
+
+Infelizmente, não conseguimos êxito nessas trativas.
+Ao entrarmos na aplicação, surge um **Erro do database**, não sendo possível mudar, pois esse erro estava dando quando usávamos o Web invés de utilizar o Android ou iOS.
+
+Assim, fechamos o envio da Etapa 04 gravando um vídeo completo do App e os prints de todas as nossas tentativas na parte de **Evidências**.
+Aguardamos o próximo encontro do dia 29 para pedir um auxílio bem pontual em relação à nossa dificuldade no ponto da hospedagem, pois, esgotamos todas as nossas alternativas de solução sem obter êxito.
+
 - **`Evidências`**:
+
+26/05 - Pedido de ajuda no grupo de WhatsApp de todos os alunos do Eixo 3 - PUC.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/29e6b092-23bd-4891-b0ea-bdfc2add33c4)
 
 Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 05 do trabalho no dia 27/05/2024:
 
