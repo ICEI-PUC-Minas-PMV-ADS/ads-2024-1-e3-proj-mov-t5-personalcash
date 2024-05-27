@@ -390,7 +390,7 @@ Aguardamos o próximo encontro do dia 29 para pedir um auxílio bem pontual em r
 
 - **`Evidências`**:
 
-26/05 - Pedido de ajuda no grupo de WhatsApp de todos os alunos do Eixo 3 - PUC.
+26/05 - Pedido de ajuda no grupo de WhatsApp de todos os alunos do Eixo 3 - PUC:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/29e6b092-23bd-4891-b0ea-bdfc2add33c4)
 
