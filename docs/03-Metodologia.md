@@ -376,10 +376,25 @@ Board Atualizado com os Issues e Milestones concluídos da Etapa 04 no dia 26/05
 # Etapa 5
 
 - **`Planejamento`**:
+  
+Nesta etapa está planejada a elaboração do Diagnóstico, entrega da solução e apresentação.
+
+Seguindo também a composição dos referentes tópicos e subtópicos:
+
+Considerações Finais, Entrega de Vídeo de Apresentação Final, PDF usado na Apresentação e a
+Realização da Apresentação Final.
 
 - **`Execução`**:
 
 - **`Evidências`**:
+
+Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 05 do trabalho no dia 27/05/2024:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/664dc72f-c46f-4ef7-b084-5a977c961cfb)
+
+Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 05 do trabalho no dia 27/05/2024:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/5a7290c2-45c4-4893-bf78-aef9a7732fca)
 
 # Ferramentas 
 
