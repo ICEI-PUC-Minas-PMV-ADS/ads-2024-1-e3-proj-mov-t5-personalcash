@@ -293,7 +293,7 @@ No último encontro, do dia 22/05, foi demonstrado que o desenvolvimento da part
 
 Temos que ter um arquivo "index.html" para fazer o redirecionamento para os arquivos em React, que nesse caso começa pelo "App.js", mas ao fazer esse redirecionamento os elementos da tela "App.js" não estão sendo exibidos.  Dessa forma, a nossa tela fica em branco.
 
-Tentamos utilizar o Netlify e o Firebasar, porém não deu certo. Agora vamos utilizar o Render, sugestão essa indicada pelo nosso orientador.
+Tentamos utilizar o Netlify e o Firebase, porém não deu certo. Agora vamos utilizar o Render, sugestão essa indicada pelo nosso orientador.
 
 No dia 24/05 o Diogo iniciou a parte dos Planos de Testes de Usabilidade e Registro de Testes de Usabilidade e se comprometeu a concluir tudo até Domingo, dia 26/05. Não vamos utilizar frameworks de automação de testes devido às dificuldades com a hospedagem e outros aspectos da aplicação.
 
