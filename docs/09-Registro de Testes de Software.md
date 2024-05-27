@@ -43,6 +43,9 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash
 | Critérios de Êxito | O usuário consegue realizar o cadastro do valor a receber de um cliente. |
 
 
+https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/122392469/434c968f-a898-48e0-a4de-cbc1c8ed2083
+
+
 # 4º Caso de Teste:  Cadastrar os clientes
 
 | Caso de Teste | CT-04 - Realizar o cadastro de clientes|
