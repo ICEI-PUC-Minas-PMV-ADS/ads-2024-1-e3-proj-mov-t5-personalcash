@@ -307,7 +307,7 @@ Pensando em uma ordem de prioridades, o erro em IOs "Error DateTimePicker", infe
 ### Observação importante dia 26/05: 
 
 **O Luiz e o Caê tentaram hospedar a nossa aplicação por mais de uma semana.**
-**Fooram utilizadas três opções diferentes: Netlify, Firebasar e por último o Render que foi uma indicação do nosso orientador.**
+**Foram utilizadas quatro opções diferentes: Netlify, Firebase, Vercel e por último o Render que foi uma indicação do nosso orientador.**
 
 **Ao todo, foram realizadas mais de 103 tentativas sem sucesso.**
 **Utilizamos, inclusive, o Chat GPT-4 mas também não obtivemos êxito nessa tentativa.**
