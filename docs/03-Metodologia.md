@@ -388,6 +388,16 @@ Ao entrarmos na aplicação, surge um **Erro do database**, não sendo possível
 Assim, fechamos o envio da Etapa 04 gravando um vídeo completo do App e os prints de todas as nossas tentativas na parte de **Evidências**.
 Aguardamos o próximo encontro do dia 29 para pedir um auxílio bem pontual em relação à nossa dificuldade no ponto da hospedagem, pois, esgotamos todas as nossas alternativas de solução sem obter êxito.
 
+No encontro do dia 29, foi relatada toda a dificuldade que o grupo teve em relação à hospedagem do Projeto. O nosso orientador verificou que a questão da hospedagem no Render era apenas em relação ao Back-End da aplicação e não ela em sua totalidade. 
+
+Mas, devido todo o histórico de tentativas e à orientação que pode ter sido um pouco confusa em algum momento, não iremos ser penalizados por conta desse tópico relativo à hospedagem.
+
+Tinha ficado pendente o tópico 19 E - H: "Estruturar, aplicar e registrar testes de usabilidade e acessibilidade na aplicação", mas esse tópico foi feito e apresentado ao nosso orientador.
+
+Outro tópico em questão foi o de número 16 G - E : Relatório de Análise e Desempenho.
+
+Foi apresentado um esboço da nossa apresentação, mas vamos aguardar um encontro dos professores da PUC e um feedback de validação de toda a estrutura dos slides.
+
 - **`Evidências`**:
 
 26/05 - Pedido de ajuda no grupo de WhatsApp de todos os alunos do Eixo 3 - PUC:
