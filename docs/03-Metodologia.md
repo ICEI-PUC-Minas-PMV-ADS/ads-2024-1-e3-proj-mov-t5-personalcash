@@ -412,6 +412,11 @@ Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 05 d
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/5a7290c2-45c4-4893-bf78-aef9a7732fca)
 
+29/05 - Luiz e Caê mostraram o Dashboard do Render reafirmando as tentativas da hospedagem de toda a aplicação.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/dda0303e-937e-4093-b43d-941b2fdccbfc)
+
+
 # Ferramentas 
 
 | Ferramenta | Descrição | 
