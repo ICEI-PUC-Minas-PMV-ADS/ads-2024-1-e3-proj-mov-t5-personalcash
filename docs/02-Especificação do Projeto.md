@@ -262,7 +262,7 @@ Por isso, avaliações positivas são um forte indicativo da qualidade do aplica
 
 Como um último aspecto de desempenho na esfera da tecnologia, para manter a competitividade com o constante surgimento de novas aplicações, o aplicativo Personal Cash deve continuamente evoluir conforme as novas tendências de mercado do seu nicho de atuação. A implementação de funcionalidades como o acompanhamento de desempenho dos clientes com dashboards, programas de treino personalizados, integração direta com aplicações bancárias visando uma comodidade aos pagamentos dos treinos via PIX, por exemplo, pode proporcionar uma experiência ainda mais completa e atrativa para os Personal Trainers utilizarem a aplicação.
 
-### Conclusão
+## Conclusão
 
 O aplicativo Personal Cash tem um grande potencial para transformar a forma como Personal Trainers gerenciam suas atividades financeiras e toda a sua carteira de clientes. Monitorar e analisar os indicadores de desempenho apresentados, permitirá em um crescimento sustentável e melhorias contínuas no serviço oferecido pela aplicação. 
 
