@@ -391,12 +391,14 @@ Aguardamos o próximo encontro do dia 29 para pedir um auxílio bem pontual em r
 No encontro do dia 29, foi relatada toda a dificuldade que o grupo teve em relação à hospedagem do Projeto. O nosso orientador verificou que a questão da hospedagem no Render era apenas em relação ao Back-End da aplicação e não ela em sua totalidade. 
 
 Mas, devido todo o histórico de tentativas e à orientação que pode ter sido um pouco confusa em algum momento, não iremos ser penalizados por conta desse tópico relativo à hospedagem.
-
 Tinha ficado pendente o tópico 19 E - H: "Estruturar, aplicar e registrar testes de usabilidade e acessibilidade na aplicação", mas esse tópico foi feito e apresentado ao nosso orientador.
 
 Outro tópico em questão foi o de número 16 G - E : Relatório de Análise e Desempenho.
-
 Foi apresentado um esboço da nossa apresentação, mas vamos aguardar um encontro dos professores da PUC e um feedback de validação de toda a estrutura dos slides.
+
+Na reunião do dia 05/06, foram alinhados algumas dúvidas em relação a alguns tópicos do trabalho: Relatório de análise e desempenho, os slides finais da apresentação do projeto e a hospedagem em back-end da aplicação.
+
+Esses tópicos continuam no processo de elaboração.
 
 - **`Evidências`**:
 
