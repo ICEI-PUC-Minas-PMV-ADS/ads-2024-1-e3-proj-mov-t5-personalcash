@@ -225,6 +225,20 @@ Apresente aqui os principais indicadores de desempenho e algumas metas para o pr
 
 # Relatório de Análise e Desempenho do Processo de Negócio Proposto. (EM CONSTRUÇÃO)
 
+O aplicativo Personal Cash foi desenvolvido para atender às necessidades de profissionais de Educação Física que atuam como Personal Trainers autônomos e que buscam um controle financeiro e uma expansão da sua rede de clientes. Sua principal função é simplificar o controle da frequência e das datas dos treinos dos clientes, além de registrar e controlar os pagamentos dos treinos realizados. Este relatório apresenta uma análise dos indicadores de desempenho definidos para avaliar o sucesso e a eficácia do aplicativo no mercado.
+
+No que se refere ao 1º indicador abordado, o "Número de downloads do aplicativo", de uma forma prática, se em Julho de 2024 o aplicativo Personal Cash tiver, por exemplo, 1.000 downloads e em Agosto de 2024, 1.200 downloads, vai indicar um significativo aumento de 20% de um mês para o outro.  Esse crescimento contínuo pode indicar uma boa aceitação inicial e eficácia nas futuras campanhas de marketing diretamente no App store e Google Play.
+
+Já no 2º indicador descrito, o "Número de Personal trainers cadastrados" na aplicação, um crescimento natural no número de Personal Trainers cadastrados por mês sugere que o aplicativo está atraindo e retendo profissionais interessados em melhorar sua gestão financeira, além disso, para a equipe de desenvolvimento da aplicação Personal Cash, o banco de dados do aplicativo vai permitir que o armazenamento e a gestão organizada de dados continue sendo próspero por gerir enormes volumes de dados de modo a facilitar a organização, a manutenção e a pesquisa de dados, bem como outros tipos de operações processadas pela equipe.
+
+O 3º indicador é relacionado ao "Percentual de reclamações" dos usuários em relação ao aplicativo, o que representa um dado pertinente que vai medir de forma direta a experiência do usuário diretamente no seu cotidiano junto às funcionalidades da aplicação. Por exemplo,
+se houver um aumento nas reclamações sobre um possível erro na funcionalidade de adicionar clientes na plataforma, a equipe de desenvolvimento pode priorizar melhorias nessa área para aumentar de maneira eficaz a satisfação do usuário.
+
+O 4º indicador, o "Número de clientes cadastrados pelos Personal Trainers" já faz uma conexão importante com o indicador anterior, pois, se imaginarmos um contexto onde cada Personal Trainer cadastrado está adicionando em média 10 novos clientes por mês, isso indica que o aplicativo está ajudando eficazmente os treinadores a gerenciar e expandir sua rede de clientes, originando em aspectos importantes ao aplicativo como um produto mercadológico.
+
+No que se refere ao 5º e último indicador, a de "Avaliações Positivas dos Usuários", se o aplicativo recebe consistentemente avaliações de 4 e 5 estrelas na plataforma Apple Store e Google Play, isso indica uma alta satisfação dos usuários, o que pode ser usado para promover o aplicativo e atrair muito mais novos usuários para a aplicação.
+
+
 # Requisitos
 
 As tabelas seguintes apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto:
