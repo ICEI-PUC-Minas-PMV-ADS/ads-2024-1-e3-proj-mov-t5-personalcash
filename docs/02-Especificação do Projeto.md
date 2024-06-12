@@ -252,6 +252,8 @@ Analisando, um possível crescimento no número de downloads e de Personal Train
 
 O crescimento no número de clientes cadastrados pelos Personal Trainers é um sinal que pode ser bastante relevante ao aplicativo, uma vez que a aplicação está ajudando os profissionais a gerenciar melhor seu trabalho. Ferramentas adicionais em um futuro podem ser anexadas nas funções do app, como lembretes automáticos de sessões e pagamentos, ou integrações com outras plataformas bancárias podem tornar o aplicativo ainda mais valioso. Dessa forma, de maneira natural e orgânica, o Personal Cash pode ter uma expansão na sua base de clientes de uma forma muito significativa.
 
+Com essa provável expansão, consequentemente, a satisfação e a retenção de usuários a aplicação Personal Cash deve ser constantemente monitorada e tratada com seriedade, afinal, em um cenário onde as redes sociais são parte integral da vida de uma empresa, o percentual de reclamações é um ponto valioso para o sucesso de um negócio. Feedbacks negativos são oportunidades valiosas para melhorias, assim, os desenvolvedores da aplicação Personal Cash devem ser proativos e eficientes em resolver problemas e identificar causas raízes de problemas. Implementar correções e novas funcionalidades baseadas nos comentários dos usuários proporciona uma alta credibilidade com os usuários.
+
 
 # Requisitos
 
