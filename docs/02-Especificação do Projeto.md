@@ -242,6 +242,8 @@ O 4º indicador, o "Número de clientes cadastrados pelos Personal Trainers" já
 
 No que se refere ao 5º e último indicador, a de "Avaliações Positivas dos Usuários", se o aplicativo recebe consistentemente avaliações de 4 e 5 estrelas na plataforma Apple Store e Google Play, isso indica uma alta satisfação dos usuários, o que pode ser usado para promover o aplicativo e atrair muito mais novos usuários para a aplicação.
 
+## Análise Estratégica  do Processo de Negócio
+
 
 # Requisitos
 
