@@ -229,7 +229,7 @@ Apresente aqui os principais indicadores de desempenho e algumas metas para o pr
 
 O aplicativo Personal Cash foi desenvolvido para atender às necessidades de profissionais de Educação Física que atuam como Personal Trainers autônomos e que buscam um controle financeiro e uma expansão da sua rede de clientes. Sua principal função é simplificar o controle da frequência e das datas dos treinos dos clientes, além de registrar e controlar os pagamentos dos treinos realizados. Este relatório apresenta uma análise dos indicadores de desempenho definidos para avaliar o sucesso e a eficácia do aplicativo no mercado.
 
-## Os Indicadores na prática
+## Os cinco indicadores na prática
 
 No que se refere ao 1º indicador abordado, o "Número de downloads do aplicativo", de uma forma prática, se em Julho de 2024 o aplicativo Personal Cash tiver, por exemplo, 1.000 downloads e em Agosto de 2024, 1.200 downloads, vai indicar um significativo aumento de 20% de um mês para o outro.  Esse crescimento contínuo pode indicar uma boa aceitação inicial e eficácia nas futuras campanhas de marketing diretamente no App store e Google Play.
 
