@@ -203,23 +203,23 @@ https://modeler.cloud.camunda.io/share/84961991-0b74-4c42-bfd2-a543b17e552b
 
 Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
 
-# 1º Indicador: Número de downloads do aplicativo.
+## 1º Indicador: Número de downloads do aplicativo.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/f1531df0-cabe-46d2-9c63-d8e626c9951e)
 
-# 2º Indicador: Número de Personal Trainers cadastrados no aplicativo.
+## 2º Indicador: Número de Personal Trainers cadastrados no aplicativo.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/c3e95230-271a-4a12-a15f-0c0ff2cecf0e)
 
-# 3º Indicador: Percentual de Reclamações.
+## 3º Indicador: Percentual de Reclamações.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/8e719de1-219c-41a5-85f8-1c1c671e4404)
 
-# 4º Indicador: Número de clientes (Do Personal Trainer) cadastrados no app.
+## 4º Indicador: Número de clientes (Do Personal Trainer) cadastrados no app.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/45903960-0c3f-4450-906e-aff6e37c940d)
 
-# 5º Indicador: Avaliações positivas dos usuários sobre o aplicativo.
+## 5º Indicador: Avaliações positivas dos usuários sobre o aplicativo.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/d97966aa-0bec-4628-b370-f2671b568b06)
 
