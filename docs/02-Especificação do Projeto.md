@@ -225,7 +225,7 @@ Apresente aqui os principais indicadores de desempenho e algumas metas para o pr
 
 # Relatório de Análise e Desempenho do Processo de Negócio Proposto. 
 
-### Introdução 
+## Introdução 
 
 O aplicativo Personal Cash foi desenvolvido para atender às necessidades de profissionais de Educação Física que atuam como Personal Trainers autônomos e que buscam um controle financeiro e uma expansão da sua rede de clientes. Sua principal função é simplificar o controle da frequência e das datas dos treinos dos clientes, além de registrar e controlar os pagamentos dos treinos realizados. Este relatório apresenta uma análise dos indicadores de desempenho definidos para avaliar o sucesso e a eficácia do aplicativo no mercado.
 
