@@ -250,6 +250,8 @@ Ao mapear e otimizar os processos de negócio, as empresas podem identificar e e
 
 Analisando, um possível crescimento no número de downloads e de Personal Trainers cadastrados vai indicar que o aplicativo Personal Cash está sendo bem recebido no mercado. Para manter e aumentar esse crescimento, é essencial continuar investindo em estratégias de marketing digital, como SEO, publicidade paga e campanhas em redes sociais. Dessa maneira, a adoção e a popularidade da aplicação serão confirmadas por esse contexto quantitativo e em uma futura ação estratégica de investimentos.
 
+O crescimento no número de clientes cadastrados pelos Personal Trainers é um sinal que pode ser bastante relevante ao aplicativo, uma vez que a aplicação está ajudando os profissionais a gerenciar melhor seu trabalho. Ferramentas adicionais em um futuro podem ser anexadas nas funções do app, como lembretes automáticos de sessões e pagamentos, ou integrações com outras plataformas bancárias podem tornar o aplicativo ainda mais valioso. Dessa forma, de maneira natural e orgânica, o Personal Cash pode ter uma expansão na sua base de clientes de uma forma muito significativa.
+
 
 # Requisitos
 
