@@ -254,6 +254,10 @@ O crescimento no número de clientes cadastrados pelos Personal Trainers é um s
 
 Com essa provável expansão, consequentemente, a satisfação e a retenção de usuários a aplicação Personal Cash deve ser constantemente monitorada e tratada com seriedade, afinal, em um cenário onde as redes sociais são parte integral da vida de uma empresa, o percentual de reclamações é um ponto valioso para o sucesso de um negócio. Feedbacks negativos são oportunidades valiosas para melhorias, assim, os desenvolvedores da aplicação Personal Cash devem ser proativos e eficientes em resolver problemas e identificar causas raízes de problemas. Implementar correções e novas funcionalidades baseadas nos comentários dos usuários proporciona uma alta credibilidade com os usuários.
 
+Por isso, avaliações positivas são um forte indicativo da qualidade do aplicativo com o público. É importante incentivar os usuários satisfeitos a deixarem comentários e avaliações, oferecendo talvez algum incentivo, como futuramente na ascensão da plataforma Personal Cash, funcionalidades premium gratuitas por um período ou até mesmo o testemunhos de clientes no rodapé inicial da aplicação demonstrando a valorização da opinião daqueles usuários que utilizam diariamente o app.
+
+Como um último aspecto de desempenho na esfera da tecnologia, para manter a competitividade com o constante surgimento de novas aplicações, o aplicativo Personal Cash deve continuamente evoluir conforme as novas tendências de mercado do seu nicho de atuação. A implementação de funcionalidades como o acompanhamento de desempenho dos clientes com dashboards, programas de treino personalizados, integração direta com aplicações bancárias visando uma comodidade aos pagamentos dos treinos via PIX, por exemplo, pode proporcionar uma experiência ainda mais completa e atrativa para os Personal Trainers utilizarem a aplicação.
+
 
 # Requisitos
 
