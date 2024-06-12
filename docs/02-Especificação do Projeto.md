@@ -268,7 +268,6 @@ O aplicativo Personal Cash tem um grande potencial para transformar a forma como
 
 Com foco na satisfação do usuário e na inovação, o Personal Cash pode se estabelecer como uma ferramenta indispensável para um simples controle financeiro para profissionais de Educação Física autônomos.
 
-
 # Requisitos
 
 As tabelas seguintes apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto:
@@ -312,13 +311,11 @@ O projeto está restrito pelos itens apresentados na tabela a seguir:
 |05| A quarta etapa do projeto referente a continuidade do desenvolvimento da solução: desenvolvimento da aplicação móvel (parte 2) deverá ser entregue no dia 26/05/2024.        |
 |06| A quinta etapa do projeto referente ao diagnóstico, entrega da solução e apresentação deverá ser no dia 23/06/2024. |
        
-
 # Diagrama de Casos de Uso
 
 Um caso de uso delineia as interações entre os atores e o sistema mediante um diálogo que se estabelece entre eles. Dessa forma, logo abaixo segue o Diagrama de caso de uso da aplicação Personal Cash:. 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/128739177/1ce29ec4-dc88-4ae1-868b-1d70f8dade1f)
-
 
 # Matriz de Rastreabilidade 
 
@@ -337,7 +334,6 @@ Dessa forma, quando uma linha se encontra com uma coluna, é assinalada com um "
 Assim, se houver um "X" na interseção entre a linha "RNF-001" e a coluna "RF-001", isso indica que o Requisito Não Funcional "RNF-001" (Permitir o cadastro do usuário: Personal Trainner.) impacta o Requisito Funcional "RF-001" (Usabilidade: A aplicação deve ser de fácil de usar e intuitiva, com interface amigável e boa experiência do usuário).
 
 Para os Casos de Teste implementados nesta matriz, o sistema opera da mesma forma, com a presença de "X" marcando a interseção entre um Requisito Não Funcional ou Funcional.
-
 
 # Gerenciamento de Projeto  
 
@@ -366,7 +362,6 @@ Abaixo segue o diagrama de Gantt aplicado ao Projeto Personal Cash:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/ef2d9f18-231e-4396-8218-692439e64d97)
 
-
 ## Gerenciamento de Equipe  
 
 Assegurar um gerenciamento eficaz de tarefas é essencial para impulsionar a produtividade do projeto. 
@@ -376,7 +371,6 @@ Portanto, é crucial realizar uma gestão adequada tanto das tarefas quanto das 
 Abaixo segue o diagrama de gerenciamento da equipe aplicado ao Projeto Personal Cash:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/290b345d-eab0-430d-90f0-e9b412601727)
-
 
 ## Gestão de Orçamento 
 
