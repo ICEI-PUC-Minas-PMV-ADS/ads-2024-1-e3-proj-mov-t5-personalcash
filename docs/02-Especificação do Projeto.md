@@ -229,7 +229,7 @@ Apresente aqui os principais indicadores de desempenho e algumas metas para o pr
 
 O aplicativo Personal Cash foi desenvolvido para atender às necessidades de profissionais de Educação Física que atuam como Personal Trainers autônomos e que buscam um controle financeiro e uma expansão da sua rede de clientes. Sua principal função é simplificar o controle da frequência e das datas dos treinos dos clientes, além de registrar e controlar os pagamentos dos treinos realizados. Este relatório apresenta uma análise dos indicadores de desempenho definidos para avaliar o sucesso e a eficácia do aplicativo no mercado.
 
-## Personal Cash: Os cinco indicadores na prática
+## Personal Cash: Os cinco indicadores de desempenho na prática
 
 Os indicadores de desempenho são ferramentas essenciais na gestão empresarial, pois fornecem métricas quantificáveis que ajudam a avaliar a eficiência e a eficácia dos processos de um negócio. Eles permitem identificar pontos fortes e fracos, monitorar o progresso em relação aos objetivos estratégicos e tomar decisões informadas para melhorias contínuas. 
 
