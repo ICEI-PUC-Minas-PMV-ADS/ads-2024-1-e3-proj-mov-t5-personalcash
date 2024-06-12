@@ -242,7 +242,7 @@ O 4º indicador, o "Número de clientes cadastrados pelos Personal Trainers" já
 
 No que se refere ao 5º e último indicador, a de "Avaliações Positivas dos Usuários", se o aplicativo recebe consistentemente avaliações de 4 e 5 estrelas na plataforma Apple Store e Google Play, isso indica uma alta satisfação dos usuários, o que pode ser usado para promover o aplicativo e atrair muito mais novos usuários para a aplicação.
 
-## Personal Cash: Análise Estratégica e Desempenho do Processo de Negócio ( Em construção)
+## Personal Cash: Análise Estratégica e Desempenho do Processo de Negócio 
 
 Os processos de negócio são fundamentais para a organização e o sucesso de qualquer empresa, eles representam a sequência estruturada de atividades ou tarefas necessárias para produzir um serviço ou produto específico. A importância de um processo de negócio bem definido reside em sua capacidade de aumentar a eficiência, melhorar a qualidade e garantir a consistência nas operações. 
 
