@@ -418,11 +418,16 @@ Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 05 d
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/dda0303e-937e-4093-b43d-941b2fdccbfc)
 
-12/06 - Problemas para solucionar um erro Rungradlew, gerado na questão da hospedagem e na geração do apk.
+12/06 - Problemas para solucionar um erro Rungradlew, gerado na questão da hospedagem e na geração do apk:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/18dcda50-571f-4f31-8766-8acfc28e99e1)
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/34ef1c5f-f1ab-4075-b16a-5274a1a4ff24)
+
+12/06 - Problemas no package.json:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/4334ce82-1f33-408f-aa2f-cbe3280d5724)
+
 
 
 
