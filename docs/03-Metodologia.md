@@ -428,6 +428,11 @@ Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 05 d
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/4334ce82-1f33-408f-aa2f-cbe3280d5724)
 
+12/06 - Erro Datetimepicker:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/cbaeef4d-9a47-483b-ac4a-9aeb4d728703)
+
+
 
 
 
