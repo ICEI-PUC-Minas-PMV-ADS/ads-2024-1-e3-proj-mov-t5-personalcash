@@ -397,8 +397,14 @@ Outro tópico em questão foi o de número 16 G - E : Relatório de Análise e D
 Foi apresentado um esboço da nossa apresentação, mas vamos aguardar um encontro dos professores da PUC e um feedback de validação de toda a estrutura dos slides.
 
 Na reunião do dia 05/06, foram alinhados algumas dúvidas em relação a alguns tópicos do trabalho: Relatório de análise e desempenho, os slides finais da apresentação do projeto e a hospedagem em back-end da aplicação.
-
 Esses tópicos continuam no processo de elaboração.
+
+No encontro do dia 12/06 foi abordado alguns erros que estamos encontrando na questão da hospedagem do nosso projeto:
+1) Problemas para solucionar um erro Rungradlew, gerado na questão da hospedagem e na geração do apk;
+2) Problemas no package.json;
+3) Erro Datetimepicker.
+
+Fomos orientados a seguir outras diretrizes práticas expostas pelo nosso orientador. Em relação aos slides da apresentação, os mesmos já estão sendo refinados para seguir os requisitos teóricos e práticos da última etapa do trabalho.
 
 - **`Evidências`**:
 
