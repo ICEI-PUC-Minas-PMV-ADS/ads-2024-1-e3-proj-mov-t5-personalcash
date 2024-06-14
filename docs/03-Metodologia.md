@@ -424,6 +424,8 @@ Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 05 d
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/34ef1c5f-f1ab-4075-b16a-5274a1a4ff24)
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/27a4e48a-b9df-4cba-b794-787a10d8839d)
+
 12/06 - Problemas no package.json:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/4334ce82-1f33-408f-aa2f-cbe3280d5724)
