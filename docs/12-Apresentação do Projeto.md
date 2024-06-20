@@ -1,4 +1,4 @@
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/09a5a9dd-94f8-4146-b283-2f55689b5a47)# Apresentação
+# Apresentação Projeto App Personal Cash
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/1a71b4d6-1d34-472b-a77f-56c6f82c8a88)
 
