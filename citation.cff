@@ -1,0 +1,22 @@
+message: Please cite this software using these metadata.
+title: Personal Cash
+authors:
+  - family-names: Moreira Euphrásio
+    given-names: Caê
+  - family-names: Dutra De Aguiar
+    given-names: Daniel
+  - family-names: Amâncio Da Silva
+    given-names: Diogo
+  - family-names: Felipe Sena Costa
+    given-names: Luiz
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: de Macêdo Neto
+    given-names: Cristiano
+keywords:
+  - Personal trainer
+  - Gestão financeira
+  - Educação física
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash
+version: 1.0.0
+date-released: 2023-06-23
