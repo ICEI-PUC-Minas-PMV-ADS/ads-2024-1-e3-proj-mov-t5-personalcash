@@ -442,6 +442,11 @@ Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 05 d
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/cbaeef4d-9a47-483b-ac4a-9aeb4d728703)
 
+Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 04 do trabalho no dia 20/06/2024:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/06cadd2a-7691-4c23-9925-2c55afc2b25e)
+
+
 # Ferramentas 
 
 | Ferramenta | Descrição | 
