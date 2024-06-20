@@ -28,5 +28,7 @@
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/6b24e0d3-436e-49ad-823b-e06bb7c7ba7f)
 
+Apresentação Vídeo: Projeto App Personal Cash / Funcionalidades
+
 
 
