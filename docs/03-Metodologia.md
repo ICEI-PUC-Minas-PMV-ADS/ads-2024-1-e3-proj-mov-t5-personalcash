@@ -406,6 +406,8 @@ No encontro do dia 12/06 foi abordado alguns erros que estamos encontrando na qu
 
 Fomos orientados a seguir outras diretrizes práticas expostas pelo nosso orientador. Em relação aos slides da apresentação, os mesmos já estão sendo refinados para seguir os requisitos teóricos e práticos da última etapa do trabalho.
 
+No último encontro, do dia 19, foram alinhados apenas alguns refinamentos relacionados aos slides e algumas orientações de como proceder na gravação dos vídeos finais do projeto.
+
 - **`Evidências`**:
 
 26/05 - Pedido de ajuda no grupo de WhatsApp de todos os alunos do Eixo 3 - PUC:
@@ -439,11 +441,6 @@ Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 05 d
 12/06 - Erro Datetimepicker:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/cbaeef4d-9a47-483b-ac4a-9aeb4d728703)
-
-
-
-
-
 
 # Ferramentas 
 
