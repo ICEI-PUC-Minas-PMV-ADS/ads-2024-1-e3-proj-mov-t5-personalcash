@@ -408,6 +408,15 @@ Fomos orientados a seguir outras diretrizes práticas expostas pelo nosso orient
 
 No último encontro, do dia 19, foram alinhados apenas alguns refinamentos relacionados aos slides e algumas orientações de como proceder na gravação dos vídeos finais do projeto.
 
+Sexta-feira, dia 21/06 o Caê teve um retorno do nosso orientador, onde foi aprovado o vídeo da nossa apresentação em PDF.  A apresentação da parte teórica e conceitual foi gravada e encaminhada diretamente via Teams.
+
+O Caê tentou fazer a hospedagem e gerar um arquivo (.apk) do nosso projeto, mas não tivemos sucesso para solucionar o nosso problema.
+
+Realizamos inúmeras tentativas e vários exemplos de como solucionar.
+Esse é a mensagem de erro:
+
+**"Error: Gradle build failed with unknown error. See logs for the "Run gradlew" phase for more information."**
+
 - **`Evidências`**:
 
 26/05 - Pedido de ajuda no grupo de WhatsApp de todos os alunos do Eixo 3 - PUC:
