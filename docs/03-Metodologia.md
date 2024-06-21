@@ -411,7 +411,6 @@ No último encontro, do dia 19, foram alinhados apenas alguns refinamentos relac
 Sexta-feira, dia 21/06 o Caê teve um retorno do nosso orientador, onde foi aprovado o vídeo da nossa apresentação em PDF.  A apresentação da parte teórica e conceitual foi gravada e encaminhada diretamente via Teams.
 
 O Caê tentou fazer a hospedagem e gerar um arquivo (.apk) do nosso projeto, mas não tivemos sucesso para solucionar o nosso problema.
-
 Realizamos inúmeras tentativas e vários exemplos de como solucionar.
 Esse é a mensagem de erro:
 
