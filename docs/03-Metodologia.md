@@ -64,7 +64,7 @@ Para a organização e distribuição das tarefas do projeto, o grupo esta utili
 - `In progress`: Lista das tarefas iniciadas.
 - `Done`: Nesta lista são colocadas as tarefas finalizadas e as que passaram pelos testes e controle de qualidade.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-personalcash/assets/126628545/ef35efad-f571-44b0-a9d4-3cdecd8a49f3)
+![image](https://github.com/user-attachments/assets/89c50ba2-7dd7-4a76-84b2-9801df039825)
 
 **Foto ilustrativa do board do nosso Projeto, link:**
 https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/867/views/1
